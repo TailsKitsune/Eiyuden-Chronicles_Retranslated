@@ -1,0 +1,250 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "GuildDispatchTalk_ch_00970_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 4360171667186973184
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (28 items)
+   0 int size = 28
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4168404992
+     1 string m_Localized = "動物たちのお世話ね。\n新鮮なミルクや卵のためには大事な仕事よね。\nみんな、はりきっていきましょう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4176793600
+     1 string m_Localized = "美味しそうな卵ね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4176793601
+     1 string m_Localized = "木材を集めてくればいいのね。\n料理を作るための薪もいるわけだし\n頑張って、採ってくるわね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4176793602
+     1 string m_Localized = "木の実もあるわね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987904
+     1 string m_Localized = "石材を探すお仕事ね。\n石はかまどを作るためにも必要だものね。\nよーし、頑張っていくわよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987905
+     1 string m_Localized = "ついでに食材も……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987906
+     1 string m_Localized = "魔物が入ってくるかもなんて思ってたら\n安心してごはんが食べられないものね。\n任せて、やっつけてくるわ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987907
+     1 string m_Localized = "私が料理してあげる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987908
+     1 string m_Localized = "お出かけの準備はできてるわ。\nお弁当もばっちり。\nさあ、みんな、行きましょうか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987909
+     1 string m_Localized = "これ、食べる？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987910
+     1 string m_Localized = "料理人として、しっかり食材を確保してくるわ。\nもちろん、その後の料理も任せてね。\n美味しいもの、作ってあげる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987911
+     1 string m_Localized = "これはいいものね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987912
+     1 string m_Localized = "お出かけの準備はできてるわ。\nお弁当もばっちり。\nさあ、みんな、行きましょうか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987913
+     1 string m_Localized = "これ、食べる？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987914
+     1 string m_Localized = "お出かけの準備はできてるわ。\nお弁当もばっちり。\nさあ、みんな、行きましょうか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987915
+     1 string m_Localized = "これ、食べる？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987916
+     1 string m_Localized = "料理人として、しっかり食材を確保してくるわ。\nもちろん、その後の料理も任せてね。\n美味しいもの、作ってあげる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987917
+     1 string m_Localized = "これはいいものね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987918
+     1 string m_Localized = "料理人として、しっかり食材を確保してくるわ。\nもちろん、その後の料理も任せてね。\n美味しいもの、作ってあげる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987919
+     1 string m_Localized = "これはいいものね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987920
+     1 string m_Localized = "お出かけの準備はできてるわ。\nお弁当もばっちり。\nさあ、みんな、行きましょうか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987921
+     1 string m_Localized = "これ、食べる？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987922
+     1 string m_Localized = "昔は一緒にお店をやってたんだもの。\nここは、もちろん、私の出番よね。\nさあ、張り切って売るわよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987923
+     1 string m_Localized = "食べてちょうだい！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987924
+     1 string m_Localized = "お出かけの準備はできてるわ。\nお弁当もばっちり。\nさあ、みんな、行きましょうか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4180987925
+     1 string m_Localized = "これ、食べる？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4185182208
+     1 string m_Localized = "えっ、げ、劇場のお手伝い？\nど、どうしましょう……ドキドキしちゃうわ。\n私、頑張るわね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4185182209
+     1 string m_Localized = "いかがかしら？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

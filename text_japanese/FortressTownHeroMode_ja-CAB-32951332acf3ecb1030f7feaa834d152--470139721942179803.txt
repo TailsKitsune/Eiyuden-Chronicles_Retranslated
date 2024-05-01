@@ -1,0 +1,258 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "FortressTownHeroMode_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 1811022259671753032
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (29 items)
+   0 int size = 29
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1697705984
+     1 string m_Localized = "英雄の試練場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288896
+     1 string m_Localized = "ノーマルモード"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288897
+     1 string m_Localized = "エンドレスモード"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288898
+     1 string m_Localized = "最初から"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288899
+     1 string m_Localized = "続きから"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288900
+     1 string m_Localized = "進行状況はリセットされますがよろしいですか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288902
+     1 string m_Localized = "まだ何か用かい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288903
+     1 string m_Localized = "最初から？続きから？\nどっちにする……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288904
+     1 string m_Localized = "階層クリア……ヒヒヒ……\n主さまより贈りものがあるわ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288906
+     1 string m_Localized = "ヒヒッ……惜しかったわね……\nまた、挑戦したくなったらいらっしゃい……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288907
+     1 string m_Localized = "また、挑戦したくなったらいらっしゃい……\nヒヒヒ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288908
+     1 string m_Localized = "素晴らしいわ……流石は英雄ね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288909
+     1 string m_Localized = "ヒヒッ……素晴らしい！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288910
+     1 string m_Localized = "異次元の力は強大すぎるわ……\nまた、いらっしゃい……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288911
+     1 string m_Localized = "26階層クリア……ヒヒヒ……\n素晴らしい……主さまもお喜びしてたわ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288912
+     1 string m_Localized = "最高スコア更新……\nヒヒヒ……どこまでいけるかしらね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 1710288913
+     1 string m_Localized = "また、先へ進めた……ヒヒヒ……\n主さまをどこまで楽しませてくれるかしらね？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 7996622518054912
+     1 string m_Localized = "ヒヒヒ……何か用？\n私は主様からの啓示で忙しいから\nもう行くわよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 9333237590585344
+     1 string m_Localized = "存分に楽しんでいらっしゃい……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 9333237607362560
+     1 string m_Localized = "存分に楽しんでいらっしゃい……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824007835648
+     1 string m_Localized = "ヒヒヒ……\nあなたも一緒に主様へのお祈りはどうかしら？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972992
+     1 string m_Localized = "私が普段なにをしているか気になるの？\n主様のことで第一に行動しているわ。\nそれ以外なんてありえないわ……ヒヒヒ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972993
+     1 string m_Localized = "賑わいは……別に嫌いじゃないわ。\n前までの私だったら近寄ろうともしなかったけど、\nなんだかおかしいわね……ヒヒヒ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972994
+     1 string m_Localized = "浮かれてるわね。\nもっと厳しい戦いを経験しましょう……ヒヒ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972995
+     1 string m_Localized = "……はぁ、もっと成長しなさい。\n油断してると死んじゃうわよ……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972996
+     1 string m_Localized = "異次元の間で、少しは自信ついたの？\nヒヒ……でもダメ。\n油断しちゃダメよ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972997
+     1 string m_Localized = "……死者は異次元でも帰ってこれないの。\n……だから、死んだらダメよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972998
+     1 string m_Localized = "ヒヒ……！　ここでの成果を、\n存分にぶつけてくるといいわ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44779824053972999
+     1 string m_Localized = "異次元の間はいつでも開いてるわ。\nあなたを試すのは、いつでも出来るのよ……ヒヒヒ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

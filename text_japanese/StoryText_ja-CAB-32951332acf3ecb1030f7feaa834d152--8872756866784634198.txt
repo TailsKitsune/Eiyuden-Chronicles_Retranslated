@@ -1,0 +1,986 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "StoryText_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 4622725224201029464
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (120 items)
+   0 int size = 120
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3476344832
+     1 string m_Localized = "初任務"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733440
+     1 string m_Localized = "遺跡を目指して"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733441
+     1 string m_Localized = "ルーン遺跡を探れ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733442
+     1 string m_Localized = "あれから"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733443
+     1 string m_Localized = "警備隊隊長代理の初仕事"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733444
+     1 string m_Localized = "賊を退治せよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733445
+     1 string m_Localized = "坑道調査"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733446
+     1 string m_Localized = "賊の正体"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733447
+     1 string m_Localized = "故郷を目指して"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733448
+     1 string m_Localized = "燃える故郷"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733449
+     1 string m_Localized = "潜入！帝国の動きを探れ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733450
+     1 string m_Localized = "エルティスワイス防衛戦"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733451
+     1 string m_Localized = "敗戦"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733452
+     1 string m_Localized = "それぞれの道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733453
+     1 string m_Localized = "同盟軍、旗揚げ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733454
+     1 string m_Localized = "見知らぬ村のとある出来事"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733455
+     1 string m_Localized = "ツリーフォークの住む村"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733456
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927744
+     1 string m_Localized = "水の国、ユークリス"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927745
+     1 string m_Localized = "ユークリス王の憂鬱"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927746
+     1 string m_Localized = "ハーランの悪巧みを暴け！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927747
+     1 string m_Localized = "正しい選択とは"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927748
+     1 string m_Localized = "ハイシャーン防衛戦"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927749
+     1 string m_Localized = "皇帝、暗殺される"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927750
+     1 string m_Localized = "新勢力"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927751
+     1 string m_Localized = "砂漠を越えて"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927752
+     1 string m_Localized = "シャークシップを乗りこなせ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927753
+     1 string m_Localized = "鱗の一枚となろう"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927754
+     1 string m_Localized = "アジトへ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927755
+     1 string m_Localized = "魔導レンズ研究所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927756
+     1 string m_Localized = "許されぬ研究"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927757
+     1 string m_Localized = "ケースリング家"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927758
+     1 string m_Localized = "再集結"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927759
+     1 string m_Localized = "西の大国ノールスターへ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927760
+     1 string m_Localized = "急襲"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927761
+     1 string m_Localized = "雪の国にて"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927762
+     1 string m_Localized = "迫りくる危機"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927763
+     1 string m_Localized = "アンデッド軍団、再び"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927764
+     1 string m_Localized = "ヤールナーン落つ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927765
+     1 string m_Localized = "諸国王、集結"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927766
+     1 string m_Localized = "秘策"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927767
+     1 string m_Localized = "帝国の脅威"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927768
+     1 string m_Localized = "アスラバート防衛戦"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927769
+     1 string m_Localized = "将軍の覚悟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927770
+     1 string m_Localized = "帰還"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927771
+     1 string m_Localized = "進むべき道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927772
+     1 string m_Localized = "再起を図る"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927773
+     1 string m_Localized = "意外な協力者？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927774
+     1 string m_Localized = "バーガンディア城、攻略！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927775
+     1 string m_Localized = "決戦前夜"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927776
+     1 string m_Localized = "決戦！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927777
+     1 string m_Localized = "勝利宣言"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927778
+     1 string m_Localized = "快進撃"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927779
+     1 string m_Localized = "エルティスワイス奪還作戦"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927780
+     1 string m_Localized = "最後の大号令"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927781
+     1 string m_Localized = "ガルドヘヴン城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927782
+     1 string m_Localized = "対決！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927783
+     1 string m_Localized = "崩壊する野望"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927784
+     1 string m_Localized = "英雄たち"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122048
+     1 string m_Localized = "辺境の警備隊に参加することになり、\nガオウ、リャン、ミオと合流したノア。\n任務の詳細を聞くために、帝国士官へ会いにいく。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122049
+     1 string m_Localized = "帝国士官のセイ、ヒルディと共に、\n発見の報告があった遺跡の正確な場所を調べることに。\n一行は北の森へとむかう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122050
+     1 string m_Localized = "霧の森を抜けて、なんとか遺跡にたどり着いたが、\nそこは謎の仕掛けがほどこされた、危険な場所であった。\nノアたちは、遺跡の調査を慎重に始める。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122051
+     1 string m_Localized = "ルーン遺跡調査から半年が過ぎた。\nノアも警備隊の仕事に慣れ、リャン、ガオウと共に\n忙しい日々を続けていた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122052
+     1 string m_Localized = "ガオウから、小隊長代理になるよう持ち掛けられたノア。\nユーミルからは、小隊長代理の仕事として\n新たな警備隊の人材確保の仕事を任される。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122053
+     1 string m_Localized = "小隊長代理としての初任務を終えたノアに次の任務が与えられる。\nそれは、西方のオルトフェルデン村付近で出没している賊の退治だった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122054
+     1 string m_Localized = "村人たちの情報では、賊は三人組のひげ面だったり、フードを被っていたり、\nピンクの裾が長い服を着ていたり、と様々であった。\n真相を確かめに、南西にある古びた坑道へ調査に向かう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122055
+     1 string m_Localized = "坑道を抜けた先には廃城があり、そこでコゲン一味と戦いになる。\nだが、コゲンらの話では帝国領近くの村から追い出された子供たちに\n野菜を盗んでいただけだった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122056
+     1 string m_Localized = "クシリ村へ賊調査の任務を請けたノアは、帰郷も兼ねてガオウらと向かう。\n一方、エルティスワイスでは帝国からの使者が訪れていた。\n物騒な報告も増えており、何かが裏で、確実に蠢き始めていた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122057
+     1 string m_Localized = "ヒュースバインらの手によって炎に包まれるクシリ村。\nセイたちの手助けもあり村の人々は無事であったが、帝国側では警備隊が\n賊扱いされているようだ。ノアはエルティスワイスへ報告に戻る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122058
+     1 string m_Localized = "ペリエールより帝国軍が侵攻を企てているのではないかと聞かされたノア。\n不穏な空気が流れる中、ウォルム村が何者かに占拠されたと急報が届く。\nノアは相手部隊の規模の調査のため、ウォルム村へ潜入する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122059
+     1 string m_Localized = "ノアが持ち帰った情報をもとに、防衛戦を決意するペリエール。\nユークリスからの援軍が頼りだが、確実なものとは言えなかった。\nぺリエールはノアにも一部隊を任せるよう伝える。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122060
+     1 string m_Localized = "帝国軍の侵攻からエルティスワイスを守るため善戦するも、\nオルドリック公爵率いる大部隊の突然の出現により、士気を砕かれ、\n退却を余儀なくされるエルティスワイス軍であった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122061
+     1 string m_Localized = "ペリエールから、万が一の場合は抵抗の軍を起こして欲しいと頼まれたノア。\n街から脱出の途上、ノアの前に立ちはだかったのはセイだった。\n激しい一騎打ちの末、なんとかその場を切り抜けるのに成功する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122062
+     1 string m_Localized = "ペリエールとの約束通り、抵抗の軍の旗揚げを伝えたノア。\nボロボロの廃墟を根城とするべく、総出で復旧作業に明け暮れていたが、\nまだまだ人手が足りないようだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122063
+     1 string m_Localized = "大変なことが起こっている、らしい。\nメリサは長老たちのもとへ急ぐ。\nその渦中の「あの子」とは「ラッキーガール」が口癖の……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122064
+     1 string m_Localized = "本拠街に迷い込んできたモンスターは、ツリーフォークと呼ばれる種族だった。\n村へ戻りたいキャルラトーラのため、ノアも同行することに。\n南東にある森の隠れ道からキャルラトーラ達の住む村へ行けるらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122065
+     1 string m_Localized = "村で古老様が襲われ、緑光の証のルーンを奪われた事を聞くノアたち。\nガーディアン、メリサたちと共に賊を追って試練の儀式の場へ急ぐ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122066
+     1 string m_Localized = "見事ヒュースバインを捕らえたノアたち。\nサビーネより、ペリエールの無事と、力を貸してほしいという伝言を受け取る。\n大樹林を南へ越えた先にあるユークリスへ、サビーネ、リャンと共に向かう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122067
+     1 string m_Localized = "ユークリスの首都、ハイシャーンに到着したノア。\nペリエールとの再会を果たし、ユークリス王ユンマとの謁見を果たすも、\nユンマは帝国との戦争にしり込みしている。何か策はないものか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122068
+     1 string m_Localized = "ユークリスの文官、マールリッジからハーランに関する情報を得たノアたち。\n怪しいとされる屋敷は警備も厳重だが、\n南東にある水没した旧市街からなら侵入ができるようだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122069
+     1 string m_Localized = "裏切りの証拠をつきつけられ、降伏を主張するハーランは失脚した。\nだがそれでも、ユークリス王ユンマはいまだ決心ができずにいた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122070
+     1 string m_Localized = "ついにユンマは精一杯の勇気と共に決断をする。\nそれは、王権をカシウスとマールリッジに委譲する事だった。\nそして帝国と敵対し国を守る戦いに臨むことを宣言し、防衛戦を展開する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122071
+     1 string m_Localized = "セイたちの協力もあり、見事帝国軍を退けることに成功する。\nだがその裏では、帝国の皇帝が暗殺されるという衝撃の事件が起こっていた。\nオルドリックの謀略が渦巻く中、同盟軍は次の一手を打つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122072
+     1 string m_Localized = "正式に同盟軍のリーダーとなったノア。マールリッジやセイ達も正式に\n同盟軍に加入し勢力を増す。ノアはさらなる仲間を求めて東の砂漠を越えた\nシャークマンの街へ、セイは帝国領で情報取集と妨害工作の任務を負う。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122073
+     1 string m_Localized = "シャークシップで大砂海を越え、インペリシャークへたどり着いたノア。\n群れ長に会い、帝国との戦いに力を貸してくれるよう伝えなくてはいけないが、\n果たして彼らの反応は。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122074
+     1 string m_Localized = "シャークマンの協力を得る条件は「誉ある戦士」であることが証明する事。\nそしてそれは、大砂海名物「シャークシップレース」に挑戦して\nそれなりの結果を残すことだと聞き、さっそく会場へと向かう事にする。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122075
+     1 string m_Localized = "シャークマンの同盟軍参加の約束を取り付けたノア。\n強力な戦士たちを味方につけ、一行は本拠街へと引き返す。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122076
+     1 string m_Localized = "帝国の都市アルディナールに戻ったセイたち。\n先行して潜入しているバレンタインに会うため\nダウンタウン地区にあるというアジトへ向かう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122077
+     1 string m_Localized = "バレンタイン、ポールと無事合流できたセイ。そこでヤエルらから\nオルドリックの魔導レンズ研究所に、ヤエルの家族、村人が連行されている事を\n聞く。公爵の狙いは何か、調査が必要だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122078
+     1 string m_Localized = "魔導レンズ研究所に足を踏み入れたセイたち。そこで彼らが目にしたのは、\n原初のレンズのために、人の命をももてあそぶオルドリックの姿だった。\nオルドリックに圧倒されるセイだったが、間一髪で危機を免れる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122079
+     1 string m_Localized = "研究所からの脱出に何とか成功したが、彼らが対峙したモンスターには、\n魔導レンズが埋め込まれ、すでに研究がかなり進んでいることが判明した。\nセイは父に全てを伝え、正しくあるために家族と決別をする。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122080
+     1 string m_Localized = "それぞれの任務を終え、本拠街に帰還したノアとセイ。\n来るべき帝国との戦いに備え、さらなる情報収集と準備を進めるため\n奔走する事になる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122081
+     1 string m_Localized = "帝国の次の狙いは、三大国の一つ、ノールスターであることを、\nメリサ達がノアに知らせる。さらに「帝国軍以外の存在」がある事も。\nまずは情報を集めるべく、ノアたちはノールスターへと向かうことになった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122082
+     1 string m_Localized = "突如現れたスケルトンの王を称するマーカス。帝国軍以外の存在とは\n彼らのことであったのか？ノアらはこれを撃退し、ノールスターを目指す。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122083
+     1 string m_Localized = "帝国軍の侵攻に備えて、静観を決めこむ国王サラスであったが、\n辺境の村で子供が行方不明になった事が伝えられる。動けないノールスター軍の\n代わりに、ノアたちが村へと救援に向かう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122084
+     1 string m_Localized = "子供たちの救出に成功しアスラバートに戻るが、今度はヤールナーンに\n再度危機が迫っていた。しかし、サラス・バーラントは動かない。\nノアたちは急ぎ、ヤールナーンへ戻る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122085
+     1 string m_Localized = "アンデッドの大群を前に、ヤールナーンを棄てて逃げるという\n苦渋の決断をするメリサたち。\n村人たちが逃げ切るまでの時間を稼ぐため、アンデッド軍団に立ち向かう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122086
+     1 string m_Localized = "アンデッドに奪われたヤール―ナーンを取り戻すことを誓い、\nアスラバートまで引き返したノアたち。\n街に着くとマキシムが出迎え、会議が始まることを伝える。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122087
+     1 string m_Localized = "アスラバート王城に、ノールスター王、ユークリス王、キーナーン王、\nガーディアン長老らのメンバーが揃う。それぞれの思惑が絡み合う中、\nマールリッジが帝国軍の足止め策を提案する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122088
+     1 string m_Localized = "マールリッジの足止め策とは、雪山峠の三か所に爆弾を仕掛け、\n同時に爆発させて雪崩を起こし、道を塞ぎ侵攻を妨害することだった。\nノア、セイ、メリサは三手に別れて、それぞれの爆弾設置個所へと向かう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122089
+     1 string m_Localized = "雪山峠の足止め作戦に成功したノアたちだったが、オルドリックは妨害を\n予見していた。帝国軍は、わずか数日の遅れで峠を越えて出現。\nキーナーンからの援軍到着を待たず、ノールスターは決戦に臨む事になる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122090
+     1 string m_Localized = "帝国軍を相手に善戦するノールスター軍と同盟軍であったが、オルドリックの\n登場とキーナーンの裏切りが勝敗を決めた。迫り来る軍勢を前に我先にと\n脱出したサラス。残された市民を護るため、ノアたちは残留を決意する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122091
+     1 string m_Localized = "市門を解放して市民を逃し、ノアたちも脱出を始めるが、\n逃亡を助けるため、エレクトラ、マキシムらは街に残る事を決意する。\n葛藤するノアだったが、ガオウに諭され、東の港町トゥーノーズを目指す。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122092
+     1 string m_Localized = "帝国とキーナーンの追撃に加え、オルドリックの策により船をすべて破壊され、\n絶体絶命のノアたちだったが、間一髪、ユイリンとスキッド率いるシャークマン\nたちの船団が到着。窮地を脱し、立て直しのため本拠街へと戻った。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122093
+     1 string m_Localized = "ハイシャーンまでもが帝国の手に落ちたことを知るノアたち。\n帝国軍、キーナーン軍、アンデッド軍と巨大な勢力に対し、\n同盟軍は戦えるのか？だが、ノアの目はまっすぐ前を見ていた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122094
+     1 string m_Localized = "勝算は限りなく低い、だが無理ではない。そう言ったマールリッジの策のもと、\n各地の小勢力を味方につけるべく、各々に任務を与える。\n新しい仲間を求めて、ノアも各地をまわるのだった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122095
+     1 string m_Localized = "戦いの準備を進める同盟軍、そこにスケルトンの王マーカスが現れる。\n彼はアンデッドを率いるデェイラードを倒すため共闘を提案する。\nアンデッドを倒す、その任はメリサに託された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316352
+     1 string m_Localized = "デェイラードを一騎打ちの末打ち破ったメリサ。これで帝国の戦力の一端を\n削る事が出来る。更にエルフの軍団や諸国連合周辺の独立勢力なども同盟軍に\n加わり、帝国と戦う準備が次第に整いつつあった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316353
+     1 string m_Localized = "帝国との決戦、その前夜。\nノアは、これまで共に戦ってきた仲間たちと想いを\n交わし合う。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316354
+     1 string m_Localized = "ついに決戦の日が来た。\n同盟軍は乾坤一擲の策に出る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316355
+     1 string m_Localized = "多くの者たちの想いを結集し、ついに帝国軍をやぶった\n同盟軍の面々。\nノアは皆の前で勝利宣言を行うことに。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316356
+     1 string m_Localized = "帝国との決戦の後、同盟軍の快進撃は続き\n各地で戦果を挙げ、多くの領土を取り戻していた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316357
+     1 string m_Localized = "帝国の混乱に乗じて\nマールリッジはエルティスワイス奪還作戦を提案する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316358
+     1 string m_Localized = "シャペル率いる軍を破り、エルティスワイスを取り戻すことに成功し、\n勢いをそのままにオルドリック公爵領へと進撃する事となった。\nノアは最後の号令を全軍にむけてかけるのだった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316359
+     1 string m_Localized = "激しい戦闘の末、オルドリックをその居城まで追い詰めたノアたち。\nついに、この戦争の終結の時が近づいていた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316360
+     1 string m_Localized = "ナルンガードを打ち破り、魔導レンズの力により生み出された魔物も倒した。\nノア、セイ、メリサは、オルドリックの待つ場所へと急ぐ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316361
+     1 string m_Localized = "ついにオルドリックを倒したノアたち。しかし同時に城が崩れ始め、ノアたち\nもろとも飲み込もうとしていた。脱出の中、帝国軍の妨害に遭うも、\n仲間の手助けによりなんとか切り抜ける。果たして彼らは間に合うのか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316362
+     1 string m_Localized = "オルドリックは打倒され、帝国は幼い皇帝の下に秩序を取り戻す。連合諸国も\n平穏を取り戻した。ノアのもとに集まった英雄たちは、それぞれの\nいるべき場所へ旅立つ。新たなる物語へ向けて。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28490392618983424
+     1 string m_Localized = "反撃"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28490392681897984
+     1 string m_Localized = "勝利宣言中、ペリエールはヒュースバインの放った矢によって命を落とす。\n深い悲しみに包まれるが、彼女との約束を果たすため、\n同盟軍は進撃を続ける。公爵を追い詰めるために。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

@@ -1,0 +1,986 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "StoryText_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 4622725224201029464
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (120 items)
+   0 int size = 120
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3476344832
+     1 string m_Localized = "First Mission"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733440
+     1 string m_Localized = "Into the Barrows"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733441
+     1 string m_Localized = "Search the Barrows"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733442
+     1 string m_Localized = "Afterwards"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733443
+     1 string m_Localized = "The Watch Captain's First Job"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733444
+     1 string m_Localized = "Catch the Criminals!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733445
+     1 string m_Localized = "Searching the Tunnels"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733446
+     1 string m_Localized = "Discovering the Thief"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733447
+     1 string m_Localized = "Homecoming"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733448
+     1 string m_Localized = "Hometown on Fire"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733449
+     1 string m_Localized = "Infiltrate the Empire"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733450
+     1 string m_Localized = "The Eltisweiss Front"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733451
+     1 string m_Localized = "Defeat"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733452
+     1 string m_Localized = "Separate Ways"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733453
+     1 string m_Localized = "Hoist the Alliance Banner"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733454
+     1 string m_Localized = "In an Unknown Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733455
+     1 string m_Localized = "The Village of the Treefolk"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733456
+     1 string m_Localized = "The Proving Grounds"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927744
+     1 string m_Localized = "Euchrisse, the Land of Water"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927745
+     1 string m_Localized = "The Despondent King of Euchrisse"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927746
+     1 string m_Localized = "Reveal Harlan's Schemes!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927747
+     1 string m_Localized = "What's the Right Choice?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927748
+     1 string m_Localized = "The Hishahn Front"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927749
+     1 string m_Localized = "The Assassinated Emperor"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927750
+     1 string m_Localized = "New Forces"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927751
+     1 string m_Localized = "Across the Desert"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927752
+     1 string m_Localized = "Learning the Ropes of a Shi'arcraft"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927753
+     1 string m_Localized = "Shi'arcs of a Scale"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927754
+     1 string m_Localized = "To the Safehouse"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927755
+     1 string m_Localized = "The Rune-Lens Research Laboratory"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927756
+     1 string m_Localized = "Inhuman Research"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927757
+     1 string m_Localized = "House Kesling"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927758
+     1 string m_Localized = "Reunion"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927759
+     1 string m_Localized = "To Norristar, the Western Nation"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927760
+     1 string m_Localized = "Assault"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927761
+     1 string m_Localized = "In the Land of Snow"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927762
+     1 string m_Localized = "The Coming Storm"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927763
+     1 string m_Localized = "The Revenant Army Returns"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927764
+     1 string m_Localized = "Yarnaan Falls"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927765
+     1 string m_Localized = "The Meeting of Kings"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927766
+     1 string m_Localized = "A Secret Plan"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927767
+     1 string m_Localized = "The Threat of the Empire"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927768
+     1 string m_Localized = "The Athrabalt Front"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927769
+     1 string m_Localized = "The Generals' Decision"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927770
+     1 string m_Localized = "Returning"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927771
+     1 string m_Localized = "The Way Forward"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927772
+     1 string m_Localized = "The Next Steps"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927773
+     1 string m_Localized = "An Unexpected Ally"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927774
+     1 string m_Localized = "Storming Castle Harganthia"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927775
+     1 string m_Localized = "Eve"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927776
+     1 string m_Localized = "The Final Battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927777
+     1 string m_Localized = "Declaring Victory"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927778
+     1 string m_Localized = "Forward Advance"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927779
+     1 string m_Localized = "Retaking Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927780
+     1 string m_Localized = "The Last Order"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927781
+     1 string m_Localized = "Gardhaven Castle"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927782
+     1 string m_Localized = "Confrontation"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927783
+     1 string m_Localized = "Collapsing Ambitions"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3488927784
+     1 string m_Localized = "Heroes"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122048
+     1 string m_Localized = "Nowa joins his local Watch and meets up with Garr, Lian, and Mio. The team heads to contact some Imperial officers to ascertain the mission."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122049
+     1 string m_Localized = "Together with the Imperial officers, Seign and Hildi, the team begins their search for the Barrows in the intel, heading north into the forest."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122050
+     1 string m_Localized = "The Watch passes through the misty forest to find the Barrows, but they're trapped with deadly puzzles. They decide to investigate the Barrows carefully."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122051
+     1 string m_Localized = "Half a year after the Barrows investigation, Nowa is finally comfortable with his work at the Watch, and stays busy working with Lian and Garr."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122052
+     1 string m_Localized = "Garr assigns Nowa as acting team captain. Ymir gives him an order as captain to recruit new members for the Watch."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122053
+     1 string m_Localized = "Nowa receives a second mission as acting captain: hunting down bandits who have been operating near Altverden Village, to the west."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122054
+     1 string m_Localized = "The villagers' reports on the bandits are inconsistent—a moustachioed trio, or wearing a cloak or a long pink dress. The team goes to a disused tunnel to the southwest to investgate."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122055
+     1 string m_Localized = "At the end of the tunnel is a ruined fortress and a battle with Kogen's team. Kogen claims he was only stealing vegetables for the children of a village near Imperial territory."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122056
+     1 string m_Localized = "Nowa is assigned to track bandits in Kyshiri Village. Garr decides to join him. Meanwhile, Eltisweiss receives an envoy from the Empire with an ominous message."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122057
+     1 string m_Localized = "Hurstwine's men put Kyshiri Village to the torch. With Seign's help, the team saves its people, but find the Empire is considering the Watch bandits. Nowa returns to report to Eltisweiss."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122058
+     1 string m_Localized = "Perrielle tells Nowa that the Empire may be plotting an invasion. Anxious, they hear that Werne Village has been occupied by an unknown force. Nowa heads there to investigate the enemy."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122059
+     1 string m_Localized = "Nowa's intel leads Perrielle to launch a defensive operation. They hope to have Euchrissian aid, but this isn't guaranteed. Perrielle gives Nowa command of a platoon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122060
+     1 string m_Localized = "The defense of Eltisweiss from the Empire is going well until forces led by Dux Aldric appear, shattering the allied morale and forcing Eltisweiss' troops to retreat."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122061
+     1 string m_Localized = "Perrielle asks Nowa to muster up a reserve army if it's needed. As he makes his escape, he finds Seign standing in his way. He barely wins in a harsh duel and slips out of the town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122062
+     1 string m_Localized = "Nowa works to keep his promise of a resistance to Perrielle. He begins restoring the ruined fortress to use as a base, but he's desperately shorthanded."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122063
+     1 string m_Localized = "Big things are happening in the outside world. Marisa goes to meet the Grandwardens. It all seems to center on a "lucky girl"..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122064
+     1 string m_Localized = "A monster enters the town and turns out to be a treefolk. Kallathor joins Nowa, hoping to make it back to his home. His village is through a hidden forest trail to the southeast."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122065
+     1 string m_Localized = "Nowa and Kallathor learn the Dendriarch was attacked and the Rune of Proven Verdure stolen. He joins Marisa and her fellow Guardians to follow the assailant to the Proving Ground."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122066
+     1 string m_Localized = "Having successfully captured Hurstwine, Nowa hears from Sabine that Perrielle is safe and asking for his help. Sabine and Lian join Nowa on their way to Euchrisse, through the Greatwood to the south."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122067
+     1 string m_Localized = "Nowa's party reaches Hishahn, the capital of Euchrisse. They reunite with Perrielle and have an audience with the king, Euma. Euma balks at war with the Empire. Can he be convinced?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122068
+     1 string m_Localized = "Nowa gets intel on Harlan from the Euchrissian tactician. Melridge. His suspicions mansion is under heavy guard, but there's a sunken ruin to the southeast that could be an infiltration point."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122069
+     1 string m_Localized = "Faced with evidence of his crimes, Harlan surrenders and is stripped of his station, but King Euma of Euchrisse remains undecided."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122070
+     1 string m_Localized = "Euma finally draws up his courage and makes his decision... to pass his executive power to Kassius and Melridge. They declare their intent to defend themselves against the Empire and mobilize."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122071
+     1 string m_Localized = "With Seign's team on their side, the party drives off the Imperial assault, but are shocked to learn the Emperor has been assassinated. The Alliance prepares for Aldric's next plot."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122072
+     1 string m_Localized = "Nowa has been officially named Alliance leader, with Melridge and Seign on board. Nowa goes east, to the city of the shi'arc beyond the desert, while Seign does espionage in the Empire."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122073
+     1 string m_Localized = "Nowa rides a shi'arcraft across the Great Sandy Sea to Impershi'arc. He meets the Shoalmeister, hoping to convince him to lend them aid against the Empire, but will he?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122074
+     1 string m_Localized = "Nowa learns that to gain the shi'arcs' aid, he must prove himself an honorable warrior by piloting a shi'arcraft across the Great Sandy Sea and demonstrating skill. He heads off to the racing grounds."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122075
+     1 string m_Localized = "Nowa has recruited the shi'arc into the Alliance. With strong warriors in his ranks, he returns to base."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122076
+     1 string m_Localized = "Seign has taken his team to the Imperial city of Ardinale. He heads to their Lowtown safehouse to meet his advance scout, Valentin."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122077
+     1 string m_Localized = "Seign meets up with Valentin and Pohl. Yaelu informs them that her family and fellow villagers have been taken away to Aldric's rune-lens lab. They decide to investigate the Dux' designs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122078
+     1 string m_Localized = "Seign's team infiltrates the rune-lens laboratory, where they find Aldric doing human experiments on his Primal Lens. Aldric easily defeats Seign, but the group barely manages to escape."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122079
+     1 string m_Localized = "Seign's group escapes safely, but they're attacked by monsters with implanted rune-lenses and realize the research is well underway. Seign informs his father and must leave his family to follow his conscience."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122080
+     1 string m_Localized = "Nowa and Seign return, their respective missions complete. They continue working to gather information and prepare for their inevitable battle with the Empire."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122081
+     1 string m_Localized = "Marisa informs Nowa that the Empire's target is Norristar, one of the three largest nations, and that there is another power in play. Nowa heads to Norristar to get more information."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122082
+     1 string m_Localized = "Markus appears to the party, calling himself the Skeleton King. Is he the other power Marisa mentioned? Nowa defeats him and continues on to Norristar."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122083
+     1 string m_Localized = "King Sallas watches the Empire's invasion silently, despite being informed that children are vanishing from surrounding villages. Nowa goes to save them when the Norristari soldiers can't."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122084
+     1 string m_Localized = "Nowa saves the children and returns to Athrabalt only to find that Yarnaan is now in danger once more. Sallas Baelrant remains passive, so Nowa's team rushes back to Yarnaan."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122085
+     1 string m_Localized = "Marisa's team has made the hard decision to abandon Yarnaan to the revenant horde. They make a stand against the revenants to buy time for the evacuation of the villagers."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122086
+     1 string m_Localized = "Nowa swears to reclaim Yarnaan from the revenants and returns to Athrabalt. When he arrives, he finds Maxim, who informs him that a meeting is happening."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122087
+     1 string m_Localized = "In Athrabalt's castle, the kings of Norristar, Euchrisse, and Kenan, the Grandwarden, and others gather. They bicker until Melridge proposes a plan to slow the Empire's advance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122088
+     1 string m_Localized = "Melridge's plan is to bomb three spots on Snowpeak Pass at once, causing an avalanche and blocking the pass. Nowa, Seign, and Marisa split up to each set one of the bombs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122089
+     1 string m_Localized = "The three successfully bury Snowpeak Pass, but Aldric foresaw their plan and the Empire crosses the pass in a matter of days. Norristar prepares for battle without Kenani aid."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122090
+     1 string m_Localized = "Norristar and the Alliance hold off the Empire, but Aldric's appearance and Kenan's betrayal decide the day. Sallas abandons his people, and Nowa promises to stay and defend them in his stead."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122091
+     1 string m_Localized = "Nowa's team opens the gate to let the citizens escape, but as they leave, Maxim and Elektra decide to stay and help. Nowa is indecisive until Garr talks sense into him, and they head east to Twinhorne."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122092
+     1 string m_Localized = "Another Imperial and Kenani assault and Aldric's scheme destroys all of the ships. Just as Nowa seems doomed, Yulin and Skyd's shi'arc arrive with their fleet. Nowa escapes and returns to base to regroup."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122093
+     1 string m_Localized = "Nowa learns that the Empire has taken Hishahn. Can the Alliance stand against Imperial, Kenani, and revenant forces? Nonetheless, Nowa is focused on the goal."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122094
+     1 string m_Localized = "Melridge's plan is possible, but extremely difficult. It means sending people all around to unite the small forces around the world. Nowa must travel all over to recruit yet more allies."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3493122095
+     1 string m_Localized = "As the Alliance prepares for war, the Skeleton King Markus approaches. He proposes an alliance to defeat Diradhe, who is in control of the revenants. Marisa takes this mission."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316352
+     1 string m_Localized = "Marisa defeats Diradhe in a duel. This took away a fraction of the Empire's strength. The elves and the League of Nations have also now joined the Alliance, adding to their chances against the Empire."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316353
+     1 string m_Localized = "It's now the eve of the final battle with the Empire. Nowa speaks with those who fought by his side and reaffirms their bonds."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316354
+     1 string m_Localized = "The final battle is here. The Alliance deploys a desperate gambit."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316355
+     1 string m_Localized = "In the name of countless victims, the Alliance strikes down the Empire. Nowa declares victory to all gathered."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316356
+     1 string m_Localized = "After defeating the Empire, the Alliance continues its advance, winning many battles and reclaiming lost territory."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316357
+     1 string m_Localized = "Melridge proposes a plan to recapture Eltisweiss that takes advantage of the instability within the Empire."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316358
+     1 string m_Localized = "On the back of the momentum of defeating Chapell's forces and retaking Eltisweiss, the Alliance advances to Dux Aldric's duchy. Nowa gives his final order to all his forces."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316359
+     1 string m_Localized = "Admist grueling battle, Nowa has cornered Aldric in his home. The end of the war is finally at hand."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316360
+     1 string m_Localized = "Nowa, Seign, and Marisa defeat Narungarde and a monster spawned by a rune-lens' power. They head to where Aldric awaits."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316361
+     1 string m_Localized = "Nowa's team has defeated Aldric, but now the castle is collapsing around them. The Empire tries to stop their escape, but their allies arrive to help. Will they make it out before being swallowed by rubble?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3497316362
+     1 string m_Localized = "With Aldric gone, order returns to the Empire under its young Emperor and peace returns to the allied nations. Nowa and his fellow heroes part ways, each to begin a new chronicle."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28490392618983424
+     1 string m_Localized = "Counterattack"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28490392681897984
+     1 string m_Localized = "During a victory speech, Hurstwine's arrow slays Perrielle. The Alliance is heartbroken, but continues its advance to keep their oath to her and stop the Dux for good."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

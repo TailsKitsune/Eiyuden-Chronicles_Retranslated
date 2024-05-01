@@ -1,0 +1,130 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "snowy_mountains32200_NPC_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -2366033601191882570
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (13 items)
+   0 int size = 13
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539136
+     1 string m_Localized = "雪崩の危険性がある為、\n通行を禁止です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489429082112
+     1 string m_Localized = "パーティ編成ですね。承知いたしました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489458442240
+     1 string m_Localized = "商売ってのはどこでだってできるってもんさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489458442241
+     1 string m_Localized = "まずはセイさんには、西の峰への魔法爆弾の設置を\nお願いします。\n正確な場所は、こちらの地図に記しておきました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489462636544
+     1 string m_Localized = "それでは、メリサさん達には東の峰への設置を\nお願いします。\n地図は大丈夫ですね？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489462636545
+     1 string m_Localized = "地図と地形の照合確認。\n作戦ポイントの設定も終了しております。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489462636546
+     1 string m_Localized = "それでは、こちらの魔法爆弾をお願いします。\n場所については……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489462636547
+     1 string m_Localized = "オッケー！わたしたちが行くのは北の峰だよね。\nバッチリ覚えたから！\n大船に乗った気持ちでいていいよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489462636548
+     1 string m_Localized = "それから、例のポイントについても\n気をつけてください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30683489462636549
+     1 string m_Localized = "まっかせなさーい！\n大きな船、何隻にものったつもりで\n安心していいよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 30958057305657344
+     1 string m_Localized = "ここはお守りします"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 86470761504919552
+     1 string m_Localized = "ははは、ここは寒いね。\n\nでも、どんな所でも商売するってのがおれのポリシーだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 86470761538473984
+     1 string m_Localized = "さぁさぁ、商品を見てくれ。\n\n凍り付かないようにしてあるから安心だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

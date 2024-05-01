@@ -1,0 +1,114 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "MusicRoomTalkText_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -2033833946875691078
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (11 items)
+   0 int size = 11
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 7665952407121920
+     1 string m_Localized = "あ。お兄ちゃん。お父さん元気かな？\nわたしの前だと大丈夫しか言わなくて…。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 7666360890388480
+     1 string m_Localized = "他に用はある？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579146949947392
+     1 string m_Localized = "ここは沢山の音であふれてるね。\nふふっ。楽しい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147004473344
+     1 string m_Localized = "大きくなったらウェーブお兄ちゃんの\nお嫁さんになりたいんだ。\nふふっ、早く大きくなりたいな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147008667648
+     1 string m_Localized = "今日はいいお天気だね～。\nまるでお日様が歌ってるみたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147008667649
+     1 string m_Localized = "がんばったね、ノアお兄ちゃん！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147008667650
+     1 string m_Localized = "みんな元気がないね……\nお父さんも心配かけないようにしてくれてるけど\nでも、やっぱり……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147008667651
+     1 string m_Localized = "ノアお兄ちゃん、無理しないでね。\nきっと大変だと思うけど…。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147008667652
+     1 string m_Localized = "わたし、お姉ちゃんとは短い付き合いだけど、\nみんなの心の中でどんなに大きな存在だったかは、\n分かるよ…。せめて、祈るね……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147008667653
+     1 string m_Localized = "最後の戦いに行くって聞いたよ。\n絶対生きて戻ってね…。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44579147008667654
+     1 string m_Localized = "戦争が終わっても、ここは賑やかだねー。\nふふっ。楽しい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

@@ -1,0 +1,426 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00220_01_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 6781738882147533863
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (50 items)
+   0 int size = 50
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4407480320
+     1 string m_Localized = "大人しくしろっ、この賊め！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868928
+     1 string m_Localized = "だから、おれは馬賊だけど、賊じゃねえっての！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868929
+     1 string m_Localized = "賊は賊だろうが！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868930
+     1 string m_Localized = "だから、俺は村なんて襲ってねえ！確かに故郷じゃ馬賊、\n暴れ馬に乗って風になるのが好きだったが\nもう卒業したんだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868931
+     1 string m_Localized = "何ごとだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868932
+     1 string m_Localized = "なんだい、あんたは？\n厄介事に巻き込まれたくないなら\nあっちへ行ってな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868933
+     1 string m_Localized = "そうはいっても、見過ごせない。\nなぜ疑ってるんだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868934
+     1 string m_Localized = "はぁ？見るからに怪しげな格好をしているからな。\n絶対に怪しい奴だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868935
+     1 string m_Localized = "だから、言いがかりだって\n言ってるだろう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868936
+     1 string m_Localized = "この格好は後輩達が贈ってくれたんだ、\n脱ぐわけにはいかないんだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868937
+     1 string m_Localized = "見た目だけで判断したって事？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868938
+     1 string m_Localized = "あんただって聞いたことあるだろう？\n国境付近を襲う賊が出てるって。\nこいつがそうに違いない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868939
+     1 string m_Localized = "彼は国境を襲う賊じゃない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868940
+     1 string m_Localized = "賊は賊でも賊違いじゃないか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868941
+     1 string m_Localized = "彼は国境を襲う賊じゃない。\n俺はこの目で賊を確かめたからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868942
+     1 string m_Localized = "見た目だけで決めつけるなんて。\n彼は俺があずかるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868943
+     1 string m_Localized = "だいたい、あんたは？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868944
+     1 string m_Localized = "警備隊のノアだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868945
+     1 string m_Localized = "あぁ……お嬢さまのところの。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868946
+     1 string m_Localized = "わかった。\nそこまで言うなら、こいつのことは任せよう。\nこっちも厄介払いができる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868947
+     1 string m_Localized = "あんた、どういう事だ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868948
+     1 string m_Localized = "悪いようにはしないさ。\n君は賊なんかじゃないんだろ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868949
+     1 string m_Localized = "おうっ、こっちの兄ちゃんは話がわかるじゃねえか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868950
+     1 string m_Localized = "賊は賊でも賊違いじゃないか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868951
+     1 string m_Localized = "だから、ずっとそう言ってるのに、こいつらが全然\nわかってくれねえんだよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868952
+     1 string m_Localized = "おれは誇り高き馬賊であって、村を襲ったりしねえ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868953
+     1 string m_Localized = "彼のことは任せてくれないか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868954
+     1 string m_Localized = "あんたは？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868955
+     1 string m_Localized = "警備隊のノアだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868956
+     1 string m_Localized = "あぁ……お嬢さまのところの。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868957
+     1 string m_Localized = "わかった。そういうことなら、こいつの事は\nあんたに任せるとしよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868958
+     1 string m_Localized = "しかしそんな奴を助けて、物好きな奴だ。\n何かあったら責任をとってもらうことになるぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4415868959
+     1 string m_Localized = "あぁ、わかってる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063232
+     1 string m_Localized = "じゃあ、そいつのことはよろしくな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063233
+     1 string m_Localized = "いやー、助かったぜ！　あんた、ビッグな男だな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063234
+     1 string m_Localized = "ここで助けられたのも何かの縁だ！\nおれをあんたの仲間に入れてくれ！\nあんたといたら、おれは絶対ビッグになれる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063235
+     1 string m_Localized = "ビッグ……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063236
+     1 string m_Localized = "ビッグってのはアレだよ……。\nその……ビッグってのはビッグだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063237
+     1 string m_Localized = "とにかくおれの名はユースケ！\nビッグになるためにここにきた男だ！\n絶対、ビッグになるからよろしく頼むぜ、大将！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063238
+     1 string m_Localized = "さすが、ビッグな男は違うぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063239
+     1 string m_Localized = "なんてこった！！\nあんたも、俺を疑うってのか？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063240
+     1 string m_Localized = "来てくれたか、ビッグな男！\n俺を仲間にしてくれるだろう？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063241
+     1 string m_Localized = "あんた！\n知ってるぜ！！同盟軍のノアってビッグな男だろ！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063242
+     1 string m_Localized = "ふぅーーあこがれるぜ。\n俺か？俺はユースケ！！\n故郷じゃ馬にのって風になる馬賊をやってたが"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063243
+     1 string m_Localized = "よりビッグになるために、ここまで来たのさ。\nなぁ、頼むよ！俺も仲間にしてくれよ！\n同盟軍で成り上がってビッグになるぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063244
+     1 string m_Localized = "ノア！ノアじゃねぇか！\n知ってるぜ！！同盟軍のリーダーになったんだってな？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063245
+     1 string m_Localized = "ふぅーーあこがれるぜ。\nなぁ、頼むよ！俺も仲間にしてくれよ！\n同盟軍で成り上がってビッグになるぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063246
+     1 string m_Localized = "さすが、同盟軍のリーダーだ！\nビッグな男は違うぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063247
+     1 string m_Localized = "なんてこった！！\nおれのサクセスストーリーが……\nビッグになる野望が……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4420063248
+     1 string m_Localized = "来てくれたか、ノア！\n俺を仲間にしてくれるだろう？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

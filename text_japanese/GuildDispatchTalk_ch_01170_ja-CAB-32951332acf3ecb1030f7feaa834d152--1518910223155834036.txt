@@ -1,0 +1,250 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "GuildDispatchTalk_ch_01170_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 5672921785581543756
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (28 items)
+   0 int size = 28
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4541698048
+     1 string m_Localized = "困ったことがあったら遠慮なく言ってくれ。\n一人は皆のため、皆は一人のためだからな！\nよし、それじゃあ行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4554280960
+     1 string m_Localized = "皆、頑張ろう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4554280961
+     1 string m_Localized = "困ったことがあったら遠慮なく言ってくれ。\n一人は皆のため、皆は一人のためだからな！\nよし、それじゃあ行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4554280962
+     1 string m_Localized = "手分けして探そう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475264
+     1 string m_Localized = "珍しいモノを採ってきてほしい……か。\nこういうのはあまり慣れてないんだ。\n過度な期待はしないでくれよ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475265
+     1 string m_Localized = "疲れてないか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475266
+     1 string m_Localized = "警備の依頼こそ、俺向けの仕事だな！\nよし、傭兵としての真髄を見せつけるぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475267
+     1 string m_Localized = "皆、位置につけ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475268
+     1 string m_Localized = "珍しいモノを採ってきてほしい……か。\nこういうのはあまり慣れてないんだ。\n過度な期待はしないでくれよ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475269
+     1 string m_Localized = "皆、集まってくれ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475270
+     1 string m_Localized = "困ったことがあったら遠慮なく言ってくれ。\n一人は皆のため、皆は一人のためだからな！\nよし、それじゃあ行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475271
+     1 string m_Localized = "手分けして探そう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475272
+     1 string m_Localized = "釣り場を盛り上げてほしいという内容か。\nいいぞ、俺は釣りは得意なんだ。\n傭兵の依頼時でも、息抜きによくしていたものさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475273
+     1 string m_Localized = "皆、釣れてるか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4558475274
+     1 string m_Localized = "警備の依頼こそ、俺向けの仕事だな！\nよし、傭兵としての真髄を見せつけるぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669568
+     1 string m_Localized = "周囲の警戒を！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669569
+     1 string m_Localized = "困ったことがあったら遠慮なく言ってくれ。\n一人は皆のため、皆は一人のためだからな！\nよし、それじゃあ行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669570
+     1 string m_Localized = "結構集まったかな？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669571
+     1 string m_Localized = "珍しいモノを採ってきてほしい……か。\nこういうのはあまり慣れてないんだ。\n過度な期待はしないでくれよ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669572
+     1 string m_Localized = "もっと奥に行こう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669573
+     1 string m_Localized = "警備の依頼こそ、俺向けの仕事だな！\nよし、傭兵としての真髄を見せつけるぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669574
+     1 string m_Localized = "皆、位置につけ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669575
+     1 string m_Localized = "困ったことがあったら遠慮なく言ってくれ。\n一人は皆のため、皆は一人のためだからな！\nよし、それじゃあ行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669576
+     1 string m_Localized = "交代で休憩しよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669577
+     1 string m_Localized = "困ったことがあったら遠慮なく言ってくれ。\n一人は皆のため、皆は一人のためだからな！\nよし、それじゃあ行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669578
+     1 string m_Localized = "よし、点呼で確認を！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669579
+     1 string m_Localized = "困ったことがあったら遠慮なく言ってくれ。\n一人は皆のため、皆は一人のためだからな！\nよし、それじゃあ行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669580
+     1 string m_Localized = "是非観に来てくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

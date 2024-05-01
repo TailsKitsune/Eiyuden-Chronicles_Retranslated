@@ -1,0 +1,5026 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "DetectiveText_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 7100258525024353694
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (625 items)
+   0 int size = 625
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2452934656
+     1 string m_Localized = "See Location"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323264
+     1 string m_Localized = "See Background"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323265
+     1 string m_Localized = "All Members"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323266
+     1 string m_Localized = "Divinable"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323267
+     1 string m_Localized = "Divined"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323268
+     1 string m_Localized = "Updated"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323269
+     1 string m_Localized = "Target"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323270
+     1 string m_Localized = "Results"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323271
+     1 string m_Localized = "Cannot Request Yet"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323272
+     1 string m_Localized = "Request Divination"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323273
+     1 string m_Localized = "Age"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323274
+     1 string m_Localized = "Height"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323275
+     1 string m_Localized = "Birthday"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323276
+     1 string m_Localized = "Birthplace"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323277
+     1 string m_Localized = "Fav. Food"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323278
+     1 string m_Localized = "???"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323279
+     1 string m_Localized = "Divination Room"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323280
+     1 string m_Localized = "B'baba"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323288
+     1 string m_Localized = "Whose whereabouts do you want to know?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323289
+     1 string m_Localized = "I'll look for {0} baqua.\nOkay?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323290
+     1 string m_Localized = "Whose background do you want to know?\nOr did you just come to look around?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323291
+     1 string m_Localized = "I'll look for {0} baqua.\nOkay?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323292
+     1 string m_Localized = "You don't have enough baqua."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323293
+     1 string m_Localized = "The keen-eyed one you seek sells his wares in the desert city.\nI see... his wish is a rare pocketwatch."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323294
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00090"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323295
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00090"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323296
+     1 string m_Localized = "Mm... a true hero... no... a magical girl?\nShe follows the trail of evildoers\nin a big city with a fountain."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2461323297
+     1 string m_Localized = "I see she has departed for Redthroat Ridge\nalone to vanquish them."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517568
+     1 string m_Localized = "Do you not remember she\nawaits you at Redthroat Ridge?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517569
+     1 string m_Localized = "I see a vortex... A great spiral in the fountain city.\nHe awaits you at the center of the whirl."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517570
+     1 string m_Localized = "Dr. Corque is waiting for you to\ngrow in power as a Spinadier."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517571
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00160"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517572
+     1 string m_Localized = "His heart is as steady as the calm sea...\nHe fishes in a town with a windmill."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517573
+     1 string m_Localized = "His heart is as steady as the calm sea...\nHe fishes in a city that has a waterwheel.\nA lucky fish you can catch in the sea will be key."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517574
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00170"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517575
+     1 string m_Localized = "Her outfit is unfamiliar. She must be from another land...\nNow, she awaits her countryman in Daphan Village."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517576
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00200"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517577
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00200"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517578
+     1 string m_Localized = "He is fierce and gentle in equal measure.\nThe former is now aimed at soldiers at the checkpoint."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517579
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00220"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517580
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00220"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517581
+     1 string m_Localized = "I see, faintly, one who would join your cause.\nBut not yet. The time is not right."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517582
+     1 string m_Localized = "Someone else searches for the girl...\nIn the same town, a bazaar hums."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517583
+     1 string m_Localized = "Seek her at Redthroat Ridge to the east...\nBut a great beast lurks near. Make haste."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517584
+     1 string m_Localized = "This one has great faith in the power of magic.\nBut for him, the magic of... no, I'd best not say.\nHe hones his craft on a mountain with a suspension bridge."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517585
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00240"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517586
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00240"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517587
+     1 string m_Localized = "She fights alone in defense of all she surveys.\nNear the desert city, she seeks her person of destiny."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517588
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00260"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517589
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00260"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517590
+     1 string m_Localized = "In this one dwells the heart of a Stone Lion...\nWith a windmill in sight, he looks for a great warrior."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517591
+     1 string m_Localized = "In the town with a windmill in view,\nhis search for a great warrior continues.\nGo to him when you are stronger."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517592
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00280"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517593
+     1 string m_Localized = "I see a hunter with a generous heart.\nHe hunts his quarry in a forest to the southeast."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517594
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00290"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517595
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00290"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517596
+     1 string m_Localized = "A girl with boundless devotion to her family. She gathers\nmedicinal herbs in a forest, but which, I cannot say."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517597
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00300"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517598
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00300"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517599
+     1 string m_Localized = "We all fight our own way, and make no mistake—he fights.\nHis vegetable farm is in an Empire-occupied village."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517600
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00310"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517601
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00310"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517602
+     1 string m_Localized = "His search for items of brilliance takes him\ninto the Greatwood... to the village of the treefolk."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517603
+     1 string m_Localized = "In the Village of the Treefolk,\nhe searches for that which glitters."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517604
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00320"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517605
+     1 string m_Localized = "This one is the master of mineral and stone.\nHe mines ore deep in a mine abandoned by all."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517606
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00330"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517607
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00330"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517608
+     1 string m_Localized = "You'll find no better hand at logging than her.\nShe lives in a forest to the west."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517609
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00340"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517610
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00340"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517611
+     1 string m_Localized = "Hmm, getting through to this smith may be a trial.\nBut you should visit his smithy in the fountain city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517612
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00350"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517613
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00350"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517614
+     1 string m_Localized = "He strives to make his art... "explode" in the waterwheel city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517615
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00360"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517616
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00360"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517617
+     1 string m_Localized = "I see a cook in trouble.\nA waterwheel turns in his city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517618
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00370"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517619
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00370"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517620
+     1 string m_Localized = "I see one who knows more about runes than any other.\nHe searches for something in Daphan Village."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517621
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00380"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517622
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00380"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517623
+     1 string m_Localized = "Making the best trades is his trade. He scours a port\nto the west for a path to riches."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517624
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00390"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517625
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00390"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517626
+     1 string m_Localized = "Mm... This one is close at hand, yet far afield.\nPerhaps fate is not ready for your paths to cross...\nBut cross they will, sooner or later."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2465517627
+     1 string m_Localized = "She tarries in the city with the waterwheel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711872
+     1 string m_Localized = "You must find her, or there is no way forward.\nSeek her in the waterwheel city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711873
+     1 string m_Localized = "He trains soldiers hard beneath the great shark."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711874
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00420"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711875
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00420"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711876
+     1 string m_Localized = "Search the market in the city of the waterwheel...\nAnd be sure to search with care."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711877
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00430"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711878
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00430"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711879
+     1 string m_Localized = "Her eyes are on a windmill... and a great dream.\nPerhaps you can help her reach out and seize it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711880
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00440"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711881
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00440"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711882
+     1 string m_Localized = "She plies her trade in a town where the Empire rules."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711883
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00450"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711884
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00450"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711885
+     1 string m_Localized = "She calls for fellows to delve the Den of the Dunes.\nFind her in the city of sharks."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711886
+     1 string m_Localized = "She calls for strong warriors to accompany her into\nthe Den of the Dunes. You are not yet what she seeks."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711887
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00460"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711888
+     1 string m_Localized = "The wielder of great force... is in a hidden village\ndeep in the depths of the Greatwood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711889
+     1 string m_Localized = "The wielder of great force is in a port town to the west."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711890
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00470"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711891
+     1 string m_Localized = "This one is a skilled huntsman indeed.\nHe is in the village where the roofs are pointed."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711892
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00480"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711893
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00480"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711894
+     1 string m_Localized = "I see... a playwright, in an ashen city where\nmore than snow weighs heavy on his heart."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711895
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00490"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711896
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00490"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711897
+     1 string m_Localized = "This one has lost something important, and seeks\nher way in a town where ships come and go.\nGo to her side, and do what you do best."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711898
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00500"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711899
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00500"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711900
+     1 string m_Localized = "Oh... Oh, this is interesting.\nYour destination lies below this very city.\nNew trials await you there."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711901
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00520"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711902
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00520"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711903
+     1 string m_Localized = "Hmm, I see a person wandering aimlessly, unsteady on their feet. They’ll make it here, but only once the city develops further."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711904
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00530"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711905
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00530"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711906
+     1 string m_Localized = "An archer from abroad...\nShe searches for someone in the port town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711907
+     1 string m_Localized = "Her target... A swordsman named Iugo from\nthe East Reach, last seen in a port town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711908
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00540"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711909
+     1 string m_Localized = "You seek an old master of spearplay.\nHe is drinking himself silly in the waterwheel city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711910
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00550"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711911
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00550"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711912
+     1 string m_Localized = "Er, right before your eyes? Hello?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711913
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00560"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711914
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00560"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711915
+     1 string m_Localized = "She hides somewhere in this very city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711916
+     1 string m_Localized = "She hides somewhere in this very city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711917
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00570"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711918
+     1 string m_Localized = "Master Riufan would be the one to ask."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711919
+     1 string m_Localized = "She should be in Daphan Village, but...\nWhence comes this aged woman?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711920
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00580"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711921
+     1 string m_Localized = "Trained in the spear, she now trains for...bridehood?\nShe now searches a town of yore."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711922
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00600"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711923
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00600"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711924
+     1 string m_Localized = "Oh, this is something different. A swordsman from afar\nwho has crossed the sandy road.\nSeek a tavern in the city with a fountain."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711925
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00610"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711926
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00610"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711927
+     1 string m_Localized = "This girl is robust of health and fleet of foot.\nSeek her out in the city of the waterwheel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711928
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00620"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711929
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00620"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711930
+     1 string m_Localized = "This skilled physician yearns for\na way to save more lives still.\nYou must head west to a port town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711931
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00630"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711932
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00630"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2469711933
+     1 string m_Localized = "I can't understand what this "Scorcher Deck" is...\nI can only tell you that a fiery battle awaits\nin the village beneath the windmills."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906176
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00640"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906177
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00640"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906178
+     1 string m_Localized = "I hear... noblesse oblige?\nAh, a lord with a magnanimous spirit,\nsearching for something in the waterwheel city."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906179
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00670"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906180
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00670"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906181
+     1 string m_Localized = "He is a healer possessed of valuable magic, bringing\nsuccor to wounded war refugees in a meeting-place."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906182
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00680"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906183
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00680"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906184
+     1 string m_Localized = "You would reach out across the lines of species?\nThen the soldiers at the training grounds may be able to help.\nGo to them, and heed their words."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906185
+     1 string m_Localized = "She is at the entrance to the Greatwood to\nthe southwest of here... and she is suffering.\nQuickly, go to her aid!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906186
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00700"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906187
+     1 string m_Localized = "It seems Marisa has something on her mind.\nYou had best speak to her about it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906188
+     1 string m_Localized = "A young man from the village of peaked roofs\nmay have some information for you about\nthe griffin Marisa is looking for."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906189
+     1 string m_Localized = "The griffin has hid away deep in the abandoned mine."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906190
+     1 string m_Localized = "A giant turtle... hunting lenses...\nMm. The visions are not yet clear to me.\nFind his old rival and the path will open."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906191
+     1 string m_Localized = "He waits in the western port town for someone\nto, ah, "team up to tackle this five-alarm jam"\nwith him."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906192
+     1 string m_Localized = "He waits for you in Twinhorne West. Did you forget?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906193
+     1 string m_Localized = "A... holy maiden in white awaits in the town of pointed roofs.\nHer grace belies a venomous tongue, but she is menaced\nby men with truly wicked hearts."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906194
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00750"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906195
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00750"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906196
+     1 string m_Localized = "This one... is a truly powerful mage.\nGo to the town with the waterwheel to see him...\nBut do not be fooled by his appearance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906197
+     1 string m_Localized = "He waits for you in Twinhorn West. Did you forget?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906198
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00760"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906199
+     1 string m_Localized = "What in the...\nWhat is he doing in the mountains with such\nlittle clothing? I'm shivering to look at him!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906200
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00770"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906201
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00770"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906202
+     1 string m_Localized = "He pursues his research with undying zeal, deep in the\nforest. You may be well served to bring him the rune\nhe needs to make his breakthrough."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906203
+     1 string m_Localized = "Find the Rune of Conservation and take it to him."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906204
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00780"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906205
+     1 string m_Localized = "Hrrm? What is this ominous presence I see\ncreeping into a shop somewhere in the city?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906206
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00800"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906207
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00800"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906208
+     1 string m_Localized = "This one... has made her way to your city\nin search of her former adventuring partners.\nGreet her at the main gate, won't you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906209
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00840"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906210
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00840"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906211
+     1 string m_Localized = "I see her trying to help a young girl in\nthe great city where a fountain springs.\nIf you go, beware of stamp cards!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906212
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00850"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906213
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00850"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906214
+     1 string m_Localized = "Someone is here to reward your achievements.\nHe is at the city entrance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [189]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906215
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00870"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [190]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906216
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00870"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [191]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906217
+     1 string m_Localized = "I see... the inside of a dim mine fallen to disuse?\nI sense he is looking for materials for a product."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [192]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906218
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00900"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [193]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906219
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00900"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [194]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906220
+     1 string m_Localized = "She is, as always, playing music happily in The Hero's Den.\nPerhaps you should visit her and listen for a spell.\nShe has waited long enough for you to welcome her."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [195]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906221
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00910"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [196]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906222
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00910"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [197]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906223
+     1 string m_Localized = "My, the Guardian who has mastered the arts of war?\nHe continues training body and soul in the\nBarrows blessed by Proven Verdure deep in the forest."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [198]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906224
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00920"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [199]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906225
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00920"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [200]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906226
+     1 string m_Localized = "They dwell in the city of sharks, but look for a new home.\nSomewhere... with a hot spring, is their hearts' desires.\nIf only there was one here..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [201]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906227
+     1 string m_Localized = "They dwell in the city of sharks, but look for a new home.\nA father and son whose calling is hot springs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [202]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906228
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00930"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [203]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906229
+     1 string m_Localized = "You know her well. You left her behind,\nbut now she comes here for worry over you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [204]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906230
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00940"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [205]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906231
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00940"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [206]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2473906232
+     1 string m_Localized = "The shi'arc soldier who sails a crimson ship across\nthe Great Sandy Sea will not come to your aid just yet."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [207]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100480
+     1 string m_Localized = "The shi'arc warrior who sails a crimson ship across\nthe Great Sandy Sea awaits your rematch.\nProve your skill and she will rally behind you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [208]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100481
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00950"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [209]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100482
+     1 string m_Localized = "He works with diligence and fervor to grant his partner's\ngreatest wish. Go to see him in the town of windmills."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [210]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100483
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_00960"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [211]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100484
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00960"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [212]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100485
+     1 string m_Localized = "Mm... An old tragedy has brought her to fall\ninto the clutches of the shadowy wyrm.\nMaster cookery and you may free her soul yet."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [213]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100486
+     1 string m_Localized = "The only way to free her from the\nshadow serpent's claws is to\ntriumph in the arena of cooking."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [214]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100487
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00970"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [215]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100488
+     1 string m_Localized = "He fights to defend the dreams of children against\nthose in the fountain city who would trample them.\nUnfortunately, he may not have the power as he is..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [216]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100489
+     1 string m_Localized = "A Spinadier is called for. If you want his aid,\nyou must go to the fountain city and\nbecome a Spinadier!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [217]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100490
+     1 string m_Localized = "Now that you are a true Spinadier,\nyou know what you must do!\nKeep spinning and your paths will meet."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [218]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100491
+     1 string m_Localized = "A woman with massive horns and a love of cards.\nShe awaits at the end of your card-paved road."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [219]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100492
+     1 string m_Localized = "You must overcome her in her\ndomain for her to join you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [220]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100493
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_00990"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [221]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100494
+     1 string m_Localized = "A man of strange inclinations, this one.\nHe is a hunter, but not of beasts alone...\nFind him in the port's tool shop."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [222]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100495
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_01120"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [223]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100496
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01120"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [224]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100497
+     1 string m_Localized = "I see a young dwarf warrior, standing before\na tremendous door of stone...\nHe wants something from deep in the abandoned mine."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [225]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100498
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_01130"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [226]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100499
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01130"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [227]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100500
+     1 string m_Localized = "She's a seasoned mercenary, veteran of countless battles.\nBut her experience will come with a commensurate price.\nShe is honing her weapons in the city in the desert."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [228]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100501
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_01140"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [229]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100502
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01140"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [230]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100503
+     1 string m_Localized = "This is one of Gocteau's associates.\nYou will find you need all their help\nas your city grows ever bigger."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [231]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100504
+     1 string m_Localized = "Gocteau will need him to build his guild.\nHis burning enthusiasm will help the city grow.\nHe is logging lumber in the western forest."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [232]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100505
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01150"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [233]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100506
+     1 string m_Localized = "This is one of Gocteau's associates.\nYou will find you need all their help\nas your city grows ever bigger."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [234]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100507
+     1 string m_Localized = "Gocteau will need him to build his guild.\nHis analytical calm will help the city grow.\nFind him in Daphan Village."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [235]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100508
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01160"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [236]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100509
+     1 string m_Localized = "He is an excellent Guild deputy, skilled in\ncivil defense, and necessary for Gocteau’s guild.\nHe is plying his trade in a port town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [237]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100510
+     1 string m_Localized = "He is an excellent Guild deputy, skilled in\ncivil defense, and necessary for Gocteau’s guild.\nHe is plying his trade in a port town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100511
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01170"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100512
+     1 string m_Localized = "He is an excellent Guild deputy, well-versed\nin mining, and necessary for Gocteau’s guild.\nSearch the mineshafts."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100513
+     1 string m_Localized = "He is an excellent Guild deputy, well-versed\nin mining, and necessary for Gocteau’s guild.\nSearch the mineshafts."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100514
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01180"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [242]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100515
+     1 string m_Localized = "Her luck may just be worth betting on. It will\nsurely help the city grow with Gocteau’s guild.\nFor now, she is drunk in the fountain city's inn."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [243]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100516
+     1 string m_Localized = "Her luck may just be worth betting on. It will\nsurely help the city grow with Gocteau’s guild.\nFor now, she is drunk in the fountain city's inn."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [244]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100517
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01190"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [245]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100518
+     1 string m_Localized = "Hmm... No, I can't see anything about her.\nBut I have seen... that when all else is collected,\nanother path will open to you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [246]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100519
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_02_01200"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [247]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100520
+     1 string m_Localized = "HQ_DETECTIVETEXT_whereabouts_03_01200"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [248]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100521
+     1 string m_Localized = "Foremoon the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [249]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100522
+     1 string m_Localized = "Summertide the 5th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [250]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100523
+     1 string m_Localized = "Springtide the 27th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [251]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100524
+     1 string m_Localized = "Leafmoon the 7th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [252]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100525
+     1 string m_Localized = "Flormoon the 24th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [253]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100526
+     1 string m_Localized = "Leafmoon the 31st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [254]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100527
+     1 string m_Localized = "Frostmoon the 14th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100528
+     1 string m_Localized = "Autumntide the 5th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100529
+     1 string m_Localized = "Summertide the 24th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100530
+     1 string m_Localized = "Summertide the 13th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100531
+     1 string m_Localized = "Frostmoon the 9th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100532
+     1 string m_Localized = "Gastmoon the 12th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100533
+     1 string m_Localized = "Wintertide the 21st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100534
+     1 string m_Localized = "Summertide the 28th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100535
+     1 string m_Localized = "Foremoon the 12th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2478100536
+     1 string m_Localized = "Wintertide the 3rd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294784
+     1 string m_Localized = "Gastmoon the 27th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294785
+     1 string m_Localized = "Sproutmoon the 5th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294786
+     1 string m_Localized = "Frostmoon the 24th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294787
+     1 string m_Localized = "Foremoon the 29th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294788
+     1 string m_Localized = "Foremonth the 24th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294789
+     1 string m_Localized = "Wintertide the 4th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294790
+     1 string m_Localized = "Loremoon the 23rd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294791
+     1 string m_Localized = "Autumntide the 8th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294792
+     1 string m_Localized = "Summertide the 20th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294793
+     1 string m_Localized = "Leafmoon the 20th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294794
+     1 string m_Localized = "Springtide the 27th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294795
+     1 string m_Localized = "Springtide the 2nd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294796
+     1 string m_Localized = "Autumntide the 20th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294797
+     1 string m_Localized = "Foremonth the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294798
+     1 string m_Localized = "Flormoon the 5th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294799
+     1 string m_Localized = "Gastmoon the 25th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294800
+     1 string m_Localized = "Wintertide the 2nd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294801
+     1 string m_Localized = "Wintertide the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294802
+     1 string m_Localized = "Wintertide the 7th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294803
+     1 string m_Localized = "Autumntide the 27th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294804
+     1 string m_Localized = "Gastmoon the 26th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294805
+     1 string m_Localized = "Frostmoon the 11th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [286]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294806
+     1 string m_Localized = "Leafmoon the 28st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [287]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294807
+     1 string m_Localized = "Gastmoon the 21st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [288]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294808
+     1 string m_Localized = "Loremoon the 9th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [289]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294809
+     1 string m_Localized = "Frostmoon the 25th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [290]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294810
+     1 string m_Localized = "Summertide the 19th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [291]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294811
+     1 string m_Localized = "Sproutmoon the 13th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [292]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294812
+     1 string m_Localized = "Wintertide the 18th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [293]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294813
+     1 string m_Localized = "Foremonth the 1st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [294]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294814
+     1 string m_Localized = "Summertide the 18th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [295]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294816
+     1 string m_Localized = "Loremoon the 5th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [296]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294817
+     1 string m_Localized = "Springtide the 16th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [297]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294818
+     1 string m_Localized = "Flormoon the 11th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [298]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294819
+     1 string m_Localized = "Springtide the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [299]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294820
+     1 string m_Localized = "Frostmoon the 23rd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [300]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294821
+     1 string m_Localized = "Gastmoon the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [301]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294822
+     1 string m_Localized = "Wintertide the 11th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [302]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294823
+     1 string m_Localized = "Autumntide the 15th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [303]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294824
+     1 string m_Localized = "Loremoon the 20th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [304]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294825
+     1 string m_Localized = "Loremoon the 21st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [305]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294826
+     1 string m_Localized = "Foremoon the 21st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [306]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294827
+     1 string m_Localized = "Gastmoon the 31st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [307]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294828
+     1 string m_Localized = "Flormoon the 24th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [308]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294829
+     1 string m_Localized = "Summertide the 12th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [309]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294830
+     1 string m_Localized = "Loremoon the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [310]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294831
+     1 string m_Localized = "Autumntide the 11th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [311]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294832
+     1 string m_Localized = "Flormoon the 26th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [312]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294833
+     1 string m_Localized = "Wintertide the 21st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [313]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294834
+     1 string m_Localized = "Summertide the 1st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [314]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294835
+     1 string m_Localized = "Leafmoon the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [315]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294836
+     1 string m_Localized = "Autumntide the 26th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [316]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294837
+     1 string m_Localized = "Autumntide the 18th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [317]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294838
+     1 string m_Localized = "Frostmoon the 5th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [318]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2482294839
+     1 string m_Localized = "Sproutmoon the 29th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [319]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489088
+     1 string m_Localized = "Leafmoon the 18th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [320]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489089
+     1 string m_Localized = "Flormoon the 12th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [321]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489090
+     1 string m_Localized = "Springtide the 8th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [322]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489091
+     1 string m_Localized = "Flormoon the 23rd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [323]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489092
+     1 string m_Localized = "Wintertide the 27th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [324]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489093
+     1 string m_Localized = "Springtide the 4th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [325]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489094
+     1 string m_Localized = "Flormoon the 8th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [326]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489095
+     1 string m_Localized = "Leafmoon the 12th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [327]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489096
+     1 string m_Localized = "Sproutmoon the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [328]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489097
+     1 string m_Localized = "Foremoon the 13th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [329]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489098
+     1 string m_Localized = "Flormoon the 23rd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [330]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489099
+     1 string m_Localized = "Flormoon the 14th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [331]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489100
+     1 string m_Localized = "Endmoon the 24th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [332]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489101
+     1 string m_Localized = "Kyshiri Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [333]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489102
+     1 string m_Localized = "Ardinale City"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [334]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489103
+     1 string m_Localized = "Hishahn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [335]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489104
+     1 string m_Localized = "Unknown"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [336]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489105
+     1 string m_Localized = "A village far, far away"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [337]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489106
+     1 string m_Localized = "East Reach, Land of Sun"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [338]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489107
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [339]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489108
+     1 string m_Localized = "Ardinale City"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [340]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489109
+     1 string m_Localized = "A remote village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [341]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489110
+     1 string m_Localized = "Athrabalt"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [342]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489111
+     1 string m_Localized = "Magical Land"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [343]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489112
+     1 string m_Localized = "Impershi'arc"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [344]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489113
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [345]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489114
+     1 string m_Localized = "West"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [346]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489115
+     1 string m_Localized = "Yarnaan"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [347]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489116
+     1 string m_Localized = "Beigoma Research Center"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [348]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489117
+     1 string m_Localized = "Drifting on the wind"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [349]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489118
+     1 string m_Localized = "Yarnaan"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [350]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489119
+     1 string m_Localized = "The Oldest Realm"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [351]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489120
+     1 string m_Localized = "East Reach, Land of Sun"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [352]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489121
+     1 string m_Localized = "Ardinale City"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [353]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489122
+     1 string m_Localized = "East Reach, Land of Sun"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [354]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489123
+     1 string m_Localized = "Werne Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [355]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489124
+     1 string m_Localized = "Atop a cliff"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [356]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489125
+     1 string m_Localized = "Hidden village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [357]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489126
+     1 string m_Localized = "A knight's domain"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [358]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489127
+     1 string m_Localized = "Great Sandy Sea"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [359]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489128
+     1 string m_Localized = "The Greatwood"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [360]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489129
+     1 string m_Localized = "Near Kyshiri Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [361]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489130
+     1 string m_Localized = "Near Kyshiri Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [362]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489131
+     1 string m_Localized = "Werne Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [363]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489132
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [364]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489133
+     1 string m_Localized = "Grimforge"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [365]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489134
+     1 string m_Localized = "A forest cabin"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [366]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489135
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [367]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489136
+     1 string m_Localized = "Hishahn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [368]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489137
+     1 string m_Localized = "Hishahn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [369]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489138
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [370]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489139
+     1 string m_Localized = "Beastman land to the south"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [371]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489140
+     1 string m_Localized = "Elf city"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [372]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489141
+     1 string m_Localized = "Another dimension"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [373]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489142
+     1 string m_Localized = "Village near Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [374]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489143
+     1 string m_Localized = "The bottom of the bag"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [375]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489144
+     1 string m_Localized = "Arenside"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [376]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489145
+     1 string m_Localized = "Twinhorne"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [377]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2486489146
+     1 string m_Localized = "The East Reach"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [378]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683392
+     1 string m_Localized = "Aeon"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [379]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683393
+     1 string m_Localized = "Altverden Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [380]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683394
+     1 string m_Localized = "Ardinale City"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [381]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683395
+     1 string m_Localized = "Hishahn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [382]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683396
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [383]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683397
+     1 string m_Localized = "Another dimension"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [384]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683398
+     1 string m_Localized = "An otherworldly void"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [385]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683399
+     1 string m_Localized = "East Reach, Land of Sun"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [386]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683400
+     1 string m_Localized = "The East Reach"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [387]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683401
+     1 string m_Localized = "Daphan Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [388]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683402
+     1 string m_Localized = "Doesn't remember"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [389]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683403
+     1 string m_Localized = "Daphan Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [390]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683404
+     1 string m_Localized = "Ardinale City"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [391]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683405
+     1 string m_Localized = "Fox village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [392]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683406
+     1 string m_Localized = "East Reach, Land of Sun"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [393]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683407
+     1 string m_Localized = "Twinhorne"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [394]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683408
+     1 string m_Localized = "Athrabalt"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [395]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683409
+     1 string m_Localized = "Arenside Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [396]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683410
+     1 string m_Localized = "Elf city"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [397]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683411
+     1 string m_Localized = "Elf city"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [398]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683412
+     1 string m_Localized = "Independent territory"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [399]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683413
+     1 string m_Localized = "Altverden Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [400]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683414
+     1 string m_Localized = "Runebarrows"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [401]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683415
+     1 string m_Localized = "A warm, quiet patch of sun"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [402]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683416
+     1 string m_Localized = "A big, sunlit tree"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [403]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683417
+     1 string m_Localized = "Aeon"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [404]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683418
+     1 string m_Localized = "Elf city"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [405]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683419
+     1 string m_Localized = "Ardinale City"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [406]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683420
+     1 string m_Localized = "Village near Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [407]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683421
+     1 string m_Localized = "Unknown"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [408]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683422
+     1 string m_Localized = "The sun, high in the sky"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [409]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683423
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [410]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683424
+     1 string m_Localized = "Hidden village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [411]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683425
+     1 string m_Localized = "A shore of souls"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [412]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683426
+     1 string m_Localized = "A village in Euchrisse"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [413]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683427
+     1 string m_Localized = "Treefolk Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [414]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683428
+     1 string m_Localized = "Skriss Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [415]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683429
+     1 string m_Localized = "Frontier"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [416]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683430
+     1 string m_Localized = "New Nevaeh"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [417]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683431
+     1 string m_Localized = "Nowhere particular"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [418]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683432
+     1 string m_Localized = "Achievement Society's town"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [419]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683433
+     1 string m_Localized = "Dark elf village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [420]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683434
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [421]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683435
+     1 string m_Localized = "South"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [422]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683436
+     1 string m_Localized = "By Dad's side, forever"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [423]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683437
+     1 string m_Localized = "Yarnaan"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [424]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683438
+     1 string m_Localized = "Hot spring paradise"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [425]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683439
+     1 string m_Localized = "Kyshiri Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [426]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683440
+     1 string m_Localized = "Impershi'arc"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [427]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683441
+     1 string m_Localized = "Arenside"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [428]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683442
+     1 string m_Localized = "Downtown"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [429]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683443
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [430]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683444
+     1 string m_Localized = "Aeon"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [431]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683445
+     1 string m_Localized = "Hishahn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [432]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683446
+     1 string m_Localized = "Hishahn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [433]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683447
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [434]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683448
+     1 string m_Localized = "Galdean Empire"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [435]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683449
+     1 string m_Localized = "Skriss Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [436]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683450
+     1 string m_Localized = "Villenia"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [437]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683451
+     1 string m_Localized = "Villenia"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [438]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683452
+     1 string m_Localized = "Village in the mountains"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [439]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2490683453
+     1 string m_Localized = "Altverden Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [440]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877696
+     1 string m_Localized = "Eltisweiss"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [441]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877697
+     1 string m_Localized = "Farming village by Hishahn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [442]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877698
+     1 string m_Localized = "Impershi'arc"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [443]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877699
+     1 string m_Localized = "Twinhorne"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [444]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877700
+     1 string m_Localized = "Grimforge"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [445]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877701
+     1 string m_Localized = "Land of dwarves"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [446]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877702
+     1 string m_Localized = "Western forest"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [447]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877703
+     1 string m_Localized = "Daphan Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [448]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877704
+     1 string m_Localized = "South"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [449]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877705
+     1 string m_Localized = "Altverden Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [450]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877706
+     1 string m_Localized = "Athrabalt"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [451]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877707
+     1 string m_Localized = "Kyshiri Village"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [452]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877708
+     1 string m_Localized = "Any Meat Dish"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [453]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877709
+     1 string m_Localized = "Poached Eggs"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [454]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877710
+     1 string m_Localized = "Duck Soup"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [455]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877711
+     1 string m_Localized = "Pancakes with Extra Cream"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [456]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877712
+     1 string m_Localized = "Super Spicy Ramen"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [457]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877713
+     1 string m_Localized = "Sasa Dango"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [458]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877714
+     1 string m_Localized = "Tomato-Cheese-Sandwich"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [459]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877715
+     1 string m_Localized = "Sugar Toast"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [460]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877716
+     1 string m_Localized = "Pretzels"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [461]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877717
+     1 string m_Localized = "Roast Beef"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [462]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877718
+     1 string m_Localized = "Chocolate Cake"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [463]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877719
+     1 string m_Localized = "Avocado Sushi"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [464]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877720
+     1 string m_Localized = "Tea With Biscuits"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [465]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877721
+     1 string m_Localized = "Steak with Extra Garlic"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [466]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877722
+     1 string m_Localized = "Herb Chicken"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [467]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877723
+     1 string m_Localized = "Baumkuchen"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [468]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877724
+     1 string m_Localized = "Miso Soup with Clams"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [469]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877725
+     1 string m_Localized = "Caramel Bar"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [470]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877726
+     1 string m_Localized = "Champagne and Jelly Beans"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [471]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877727
+     1 string m_Localized = "Baked Flan"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [472]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877728
+     1 string m_Localized = "Milk"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [473]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877729
+     1 string m_Localized = "Charred Hamburg Steak"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [474]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877730
+     1 string m_Localized = "Rolled Omelet"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [475]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877731
+     1 string m_Localized = "Sautéed Chicken Breast"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [476]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877732
+     1 string m_Localized = "Blueberry Pie"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [477]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877733
+     1 string m_Localized = "Hamburg Steak"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [478]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877734
+     1 string m_Localized = "Spiced Coffee"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [479]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877735
+     1 string m_Localized = "Pineapple"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [480]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877736
+     1 string m_Localized = "Vegetable Juice"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [481]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877737
+     1 string m_Localized = "Mushroom Risotto"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [482]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877738
+     1 string m_Localized = "Anything is Delicious"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [483]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877739
+     1 string m_Localized = "Spinach Quiche"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [484]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877740
+     1 string m_Localized = "Omelet"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [485]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877741
+     1 string m_Localized = "Lemon Honey Pickles"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [486]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877742
+     1 string m_Localized = "Pasta Carbonara"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [487]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877743
+     1 string m_Localized = "Cream Cheese on Crackers"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [488]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877744
+     1 string m_Localized = "Egg Cooked by His Sis"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [489]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877745
+     1 string m_Localized = "Mint Chocolate Ice Cream"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [490]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877746
+     1 string m_Localized = "Salmon Steak"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [491]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877747
+     1 string m_Localized = "Wine from Bronni"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [492]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877748
+     1 string m_Localized = "Shrimp Doria"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [493]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877749
+     1 string m_Localized = "Chili con Carne"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [494]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877750
+     1 string m_Localized = "Cream Cake"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [495]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877751
+     1 string m_Localized = "Steamed Bread"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [496]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877752
+     1 string m_Localized = "Lollipops"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [497]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877753
+     1 string m_Localized = "Raclette"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [498]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877754
+     1 string m_Localized = "Pocket Whiskey"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [499]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877755
+     1 string m_Localized = "Rabbit Stew"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [500]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2494877756
+     1 string m_Localized = "Herb Tea"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [501]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072000
+     1 string m_Localized = "Cherries"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [502]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072001
+     1 string m_Localized = "Vegetable Juice"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [503]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072002
+     1 string m_Localized = "Eyeball Gummies"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [504]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072003
+     1 string m_Localized = "Hot Sandwiches"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [505]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072004
+     1 string m_Localized = "Cream Dorayaki"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [506]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072005
+     1 string m_Localized = "Spring Rolls"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [507]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072006
+     1 string m_Localized = "Sukiyaki"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [508]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072007
+     1 string m_Localized = "Anything Tasty"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [509]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072008
+     1 string m_Localized = "Mee Siam"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [510]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072009
+     1 string m_Localized = "Bitter Chocolate"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [511]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072010
+     1 string m_Localized = "Kiwifruit"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [512]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072011
+     1 string m_Localized = "Salted Plums"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [513]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072012
+     1 string m_Localized = "Omurice"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [514]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072013
+     1 string m_Localized = "Salmon Meunière"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [515]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072014
+     1 string m_Localized = "Mega Katsudon"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [516]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072015
+     1 string m_Localized = "Green Salad"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [517]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072016
+     1 string m_Localized = "Juice with Honey"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [518]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072017
+     1 string m_Localized = "Sautéed Lamb"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [519]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072018
+     1 string m_Localized = "Stuffed Bell Peppers"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [520]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072019
+     1 string m_Localized = "Glazed Carrots"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [521]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072020
+     1 string m_Localized = "Apples"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [522]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072021
+     1 string m_Localized = "Star Fruit"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [523]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072022
+     1 string m_Localized = "Anchovies"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [524]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072023
+     1 string m_Localized = "Grilled Tutuva"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [525]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072024
+     1 string m_Localized = "Pot-au-feu"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [526]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072025
+     1 string m_Localized = "Tomahawk Steak"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [527]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072026
+     1 string m_Localized = "Strawberry Parfait"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [528]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072027
+     1 string m_Localized = "Tlayuda"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [529]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072028
+     1 string m_Localized = "Tomato"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [530]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072029
+     1 string m_Localized = "Blueberry Pie"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [531]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072030
+     1 string m_Localized = "Piping Hot Hamburg Steak"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [532]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072031
+     1 string m_Localized = "Dried Fruit"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [533]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072032
+     1 string m_Localized = "Apples"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [534]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072033
+     1 string m_Localized = "Spicy Soybean Soup"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [535]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072034
+     1 string m_Localized = "Mega Katsu Curry"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [536]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072035
+     1 string m_Localized = "Red-Hot Tom Yam Soup"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [537]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072036
+     1 string m_Localized = "Pavlova"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [538]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072037
+     1 string m_Localized = "Chocolate Medals"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [539]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072038
+     1 string m_Localized = "Cheese Fondue"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [540]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072039
+     1 string m_Localized = "Corn Soup"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [541]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072040
+     1 string m_Localized = "Chocolate"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [542]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072041
+     1 string m_Localized = "Chocolate Cookies"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [543]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072042
+     1 string m_Localized = "Cold, Stiff Drinks"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [544]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072043
+     1 string m_Localized = "Strawberry Milk"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [545]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072044
+     1 string m_Localized = "Omelet"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [546]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072045
+     1 string m_Localized = "Fresh Spring Roll"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [547]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072046
+     1 string m_Localized = "Vegetable Juice"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [548]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072047
+     1 string m_Localized = "Scrambled Eggs"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [549]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072048
+     1 string m_Localized = "Asparagus Wrapped in Meat"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [550]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072049
+     1 string m_Localized = "Sandwiches"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [551]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072050
+     1 string m_Localized = "Melon"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [552]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072051
+     1 string m_Localized = "Steak Topped with Egg"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [553]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072052
+     1 string m_Localized = "Seafood Marinade"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [554]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072053
+     1 string m_Localized = "Grilled Lobster"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [555]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072054
+     1 string m_Localized = "French Fries"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [556]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072055
+     1 string m_Localized = "Mashed Potato"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [557]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072056
+     1 string m_Localized = "Gratin"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [558]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072057
+     1 string m_Localized = "Rice Balls"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [559]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072058
+     1 string m_Localized = "Spicy Chicken"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [560]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072059
+     1 string m_Localized = "Bean Soup"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [561]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072060
+     1 string m_Localized = "Maron Glacé"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [562]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072061
+     1 string m_Localized = "Avocado Roll"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [563]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2499072062
+     1 string m_Localized = "Your Home Cooking"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [564]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266304
+     1 string m_Localized = "Pineapple"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [565]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266305
+     1 string m_Localized = "Lamb Chops"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [566]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266306
+     1 string m_Localized = "Mabo Tofu"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [567]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266307
+     1 string m_Localized = "Apple Pie"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [568]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266308
+     1 string m_Localized = "Onion Soup"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [569]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266309
+     1 string m_Localized = "Beef Jerky"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [570]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266310
+     1 string m_Localized = "Savarin"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [571]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266311
+     1 string m_Localized = "Stew"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [572]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266312
+     1 string m_Localized = "Unknown"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [573]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2503266313
+     1 string m_Localized = "Undisclosed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [574]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4988723756650496
+     1 string m_Localized = "I can see no further."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [575]
+    0 TableEntryData data
+     0 SInt64 m_Id = 13721361261752320
+     1 string m_Localized = "Will that be all?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [576]
+    0 TableEntryData data
+     0 SInt64 m_Id = 13721361303695360
+     1 string m_Localized = "Mm... Where there're no people, there is no creation.\nCome to me if you ever need guidance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [577]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327243542528
+     1 string m_Localized = "Springtide the 18th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [578]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327319040000
+     1 string m_Localized = "Summertide the 14th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [579]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327319040001
+     1 string m_Localized = "Foremonth the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [580]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327319040002
+     1 string m_Localized = "Leafmoon the 13th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [581]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327319040003
+     1 string m_Localized = "Frostmoon the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [582]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327319040004
+     1 string m_Localized = "Flormoon the 5th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [583]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327319040005
+     1 string m_Localized = "Autumntide the 12th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [584]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234304
+     1 string m_Localized = "Summertide the 22nd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [585]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234305
+     1 string m_Localized = "Foremoon the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [586]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234306
+     1 string m_Localized = "Gastmoon the 25th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [587]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234307
+     1 string m_Localized = "Springtide the 3rd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [588]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234308
+     1 string m_Localized = "Flormoon the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [589]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234309
+     1 string m_Localized = "Summertide the 16th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [590]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234310
+     1 string m_Localized = "Summertide the 10th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [591]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234311
+     1 string m_Localized = "Gastmoon the 27th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [592]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234312
+     1 string m_Localized = "Frostmoon the 21st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [593]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234313
+     1 string m_Localized = "Autumntide the 4th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [594]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234314
+     1 string m_Localized = "Flormoon the 28th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [595]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234315
+     1 string m_Localized = "Wintertide the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [596]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234316
+     1 string m_Localized = "Wintertide the 16th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [597]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234317
+     1 string m_Localized = "Gastmoon the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [598]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234318
+     1 string m_Localized = "Gastmoon the 28th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [599]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234319
+     1 string m_Localized = "Wintertide the 16th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [600]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234320
+     1 string m_Localized = "Frostmoon the 20th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [601]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234321
+     1 string m_Localized = "Sproutmoon the 24th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [602]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234322
+     1 string m_Localized = "Wintertide the 4th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [603]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234323
+     1 string m_Localized = "Wintertide the 7th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [604]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234324
+     1 string m_Localized = "Flormoon the 29th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [605]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234325
+     1 string m_Localized = "Springtide the 23rd"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [606]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234326
+     1 string m_Localized = "Leafmoon the 4th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [607]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234327
+     1 string m_Localized = "Gastmoon the 17th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [608]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234328
+     1 string m_Localized = "Wintertide the 6th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [609]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234329
+     1 string m_Localized = "Wintertide the 9th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [610]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234330
+     1 string m_Localized = "Sproutmoon the 28th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [611]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234331
+     1 string m_Localized = "Foremoon the 31st"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [612]
+    0 TableEntryData data
+     0 SInt64 m_Id = 34164327323234332
+     1 string m_Localized = "Sproutmoon the 16th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [613]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819345805312
+     1 string m_Localized = "What's all this racket?\nI'm just trying to have a rest.\nFine, I'll do a reading for you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [614]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748352
+     1 string m_Localized = "Young Lian's kicks are very sloppy.\nYou want to know how I know martial arts?\nToo bad, sonny! That's a secret!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [615]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748353
+     1 string m_Localized = "My, I must admit I didn't foresee this.\nYou must be a star of victory incarnate."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [616]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748354
+     1 string m_Localized = "I foresaw this victory of yours.\nYou're on a path to seize fate by the horns."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [617]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748355
+     1 string m_Localized = "I cannot see this Aldric.\nHe is veiled to my power..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [618]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748356
+     1 string m_Localized = "Nowa, you must decide your own destiny.\nFortune telling does not see all."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [619]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748357
+     1 string m_Localized = "I did see an ill omen, but...\nnot what it meant... How could it..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [620]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748358
+     1 string m_Localized = "Nowa, I'm sure you've come too far\nto be stopped by a bad reading now."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [621]
+    0 TableEntryData data
+     0 SInt64 m_Id = 50506819387748359
+     1 string m_Localized = "What to do now?\nWell... I suppose I'll start with this request\nto find someone's lost cat."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [622]
+    0 TableEntryData data
+     0 SInt64 m_Id = 86897872394444800
+     1 string m_Localized = "Summertide the 4th"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [623]
+    0 TableEntryData data
+     0 SInt64 m_Id = 86897872415416320
+     1 string m_Localized = "Ardinale City"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [624]
+    0 TableEntryData data
+     0 SInt64 m_Id = 86897872432193536
+     1 string m_Localized = "Fruitcake"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

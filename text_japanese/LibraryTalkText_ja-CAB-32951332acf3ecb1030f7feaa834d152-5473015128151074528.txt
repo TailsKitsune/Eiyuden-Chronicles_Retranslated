@@ -1,0 +1,130 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "LibraryTalkText_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -8550074732581988577
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (13 items)
+   0 int size = 13
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4909813761
+     1 string m_Localized = "どちらを読みますか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 7416569312800768
+     1 string m_Localized = "ほ、本のことですか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 7424726609129472
+     1 string m_Localized = "…はっ！す、すみません。本に夢中に…！\nでも、この本、とても面白くて……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450392412160
+     1 string m_Localized = "図書室にたくさん人が来てくれて\n私、とっても嬉しいです。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549504
+     1 string m_Localized = "最近、とても素敵な詩集があったんです。\n良かったら、読んでくださいね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549505
+     1 string m_Localized = "大学に入るための勉強も\nしっかり頑張っていますよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549506
+     1 string m_Localized = "コードＬさん……素敵な方ですよね。\nとっても勉強熱心で……はわわ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549507
+     1 string m_Localized = "兵法の本も、やはり大事ですよね。\n今度マールリッジさんに教えていただきます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549508
+     1 string m_Localized = "兵法の本も読んだら、わたしも少しは助けに……\nなりますか？\nマールリッジさんに教えてもらえるかな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549509
+     1 string m_Localized = "はわわ…試験みたいに緊張してきました！\nお、お守りを握って落ち着きます…！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549510
+     1 string m_Localized = "ノアさんにとって、親友を失ったと同じですよね…。\nせめて、祈らせてください…。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549511
+     1 string m_Localized = "い、いよいよ大詰めなんですね…！\nはわわ…、わたしがなぜか緊張してきました…！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44202450438549512
+     1 string m_Localized = "ノアさんは大きな事をなしとげたんですね。\nわたしもカールス大学に入って、\n大きな何かをやりとげたいと思っています。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

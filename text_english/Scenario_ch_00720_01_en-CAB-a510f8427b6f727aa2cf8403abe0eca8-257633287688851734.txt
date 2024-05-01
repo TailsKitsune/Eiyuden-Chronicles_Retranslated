@@ -1,0 +1,666 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00720_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -5208579979384681760
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (80 items)
+   0 int size = 80
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4176793600
+     1 string m_Localized = "Quinn! My gal. How’s the hunting?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376512
+     1 string m_Localized = "Dijkstra?! Why are <i>you</i> here? You better not be planning to grab that raw lens out from under my nose."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376513
+     1 string m_Localized = "Easy, friendo! Be chill! Everything is copacetic."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376514
+     1 string m_Localized = "Dijkstra knows when he’s no match for a job, okay? This one is <i>all</i> yours. Smell ya later."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376515
+     1 string m_Localized = "Who was that?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376516
+     1 string m_Localized = "You mean the steeryn trying to edge in on my treasure? Heh. Dijkstra’s a fellow lens hunter."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376517
+     1 string m_Localized = "He’s not such a bad guy, even if he does tend to be a little too loosey-goosey about his work."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376518
+     1 string m_Localized = "If that hunk of steak is calling it quits, then whatever creature we’re up against must be tough as nails. We better proceed with caution."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376519
+     1 string m_Localized = "Aw, nuts... Talk about your tough breaks..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376520
+     1 string m_Localized = "But the treasure is <i>right there</i>... Do I go for it, or is this where Dijkstra calls it quits?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376521
+     1 string m_Localized = "Hey, friendo. Didn’t we cross paths once in the desert?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376522
+     1 string m_Localized = "Got an offer for ya. Any chance you could be talked into an exciting physical challenge?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376523
+     1 string m_Localized = "And don’t worry: Dijkstra doesn’t skimp on the rewards.\nAll ya gotta do is help, brah."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376524
+     1 string m_Localized = "Ha! Somebody’s in good spirits even though he chickened out of that other hunt like a chickeny chicken."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376525
+     1 string m_Localized = "You know what <i>I</i> think, Nowa? I think he must have a lead. I smell a lens hunt."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376526
+     1 string m_Localized = "Oh, well if Quinn’s here, then we can cut right to the chase. You in or you out?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376527
+     1 string m_Localized = "An “exciting physical challenge”?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376528
+     1 string m_Localized = "That’s right, the EPC to end all EPCs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376529
+     1 string m_Localized = "Not far from Twinhorne, I know this <i>amazing</i> place. Gonna rock you like a hurricane."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376530
+     1 string m_Localized = "Ready for this? There’s this gigantic stone turtle out there—the Chelonian Goliath, Vilashnu!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376531
+     1 string m_Localized = "And we ain’t riding the turtle to get where we’re going. The turtle IS where we’re going."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376532
+     1 string m_Localized = "Bet you’re thinking, “But Dijkstra, turtles don’t have dungeons on their back!” To which I can only coolly reply: I shell you not."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376533
+     1 string m_Localized = "I’ll do it if you agree to join us."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4189376534
+     1 string m_Localized = "That sounds kinda dangerous."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570816
+     1 string m_Localized = "That sounds kinda dangerous."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570817
+     1 string m_Localized = "Okay, friendo. Okay."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570818
+     1 string m_Localized = "Offer stands if you decide you wanna hit Dijkstra up later."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570819
+     1 string m_Localized = "Hey, brah, good to see ya. Change your mind about that exciting physical challenge?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570820
+     1 string m_Localized = "I’m talkin’ you, your brah Dijkstra, and the most epic EPC you’ve ever locked horns with. "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570821
+     1 string m_Localized = "All right, fair enough. I’ll help you out...<i>if</i> you agree to join us."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570822
+     1 string m_Localized = "Oho! He haggles! All right, all right. You got yourself a deal."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570823
+     1 string m_Localized = "Now c’mon—no time to waste. Reaching the Chelonian Goliath is gonna be one rollicking bad time. "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570824
+     1 string m_Localized = "Wait? Whuh? We’re leaving right NOW?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570825
+     1 string m_Localized = "Shyeah? Ain’t no time but the present! Dijkstra’s gonna give you the hair-raising adventure of a lifetime!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570826
+     1 string m_Localized = "Now let’s go! Treasure calls!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570827
+     1 string m_Localized = "Should’ve warned you he doesn’t listen."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570828
+     1 string m_Localized = "*Huff, huff* Please tell me we’re there."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570829
+     1 string m_Localized = "Adventure promised, adventure delivered."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570830
+     1 string m_Localized = "Which part? Trying to bring the ship up alongside this thing, or clambering up?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570831
+     1 string m_Localized = "Aw, don’t be a downer. The fun part starts now! You and your brah Dijkstra are gonna remember this lens hunt for years to come."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570832
+     1 string m_Localized = "Yeah, if we survive the <i>hours</i> to come."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570833
+     1 string m_Localized = "This better not be another crapshoot based on bad intel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570834
+     1 string m_Localized = "Pfft. You worry too much! I’m tellin’ ya, this place is a huge score."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570835
+     1 string m_Localized = "All that raw lens we find is gonna be Dijkstra’s treasure."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570836
+     1 string m_Localized = "And in return, you get Dijkstra as <i>your</i> treasure. It’s what ya call “win-win.”"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570837
+     1 string m_Localized = "Now get your keister in gear, ’cause this hunt is ON!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4193570838
+     1 string m_Localized = "Whoa whoa whoa, what is happening here? Don’t tell me the mighty commander of the Alliance is getting cold feet?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765120
+     1 string m_Localized = "I just need to make some preparations."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765121
+     1 string m_Localized = "What? ’Course not. Let’s go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765122
+     1 string m_Localized = "What? ’Course not. Let’s go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765123
+     1 string m_Localized = "That’s more like it. Look out, treasure, ’cause here we come!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765124
+     1 string m_Localized = "I just need to make some preparations."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765125
+     1 string m_Localized = "Yeah? Well, all right. As long as you ain’t giving up on me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765126
+     1 string m_Localized = "Okay, we’re back on solid land. Go do your thing, and when you’re ready to turtle up again, you come seek out your pal Dijkstra."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765127
+     1 string m_Localized = "Don’t let this adventure pass you by, brah!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765128
+     1 string m_Localized = "About time, friendo. You ready to mount the Chelonian Goliath again with your buddy Dijkstra? All that raw lens ain’t gonna hunt itself!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765129
+     1 string m_Localized = "All right, brah, you ready to mount the turtle?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765130
+     1 string m_Localized = "Yes. It's time."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765131
+     1 string m_Localized = "Actually, I need more time."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765132
+     1 string m_Localized = "Actually, I need more time."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765133
+     1 string m_Localized = "Boooooo. You were supposed to say yes. But that’s okay. When you feel that hankering for adventure again, Dijkstra will be here, primed and ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765134
+     1 string m_Localized = "Ready when you are!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765135
+     1 string m_Localized = "Yeah, brah! Nowa and Dijkstra back on the hunt!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765136
+     1 string m_Localized = "This time, we ain’t leaving until we’ve snagged that treasure!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765137
+     1 string m_Localized = "How’s your prep level, Nowa? ’Cause I think we’re comin’ up on the treasure’s location."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765138
+     1 string m_Localized = "Yeah, I was gonna say I’ve got a bad feeling about this place."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765139
+     1 string m_Localized = "Typical... If people know where the raw lens is but nobody’s taken it, there’s <i>always</i> a good reason."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765140
+     1 string m_Localized = "Danger’s closing in, brah! Weapons up! Fighting spirit up! Anything else I’m forgetting, up it goes! It’s horn-lockin’ time!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765141
+     1 string m_Localized = "It revived?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765142
+     1 string m_Localized = "That’s a fun party trick. We’d better think this through!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4197765143
+     1 string m_Localized = "Whew... I’d say I got my workout for the day."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959424
+     1 string m_Localized = "Brah! C’mon! Let’s get to the part where we claim our spoils!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959425
+     1 string m_Localized = "So? Did you find what you’re after?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959426
+     1 string m_Localized = "Look at him. I think that’s a solid yes."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959427
+     1 string m_Localized = "Hooooo! Hot mama! Look at this HAUL! Oh, baby!!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959428
+     1 string m_Localized = "Ha ha ha! I still can’t believe all that quality raw lens we found."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959429
+     1 string m_Localized = "Mission complete, right brah?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959430
+     1 string m_Localized = "And don’t think that your buddy Dijkstra forgot his promise!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959431
+     1 string m_Localized = "I’m in! I’m on the team! I’m gonna rock your Alliance so hard that you’ll forget what it was like without me!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4201959432
+     1 string m_Localized = "I don’t doubt that for a second. Thanks, Dijkstra!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

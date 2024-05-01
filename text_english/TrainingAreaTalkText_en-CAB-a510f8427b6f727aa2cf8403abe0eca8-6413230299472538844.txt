@@ -1,0 +1,986 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "TrainingAreaTalkText_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8092913698514961041
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (120 items)
+   0 int size = 120
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147201
+     1 string m_Localized = "So Yuzuchas fell in battle.\nWe lost a good one.\nIf only I’d pushed ’em harder..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147202
+     1 string m_Localized = "So Aaron Schonter fell in battle.\nExceptional soldier, breezed through every task I assigned...\nand screwed up at the very end."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147203
+     1 string m_Localized = "So Everett Mock fell in battle.\nPoor joker always put others first.\nLotta soldiers still breathing ’cause of that, but what a price..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147204
+     1 string m_Localized = "So kado fell in battle.\nAlways was one for pulling reckless stunts,\nthe fool... I always said, know when to quit."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147205
+     1 string m_Localized = "So Kokohek fell in battle.\nProbably still cursing me and my strictness.\nBut now I can’t ask even listen to the complaints."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147206
+     1 string m_Localized = "So Tatuki fell in battle.\nFought like a soldier hell-bent on dying in the field.\nNo regrets, I hope."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147207
+     1 string m_Localized = "So ginko fell in battle.\nAlways had a gentle look, that one.\nProbably still watching over us with those warm eyes."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147208
+     1 string m_Localized = "So journey fell in battle.\nThe better they are, the sooner they die.\nWhat a world..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147209
+     1 string m_Localized = "So KyonC fell in battle.\nAlways worked too hard for everyone else.\nRest in peace, pal, you earned it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147210
+     1 string m_Localized = "So Masuhiko fell in battle.\nThat mountain goat liked hiking and high places.\nHigher than any mountain in the world now."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147211
+     1 string m_Localized = "So Mitsutaka fell in battle.\nSeemed like a quiet one,\nturned out to be the most dauntless of all."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147212
+     1 string m_Localized = "So Tamax fell in battle.\nThat joker was good at finding joy in everything.\nCan’t help but remember that happy face."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147213
+     1 string m_Localized = "So MIZUKI fell in battle.\nA friend of animals, and there’s no such thing\nas a bad friend of animals."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147214
+     1 string m_Localized = "So kotobuki may fell in battle.\nA good pal to all, quick to laugh.\nHope that laugh still rings out, up there yonder somewhere."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147215
+     1 string m_Localized = "So Winston Kronkles fell in battle.\nAlways polishing that sword, named after a sweetheart somewhere.\nLeast I can do is take that sword back."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147216
+     1 string m_Localized = "So Wysteria Krait fell in battle.\nThat sentimental sap, always was quick to tears.\nNow you’re making your friends weep."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28964147217
+     1 string m_Localized = "So Mui fell in battle.\nThat worrywart, always checking battle plans one last time.\nCould’ve taken a leaf out of that book."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341504
+     1 string m_Localized = "So MAEKAWA SHIORI fell in battle.\nThat old mule, always facing danger head-on.\nAlmost had the strength to take on anything. Almost."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341505
+     1 string m_Localized = "So Taki Minoru fell in battle.\nA friend to all children.\nFought to give ’em a better world to grow up in."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341506
+     1 string m_Localized = "So Ken Yatsuda fell in battle.\nA real bibliophile, always reading between exercises.\nHope that bookworm’s reading in peace."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341507
+     1 string m_Localized = "So Erita fell in battle.\nLoved cats, that one. Always feeding strays.\nThey’re gonna miss that poor joker."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341508
+     1 string m_Localized = "So Ziu Akizuki fell in battle.\nWaste of a fine artist. Always sketching the view on missions.\nWish I could’ve seen one of those pictures finished."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341509
+     1 string m_Localized = "So Sara Ventura fell in battle.\nHad a fine voice. Often sang at our booze-ups.\nTo think I’ll never hear that voice again. So sad."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341510
+     1 string m_Localized = "So Saori fell in battle.\nThat boozer could out-drink an elephant and hold it like a champ.\nWish I could see it again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341511
+     1 string m_Localized = "So shimiyu fell in battle.\nLoved cooking, that one. Often helped in the mess kitchen.\nShame we’ll never taste that cooking again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341512
+     1 string m_Localized = "So ruine fell in battle.\nA regular math wizard, helped no end with managing supplies.\nNow who’s going to handle it?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341513
+     1 string m_Localized = "So Mathew Barnard fell in battle.\nExcellent sapper. Loved building.\nThis town can’t do without people like that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341514
+     1 string m_Localized = "So deepclear fell in battle.\nGood soldier and a great musician. Often played at the tavern.\nWish I could hear that melodist play again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341515
+     1 string m_Localized = "So Prince omrise fell in battle.\nThat hothead. Always bragged about never losing a fight,\nthen went and lost the biggest fight of all."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341516
+     1 string m_Localized = "So Chihiro fell in battle.\nOften spoke about peaceful uses for runes.\nWish I coulda seen the future he had in mind."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341517
+     1 string m_Localized = "So Brandon Munshaw fell in battle.\nPoor feller, loved travel. Wanted to visit the East Reach after the war.\nEnded up someplace good, I hope."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341518
+     1 string m_Localized = "So Pasus Zeppelin fell in battle.\nLoved birds, that one. Watched them for hours on end.\nTaken to the skies with them now, I hope."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341519
+     1 string m_Localized = "So Manji fell in battle.\nLoved horses, often looked after the chargers.\nThe horses will be miss the poor feller."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341520
+     1 string m_Localized = "So mamii fell in battle.\nThat dog-lover was always going around finding people to take in strays.\nLotta dogs have homes as a result."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341521
+     1 string m_Localized = "So Riley Crane fell in battle.\nThat rockhound could talk ores like nobody’s business.\nI wish he coulda put that knowledge to use for the town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341522
+     1 string m_Localized = "So King Spilly fell in battle.\nRegular fishing fanatic, always up for a fishing contest.\nWon’t be having that angler’s fish with drinks anymore. Shame."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341523
+     1 string m_Localized = "So Athenae fell in battle.\nWon’t be wandering around town eating anymore. \nHope that gourmet is still wandering, out there yonder."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341524
+     1 string m_Localized = "So Patrick "Nap Man" Meyer fell in battle.\nThat beigoma nerd was always getting caught up in duels.\nHow should I break it to those kids..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341525
+     1 string m_Localized = "So Azpen fell in battle.\nWas always up for a game of cards, that one.\nNigh-unbeatable with that battered old deck, too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341526
+     1 string m_Localized = "So ERRICO fell in battle.\nWas good at throwing knives and quick to show it off.\nWish I could see that again. Shame I never will."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341527
+     1 string m_Localized = "So Eito fell in battle.\nWas mighty strong and helped us out of many a tight spot.\nLike a guardian spirit."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341528
+     1 string m_Localized = "So Daiki Wakita fell in battle.\nAlways charged into the fray with no regard for personal safety.\nWas great for morale. Was."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341529
+     1 string m_Localized = "So Ryan Logan fell in battle.\nThat bug lover, always hunting in the forest for creepy crawlies.\nWish I’d asked about what bugs were here."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341530
+     1 string m_Localized = "So Asuka fell in battle.\nA great swimmer, often raced in the river with other soldiers.\nWe needed that talent for missions."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341531
+     1 string m_Localized = "So Gabriel H Dela Pena fell in battle.\nOften saw that soldier practicing fencing. Such dedication.\nMaybe I shouldn’t have let him fight so soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341532
+     1 string m_Localized = "So Devan Oatney fell in battle.\nWet behind the ears, but had darn good battle sense.\nI regret pushing that youngster so hard."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341533
+     1 string m_Localized = "So Naho Suzuki fell in battle.\nThe best shot with a bow you ever saw.\nI wish the youngsters had the chance to learn from that. Terrible waste."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341534
+     1 string m_Localized = "So Uesugi Kagekatu fell in battle.\nHad outstanding fighting skills: truly a cut above.\nCould have gone far, but wasted it being reckless."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341535
+     1 string m_Localized = "So KAHORI KAWAHAR fell in battle.\nKnew everything about vegetables and often helped in the fields.\nWish I could’ve tried those vegetables."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341536
+     1 string m_Localized = "So H.Kenji fell in battle.\nWas like a walking pharmacopeia and helped many hurt soldiers.\nWhat a pity to lose a brain like that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341537
+     1 string m_Localized = "So ricefield fell in battle.\nA real chili aficionado, always looking for the next level of heat.\nI’ll miss those super spicy dishes."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341538
+     1 string m_Localized = "So Shitosamayageka fell in battle.\nHad a sweet tooth and was always making treats.\nThe kids in town loved them. Shouldn’t have been so reckless..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341539
+     1 string m_Localized = "So M.D.Strader fell in battle.\nA skilled hunter, darn useful in field camps.\nWanted to be a pro hunter after the war. Such a pity."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341540
+     1 string m_Localized = "So Raymond fell in battle.\nA real good-natured freewheeler, loved the sunshine.\nCan’t help but remember when the sky’s fine like this."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341541
+     1 string m_Localized = "So Bibako fell in battle.\nHad a soft spot for flowers, tended a flowerbed too.\nThose flowers there were Bibako’s. Pretty, huh?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341542
+     1 string m_Localized = "So Romano fell in battle.\nStrong fellow, unbeatable at arm wrestling.\nWent and died without ever wrestling me, more’s the pity."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341543
+     1 string m_Localized = "So Dhanest Prueksomboon fell in battle.\nLoved weapons, often helped comrades choose them.\nHow many lives those weapons have saved..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341544
+     1 string m_Localized = "So ryu fell in battle.\nLoved history, often talked about ancient mysteries.\nWon’t ever hear about those stories of adventure anymore. Pity."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341545
+     1 string m_Localized = "So Chen chan fell in battle.\nMade the best tea—the troops loved it.\nCan’t help but remember whenever I have tea myself."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341546
+     1 string m_Localized = "So Motoki Inudou fell in battle.\nHad a curious knack for predicting the weather.\nSaid there was a rule nobody else knew of."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341547
+     1 string m_Localized = "So A R O S E L R I C fell in battle.\nFought like a lion on the very front line.\nSolid through and through, and showed so much promise. What a shame."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341548
+     1 string m_Localized = "So H.Hideaki fell in battle.\nA barrel of laughs, gave nicknames to everybody.\nWish I could’ve asked what my nickname was."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341549
+     1 string m_Localized = "So Hulke fell in battle.\nBit of an oddball, interested in some strange stuff.\nCould be alive somewhere for all I know."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341550
+     1 string m_Localized = "So Shizuka Hiura fell in battle.\nThe friendly sort, could get on with anybody.\nHelped out a lot of rookies just by being around."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341551
+     1 string m_Localized = "So Blue,S fell in battle.\nWhat a practical joker. Loved to surprise folks.\nWas an ace at lightening up the tense atmosphere."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341552
+     1 string m_Localized = "So Hiroyuki ARAI fell in battle.\nDedicated soldier, always diligent with weapons maintenance.\nHad the makings of a top-notch blacksmith."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341553
+     1 string m_Localized = "So Lucsento fell in battle.\nSo nimble, that one—could’ve leapt over a castle wall.\nThose skills could have been a game-changer. Shame."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341554
+     1 string m_Localized = "So Minami.O fell in battle.\nDreamed of being a musician.\nKept saying it was too late to start, but I wish Minami.O had lived to give it a shot."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341555
+     1 string m_Localized = "So KAKOGAWA FUMIHIRO fell in battle.\nStraight-laced soldier, never swayed by anyone.\nWidely admired because of it, too. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341556
+     1 string m_Localized = "So DuangD fell in battle.\nThe swiftest and most daring foot soldier I ever saw.\nOvertook even the cavalry to charge the enemy ranks."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341557
+     1 string m_Localized = "So Sho Endo fell in battle.\nHad a good heart, and empathy in spades.\nFor Sho Endo’s sake, we’ve got to bring peace to this world."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341558
+     1 string m_Localized = "So Victor Alexandru Dorobantu, Esq. fell in battle.\nHad the travel bug and wanted to be an adventurer.\nNow out there somewhere on the greatest adventure of all."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341559
+     1 string m_Localized = "So Sir Mitch Of Tungsten fell in battle.\nWas from a far-off land, apparently.\nWish I’d asked about that country. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341560
+     1 string m_Localized = "So Kelly Haugen fell in battle.\nTold me over drinks about wanting to be an artist.\nDeserved a chance to chase that dream for real. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341561
+     1 string m_Localized = "So Acequid fell in battle.\nGood-natured joker, liked making people laugh.\nHurts to think I’ll never hear those funny stories again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341562
+     1 string m_Localized = "So serena bard fell in battle.\nWanted to be a merchant in the future.\nProbably off to strange parts right now, looking for rarities."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341563
+     1 string m_Localized = "So take fell in battle.\nAs serious as they come, that soldier.\nI was hoping some of that seriousness would rub off onto the others."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341564
+     1 string m_Localized = "So moukon ittyokusen fell in battle.\nHad a sharp intuition that saved our hides many times.\nReally could’ve done with that cleverness longer."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341565
+     1 string m_Localized = "So KikanBow fell in battle.\nHad all the makings of a master strategist.\nWhat a fool I was to put those brains on the front line."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341566
+     1 string m_Localized = "So Black Archer Gan fell in battle.\nStubborn as they come, never gave up on anything.\nI could’ve learned a thing or two myself. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341567
+     1 string m_Localized = "So Rafias fell in battle.\nHad a burning sense of responsibility, stronger than most.\nNever was one for backing down. Just couldn’t do it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341568
+     1 string m_Localized = "So SUZUKI TAKEHIRO fell in battle.\nHad a unique fighting style—used a sword in each hand.\nDied before I could ask where that style came from."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341569
+     1 string m_Localized = "So ibuka fell in battle.\nHad an odd air and always danced before battle.\nStrangely, that dance gave any onlooker a surge of strength."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341570
+     1 string m_Localized = "So Ben Wendel fell in battle.\nSlick character, well-dressed in the field.\nBut those feathery armor ornaments might have drawn too much attention."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341571
+     1 string m_Localized = "So Higashiyama fell in battle.\nSaid that gazing at the ocean makes one’s worries seem small.\nProbably gazing at the ocean again even now."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341572
+     1 string m_Localized = "So Shawn Choi fell in battle.\nWas the life of the party, loved dancing at the tavern.\nProbably enjoying drinks and dance on the other side."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341573
+     1 string m_Localized = "So Audwin fell in battle.\nThe most reliable soldier you ever saw. Talk about guts!\nSo many troops owe Audwin their lives."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341574
+     1 string m_Localized = "So Nicolas Chominiatycz fell in battle.\nWasn’t a better spearman in the whole army.\nI wanted Nicolas Chominiatycz’s help to train the rookies. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341575
+     1 string m_Localized = "So David A. Stone fell in battle.\nHad a strange air, clad in that foreign armor,\nand a unique fighting style we could’ve learned from."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341576
+     1 string m_Localized = "So Sayaka fell in battle.\nGood soul, never could leave anyone alone in trouble.\nStepped up as a shield for others, no doubt."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341577
+     1 string m_Localized = "So AkinaR fell in battle.\nAte like a horse but was gentle as a lamb.\nWish I could see that chowhound eat again. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341578
+     1 string m_Localized = "So takemi fell in battle.\nA master of recon—had the eyes of an eagle.\nThis army needed those keen eyes..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341579
+     1 string m_Localized = "So Gao Tianwei fell in battle.\nA quiet, gentle soul, not cut out for war.\nWhen peace comes, the world will need people like that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341580
+     1 string m_Localized = "So Benjiman fell in battle.\nHad a great head for strategy.\nA mind like that could have found a way to make the world a better place."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341581
+     1 string m_Localized = "So surainu fell in battle.\nAs stubborn as me, but braver than anyone.\nA lot of troops looked up to that soldier. Died too soon. Terrible shame."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341582
+     1 string m_Localized = "So B.C. Lowry fell in battle.\nThat soldier could wield just about anything.\nTroops were heartened just by seeing B.C. Lowry on the front line."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341583
+     1 string m_Localized = "So Kin Cheuk Wong fell in battle.\nThat soldier had a strange charm that won everyone over.\nWish I’d asked what the secret was. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341584
+     1 string m_Localized = "So Cameron Phillips fell in battle.\nCould’ve entrusted that soldier with the whole darn army.\nWorth a thousand troops alone. Such a shame."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341585
+     1 string m_Localized = "So Ronald Junior Rivest-Trudel fell in battle.\nSoldier never let a fallen comrade go without a prayer.\nNow it’s our turn to offer our words."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341586
+     1 string m_Localized = "So GEN fell in battle.\nCharged across the battlefield alone on horseback.\nWish we could’ve passed those riding skills on to the others."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341587
+     1 string m_Localized = "So Wolvenmire Lyceius fell in battle.\nThe life of the party at the tavern, popular with everybody.\nStill feels like Wolvenmire Lyceius might be there if I go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341588
+     1 string m_Localized = "So Henel fell in battle.\nThe kind of soul who’d do anything for anyone.\nWe’re going to miss Henel’s devotion. Died too soon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341589
+     1 string m_Localized = "backer_talk_0103 EN"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341590
+     1 string m_Localized = "backer_talk_0104 EN"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341591
+     1 string m_Localized = "backer_talk_0105 EN"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341592
+     1 string m_Localized = "backer_talk_0106 EN"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341593
+     1 string m_Localized = "backer_talk_0107 EN"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 28968341594
+     1 string m_Localized = "backer_talk_0108 EN"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 7309712434884608
+     1 string m_Localized = "Not enough training, huh?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 7309712493604864
+     1 string m_Localized = "You can't afford to skip a single day!\nHard training always pays off!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311059247104
+     1 string m_Localized = "A one and two and three and four!\nExcuse me. I'm in the middle of a session.\nIf you wanna lead, you gotta bleed!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384448
+     1 string m_Localized = "If I'd pushed them harder,\nthey'd still be alive today..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384449
+     1 string m_Localized = "I see you never skip training.\nGood. Keep it up!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384450
+     1 string m_Localized = "Maureus' fitness is impressive.\nHe takes his training seriously."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384451
+     1 string m_Localized = "Your forces have excellent morale.\nI'm sure you train them well."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384452
+     1 string m_Localized = "Regular training can minimize the losses\nof a tactical retreat. Stay on target!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384453
+     1 string m_Localized = "Don't go getting yourself killed.\nCan't enjoy a victory if you die getting it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384454
+     1 string m_Localized = "The young lady's loss hits hard.\nDeath is a part of war, but...\nThat doesn't lessen the grief."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384455
+     1 string m_Localized = "Seize the momentum when you have it!\nDon't hold back!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44096311105384456
+     1 string m_Localized = "Peace is delicate. Like a flower.\nSo you gotta be ready to\ndefend it. Always."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

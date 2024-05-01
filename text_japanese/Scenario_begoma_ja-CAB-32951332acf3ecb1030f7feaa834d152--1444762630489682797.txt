@@ -1,0 +1,5458 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_begoma_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -2157362277994566369
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (679 items)
+   0 int size = 679
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5003071488
+     1 string m_Localized = "がははははは！　弱い！　弱いな！\n貴様のベーゴマなど、存在価値もない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460096
+     1 string m_Localized = "ちくしょう……オレのベーゴマが……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460097
+     1 string m_Localized = "悔しければ、強くなるんだな！\nもっとも、俺様には絶対に勝てないだろうが。\nがははははははは！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460098
+     1 string m_Localized = "くっ……オレがふがいないばかりに……\nすまなかった、オレのアブソリュートゼロ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460099
+     1 string m_Localized = "いったい、何が？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460100
+     1 string m_Localized = "ベーゴマバトルに……負けたんだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460101
+     1 string m_Localized = "オレのベーゴマは完膚なきまでに破壊された……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460102
+     1 string m_Localized = "アブソリュートゼロは\nオレがずっと苦楽を共にしてきた\nベーゴマだったのに……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460103
+     1 string m_Localized = "ベーゴマバトルって？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460104
+     1 string m_Localized = "………"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654400
+     1 string m_Localized = "お前もベーゴマバトルに興味があるのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654401
+     1 string m_Localized = "ある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654402
+     1 string m_Localized = "ない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654403
+     1 string m_Localized = "一応、興味は……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654404
+     1 string m_Localized = "それを知りたければ、この先にある\nドクター・コキトの屋敷に来るんだな。\nそこにベーゴマバトルの全てがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654405
+     1 string m_Localized = "オレもそこへ行く。\nゼロの仇を取るために……\nそれじゃあな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654406
+     1 string m_Localized = "ごめん……あんまり"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654407
+     1 string m_Localized = "そうか……\nだが、お前にはまた会う時が来る気がする……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654408
+     1 string m_Localized = "この先に、ドクター・コキトの屋敷がある。\nもし興味が湧いたなら、訪ねると良い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654409
+     1 string m_Localized = "そこにベーゴマバトルの全てがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654410
+     1 string m_Localized = "おれは先に行く。\nあいつの……ゼロの仇を取らなきゃな……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654411
+     1 string m_Localized = "よく来たな！　\n新たなるベーゴマの戦士、ノアよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654412
+     1 string m_Localized = "あ、新たなる……ベーゴマの戦士？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654413
+     1 string m_Localized = "君にはこれから、ベーゴマの戦士として\n数多の強敵と戦い、ベーゴマの真理を\n明かして欲しいのだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654414
+     1 string m_Localized = "ベーゴマの真理って……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654415
+     1 string m_Localized = "ベーゴマバトルは人と人の意志のぶつかり合いだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654416
+     1 string m_Localized = "ベーゴマの回転……この不可思議な動きには\n人の意志が介在しておるとわしは考えておる。\nすなわち、ベーゴマとは命の在り方！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654417
+     1 string m_Localized = "えっ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654418
+     1 string m_Localized = "この小さなベーゴマにそんな力が……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654419
+     1 string m_Localized = "そうだ。\n君には日々、様々な悩みがあるだろう。\nその悩みも、きっとベーゴマが解き明かしてくれる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654420
+     1 string m_Localized = "なぜなら、ベーゴマとは君の意志そのものだからだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654421
+     1 string m_Localized = "俺の意志……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654422
+     1 string m_Localized = "さあ、その３種類のベーゴマから\n好きなものを選びたまえ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654423
+     1 string m_Localized = "そして、熱く激しいベーゴマバトルへと\nその身を投じるのだ！\nその意志を世界へと示したまえ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654424
+     1 string m_Localized = "わかった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654425
+     1 string m_Localized = "えっ、今のでわかったの！？\n私にはさっぱりわからないけど……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654426
+     1 string m_Localized = "ベーゴマを見たときから感じていたんだ。\nこれには、何か不思議な力があるって。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654427
+     1 string m_Localized = "うむ、それでこそ、ベーゴマの戦士だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654428
+     1 string m_Localized = "ここに三つのベーゴマがある、\n炎のベーゴマ、水のベーゴマ、風のベーゴマ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654429
+     1 string m_Localized = "お前の最初の相棒を選ぶのだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654430
+     1 string m_Localized = "炎のベーゴマ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654431
+     1 string m_Localized = "水のベーゴマ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654432
+     1 string m_Localized = "風のベーゴマ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654433
+     1 string m_Localized = "俺はこの炎のベーゴマを選ぶぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654434
+     1 string m_Localized = "ほう、炎のごとく熱い意志か……\n良いだろう、君の選択を祝福しよう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654435
+     1 string m_Localized = "俺は水のベーゴマを選ぶよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654436
+     1 string m_Localized = "水の流れとベーゴマの回転は同じ……\nうむ、良い選択をしたな、ベーゴマの戦士よ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654437
+     1 string m_Localized = "俺は風のベーゴマを選ぶ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654438
+     1 string m_Localized = "吹き荒れる風のごときベーゴマか……\n君は良い目をしている。\nそのまま突き進みたまえ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654439
+     1 string m_Localized = "それで、これを……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654440
+     1 string m_Localized = "まずは、名付けてやると良い。\nこれから、お前と戦う相棒なのだから。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654441
+     1 string m_Localized = "ああ、俺のベーゴマたち……\n　そう、ベーゴマヒーローズだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654442
+     1 string m_Localized = "良い名だ。\nなら、さっそく初陣といくべきだな。\nちょうど――"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654443
+     1 string m_Localized = "やっぱり来たか。\nお前にはベーゴマの戦士としての素質があると\n思っていたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654444
+     1 string m_Localized = "君は……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654445
+     1 string m_Localized = "オレの名はリード。\nお前と同じ、ベーゴマに心を賭けた戦士だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654446
+     1 string m_Localized = "おお、よいところに来たな、リード。\n新たなる戦士の誕生を祝い、バトルしてやってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654447
+     1 string m_Localized = "百聞は一見にしかず。\nどんなベーゴマも回してみなければわからない。\nお前のベーゴマはどんな回転を見せるんだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654448
+     1 string m_Localized = "まだわからない"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848704
+     1 string m_Localized = "俺の心のままに"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848705
+     1 string m_Localized = "まだわからない"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848706
+     1 string m_Localized = "それもそうか。\nお前はベーゴマを選んだばかりだからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848707
+     1 string m_Localized = "だけど、きっと回せば、わかる！\n俺の心の在りようが！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848708
+     1 string m_Localized = "俺の心のままに！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848709
+     1 string m_Localized = "ベーゴマを握ったばかりのひよっこが\nえらそうな口を聞くもんだな。\nだが、嫌いじゃないぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848710
+     1 string m_Localized = "ああ、ぜひ、見てくれ。\n俺の心の在りようを！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848711
+     1 string m_Localized = "いい言葉だ。わかった。\nお前とベーゴマバトルをしてやろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848712
+     1 string m_Localized = "ただし、ベーゴマに巻き付ける紐の回数\nそれに投げる角度……オレは全て計算済みだ。\nオレの勝率は１００％だな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848713
+     1 string m_Localized = "望むところだ！\n勝負はベーゴマを回してみるまでわからない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848714
+     1 string m_Localized = "俺とネオアブソリュートゼロの力、見せてやるぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848715
+     1 string m_Localized = "ああ、行くぞ、俺のベーゴマヒーローズ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848716
+     1 string m_Localized = "なら、勝負だ！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848717
+     1 string m_Localized = "バトルスタートだっ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848718
+     1 string m_Localized = "くっ……このオレが負けるだなんて……！\n計算違いだっっ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848719
+     1 string m_Localized = "こんなことじゃ、ゼロの仇を討つなんて"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848720
+     1 string m_Localized = "リード、お前もまだまだベーゴマの入り口に\n立ったばかり\n油断せず、精進を重ねるが良い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848721
+     1 string m_Localized = "そんなことはわかってる！\nいいか、ノア！　\n次はもっと完璧な計算で相手をしてやる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848722
+     1 string m_Localized = "絶対に、絶対に、負けないんだからな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848723
+     1 string m_Localized = "ベーゴマの戦士はリードだけでなく\n世界中に散らばっておる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848724
+     1 string m_Localized = "その全てと戦い、勝利するのだ、ノアよ。\nそうすれば、君はベーゴマの真理と\n素晴らしい宝を手に入れるだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848725
+     1 string m_Localized = "ああ、俺、頑張るよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848726
+     1 string m_Localized = "オレの勝ちだ。\nやっぱり、オレの計算は完璧だったな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848727
+     1 string m_Localized = "ベーゴマバトル……奥が深いな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848728
+     1 string m_Localized = "当然だ。一朝一夕に勝たれちゃ困る。\nだが、お前、スジは悪くないぜ。\nおもしろいバトルだった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848729
+     1 string m_Localized = "お前がもう一度、戦うっていうのなら\nいつでも相手はしてやる。\n待ってるからな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848730
+     1 string m_Localized = "おっ、今日もバトルしにきたのか？\nいいぜ、オレはいつでも相手になってやる。\n今日もオレの計算は完璧だけどな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848731
+     1 string m_Localized = "いくぜ、ベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848732
+     1 string m_Localized = "バトルスタート！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848733
+     1 string m_Localized = "やーりぃ！\nオレのファングオブドラゴンの勝ちっすね！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848734
+     1 string m_Localized = "ちぇっ……負けちゃった。\n次は絶対に勝つんだからなー！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848735
+     1 string m_Localized = "へへっ、何回勝負したって、オレの勝ちっすよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848736
+     1 string m_Localized = "ちょっといいかな？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848737
+     1 string m_Localized = "ん？　\nアンタ、もしかしてベーゴマの戦士っすか！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848738
+     1 string m_Localized = "ああ、俺はノア。\n最近、ベーゴマの戦士になったばかりだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848739
+     1 string m_Localized = "ノアったら、すっかりベーゴマにハマっちゃって……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848740
+     1 string m_Localized = "それはちょうどいいところに来たっす！\nぜひ、オレと勝負するっす！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848741
+     1 string m_Localized = "オレはタックって言うっす！\nオレも最近、ベーゴマの戦士になったばっかりで\n対戦相手を探してるんっすよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848742
+     1 string m_Localized = "ベーゴマは強い相手と戦えば戦うほど強くなれるっす！\nだから、オレは戦う相手を探してるんっすよ！\nどうっす？　オレとベーゴマバトルするっす！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848743
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848744
+     1 string m_Localized = "受けて立つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848745
+     1 string m_Localized = "少し待って欲しい。\n準備をしてから対戦したいんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848746
+     1 string m_Localized = "しかたないっすね！\nでも、準備ができたらすぐに声をかけてくださいっす！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848747
+     1 string m_Localized = "準備はオーケーっすか！？\nオレとベーゴマバトルするっすよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848748
+     1 string m_Localized = "わかった。\nその勝負、受けて立つよ。\nベーゴマの戦士として！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848749
+     1 string m_Localized = "そうこなくっちゃっす！\nなら、さっそく勝負するっすよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848750
+     1 string m_Localized = "オレのファングオブドラゴンは\n攻撃に特化したベーゴマ。\n攻撃は最大の防御って言うっす！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848751
+     1 string m_Localized = "アンタのベーゴマ、吹き飛ばしてやるっすよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043008
+     1 string m_Localized = "俺のベーゴマヒーローズだって、負けはしない。\n俺の意思を、心の回転を見せてやるさ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043009
+     1 string m_Localized = "なら、勝負っす！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043010
+     1 string m_Localized = "バトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043011
+     1 string m_Localized = "ううっ……俺のドラゴンが負けたっす……\n攻撃だけじゃダメだったっすか……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043012
+     1 string m_Localized = "そんなことはない。\n君のベーゴマは強敵だった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043013
+     1 string m_Localized = "ありがとうっす！\nこの負けを生かして、オレはもっと強くなるっす！\nそうしたら、また戦うっすよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043014
+     1 string m_Localized = "ああ、もちろんだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043015
+     1 string m_Localized = "やーりぃ！\nオレとドラゴンの勝ちっすね！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043016
+     1 string m_Localized = "負けちゃったか……ごめんな、ベーゴマヒーローズ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043017
+     1 string m_Localized = "でも、アンタ、強敵だったっすよ。\nアンタみたいなやつとなら、\nまたいつでも戦いたいっす！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043018
+     1 string m_Localized = "ぜひ、またベーゴマバトルしたいっすよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043019
+     1 string m_Localized = "ああ、次は必ずリベンジしてみせる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043020
+     1 string m_Localized = "おっ、ベーゴマバトルするっすか！？\n待ちくたびれてたっすよ！\n早く早く、ベーゴマバトルするっす！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043021
+     1 string m_Localized = "ああ、早くやろう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043022
+     1 string m_Localized = "行くっすよ、ファングオブドラゴン！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043023
+     1 string m_Localized = "バトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043024
+     1 string m_Localized = "うぅ……ぼくのベーゴマぁ～…………"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043025
+     1 string m_Localized = "待たせたな。\n君のベーゴマを修理してきたぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043026
+     1 string m_Localized = "やったぁ～！\n会いたかったよぉ～。ぼくのギガントフィスト！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043027
+     1 string m_Localized = "お待たせ、ガードナー君。\n君のベーゴマを修理してきたぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043028
+     1 string m_Localized = "やったぁ～！\nベーゴマができなくて、ずっとさみしかったよぉ～。\nおかえり、ぼくのギガントフィスト！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043029
+     1 string m_Localized = "ドクター・コキト、おひさしぶりです。\nベーゴマの修理って、もしかして……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043030
+     1 string m_Localized = "ああ、対戦相手のベーゴマをことごとく\n破壊してしまう恐るべきベーゴマの使い手が\nまた現れたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043031
+     1 string m_Localized = "まったく、ベーゴマの戦士の風上にも置けん。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043032
+     1 string m_Localized = "ぼくのベーゴマもめちゃくちゃにされちゃったんだぁ～。\n本当にひどかったんだよぉ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043033
+     1 string m_Localized = "でも、もうすっかり綺麗に直ったよ。\nありがとう、ドクター・コキト！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043034
+     1 string m_Localized = "ベーゴマを破壊するヤツか……許せないな"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043035
+     1 string m_Localized = "うん、みんなが大事にしているものを\n破壊するなんて、許せないよねー"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043036
+     1 string m_Localized = "君もベーゴマを続けるのなら、いずれはそいつと\n戦うことになるだろう。\nその日まで精進を続けるのだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043037
+     1 string m_Localized = "わかった。\n俺はそんなやつに負けたりはしない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043038
+     1 string m_Localized = "でもでも、あいつは本当に強かったよ～。\n見たところ、今の君じゃ敵わないかも……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043039
+     1 string m_Localized = "そんなに強いのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043040
+     1 string m_Localized = "そうだよぉ～。\n見たところ、君もベーゴマの戦士なんだよねぇ～？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043041
+     1 string m_Localized = "そうだよ。\nすっかりベーゴマの熱さに魅せられてしまったんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043042
+     1 string m_Localized = "わかるよぉ～。\nベーゴマはね、すっごくすっごく楽しいんだぁ～。\n気持ちを乗せると、それが伝わるんだよぉ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043043
+     1 string m_Localized = "その気持ちは俺もわかるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043044
+     1 string m_Localized = "でもあいつ……クラッシュにはそんな気持ち\nぜんぜん通じなかったんだぁ～。\nくやしいよ、ぼく、もっと強くなりたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043045
+     1 string m_Localized = "そのためにもベーゴマバトルがしたいんだ！\nぼく、君とならすごく楽しいバトルができそうだ。\nねえ、ぼくとベーゴマバトルしてくれないかなぁ～？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043046
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043047
+     1 string m_Localized = "もちろん！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043048
+     1 string m_Localized = "少し待って欲しい。\nバトルの準備をしたいんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043049
+     1 string m_Localized = "もちろん、かまわないよぉ～。\nぼく、のんびり、おやつを食べながら待ってるから\nいつでも声をかけてねぇ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043050
+     1 string m_Localized = "もう準備はできたぁ～？\nぼく、君と戦いたくてうずうずしてたんだぁ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043051
+     1 string m_Localized = "うれしいなぁ～。\nぼくはね、ガードナーって言うんだぁ～。\nこっちは相棒のギガントフィストだよぉ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043052
+     1 string m_Localized = "俺はノア。\nそれと相棒のベーゴマのベーゴマヒーローズだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043053
+     1 string m_Localized = "わぁ、いいベーゴマだねぇ～。\nでも、ぼくのベーゴマだって負けてないよぉ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043054
+     1 string m_Localized = "ぼくのベーゴマはね、とにかく硬いんだぁ～。\n君にその防御が破れるかなぁ～？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043055
+     1 string m_Localized = "勝負はベーゴマを回してみるまでわからないさ。\n俺のベーゴマヒーローズと意思が、\nきっとお前のベーゴマを打ち破る！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237312
+     1 string m_Localized = "ぼく、すっごいわくわくしてきた！\nよし、早く勝負しよう！\nいくよ、ギガントフィスト！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237313
+     1 string m_Localized = "いくぜ、ベーゴマヒーローズ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237314
+     1 string m_Localized = "それじゃ……勝負開始だ！\nベーゴマバトルスタンバイ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237315
+     1 string m_Localized = "バトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237316
+     1 string m_Localized = "俺の……勝ちだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237317
+     1 string m_Localized = "うう～ん……負けちゃったか～。\n残念だったなぁ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237318
+     1 string m_Localized = "でも、さすがの硬さだった。\nもう少しで負けるかと思ったよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237319
+     1 string m_Localized = "ううん～。\n君のベーゴマと君の心の方が強かっただけだよぉ～。\nきっと、君はもっともっと強くなるよぉ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237320
+     1 string m_Localized = "そうだといいな。\nクラッシュに勝てるくらい、強くならないと。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237321
+     1 string m_Localized = "そのためには、勝負も終わったし、おやつにしよぉ～。\n強くなるためには、たくさん食べなきゃねぇ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237322
+     1 string m_Localized = "やったぁ～！\nぼくの勝ちだねぇ～！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237323
+     1 string m_Localized = "負けちゃったか……。\nごめんな、俺のベーゴマヒーローズ……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237324
+     1 string m_Localized = "でも、君、すっごく強かったねぇ～。\n君みたいな人となら、ぼく、また戦いたいなぁ～。\n楽しいバトルのあとはおやつがおいしいしねぇ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237325
+     1 string m_Localized = "だから、またいつでもバトルしようよ！\nぼくはここで練習してるからさぁ～。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237326
+     1 string m_Localized = "また来てくれたんだね～。\n嬉しいなぁ～。\nそれじゃ、さっそくベーゴマバトルしようか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237327
+     1 string m_Localized = "ああ、望むところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237328
+     1 string m_Localized = "いくよぉ～、ぼくのギガントフィスト！\nベーゴマバトルスタンバイ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237329
+     1 string m_Localized = "バトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237330
+     1 string m_Localized = "ねえねえっ、お話してくれたってことは\nあなたってば、ベーゴマの戦士なの？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237331
+     1 string m_Localized = "そうだよ。俺はベーゴマの戦士、ノアだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237332
+     1 string m_Localized = "やっぱり！\nあ！　でも、まさか……\nあなた、クラッシュの手先じゃないよね？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237333
+     1 string m_Localized = "クラッシュって\nあのベーゴマを破壊して回ってるってヤツ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237334
+     1 string m_Localized = "そう！　\nいろんな子が被害にあってるんだから！\nもう絶対に許せない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237335
+     1 string m_Localized = "俺はそんなやつの仲間じゃないよ。\nむしろ、そいつを倒したいんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237336
+     1 string m_Localized = "そうなんだ！　\nじゃあアタシの仲間だね！\n一緒にもっともっと強くなろ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237337
+     1 string m_Localized = "ああ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237338
+     1 string m_Localized = "ねえねえ！　そのためにもベーゴマバトルしない！？\nアタシ、ベーゴマバトル、大好きなんだ！\nもちろん、あなただって大好きでしょ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237339
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237340
+     1 string m_Localized = "うん、すぐにやろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237341
+     1 string m_Localized = "少し待って欲しい。\n準備をしてからにしたいんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237342
+     1 string m_Localized = "しかたないなあ、いいよ！\n少しくらいなら、待ってあげる。\nでも、あんまり待たせちゃイヤだからね？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237343
+     1 string m_Localized = "ベーゴマバトルはスピードが勝負なの。\n女の子との約束だってそうなんだから！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237344
+     1 string m_Localized = "やっと来てくれたんだ！\nもうっ、ずっと待ってたんだからねっ！\n早くベーゴマバトルしようよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237345
+     1 string m_Localized = "うん、すぐにやろう。\n俺もベーゴマバトルしたくてうずうずしてたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [189]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237346
+     1 string m_Localized = "やれやれ……ノアもすっかりベーゴマの戦士だな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [190]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237347
+     1 string m_Localized = "うんうんっ！　\nベーゴマバトルってくせになるよね！\nその気持ち、わかるよー！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [191]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237348
+     1 string m_Localized = "アタシまで、くるくる回りたくなっちゃう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [192]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237349
+     1 string m_Localized = "えへへっ、アタシのベーゴマ、プリティチーターは\nとってもとっても速いんだよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [193]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237350
+     1 string m_Localized = "かけっこもベーゴマも速い方が強いんだから！\nこの勝負、アタシの勝ちだね！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [194]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237351
+     1 string m_Localized = "勝負はベーゴマを回してみるまでわからないさ。\n俺のベーゴマヒーローズだって、\n君のベーゴマに負けてない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [195]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237352
+     1 string m_Localized = "わお！　たしかにいいベーゴマだね！\n勝負するのが楽しみになってきちゃった！\nいつもより、くるくる回っちゃう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [196]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237353
+     1 string m_Localized = "さあ、勝負を始めよう！\nいくぞ、俺のベーゴマヒーローズ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [197]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237354
+     1 string m_Localized = "うんっ、いっけぇ！　\nアタシのプリティチーター！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [198]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237355
+     1 string m_Localized = "ベーゴマバトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [199]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237356
+     1 string m_Localized = "やった！　俺の勝ちだね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [200]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237357
+     1 string m_Localized = "あーん、負けちゃったぁ～！\nアタシのスピードがかなわないなんて～！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [201]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237358
+     1 string m_Localized = "でも、すごく速いベーゴマだったよ。\nベーゴマにもいろんな強さがあるんだね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [202]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237359
+     1 string m_Localized = "そうよ！　\nベーゴマの強さは無限大なんだから！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [203]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431616
+     1 string m_Localized = "そういえば、あなたのちょっと前に戦った子も\nすごく強くて……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [204]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431617
+     1 string m_Localized = "順調に腕を上げているようだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [205]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431618
+     1 string m_Localized = "リード！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [206]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431619
+     1 string m_Localized = "あっ！　\nあの子よ、この間、アタシに勝ったの！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [207]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431620
+     1 string m_Localized = "お前が腕を磨いている間に\n俺も強くなっていたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [208]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431621
+     1 string m_Localized = "今度こそ負けないぞ。\nドクター・コキトの屋敷で待ってるからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [209]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431622
+     1 string m_Localized = "なんだかライバルって感じでかっこいい～。\n頑張ってね、ノア！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [210]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431623
+     1 string m_Localized = "ありがとう。頑張って勝つよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [211]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431624
+     1 string m_Localized = "やったやった！　勝ったー！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [212]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431625
+     1 string m_Localized = "負けちゃったか……\nごめんな、俺のベーゴマヒーローズ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [213]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431626
+     1 string m_Localized = "でもでもっ、ノアのベーゴマヒーローズだって\nすーっごく強かったよ！\n戦ってて、とってもとっても楽しかった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [214]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431627
+     1 string m_Localized = "だから、ノアさえよければまたバトルしよ！\nアタシはいつも、ここで遊んでるから！\n待ってるよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [215]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431628
+     1 string m_Localized = "また来てくれたんだね！\nふふっ、今度も勝っちゃうんだから！\nアタシの超スピードベーゴマでね！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [216]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431629
+     1 string m_Localized = "今度こそ、負けないぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [217]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431630
+     1 string m_Localized = "なら、勝負だよっ！\nいっけぇ！　アタシのプリティチーター！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [218]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431631
+     1 string m_Localized = "ベーゴマバトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [219]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431632
+     1 string m_Localized = "よくぞ再び、この屋敷を訪れたな、ノア！\nわしは首を長くして待っておったぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [220]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431633
+     1 string m_Localized = "君の活躍は各地にいる\nベーゴマの戦士たちからも聞いておる！\nなかなかの成長ぶりのようじゃないか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [221]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431634
+     1 string m_Localized = "ところで、君も聞き及んでいるとは思うが\nクラッシュという男がベーゴマを破壊して回っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [222]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431635
+     1 string m_Localized = "ヤツは破壊こそがベーゴマの本質と考える\n許しがたい男だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [223]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431636
+     1 string m_Localized = "その話は何度か聞いてる。\n俺もベーゴマを破壊するなんて許せない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [224]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431637
+     1 string m_Localized = "そうだろうそうだろう。\nそして、それだけでなく、ヤツの思想に\n賛同するものもいるらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [225]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431638
+     1 string m_Localized = "嘆かわしいばかりだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [226]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431639
+     1 string m_Localized = "そんなヤツがいるのか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [227]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431640
+     1 string m_Localized = "ああ、この近くにもいるようだ。\nどうか、気をつけてほしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [228]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431641
+     1 string m_Localized = "そこで、君にもっとベーゴマの戦士として\n強くなってもらうためにもわしの屋敷を\n君の本拠地に移したいのだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [229]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431642
+     1 string m_Localized = "ありていに言えば、君の仲間になりたい。\nむろん、ベーゴマについてもそれ以外でも\n役に立つと約束しよう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [230]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431643
+     1 string m_Localized = "かまわない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [231]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431644
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [232]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431645
+     1 string m_Localized = "かまわない。\nむしろ、俺も仲間になって欲しかった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [233]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431646
+     1 string m_Localized = "おお、ではさっそく本拠地に\n本格的なベーゴマ研究所を設立しよう！\n感謝するぞ、ベーゴマの戦士ノア！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [234]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431647
+     1 string m_Localized = "では、私はさっそく本拠地へ行って\n研究所を設立する。\nリードにはそこへ来るように伝言を出そう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [235]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431648
+     1 string m_Localized = "君も準備ができ次第、本拠地の\nベーゴマ研究所に来てくれたまえ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [236]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431649
+     1 string m_Localized = "少し待って欲しい。\n研究所を建てるための準備をするから。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [237]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431650
+     1 string m_Localized = "それではしかたない。\nしばし、待つとしよう。\n準備が出来たら、声をかけてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431651
+     1 string m_Localized = "ベーゴマ研究所設立の準備はできたかね？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431652
+     1 string m_Localized = "準備ができたよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431653
+     1 string m_Localized = "おお、ではさっそく本拠地に\n本格的なベーゴマ研究所を設立しよう！\n感謝するぞ、ベーゴマの戦士ノア！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431654
+     1 string m_Localized = "では、私はさっそく本拠地へと行って\n研究所を設立する。\nリードにはそこへ来るように伝言を出そう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [242]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431655
+     1 string m_Localized = "君も準備ができ次第、本拠地の\nベーゴマ研究所に来てくれたまえ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [243]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431656
+     1 string m_Localized = "見てくれたまえ、この立派な研究所を！\nここならばベーゴマの真理を解き明かせる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [244]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431657
+     1 string m_Localized = "俺もバトルを重ねて強くなるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [245]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431658
+     1 string m_Localized = "うむ、それがいいだろう。\nベーゴマは戦えば戦うほど強くなり、\nその真理に近づくことができる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [246]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431659
+     1 string m_Localized = "ぜひ、君には素晴らしいバトルを\nたくさん経験してほしいものだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [247]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431660
+     1 string m_Localized = "いつまで２人でおしゃべりしてるんだ。\nオレはずっと待ってるんだぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [248]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431661
+     1 string m_Localized = "おお、これはすまんかったな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [249]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431662
+     1 string m_Localized = "ったく、急に引っ越すからびっくりしたぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [250]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431663
+     1 string m_Localized = "ずいぶん修行を積んだみたいだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [251]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431664
+     1 string m_Localized = "ああ、お前もあちこちでバトルしてきたみたいだが、\nそれはオレだって同じことだ。\n今度こそ、負けないぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [252]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431665
+     1 string m_Localized = "勝負だ、ノア！\nオレとネオアブソリュートゼロの力を\n思い知らせてやる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [253]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625920
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [254]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625921
+     1 string m_Localized = "望むところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625922
+     1 string m_Localized = "少し待って欲しい。\n勝負のために万全の準備がしたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625923
+     1 string m_Localized = "それは当然のことだな。\nよし、お前の準備が整うまで待ってやる。\n準備ができたら、かかってこい！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625924
+     1 string m_Localized = "もう準備はできたのか？\nオレの方はとっくに準備万端だぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625925
+     1 string m_Localized = "望むところだ。\n受けて立つよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625926
+     1 string m_Localized = "そう来なくっちゃな。\n前回の反省を踏まえて、\nオレの計算はさらに精度を増した。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625927
+     1 string m_Localized = "今度こそ、オレの勝利の確率は１００％だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625928
+     1 string m_Localized = "勝負はベーゴマを回すまでわからないさ。\n俺は俺と、俺のベーゴマヒーローズを信じている！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625929
+     1 string m_Localized = "相変わらずのいい目だ。\nそれでこそ、俺とゼロのライバルにふさわしいぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625930
+     1 string m_Localized = "さあ、勝負だ。いくぞ……ベーゴマヒーローズ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625931
+     1 string m_Localized = "ああ、オレとゼロの力を見せてやる！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625932
+     1 string m_Localized = "ベーゴマバトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625933
+     1 string m_Localized = "ふっ、今回はオレとゼロの勝ちだな。\nやはり、オレの計算は完璧だった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625934
+     1 string m_Localized = "負けちゃったか……ごめんな、ベーゴマヒーローズ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625935
+     1 string m_Localized = "だが、お前も腕を上げたな。\nお前みたいなヤツと戦うのは楽しいし\nいい修行にもなる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625936
+     1 string m_Localized = "何度だって、かかってこい。\nま、次もオレが勝つけどな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625937
+     1 string m_Localized = "再戦か？　いいぜ、相手してやる。\n今日のオレは絶好調だからな。\n勝利の確率は１００％だぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625938
+     1 string m_Localized = "それでもいいなら、かかってこい。\nオレとゼロの力、見せてやるぜ！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625939
+     1 string m_Localized = "ベーゴマバトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625940
+     1 string m_Localized = "やった……！　勝ったぞ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625941
+     1 string m_Localized = "くっ……\nこのオレが２度も同じ相手に負けるだなんて！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625942
+     1 string m_Localized = "でも、リードも強くなってた。\nびっくりしたよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625943
+     1 string m_Localized = "当たり前だ。\nオレはいずれ最強のベーゴマの戦士になるんだからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625944
+     1 string m_Localized = "俺も……最強のベーゴマの戦士になりたい。\n気持ちでは負けないよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625945
+     1 string m_Localized = "なら、オレたちはこれからもライバルだ。\nまた戦おうぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625946
+     1 string m_Localized = "まったく君たちはいいライバルだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625947
+     1 string m_Localized = "ところで先ほど言っていた\nクラッシュの手先についての情報が入った。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625948
+     1 string m_Localized = "ベーゴマヒーローズの街にその手先がいるらしい。\nベーゴマ界の平和のために倒してはくれんか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625949
+     1 string m_Localized = "わかった。\nクラッシュのことは俺も放っておけないし\nベーゴマヒーローズの街に寄ったら、覚えておくよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625950
+     1 string m_Localized = "頼んだぞ、ノア。\nわしが見込んだベーゴマの戦士よ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625951
+     1 string m_Localized = "どうだ？　\nくだらないベーゴマの破壊は進んでいるか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625952
+     1 string m_Localized = "キシシッ、オレっちの毒にかかれば\nどんなベーゴマだって錆び錆びだぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [286]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625953
+     1 string m_Localized = "ふっ、ははははははははは！\nそれでいい！　弱いベーゴマなどこの世には不要！\nどんどん破壊して回るがいいわ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [287]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625954
+     1 string m_Localized = "へいへい、心得てるってばよ。\n次はどいつのベーゴマを破壊してやるかねぇ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [288]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625955
+     1 string m_Localized = "最近、調子に乗ってるリードってクソガキでも\n狙ってやろうか……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [289]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625956
+     1 string m_Localized = "誰をやろうがお前に任せる。\n好きにしろ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [290]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625957
+     1 string m_Localized = "へいへい……さーて獲物を探しに行くとするかねぇ～"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [291]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625958
+     1 string m_Localized = "待て！\nお前たちがクラッシュとその一味だな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [292]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625959
+     1 string m_Localized = "だったら、どうしたぁ？\nあ？　もしかして、お前もベーゴマの戦士なのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [293]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625960
+     1 string m_Localized = "そうだ！\n俺はベーゴマの戦士、ノアだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [294]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625961
+     1 string m_Localized = "あんなこと言ってるぜぇ、ボス。\nどうする？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [295]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625962
+     1 string m_Localized = "ふん、あんな弱そうな男は俺が相手するまでもない。\nお前で十分だろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [296]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625963
+     1 string m_Localized = "へいへいっと。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [297]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625964
+     1 string m_Localized = "俺は四天王狩りの準備で忙しい。\nもう行く。\nそのくだらないベーゴマを壊しておけ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [298]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625965
+     1 string m_Localized = "アイアイサーっと！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [299]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625966
+     1 string m_Localized = "待て！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [300]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625967
+     1 string m_Localized = "おおっと、行かせないぜぇ～。\nお前の相手はオレっちだよ。\nそれとも逃げるっていうのかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [301]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625968
+     1 string m_Localized = "誰が逃げるものか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [302]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820224
+     1 string m_Localized = "そうだよ！　\nノアは逃げたりしないんだから！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [303]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820225
+     1 string m_Localized = "へっへっへ、そうこなくっちゃなあ。\nオレっちはヴェノム。\n相棒はこのスネークバイトさぁ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [304]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820226
+     1 string m_Localized = "オレっちのベーゴマには毒が仕込んである。\nうかつに触れると、毒が回って\nお前のベーゴマは錆び錆びってわけよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [305]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820227
+     1 string m_Localized = "卑怯な……！\nだけど、俺もベーゴマヒーローズも\nそんな毒には負けない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [306]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820228
+     1 string m_Localized = "威勢が良いじゃねえか、坊主。\nだったら、その身で味わってみるんだな！\n猛毒蛇の一撃をよぉ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [307]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820229
+     1 string m_Localized = "お前に壊されたみんなのベーゴマの仇を\nとらせてもらう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [308]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820230
+     1 string m_Localized = "楽しみだぜぇ！\nそのピカピカな心がベーゴマごと錆びつくのが！\nさあ、ベーゴマバトルスタンバイ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [309]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820231
+     1 string m_Localized = "ベーゴマバトルスタートだっ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [310]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820232
+     1 string m_Localized = "そんな……俺のベーゴマヒーローズが……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [311]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820233
+     1 string m_Localized = "キシシッ、何度やってもたまらねえなぁ！\nピカピカのベーゴマが錆びついていくのはよぉ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [312]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820234
+     1 string m_Localized = "見てろよ……必ずもう一度きれいに直して\n今度こそ、お前を叩きのめしてやる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [313]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820235
+     1 string m_Localized = "やれるもんならやってみろよ。\nまあ、何度やっても結果は同じだろうがな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [314]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820236
+     1 string m_Localized = "なんだなんだ、またやられにきやがったのか？\nいいぜ、何度でもボロボロにしてやるよぉ！\nベーゴマバトルスタンバイ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [315]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820237
+     1 string m_Localized = "ベーゴマバトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [316]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820238
+     1 string m_Localized = "オレっちが負けただと……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [317]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820239
+     1 string m_Localized = "俺の勝ちだな。\nもうみんなのベーゴマに手出しはさせないぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [318]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820240
+     1 string m_Localized = "あああっっ！\nオレっち自身の毒で、\nスネークバイトがボロボロに……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [319]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820241
+     1 string m_Localized = "ちくしょう！　ちくしょう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [320]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820242
+     1 string m_Localized = "お前が感じているその悔しさは\nお前が今まで負かしてきたみんなが感じてたものだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [321]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820243
+     1 string m_Localized = "くそっ……！\nだが、お前ごときじゃ絶対ボスには敵わねえ！\nボスに完膚なきまでに破壊されちまえ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [322]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820244
+     1 string m_Localized = "いいバトルだった。\nますます腕を上げたな、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [323]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820245
+     1 string m_Localized = "リード！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [324]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820246
+     1 string m_Localized = "ヴェノム退治は先を越されたが\n四天王に先に勝つのはオレだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [325]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820247
+     1 string m_Localized = "どのみち、クラッシュに勝つためには\n四天王に勝てるくらいの実力が必要だからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [326]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820248
+     1 string m_Localized = "四天王？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [327]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820249
+     1 string m_Localized = "なんだ、知らないのか。\n四天王ってのは火水風土それぞれの力を操る\nベーゴマの戦士たちだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [328]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820250
+     1 string m_Localized = "それぞれがクラッシュに匹敵する力を\n持ってると言われてる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [329]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820251
+     1 string m_Localized = "すごいんだな……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [330]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820252
+     1 string m_Localized = "ここから一番近い四天王はグリュム伯領の\nエルンサイドに住む土の四天王ドーンだ。\nオレはまず、そいつに挑みに行く。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [331]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820253
+     1 string m_Localized = "お前もクラッシュと戦うつもりなら\n行けばいいさ。\nもっともその前にオレがヤツを倒すけどな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [332]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820254
+     1 string m_Localized = "くっ……今回はオレの負けか……\n計算が甘かったというのか……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [333]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820255
+     1 string m_Localized = "お、おでのベーゴマ、大地が味方する。\n誰にも、おでのベーゴマ、倒せない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [334]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820256
+     1 string m_Localized = "いいや、そんなことはない！\n次こそ、お前のベーゴマを倒す計算を\n完成させてみせる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [335]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820257
+     1 string m_Localized = "お前、気持ちのいいやつ。\nおで、いつでも待ってる。\n好きなとき、戦いに来い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [336]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820258
+     1 string m_Localized = "ああ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [337]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820259
+     1 string m_Localized = "ノア、お前も来たのか。\n見てのとおり、あいつは強いぞ。\nオレはもう一度修行し直してくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [338]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820260
+     1 string m_Localized = "それじゃあな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [339]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820261
+     1 string m_Localized = "なんだ？　お前、あいつと、友達か？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [340]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820262
+     1 string m_Localized = "友達だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [341]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820263
+     1 string m_Localized = "ライバルだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [342]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820264
+     1 string m_Localized = "ベーゴマを通じてできた友達だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [343]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820265
+     1 string m_Localized = "いいことだ。\nベーゴマで結ばれた友情、とても熱い。\nとても大事。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [344]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820266
+     1 string m_Localized = "かけがえのないライバルだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [345]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820267
+     1 string m_Localized = "すばらしい。\nベーゴマ、ライバルいると、楽しい。\nどんどん、強くなれる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [346]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820268
+     1 string m_Localized = "ということは、お前、ベーゴマの戦士か。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [347]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820269
+     1 string m_Localized = "そうだ、俺はベーゴマの戦士、ノア。\nこっちは相棒のベーゴマヒーローズだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [348]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820270
+     1 string m_Localized = "おで、ドーンだ。\n相棒はアースオブパワー。\nかたくて、強いぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [349]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820271
+     1 string m_Localized = "そういえば……\nクラッシュって男を知っているか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [350]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820272
+     1 string m_Localized = "知ってる。\nベーゴマ壊す、悪いヤツだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [351]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820273
+     1 string m_Localized = "そいつが、四天王狩りを企んでるらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [352]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014528
+     1 string m_Localized = "なんだと！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [353]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014529
+     1 string m_Localized = "まだ来ていないなら、気をつけて欲しい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [354]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014530
+     1 string m_Localized = "安心しろ。おでのベーゴマは強い。\n簡単に、負けない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [355]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014531
+     1 string m_Localized = "俺もそんなふうに強くなりたい。\nクラッシュに勝ちたいんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [356]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014532
+     1 string m_Localized = "なら、おでと勝負する。\nベーゴマ、強くなるには、勝負が一番。\n準備、できてるか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [357]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014533
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [358]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014534
+     1 string m_Localized = "望むところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [359]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014535
+     1 string m_Localized = "少し待って欲しい。\n勝負のために万全の準備がしたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [360]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014536
+     1 string m_Localized = "勝負のための準備する、大事。\nおで、ゆっくり待つ。\n準備できたら、声かけるといい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [361]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014537
+     1 string m_Localized = "準備、できたか？\nおでは、いつでも準備できてる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [362]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014538
+     1 string m_Localized = "望むところだ。\n四天王の１人と戦えるなんて願ってもない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [363]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014539
+     1 string m_Localized = "お前、いい目してる。\n楽しい、バトル、なりそうだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [364]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014540
+     1 string m_Localized = "おでのベーゴマ、大地の力持つ。\nけして、倒れない。\nお前に倒せるか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [365]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014541
+     1 string m_Localized = "俺の意志とベーゴマヒーローズで必ず倒してみせる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [366]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014542
+     1 string m_Localized = "なら、いくぞ。\nベーゴマバトルスタンバイ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [367]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014543
+     1 string m_Localized = "ベーゴマバトルスタートだっ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [368]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014544
+     1 string m_Localized = "おでの勝ちだな。\nやはり、誰も、おでのベーゴマ、倒せない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [369]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014545
+     1 string m_Localized = "力が及ばなかったか……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [370]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014546
+     1 string m_Localized = "だが、お前、弱くない。\nきっと、もっと、強くなれる。\nいつでも挑戦しに来い。おで、待ってる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [371]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014547
+     1 string m_Localized = "よく来たな。おで、ずっと待ってた。\nすぐに戦うぞ。\nおでの準備、いつでもできてる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [372]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014548
+     1 string m_Localized = "お前の準備もいいな？\nなら、いくぞ。\nベーゴマバトルスタンバイ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [373]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014549
+     1 string m_Localized = "ベーゴマバトルスタートだっ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [374]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014550
+     1 string m_Localized = "やった……！　勝てた……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [375]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014551
+     1 string m_Localized = "おでのベーゴマが、倒された……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [376]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014552
+     1 string m_Localized = "お前、強いな。\n確かに、お前なら、クラッシュにも勝てるかもしれん。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [377]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014553
+     1 string m_Localized = "だが、油断は禁物。\n次は風の四天王のところ、行くといい。\nあいつは、おでと違う強さを、持ってる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [378]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014554
+     1 string m_Localized = "風の四天王……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [379]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014555
+     1 string m_Localized = "風の四天王フーガ、ツリーフォークの村とやらにいる。\n四天王の全て、倒したとき、きっとお前、\n最強のベーゴマの戦士、なる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [380]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014556
+     1 string m_Localized = "おで、それを楽しみにしてる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [381]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014557
+     1 string m_Localized = "ありがとう。\nツリーフォークの村に寄ったら、行ってみるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [382]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014558
+     1 string m_Localized = "ああ、頑張れ。\nおでは、お前を応援してるぞ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [383]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014559
+     1 string m_Localized = "なんだ……お前もフーガを倒しにきたのか。\nオレと一緒だな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [384]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014560
+     1 string m_Localized = "ということはお前も……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [385]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014561
+     1 string m_Localized = "そうだ。\n勝利の方程式を完成させるために\nヤツのバトルを観察している。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [386]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014562
+     1 string m_Localized = "なるほどな……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [387]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014563
+     1 string m_Localized = "さすが研究熱心だね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [388]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014564
+     1 string m_Localized = "そろそろヤツと戦おうかと思っていたが……\nまだ計算するにはパーツが足りない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [389]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014565
+     1 string m_Localized = "お前、良かったら先に戦ってくれないか？\nオレはそれを観察したい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [390]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014566
+     1 string m_Localized = "いいよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [391]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014567
+     1 string m_Localized = "イヤだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [392]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014568
+     1 string m_Localized = "いいよ。\n俺の方が先に四天王に挑んでいいなんて\n望むところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [393]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014569
+     1 string m_Localized = "お前が勝ったら、すぐにオレも勝ってみせるさ。\n頑張れよ、オレのライバルなんだからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [394]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014570
+     1 string m_Localized = "そんな踏み台みたいな真似はイヤだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [395]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014571
+     1 string m_Localized = "そんなこと言わずに頼む。\nオレはもっともっと強くなりたい。\nそのためには観察と計算を磨きたいんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [396]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014572
+     1 string m_Localized = "しかたないな……。\nでも、俺が先に勝っても文句言うなよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [397]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014573
+     1 string m_Localized = "そんなことするか。\nだいたいお前はオレのライバルなんだ。\n四天王にくらい勝ってみせろよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [398]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208832
+     1 string m_Localized = "話はついたかな？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [399]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208833
+     1 string m_Localized = "うぅ……負けちゃった……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [400]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208834
+     1 string m_Localized = "ふっ、しかたのないことさ。\nボクの竜巻ベーゴマ、トリニティサイクロンには\n誰も勝てない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [401]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208835
+     1 string m_Localized = "君たちも威勢のいいことを言っていたようだが\nどうだろうね……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [402]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208836
+     1 string m_Localized = "ベーゴマは回してみるまでわからないだろう。\n俺のベーゴマヒーローズだって、負けやしない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [403]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208837
+     1 string m_Localized = "いいねいいね。\n自信のある子は嫌いじゃないよ。\nそういう子と戦うのは楽しいからね！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [404]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208838
+     1 string m_Localized = "それじゃあ、さっそくバトルするかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [405]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208839
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [406]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208840
+     1 string m_Localized = "望むところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [407]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208841
+     1 string m_Localized = "少し待って欲しい。\n準備を整えてから勝負に挑みたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [408]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208842
+     1 string m_Localized = "もちろん、構わないよ。\nベーゴマバトルにおいて準備は重要だからね。\n君はよくわかっている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [409]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208843
+     1 string m_Localized = "準備ができたら、いつでもおいで。\nボクは待っているよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [410]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208844
+     1 string m_Localized = "準備はできたかな？\nボクはいつでも戦う用意ができているよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [411]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208845
+     1 string m_Localized = "望むところだ。\n俺のベーゴマヒーローズでお前に勝ってみせる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [412]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208846
+     1 string m_Localized = "勢いだけはあるようだね。\nでも、ボクのベーゴマは風を操る。\n勢いだけじゃ勝てないよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [413]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208847
+     1 string m_Localized = "俺には俺の心の回転がある！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [414]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208848
+     1 string m_Localized = "なるほど……見せてもらおうじゃないか。\n君の回転を。心のありようを！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [415]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208849
+     1 string m_Localized = "同じ風のベーゴマ使いとして、\n君の風がどんなふうに吹くのか楽しみだよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [416]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208850
+     1 string m_Localized = "ああ……見せてやる、俺のベーゴマヒーローズ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [417]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208851
+     1 string m_Localized = "行くよ、トリニティサイクロン！\n華麗な風の舞を見せようじゃないか！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [418]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208852
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [419]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208853
+     1 string m_Localized = "くっ……一歩及ばなかったか……\n悔しいな……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [420]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208854
+     1 string m_Localized = "だが、君のベーゴマはいい風を起こしていた。\n素晴らしいバトルだったよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [421]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208855
+     1 string m_Localized = "君とのような爽やかなバトルなら何度でもしたいね。\nいつでも遠慮無くかかってくるといい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [422]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208856
+     1 string m_Localized = "再び挑みにきたんだね。\nいいよいいよ、そういう気概は大好きだ。\nさあ、また華麗な風の舞を見せようじゃないか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [423]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208857
+     1 string m_Localized = "ベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [424]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208858
+     1 string m_Localized = "バトルスタート！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [425]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208859
+     1 string m_Localized = "やった……！　勝ったぞ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [426]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208860
+     1 string m_Localized = "おめでとう、ノア。\nお前のバトル、参考になったよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [427]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208861
+     1 string m_Localized = "それなら良かった。\n次は君の番だね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [428]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208862
+     1 string m_Localized = "ああ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [429]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208863
+     1 string m_Localized = "やれやれ、負けてしまったか……。\nしかも、次の挑戦者もやる気満々とはね。\nでも、ボクも続けて負ける気は無いよ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [430]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208864
+     1 string m_Localized = "いいや、連敗を喰らわしてやるさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [431]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208865
+     1 string m_Localized = "と……君とのバトルの前に……\nノアくん、だったね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [432]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208866
+     1 string m_Localized = "君も知っての通り、クラッシュという男が\nあちこちでベーゴマを破壊して回っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [433]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208867
+     1 string m_Localized = "ボクたちも止めようとは思っているが\nいずれ、君もヤツと戦うことになるだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [434]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208868
+     1 string m_Localized = "ああ、そのときは俺がヤツを倒すよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [435]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208869
+     1 string m_Localized = "頼もしい限りだ。\n君なら、それも可能かもしれないね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [436]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208870
+     1 string m_Localized = "残りの四天王もきっと君を待っている。\n戦いに行くといい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [437]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208871
+     1 string m_Localized = "おっと、その前に一度、オレとバトルしようぜ。\nオレはこいつに勝ったらドクター・コキトの研究所で\nお前を待ってるからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [438]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208872
+     1 string m_Localized = "わかった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [439]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208873
+     1 string m_Localized = "必ず勝って、お前にも勝利して見せるからな！\n首を洗って待ってろよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [440]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208874
+     1 string m_Localized = "よく来たな！\nあの後、オレも無事にフーガを倒して\nお前に追いついたよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [441]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208875
+     1 string m_Localized = "おめでとう！　よくやったな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [442]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208876
+     1 string m_Localized = "オレの計算にかかれば当然だ。\nだが、あの勝利はお前あってのものだった。\n改めて礼を言う。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [443]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208877
+     1 string m_Localized = "気にしなくていい。\n俺たちは友達なんだからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [444]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208878
+     1 string m_Localized = "友達……そうだな。\nオレたちはベーゴマのライバルであり\nそして、友だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [445]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208879
+     1 string m_Localized = "それより、ここに来たということは\n当然、バトルするんだろう？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [446]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403136
+     1 string m_Localized = "ああ、もちろんそのつもりだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [447]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403137
+     1 string m_Localized = "オレもお前とのバトルを心待ちにしていた。\n他のどんなヤツと戦ってるときよりも\nお前とのバトルがオレを熱くさせる……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [448]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403138
+     1 string m_Localized = "さあ、今日も勝負だ、ノア。\n今度こそオレの計算がお前の心の力より\n上だと証明してみせる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [449]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403139
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [450]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403140
+     1 string m_Localized = "望むところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [451]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403141
+     1 string m_Localized = "少し待って欲しい。\n君と戦うための準備は万端にしたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [452]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403142
+     1 string m_Localized = "いいだろう。\nそういう慎重さ、オレは嫌いじゃない。\nでも、あんまり待たせるなよな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [453]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403143
+     1 string m_Localized = "準備は整ったか？\nオレはもうお前に勝つ計算をすませたぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [454]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403144
+     1 string m_Localized = "望むところだ。\n俺も君と戦う日を心待ちにしていた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [455]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403145
+     1 string m_Localized = "そう来なくっちゃな。\nオレのアブソリュートゼロはあれからますます\n磨きがかかってる。……強いぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [456]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403146
+     1 string m_Localized = "俺のベーゴマヒーローズだって負けちゃいない。\n勝利を重ねるごとに、俺とひとつになっていくのが\n俺にはわかるんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [457]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403147
+     1 string m_Localized = "そういうものなんだ……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [458]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403148
+     1 string m_Localized = "ベーゴマのことはベーゴマの戦士にしかわからないさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [459]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403149
+     1 string m_Localized = "だが、戦えば戦うほど、\nベーゴマと一体化していく気持ちは\nオレにだってわかる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [460]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403150
+     1 string m_Localized = "その気持ちをもっと味わいたくて\n俺たちはバトルしてるのかもしれないね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [461]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403151
+     1 string m_Localized = "そうかもな。\nさあ、おしゃべりはここまでだ。\nオレの完璧な計算で勝利の確率は１００％だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [462]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403152
+     1 string m_Localized = "ベーゴマは回してみるまでわからない！\n俺の心の回転、見せてやる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [463]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403153
+     1 string m_Localized = "いくぜ、アブソリュートゼロ！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [464]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403154
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [465]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403155
+     1 string m_Localized = "ま、負けた……\nくそ、あと一歩及ばなかったか……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [466]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403156
+     1 string m_Localized = "今回はオレの計算がお前を上回ったな。\nでも、良い勝負だったぜ、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [467]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403157
+     1 string m_Localized = "やっぱり、お前とのバトルが一番楽しい。\nオレは何度でもお前の挑戦を受けてやるから\nいつでも来い。待ってる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [468]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403158
+     1 string m_Localized = "わかった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [469]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403159
+     1 string m_Localized = "やっぱりな。\nお前は一度負けたくらいで諦めるヤツじゃない。\nさあ、何度でも戦おうじゃないか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [470]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403160
+     1 string m_Localized = "もっとも今回もオレの計算が勝つけどな。\nいくぞ、アブソリュートゼロ！\nベーゴマバトルスタンバイ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [471]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403161
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [472]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403162
+     1 string m_Localized = "やったー！　勝ったぞー！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [473]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403163
+     1 string m_Localized = "ちぇっ、オレの計算が甘かったか……。\nやっぱり、お前は強いな、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [474]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403164
+     1 string m_Localized = "君の方こそ強くなっててびっくりしたよ。\nやっぱり俺たちはいいライバルだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [475]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403165
+     1 string m_Localized = "ああ、そうだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [476]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403166
+     1 string m_Localized = "オレは次はユークリスの首都ハイシャーンにいる\n水の四天王スイに挑むつもりだ。\nお前はどうする？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [477]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403167
+     1 string m_Localized = "なら、俺もそうしようかな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [478]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403168
+     1 string m_Localized = "どちらが先にスイを倒せるか勝負だな。\n今度は先を越されないぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [479]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403169
+     1 string m_Localized = "こっちこそ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [480]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403170
+     1 string m_Localized = "それじゃあな、ノア！\nいつか、またベーゴマバトルしようぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [481]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403171
+     1 string m_Localized = "うおおおっ、オレっちのスネークバイトが\nまたボロボロに～っ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [482]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403172
+     1 string m_Localized = "あらあら、ごめんなさいねえ\nうち、手加減ができへんもんやから……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [483]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403173
+     1 string m_Localized = "ちくしょ～っ！　覚えてやがれ～っ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [484]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403174
+     1 string m_Localized = "ふふ、見苦しいところを見せてしもたねえ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [485]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403175
+     1 string m_Localized = "さっきのは……ヴェノム？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [486]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403176
+     1 string m_Localized = "あら、知ってはるん？\nクラッシュいう男の手先や。\n見てのとおり逃げてしもたけどな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [487]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403177
+     1 string m_Localized = "クラッシュの魔の手がここまで来てるのか……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [488]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403178
+     1 string m_Localized = "やっぱり許せないヤツだよねー！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [489]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403179
+     1 string m_Localized = "あの程度やったら、相手にもならへん。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [490]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403180
+     1 string m_Localized = "それにしても……クラッシュいう男、\nいずれは倒さへんとあかんなあ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [491]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403181
+     1 string m_Localized = "俺も同じ気持ちだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [492]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403182
+     1 string m_Localized = "うん、その目ぇ見たらわかるわ。\nあんたはんはええベーゴマの戦士やね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [493]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403183
+     1 string m_Localized = "俺の名はノア。\nこいつは相棒のベーゴマヒーローズだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [494]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597440
+     1 string m_Localized = "これはこれはご丁寧に……\nうちは水の四天王のスイ、いいます。\nこっちは相棒のセイリュウや。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [495]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597441
+     1 string m_Localized = "見ただけでわかる……。\n強そうなベーゴマだ……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [496]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597442
+     1 string m_Localized = "うちに挑戦しにきはったんよね？\nあんたはんみたいな、まっすぐな戦士は\nうち大好きなんよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [497]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597443
+     1 string m_Localized = "そういう目ぇした戦士はんとは\nいつもよりずっとええバトルができる……。\nワクワクするやないの。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [498]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597444
+     1 string m_Localized = "俺も君と戦えると思うとワクワクするよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [499]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597445
+     1 string m_Localized = "うちのセイリュウは渦潮のごとく回るんよ。\nこの回転、あんたはんに止められる？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [500]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597446
+     1 string m_Localized = "勝負はベーゴマを回してみないとわからない。\n俺のベーゴマヒーローズは\n俺の心のままに回ってくれる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [501]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597447
+     1 string m_Localized = "ええ心意気やね。\n準備ができてたらバトルしよか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [502]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597448
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [503]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597449
+     1 string m_Localized = "望むところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [504]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597450
+     1 string m_Localized = "少し待って欲しい。\n今、準備をしてくるから。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [505]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597451
+     1 string m_Localized = "ええよー。\nほな、準備できたら声かけてな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [506]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597452
+     1 string m_Localized = "もう準備はできたん？\nうち、あんたはんと戦いたくて\nずーっとうずうずしてたわ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [507]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597453
+     1 string m_Localized = "望むところだ。\n俺の方ももう準備はばっちりだよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [508]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597454
+     1 string m_Localized = "ふふっ、楽しいバトルになりそうやわぁ。\n水の流れがうちの回転……。\nあんたはんの回転も楽しみにしてるえ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [509]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597455
+     1 string m_Localized = "あんたはんの水がどんな流れを生み出すのか……\nほんまに楽しみやわぁ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [510]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597456
+     1 string m_Localized = "ああ、俺の心の回転を見せてやる！\nいこう、ベーゴマヒーローズ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [511]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597457
+     1 string m_Localized = "ほな、いこか、セイリュウ。\nベーゴマバトルスタンバイ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [512]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597458
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [513]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597459
+     1 string m_Localized = "くっ……負けたか……\nごめんな、俺のベーゴマヒーローズ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [514]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597460
+     1 string m_Localized = "うちには及ばへんかったけど\nあんたはんも強かったえ。\nぜひ、また戦ってみたいわぁ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [515]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597461
+     1 string m_Localized = "うちはいつでも挑戦を受け付けてるさかい\nまた修行して出直してきぃや。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [516]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597462
+     1 string m_Localized = "ああ、そうさせてもらうよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [517]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597463
+     1 string m_Localized = "ふふ、修行を積んできはったみたいやね。\nでも、うちも簡単には負けへんから。\nセイリュウ、いこか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [518]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597464
+     1 string m_Localized = "ベーゴマバトルスタンバイ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [519]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597465
+     1 string m_Localized = "バトルスタート！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [520]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597466
+     1 string m_Localized = "よしっ、俺の勝ちだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [521]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597467
+     1 string m_Localized = "あらら……負けてしもうたわ。\nあんたはん、ほんまに強いんやねえ。\nほれぼれしてしまうわぁ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [522]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597468
+     1 string m_Localized = "確かにあんたはんやったら\nあのクラッシュにも勝てるかもしれへんね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [523]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597469
+     1 string m_Localized = "おっと、クラッシュを先に倒すのはオレだ。\nスイに勝つのは先を越されたみたいだけどな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [524]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597470
+     1 string m_Localized = "あらあら、これはまた元気な子が……。\nふふ、負けて落ち込んではいられへんね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [525]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597471
+     1 string m_Localized = "ノア、オレもすぐにお前に追いつく。\nクラッシュを先に倒すのはオレだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [526]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597472
+     1 string m_Localized = "ふふ、その前にまずうちに勝たなね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [527]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597473
+     1 string m_Localized = "それはそうとノアくんの方は、次は\nレッカのところへ行くん？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [528]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597474
+     1 string m_Localized = "レッカ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [529]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597475
+     1 string m_Localized = "レッカは砂漠のインペリシャークにいる火の四天王や。\nあの子を倒せるんやったら、それこそ\nほんまにクラッシュにも勝てるやろね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [530]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597476
+     1 string m_Localized = "わかった。\n次はレッカのところへ向かうよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [531]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597477
+     1 string m_Localized = "頑張りや。\nうちも応援しとるからね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [532]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597478
+     1 string m_Localized = "よく来たな！\nスイたちから、お前の話は聞いてるぞ、ノア！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [533]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597479
+     1 string m_Localized = "四天王の内、３人までも倒すとはすごいヤツだ！\nさぞ、熱いベーゴマバトルをするんだろうな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [534]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597480
+     1 string m_Localized = "熱いかどうかはわからないけれど\nベーゴマバトルは好きだよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [535]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597481
+     1 string m_Localized = "それでいい！\nベーゴマバトルはベーゴマにいかに\n愛を注げるかだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [536]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597482
+     1 string m_Localized = "情熱を持って愛を注げば\nベーゴマは必ず応えてくれる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [537]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597483
+     1 string m_Localized = "そうなのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [538]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597484
+     1 string m_Localized = "確かに……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [539]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597485
+     1 string m_Localized = "そうなのか？\n俺はまだその域には達していないのかもな……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [540]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597486
+     1 string m_Localized = "そんなことはない！\n俺の見たところ、君はもうベーゴマの情熱を\nちゃんと知っているはずだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [541]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597487
+     1 string m_Localized = "ベーゴマと共に燃える熱い心を！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [542]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597488
+     1 string m_Localized = "熱い心……確かにそうかもしれないな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [543]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791744
+     1 string m_Localized = "確かに……俺の中にはベーゴマに対する\n熱い愛がある気がする。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [544]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791745
+     1 string m_Localized = "ベーゴマバトルをしていくうちに\nだんだん熱くなってきた気持ちが。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [545]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791746
+     1 string m_Localized = "そうだろう、そうだろう！\nベーゴマバトルは人を熱くさせるものだからな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [546]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791747
+     1 string m_Localized = "さて、おしゃべりもいいが\nやはりベーゴマの戦士たるもの\nベーゴマバトルで語り合わないとな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [547]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791748
+     1 string m_Localized = "ああ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [548]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791749
+     1 string m_Localized = "ぜひ、熱く燃えるバトルをしよう！！\n準備はできているか！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [549]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791750
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [550]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791751
+     1 string m_Localized = "準備はバッチリだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [551]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791752
+     1 string m_Localized = "少し待って欲しい。\nしっかりと準備をして挑みたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [552]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791753
+     1 string m_Localized = "いいだろう！\nそれも熱い心の現れゆえだろうからな！\n準備ができたらいつでも声をかけてくれ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [553]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791754
+     1 string m_Localized = "準備はできたか！？\n俺の心はもう熱く燃えさかっているぞ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [554]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791755
+     1 string m_Localized = "準備はバッチリだ。\nいつでもバトルできるよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [555]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791756
+     1 string m_Localized = "そう来なくてはな！\nでは、熱く熱く熱く燃えるバトルをしようじゃないか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [556]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791757
+     1 string m_Localized = "俺の相棒ギャラクティカフレイムは\n俺の心と共に燃え上がるぜ！\nその熱さに君は勝てるか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [557]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791758
+     1 string m_Localized = "熱さなら俺だって負けてはいない。\n俺とベーゴマヒーローズの力を見せてやるさ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [558]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791759
+     1 string m_Localized = "同じ火のベーゴマ使い同士、\nどちらがより熱いかの勝負だな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [559]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791760
+     1 string m_Localized = "ああ、楽しみだ、楽しみだ！\n俺はこの燃える気持ちをすべてベーゴマにぶつける！\n君も全力でかかってこい！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [560]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791761
+     1 string m_Localized = "もちろん、望むところだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [561]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791762
+     1 string m_Localized = "いくぞ、ギャラクティカフレイム！\n俺と共に今日も燃えてくれ！\nベーゴマバトルスタンバイ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [562]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791763
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [563]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791764
+     1 string m_Localized = "くっ……俺の負けだ……。\n力が足りなかったか……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [564]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791765
+     1 string m_Localized = "だが、熱いいいバトルだったぞ！\nこんなバトルならな何度でもしたいものだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [565]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791766
+     1 string m_Localized = "君が諦めない熱い心の持ち主ならば\n何度でも俺に挑むがいい！\n俺もそのたびに熱く応えようじゃないか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [566]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791767
+     1 string m_Localized = "わかった！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [567]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791768
+     1 string m_Localized = "また来てくれたんだな、待っていたぞ！\n君との熱いバトルを楽しみにしていた！\n俺もギャラクティカフレイムもな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [568]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791769
+     1 string m_Localized = "さあ、今日も熱く燃えるバトルをしようじゃないか！\nベーゴマバトルスタンバイ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [569]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791770
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [570]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791771
+     1 string m_Localized = "やった……！　勝ったぞ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [571]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791772
+     1 string m_Localized = "おめでとう！\n俺も自信があったが、君の情熱の方が\n俺を上回っていたようだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [572]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791773
+     1 string m_Localized = "くっ……また先を越されたか。\nレッカ！　オレも挑戦を申し込む！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [573]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791774
+     1 string m_Localized = "おやおや、今日は熱い挑戦者がよく来る日だな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [574]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791775
+     1 string m_Localized = "オレはクラッシュに勝たなきゃいけないんだ。\n立ち止まってはいられない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [575]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791776
+     1 string m_Localized = "クラッシュか……。\nヤツは今、帝国領のアルディナール市にいるらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [576]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791777
+     1 string m_Localized = "四天王の間でもついにヤツを倒しにいく話が\n出たところだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [577]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791778
+     1 string m_Localized = "なんだと！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [578]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791779
+     1 string m_Localized = "ノア、オレはこのバトルに勝ったら\nクラッシュを倒しに行く。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [579]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791780
+     1 string m_Localized = "お前もそのつもりだろうが\n先を越させやしないからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [580]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791781
+     1 string m_Localized = "おいおい、もう俺に勝ったつもりか？\nまずは俺と熱いバトルをしてからだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [581]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791782
+     1 string m_Localized = "ああ、そうだな。\nだが、オレの計算は完璧だ！\n負ける気はしないぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [582]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791783
+     1 string m_Localized = "ノアとは違う熱さを持った少年だな。\nいいだろう、気にいった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [583]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791784
+     1 string m_Localized = "ノア、もし君がクラッシュと戦うのなら\n止めはしない。\nだが、十分に気をつけてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [584]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791785
+     1 string m_Localized = "もっとも、君のベーゴマヒーローズと\nその熱い心があれば\nクラッシュにもきっと勝てるだろうがな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [585]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791786
+     1 string m_Localized = "ありがとう。頑張るよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [586]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791787
+     1 string m_Localized = "ああ、それじゃあ、またいつかバトルしよう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [587]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791788
+     1 string m_Localized = "がははははは！\n四天王だか天才少年だか知らねえが\n口ほどにもねえヤツらだったな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [588]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791789
+     1 string m_Localized = "お、おでのアースオブパワー……\n頑丈さでは、誰にも負けない、思ってたのに……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [589]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791790
+     1 string m_Localized = "ボクの風もまるで歯が立たなかった……\nなんなんだ、あのベーゴマは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [590]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791791
+     1 string m_Localized = "うちのセイリュウが起こす渦潮にも\nびくともせんかった……\nごめんなぁ、セイリュウ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [591]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791792
+     1 string m_Localized = "ちくしょう！　ちくしょう！\nあんな熱い心が欠片もないヤツに\n大切な相棒を破壊されるだなんて！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [592]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986048
+     1 string m_Localized = "くそっ……またダメだったのか……。\nオレじゃ……オレじゃ勝てないっていうのか……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [593]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986049
+     1 string m_Localized = "がはははははは！\n弱者どもが何を言おうが、負け犬の遠吠えよ！\n弱いベーゴマに価値などない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [594]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986050
+     1 string m_Localized = "みんなは弱くなんかない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [595]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986051
+     1 string m_Localized = "ノア！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [596]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986052
+     1 string m_Localized = "なんだ、貴様は……？\n貴様もこのデストロイデビルに\nベーゴマを破壊されにきたのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [597]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986053
+     1 string m_Localized = "俺はお前を倒しに来たんだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [598]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986054
+     1 string m_Localized = "がははははは！\n笑わせてくれるぜ。\nお前のようなガキが俺を倒すだと！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [599]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986055
+     1 string m_Localized = "わ、笑うな……！\nノア、おでたち、全員に勝った男……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [600]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986056
+     1 string m_Localized = "ボクたちでは届かなかったが\nノアならきっとお前に勝てる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [601]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986057
+     1 string m_Localized = "ノアくん！\nどうか、みんなの仇をとってや！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [602]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986058
+     1 string m_Localized = "頼んだぜ！\n俺たちはお前の熱い心に全てを賭ける！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [603]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986059
+     1 string m_Localized = "悔しいが……お前はきっとオレより強い。\nオレとみんなの思い、お前に託すよ、ノア。\nどうか……勝ってくれ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [604]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986060
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [605]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986061
+     1 string m_Localized = "任せてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [606]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986062
+     1 string m_Localized = "少し待ってほしい。\nあいつに勝つには準備が必要だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [607]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986063
+     1 string m_Localized = "がははははは！\nなんだ、おじけづいたか！？\nだったら尻尾巻いて逃げ出しな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [608]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986064
+     1 string m_Localized = "俺にケンカを売ろうなんて良い度胸じゃねえか！\nさあ、やるってのか！？　あぁ！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [609]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986065
+     1 string m_Localized = "やってやる！\nお前は俺が倒す！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [610]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986066
+     1 string m_Localized = "任せてくれ。あいつは俺が倒す！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [611]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986067
+     1 string m_Localized = "はっ、お前みたいな弱そうなヤツが\n俺を倒すだと？　\n寝言は寝てから言うんだな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [612]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986068
+     1 string m_Localized = "だが、でかい口叩いた以上はそのベーゴマ\n完膚なきまでに破壊させてもらうぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [613]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986069
+     1 string m_Localized = "そうはさせない！\nみんなの思いも乗せて……\n俺と俺のベーゴマヒーローズは回っているんだから！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [614]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986070
+     1 string m_Localized = "ちっ、こしゃくな小僧だ！\nいいだろう、身の程ってやつを教えてやる！\nやるぞ、デストロイデビル！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [615]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986071
+     1 string m_Localized = "いこう、ベーゴマヒーローズ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [616]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986072
+     1 string m_Localized = "粉々にしてやるぜ……！\nベーゴマバトルスタンバイ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [617]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986073
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [618]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986074
+     1 string m_Localized = "そんな……俺のベーゴマヒーローズが……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [619]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986075
+     1 string m_Localized = "がははははは！　弱い、弱いなあ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [620]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986076
+     1 string m_Localized = "くそっ、これで諦めるものか！\n俺はお前を倒すまで何度でも挑み続ける！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [621]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986077
+     1 string m_Localized = "負け犬のくせに生意気な！\nいいぜ、何度でも破壊してやるよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [622]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986078
+     1 string m_Localized = "がははははは！\nまた破壊されにきたのか！\nいいぜ、もう一度ボロボロにしてやるよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [623]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986079
+     1 string m_Localized = "やるぞ、デストロイデビル！\nベーゴマバトルスタンバイ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [624]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986080
+     1 string m_Localized = "バトルスタート！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [625]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986081
+     1 string m_Localized = "勝った！　みんな、勝ったよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [626]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986082
+     1 string m_Localized = "俺が……負けただと……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [627]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986083
+     1 string m_Localized = "くそっ、覚えてやがれ……！\nこの恨みは忘れねえからな……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [628]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986084
+     1 string m_Localized = "お、おめでとう、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [629]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986085
+     1 string m_Localized = "おみごとです。\nあのクラッシュに勝つだなんて！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [630]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986086
+     1 string m_Localized = "さすがノアくん。\nやるときはやる子やね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [631]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986087
+     1 string m_Localized = "うおおおおおおお！\n俺は君が勝つと信じてたぞぉぉ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [632]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986088
+     1 string m_Localized = "……すごいな、ノアは。\n本当にクラッシュを倒してしまった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [633]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986089
+     1 string m_Localized = "みんなとのバトルがあってのことだよ。\nそのおかげで俺は強くなれた。\nもちろん、リードとのバトルも。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [634]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986090
+     1 string m_Localized = "ノア、頼みがある。\nオレをお前の仲間にしてくれ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [635]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986091
+     1 string m_Localized = "えっ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [636]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986092
+     1 string m_Localized = "いや、お前が断ってもオレはついていく！\nお前と一緒ならもっともっとベーゴマの高みを\n目指せると思うんだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [637]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986093
+     1 string m_Localized = "頼む！　オレを仲間にしてくれ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [638]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986094
+     1 string m_Localized = "いいよ。\nリードと一緒に旅をするのは楽しそうだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [639]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986095
+     1 string m_Localized = "ありがとうな、ノア！\nオレはこのベーゴマで必ずお前の役に立つぜ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [640]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986096
+     1 string m_Localized = "あっ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [641]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986097
+     1 string m_Localized = "こ、こほん！　よく来たな、ノア！\n私は君がここに来るのをずっと待っていたぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [642]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180352
+     1 string m_Localized = "よく来たな、ベーゴマの戦士ノアよ！\n私は君がここに来るのをずっと待っていた！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [643]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180353
+     1 string m_Localized = "この部屋は……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [644]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180354
+     1 string m_Localized = "私の真の研究所……。\n真理に到達するベーゴマを開発する場所だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [645]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180355
+     1 string m_Localized = "えーっ、いつの間にそんなの作ってたの！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [646]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180356
+     1 string m_Localized = "私は君のバトルを通して\nずっとベーゴマの真理について考えてきた……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [647]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180357
+     1 string m_Localized = "その結果、わかったのだ！\nやはり、ベーゴマには人の心の動きに応える\n何かがあるのだと！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [648]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180358
+     1 string m_Localized = "それは俺も感じていた。\nこの小さなベーゴマにはとてつもなく\n大きな力が秘められている……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [649]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180359
+     1 string m_Localized = "そして、私自身ベーゴマバトルの中で\nその真理を確かめたくなった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [650]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180360
+     1 string m_Localized = "最強のベーゴマの戦士、ノアよ！\n今こそ、私とベーゴマの真理を追究するため\nバトルしてくれ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [651]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180361
+     1 string m_Localized = "少し待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [652]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180362
+     1 string m_Localized = "バトルしよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [653]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180363
+     1 string m_Localized = "少し待って欲しい。\nしっかりと準備がしたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [654]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180364
+     1 string m_Localized = "当然だ。\n真理を追究する大事な一戦なのだからな。\n準備ができたら、声をかけてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [655]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180365
+     1 string m_Localized = "もう準備はできたか？\n私は早くバトルしたくてたまらなくなっているよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [656]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180366
+     1 string m_Localized = "ああ、バトルしよう。\n俺も……ベーゴマの真理が知りたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [657]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180367
+     1 string m_Localized = "では私のベーゴマ、インフィニティフォースだ。\n私はこれで君に挑むとしよう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [658]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180368
+     1 string m_Localized = "どんなベーゴマが相手だって\n俺は俺のベーゴマヒーローズを信じて回すだけだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [659]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180369
+     1 string m_Localized = "いい目、そして良い言葉だ。\nその心意気こそがベーゴマの真髄なのかもしれん。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [660]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180370
+     1 string m_Localized = "そうかもしれない。\nでも、ベーゴマはやっぱり回してみないと\nわからないと思う。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [661]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180371
+     1 string m_Localized = "その通りだ。\nさあ、始めようじゃないか、ベーゴマバトルを。\nベーゴマバトルスタンバイ……！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [662]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180372
+     1 string m_Localized = "バトルスタート！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [663]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180373
+     1 string m_Localized = "負けた……か。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [664]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180374
+     1 string m_Localized = "まだだ！　まだだ、ノアよ！\nこんなバトルではベーゴマの真理に到達できない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [665]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180375
+     1 string m_Localized = "何度でも挑んでくれ！\nそして、２人でベーゴマの真髄に\n辿り着こうじゃないか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [666]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180376
+     1 string m_Localized = "わかった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [667]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180377
+     1 string m_Localized = "また来てくれたな、ノアよ！\nさあ、２人でベーゴマの真髄に至るバトルを\nしようじゃないか！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [668]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180378
+     1 string m_Localized = "ベーゴマバトルスタンバイ……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [669]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180379
+     1 string m_Localized = "バトルスタート！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [670]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180380
+     1 string m_Localized = "勝った……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [671]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180381
+     1 string m_Localized = "負けた……か。\nだが、私はベーゴマの真髄に触れた気がする。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [672]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180382
+     1 string m_Localized = "俺もだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [673]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180383
+     1 string m_Localized = "ベーゴマとは回転してこそ意味を成すもの……\nすなわち、命そのもの……！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [674]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180384
+     1 string m_Localized = "何言ってるのか全然わからない……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [675]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180385
+     1 string m_Localized = "ああ、ベーゴマの輝きとは命の輝きなんだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [676]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180386
+     1 string m_Localized = "だが、ベーゴマの真髄はまだまだ深い……。\nこれからも私と一緒に探求してくれるか、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [677]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180387
+     1 string m_Localized = "もちろん！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [678]
+    0 TableEntryData data
+     0 SInt64 m_Id = 79279084610744320
+     1 string m_Localized = "やってやる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

@@ -1,0 +1,850 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_lastescape_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -7216299074842650484
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (103 items)
+   0 int size = 103
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313077235712
+     1 string m_Localized = "You devils! You killed the Dux!!\nYou’ll pay with your lives!!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207232
+     1 string m_Localized = "The war’s already over! There’s no need to fight anymore!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207233
+     1 string m_Localized = "Nowa. We’ve just gotta do it.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207234
+     1 string m_Localized = "Gah! We don’t have time for this!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207235
+     1 string m_Localized = "Yo Marisa! That was too close for comfort!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207236
+     1 string m_Localized = "Pretty close for a minute there, Marisa!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207237
+     1 string m_Localized = "Needed me after all, huh?<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207238
+     1 string m_Localized = "Come, quickly!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207239
+     1 string m_Localized = "Guys! You all came for me?!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207240
+     1 string m_Localized = "Pooby poo!<autosubmit=1.25>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207241
+     1 string m_Localized = "Can’t go leaving a lady behind.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207242
+     1 string m_Localized = "All in the line of duty!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207243
+     1 string m_Localized = "Good to see you’re safe, Commander.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207244
+     1 string m_Localized = "Thank you, Vorrdice.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207245
+     1 string m_Localized = "So it’s all over then.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207246
+     1 string m_Localized = "S-So we won!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207247
+     1 string m_Localized = "We must leave, quickly.\nIt won’t be enough to erase our disgrace,\nbut we dragonewts will bring up the rear.<autosubmit=3.75>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207248
+     1 string m_Localized = "Aha! You sand-dogs, you made it!\nWell done! Tremendous!!<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207249
+     1 string m_Localized = "Skyd! Guys!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207250
+     1 string m_Localized = "’Course we’re here!\nLeavin’ victorious heroes behind be like wrenching\nthe fin right off yer back!<autosubmit=3.75>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207251
+     1 string m_Localized = "Thank you!<autosubmit=1.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207252
+     1 string m_Localized = "We’ll clear the way from here!\nArr, the heroes return in triumph! Here we go, me hearties!!<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207253
+     1 string m_Localized = "Fight! Fight! Fiiight!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207254
+     1 string m_Localized = "C’mon! C’mon! C’MON!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207255
+     1 string m_Localized = "Consider it all smooth sailin’ from here!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207256
+     1 string m_Localized = "Just follow our lead!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207257
+     1 string m_Localized = "By the name of House Sawad, I will protect you.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207258
+     1 string m_Localized = "We’ll defend you, though it costs us our fins!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207259
+     1 string m_Localized = "Follow us; we have an exit route prepared.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207260
+     1 string m_Localized = "Hurry! This is the way out!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207261
+     1 string m_Localized = "Be a waste of a fine man if you bit the dust here.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207262
+     1 string m_Localized = "As if we’d let anyone die!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207263
+     1 string m_Localized = "I, the Master of Death, shall secure\nyour safe return.<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207264
+     1 string m_Localized = "Best ye get back safe and show us another\nrace for the ages!<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207265
+     1 string m_Localized = "Never fear! Justice always overcomes!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207266
+     1 string m_Localized = "Yearr! Fins up, mateys!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207267
+     1 string m_Localized = "Drrrg. Hey Ymir!\nYou take Sumire and make a run for it first.<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207268
+     1 string m_Localized = "Ymir!\nTake Sumire and retreat, will you!<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207269
+     1 string m_Localized = "W-Wait! But then you’ll be...<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207270
+     1 string m_Localized = "Ngh. They’ll get back fine.\nI’d better secure an escape route...<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207271
+     1 string m_Localized = "Don’t you worry! Big Sis Lian’ll get Nowa and Co\nback safe and sound!<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207272
+     1 string m_Localized = "If you can fight, get to the front!\nKeep this brute at bay!<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207273
+     1 string m_Localized = "Though my sword be broken, you shall not pass!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313098207274
+     1 string m_Localized = "S-Stay back! BACK!!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401536
+     1 string m_Localized = "Listen up! Y’all hang in there till Cousin Nowa gets back!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401537
+     1 string m_Localized = "Fight till General Kogen returns if it’s the last thing you do!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401538
+     1 string m_Localized = "Hold the line! Show ’em what the General’s army’s made of!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401539
+     1 string m_Localized = "If Captain Yuthus is fighting, I’m fighting by him!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401540
+     1 string m_Localized = "Huee huee. Our General doesn’t know when to give up.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401541
+     1 string m_Localized = "As if we’d give up here!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401542
+     1 string m_Localized = "Sorry for the wait, guys!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401543
+     1 string m_Localized = "Nowa!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401544
+     1 string m_Localized = "Ha haa! He’s back!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401545
+     1 string m_Localized = "Glad you made it back safe.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401546
+     1 string m_Localized = "Hey, Nowa! What took you so long?<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401547
+     1 string m_Localized = "Feels like we waited forever!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401548
+     1 string m_Localized = "Hm. Well done.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401549
+     1 string m_Localized = "S-So we won!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401550
+     1 string m_Localized = "You’re finally back, by golly...\nAnd you defeated Aldric.<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401551
+     1 string m_Localized = "Yeah, it’s thanks to all of you, really!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401552
+     1 string m_Localized = "That’s cousin Nowa for ya! Never doubted ya for a second!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401553
+     1 string m_Localized = "Nowa, General Kogen, way to go!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401554
+     1 string m_Localized = "We must hurry. Here won’t hold up much longer.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401555
+     1 string m_Localized = "Don’t let the League vermin escape!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401556
+     1 string m_Localized = "Gahh! There's no end to the blighters!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401557
+     1 string m_Localized = "So many soldiers left to fight...<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401558
+     1 string m_Localized = "General, at this rate...<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401559
+     1 string m_Localized = "G-General...<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401560
+     1 string m_Localized = "To think there were so many troops left...\nStand firm! Close ranks! To the very last man, we must fight!<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401561
+     1 string m_Localized = "Traitors! You’ve no right to resist!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401562
+     1 string m_Localized = "I’m under orders to defend to the end.\nIf you’re set on fighting, expect no quarter.<autosubmit=2.75>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401563
+     1 string m_Localized = "Soldiers of House Kesling!\nWe stand and fight! Fight till the Lieutenant returns!<autosubmit=2.75>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401564
+     1 string m_Localized = "Seign’s fighting too! So must I!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401565
+     1 string m_Localized = "I-I’m fighting to the end!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401566
+     1 string m_Localized = "Nowa, Seign! Look!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401567
+     1 string m_Localized = "That’s...!!<autosubmit=1.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401568
+     1 string m_Localized = "General Goldwyn!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401569
+     1 string m_Localized = "You! You’re that dirty traitor!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401570
+     1 string m_Localized = "Lieutenant! Glad you’re safe.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401571
+     1 string m_Localized = "Lieutenant! Ma’am!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401572
+     1 string m_Localized = "Looks like we caught the whole brood.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401573
+     1 string m_Localized = "S-Seign...\nTh-Thank goodness...<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401574
+     1 string m_Localized = "Now the tables are turned...<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401575
+     1 string m_Localized = "Hark! Aldric is dead; victory is ours!\nYou have no reason left to fight.\nDrop your weapons and leave at once!<autosubmit=3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401576
+     1 string m_Localized = "Th-The Dux...<autosubmit=1.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401577
+     1 string m_Localized = "C’mon, run!<autosubmit=1.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401578
+     1 string m_Localized = "Waaaaugh!!<autosubmit=1.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401579
+     1 string m_Localized = "Kk... Made it this far... only to be shut in?!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401580
+     1 string m_Localized = "Everyone, please stand back!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401581
+     1 string m_Localized = "Good thing we had one last runic charge, huh?<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401582
+     1 string m_Localized = "That’s why you always have an extra.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401583
+     1 string m_Localized = "Come on! Shake a leg, everybody!\nHurry, hurry!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401584
+     1 string m_Localized = "Please hurry, people!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401585
+     1 string m_Localized = "I never guessed I’d witness such a historic moment.\nBravo! Bravo!<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401586
+     1 string m_Localized = "So the war with the Empire is over.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401587
+     1 string m_Localized = "Crikey, I never thought I’d be so glad for one\nof those rotten runic charges.<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401588
+     1 string m_Localized = "Good to see you’re safe.<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401589
+     1 string m_Localized = "I could hardly let you all die here;\nit would ruin my beauty sleep.<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401590
+     1 string m_Localized = "All the survivors have evacuated the castle.\nLet’s get out of here!<autosubmit=2.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401591
+     1 string m_Localized = "Let’s go. Everyone’s waiting.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401592
+     1 string m_Localized = "Yeah, let’s go.<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401593
+     1 string m_Localized = "The castle’s collapsing! Hurry!!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3158313102401594
+     1 string m_Localized = "Poo-bee-bee-poo!<autosubmit=2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

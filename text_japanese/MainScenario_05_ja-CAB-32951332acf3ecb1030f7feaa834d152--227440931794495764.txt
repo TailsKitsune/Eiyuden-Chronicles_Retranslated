@@ -1,0 +1,4314 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "MainScenario_05_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 913890103615772391
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (536 items)
+   0 int size = 536
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2796867584
+     1 string m_Localized = "ユンマ様、帝国軍はこの地を離れました。\n偵察部隊を付けていますが、\nこのまま北へと退却するようです。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450496
+     1 string m_Localized = "か、勝ったんだね……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450497
+     1 string m_Localized = "はい、ここに勝利の報告をいたします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450498
+     1 string m_Localized = "よ、良かった……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450499
+     1 string m_Localized = "ほ、本当に……皆さんありがとうございます！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450500
+     1 string m_Localized = "ノア、君と同盟軍にも\nお礼を言わないと。\n共に戦ってくれて、ありがとう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450501
+     1 string m_Localized = "あぁ、おれたちみんなの勝利だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450502
+     1 string m_Localized = "いや、みんなの力だよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450503
+     1 string m_Localized = "あぁ、おれたちみんなの勝利だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450504
+     1 string m_Localized = "そうそう、勝利！勝利！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450505
+     1 string m_Localized = "ははは、やっと連中に一泡吹かせてやれたぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450506
+     1 string m_Localized = "一つ言っておきますが、同盟軍のリーダーは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450507
+     1 string m_Localized = "いいのよ、ユーミル。\nノア、よく戦ってくれたわね、ありがとう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450508
+     1 string m_Localized = "いや、みんなの力だよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450509
+     1 string m_Localized = "いいのよ、ノア。\nここまで、よく戦ってくれたのは\nあなたのおかげでもあるんだし。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450510
+     1 string m_Localized = "そうそう、胸張って良いんじゃない？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450511
+     1 string m_Localized = "あぁ、そうだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450512
+     1 string m_Localized = "それに、やっと連中に一泡吹かせてやったんだ。\n素直に喜ぼうぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450513
+     1 string m_Localized = "しかし、一つわからない事があります。\n途中でなぜゴルドウィン将軍の軍勢が退いたのか……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450514
+     1 string m_Localized = "そ、それは、マールリッジ、君が何か？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450515
+     1 string m_Localized = "いえ、私の謀り事の外です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450516
+     1 string m_Localized = "ですが、おそらくは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450517
+     1 string m_Localized = "その件については、僕から話をしましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450518
+     1 string m_Localized = "あ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450519
+     1 string m_Localized = "投降した帝国の部隊の士官をお連れしました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450520
+     1 string m_Localized = "やっぱり、君だったのか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450521
+     1 string m_Localized = "久しぶりだね、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450522
+     1 string m_Localized = "おや、お久しぶりだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450523
+     1 string m_Localized = "あ、あの、途中で味方してくれたのって！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450524
+     1 string m_Localized = "思うところあって、\n今は帝国から離れることにしました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450525
+     1 string m_Localized = "それは……ゴルドウィン将軍の退却と関係が？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450526
+     1 string m_Localized = "はい。帝国内で、皇帝陛下の暗殺事件が起きました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450527
+     1 string m_Localized = "帝国の……そ、そのような……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450528
+     1 string m_Localized = "え、え、え……帝国皇帝が……\nなぜ、そんな……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450529
+     1 string m_Localized = "暗殺……それって、まさかオルドリック公爵が？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450530
+     1 string m_Localized = "確証まではありませんが、\n我々が集めている情報からは\nおそらくはそうであろうと。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450531
+     1 string m_Localized = "ははは、それで退却になっちゃったのか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450532
+     1 string m_Localized = "オルドリックってヤツもバカだよね。\nなんてタイミングの悪い！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450533
+     1 string m_Localized = "さあて、明日には城に戻って\n軍の立て直しをして、ノールスターにも乗り込んで\nやることいっぱいなんだけど、あなたは？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450534
+     1 string m_Localized = "ユンマ様からの許しも得ましたので\nわたしも、これからは同盟軍で働こうと思っています。\nそちらの方が動きやすいですから。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450535
+     1 string m_Localized = "帝国との戦いはまだ続く……と見てるのよね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450536
+     1 string m_Localized = "えぇ、オルドリック公爵の野心は帝位の簒奪だけで\n終わりではないでしょうしね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450537
+     1 string m_Localized = "ユークリスを攻めたのは、\n体よく使われただけでしょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450538
+     1 string m_Localized = "やっぱり、そう思うのね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450539
+     1 string m_Localized = "えぇ、皇帝派の筆頭ゴルドウィン将軍を\n帝国領から引き離しておきたかった。\n暗殺の後の根回しも、もう進んでいるのでしょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450540
+     1 string m_Localized = "本当に、あくどいヤツ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450541
+     1 string m_Localized = "でも、あくどさじゃあんたも負けてないみたいだし\n信頼してるわ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450542
+     1 string m_Localized = "それはお互い様でしょう？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2809450543
+     1 string m_Localized = "ノア、あの少年をリーダーに就けようとしているのは\n理由があってのこと。\nこの先をすでに考えていらっしゃる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644800
+     1 string m_Localized = "……そうね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644801
+     1 string m_Localized = "同盟の軍のリーダーがグリュム伯領のわたしじゃ\nいらない詮索をする者もいるでしょうね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644802
+     1 string m_Localized = "噂じゃ、わたしも野心家ってことになってる\nみたいだし。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644803
+     1 string m_Localized = "それに、帝国の横暴に立ち上がるのが市井の青年。\nそんな英雄のストーリーは人々の心を打つわ。\nそういうのがみんな、好きじゃない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644804
+     1 string m_Localized = "…………"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644805
+     1 string m_Localized = "では、あなたは何を求めますか？\n名誉ではなく。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644806
+     1 string m_Localized = "そうね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644807
+     1 string m_Localized = "わたしの望みはもっとささやかよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644808
+     1 string m_Localized = "やぁ、ノア。起きた？ちゃんと寝れた？\nやっと帰ってきて大変だけどさぁ、\n大広間で会議だって。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644809
+     1 string m_Localized = "正義に休息の時はない！さぁ、行こう、行こう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644810
+     1 string m_Localized = "さて、ノア殿も来たことですし話を始めましょうか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644811
+     1 string m_Localized = "話って？\nっていうか、マールリッジさんもこっちに来たんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644812
+     1 string m_Localized = "えぇ、ユンマ様には許可をもらっています。\nこれから、よろしくお願いします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644813
+     1 string m_Localized = "軍師殿との契約も残っている。\n我らも力を貸すことにしよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644814
+     1 string m_Localized = "ユークリス戦での働きを考えると\nずいぶんと頼りになりそうだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644815
+     1 string m_Localized = "そうよ、マールリッジには軍師として\nこの同盟軍のリーダー、ノアを補佐してもらうわ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644816
+     1 string m_Localized = "ん？？リーダー？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644817
+     1 string m_Localized = "待ってくれ、おれは代行じゃないのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644818
+     1 string m_Localized = "えっ？リーダー？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644819
+     1 string m_Localized = "うむ、諸君も頑張ってくれたまえ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644820
+     1 string m_Localized = "待ってくれ、おれは代行じゃないのか？\nリーダーは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644821
+     1 string m_Localized = "この城を使えるようにしたのも\nツリーフォークを味方につけたのも、\nユークリスで戦ったのも、あなたよ、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644822
+     1 string m_Localized = "自信を持っていいんじゃない？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644823
+     1 string m_Localized = "だけど……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644824
+     1 string m_Localized = "あなたはおせっかい焼きなんでしょ？\nなら、おせっかいついでよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644825
+     1 string m_Localized = "一人、二人とかケチな事言わずに\n国の一つ二つぐらい、助けてみなさいよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644826
+     1 string m_Localized = "それは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644827
+     1 string m_Localized = "ははっ、こりゃ覚悟を決めなきゃな、ノア。\nユーミル、あんたは良いのかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644828
+     1 string m_Localized = "お嬢様からもう話は聞いている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644829
+     1 string m_Localized = "えっ？リーダー？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644830
+     1 string m_Localized = "そりゃそうでしょ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644831
+     1 string m_Localized = "この城を使えるようにしたのも\nツリーフォークを味方につけたのも、\nユークリスで戦ったのも、ノア、あなたなんだから。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644832
+     1 string m_Localized = "それに、わたしはやることが他にいっぱいあって\n忙しいのよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644833
+     1 string m_Localized = "それって……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644834
+     1 string m_Localized = "あなたはおせっかい焼きなんでしょ？\nなら、おせっかいついでよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644835
+     1 string m_Localized = "一人、二人とかケチな事言わずに\n国の一つ二つぐらい、助けてみなさいよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644836
+     1 string m_Localized = "それは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644837
+     1 string m_Localized = "ははっ、こりゃ覚悟を決めなきゃな、ノア。\nユーミル、あんたは良いのかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644838
+     1 string m_Localized = "お嬢様からもう話は聞いている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644839
+     1 string m_Localized = "うむ、同盟軍をもり立てるために\n諸君も頑張ってくれたまえ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644840
+     1 string m_Localized = "えぇぇっ？？ノアも乗り気？？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644841
+     1 string m_Localized = "お前……ちょっとイメージ変わったか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644842
+     1 string m_Localized = "やる気になってるのは良いじゃない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644843
+     1 string m_Localized = "わたしは他にやることがいっぱいあって、\n忙しいの。\n本当にお願いね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644844
+     1 string m_Localized = "…………"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644845
+     1 string m_Localized = "ユーミルも、リーダーの補佐をお願いね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644846
+     1 string m_Localized = "お嬢様がそう言うなら。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644847
+     1 string m_Localized = "ははっ、こりゃ帝国に居た頃より楽しそうだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2813644848
+     1 string m_Localized = "ちょ、ちょっとバレンタインさん。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839104
+     1 string m_Localized = "ノア、改めて僕も君たちの戦いに協力するよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839105
+     1 string m_Localized = "今の帝国のあり方は正しいものじゃない。\n君に協力することが、それを正すことに繋がると\n僕は信じている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839106
+     1 string m_Localized = "セイ。\nそれが今の君の目指す物か？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839107
+     1 string m_Localized = "あぁ、ケースリング家の務めではなく\n自分の心に従う事にしたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839108
+     1 string m_Localized = "うんうん、それで良かったと思うよ。\n良い表情してるよ、セイ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839109
+     1 string m_Localized = "そう……だろうか？\n自分では、よくわからない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839110
+     1 string m_Localized = "そういうの、わかりにくいヤツだからな。\nはははは。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839111
+     1 string m_Localized = "お話、盛り上がってるところですが\n次の話、これからの事を相談したいと思います。\nよろしいかな、リーダー殿。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839112
+     1 string m_Localized = "ノア……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839113
+     1 string m_Localized = "え……あぁ、おれのことか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839114
+     1 string m_Localized = "帝国の軍勢は一度はユークリスから引き上げましたが\nいまだグリュム伯領には留まっています。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839115
+     1 string m_Localized = "オルドリック公爵が再び、諸国連合の制圧を狙って\n行動を起こすはずです。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839116
+     1 string m_Localized = "猶予は少ないと。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839117
+     1 string m_Localized = "えぇ、その間に出来ることは二つ。\n一つは、出来るだけ味方を集める事。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839118
+     1 string m_Localized = "それについて一つ心当たりがある。\nユークリスの東、砂漠の地にシャークマンたちの住む\nインペリシャークがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839119
+     1 string m_Localized = "シャークマン？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839120
+     1 string m_Localized = "傭兵として何度か\n共に戦った事も、互いに戦った事もある。\n名誉を重んじる強き戦士たちだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839121
+     1 string m_Localized = "そちらの交渉はノア殿にお願いします。\nすでにユンマ様に砂漠の地との関所を通る許可は\n得ています。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839122
+     1 string m_Localized = "案内人としてバルナールをお連れください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839123
+     1 string m_Localized = "関へはハイシャーンから北東へ進めば着く。\nそこから山道を抜けた先に砂漠の入り口となる街\nダーバウィンがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839124
+     1 string m_Localized = "まずは、そこを目指す事になるな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839125
+     1 string m_Localized = "あぁ、わかった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839126
+     1 string m_Localized = "そして、もう一つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839127
+     1 string m_Localized = "現在、帝国内では皇帝暗殺の動揺が広がっています。\n公爵が事態を掌握して地盤固めが終わったら、\n再び、諸国連合への侵攻を始めるはずです。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839128
+     1 string m_Localized = "時間を稼いで、それを、できるだけ遅らせることが\n重要になります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839129
+     1 string m_Localized = "そちらはすでにセイ殿にお願いしています。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839130
+     1 string m_Localized = "すでに、帝国内でオルドリック公爵に反感を覚えている\nいわゆる旧皇帝派と接触をしています。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839131
+     1 string m_Localized = "まぁ、ノア君たちに力を貸すと言っても\nおれたちは元々は帝国軍だからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839132
+     1 string m_Localized = "しばらくは単独行動をした方が良いだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839133
+     1 string m_Localized = "えぇ。当たり前の事ですが\n同盟軍の中には、我々の事をすぐには信用できない\nという方も多いでしょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839134
+     1 string m_Localized = "えぇっ、そうなの？\nわたしは信用してるよ！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839135
+     1 string m_Localized = "ふふっ、ありがとう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839136
+     1 string m_Localized = "まぁ、俺たちは中尉殿の事を知っているが\n皆がそういうわけではないからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839137
+     1 string m_Localized = "セイ殿と皆さんには、帝国内での情報収集と\nオルドリック公爵への妨害工作をお願いします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839138
+     1 string m_Localized = "皇帝暗殺により動揺している帝国内を公爵が掌握し\n再度、諸国連合への侵攻を始めるのをできる限り\n遅らせてください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839139
+     1 string m_Localized = "あぁ、任せてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839140
+     1 string m_Localized = "わたしは連絡役として、この城と帝国内を\n行き来する事とします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839141
+     1 string m_Localized = "えっと……お手伝いすればいいんだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839142
+     1 string m_Localized = "えぇ、お願いします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839143
+     1 string m_Localized = "ここからはノア編とセイ編を選択して\nプレイする事ができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839144
+     1 string m_Localized = "ヒルディに話しかけることで、\nいつでも切り替える事が可能です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839145
+     1 string m_Localized = "それではノア殿、セイ殿、\nそれぞれよろしくお願いします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839146
+     1 string m_Localized = "わかりました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839147
+     1 string m_Localized = "うまくやってみせるって！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839148
+     1 string m_Localized = "こっちも頑張るよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839149
+     1 string m_Localized = "そうそう、負けないからね！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839150
+     1 string m_Localized = "味方集めと帝国内の妨害作戦を同時に行うって事ね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839151
+     1 string m_Localized = "どちらが、上手くやるか\n競争だな、セイ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839152
+     1 string m_Localized = "競争……どうなったら勝ちなんだろうか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2817839153
+     1 string m_Localized = "そうやって、考えすぎるのは\nセイの悪いところだよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033408
+     1 string m_Localized = "うんうん、同意する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033409
+     1 string m_Localized = "…………"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033410
+     1 string m_Localized = "…………"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033411
+     1 string m_Localized = "それでは、ノア殿、セイ殿、\nどちらから出発しますか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033412
+     1 string m_Localized = "あぁ、おれが先にインペリシャークへ向かうよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033413
+     1 string m_Localized = "帝国領へ先に出立させてもらう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033414
+     1 string m_Localized = "あぁ、おれが先にインペリシャークへ向かうよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033415
+     1 string m_Localized = "わたしは連絡係としてこの城に残っていますので。\nセイ中尉の様子が知りたい時には\n話しかけてください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033416
+     1 string m_Localized = "ノア殿は砂漠の地へ赴くための\nパーティメンバーをお選びください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033417
+     1 string m_Localized = "それでは、よろしくお願いします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033418
+     1 string m_Localized = "ノア、気をつけてな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033419
+     1 string m_Localized = "では、帝国領へ先に出立させてもらう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033420
+     1 string m_Localized = "気をつけてな、セイ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033421
+     1 string m_Localized = "セイ中尉の様子が気になりますか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033422
+     1 string m_Localized = "セイの様子が知りたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033423
+     1 string m_Localized = "今は大丈夫。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033424
+     1 string m_Localized = "あぁ、セイの様子を教えてくれないか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033425
+     1 string m_Localized = "わかりました。\nすぐに連絡を取りますが、本当によろしいですね？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033426
+     1 string m_Localized = "頼む。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033427
+     1 string m_Localized = "いや、やっぱりいい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033428
+     1 string m_Localized = "うん、頼む。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033429
+     1 string m_Localized = "わかりました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033430
+     1 string m_Localized = "いや、やっぱりいい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033431
+     1 string m_Localized = "そうですか。\nわかりました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033432
+     1 string m_Localized = "今は大丈夫だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033433
+     1 string m_Localized = "わかりました。\n中尉の事ですから、順調だと思います。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033434
+     1 string m_Localized = "砂漠の地へはユークリスの\n首都ハイシャーンの北東にある関を\n抜けていくことになる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033435
+     1 string m_Localized = "よし、がんばろう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033436
+     1 string m_Localized = "ところで……ハイシャーンへは\nキャリー殿の力を借りれば\n行くことができるようだが？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033437
+     1 string m_Localized = "砂漠の地へはユークリスの\n首都ハイシャーンの北東にある関を\n抜けていくことになる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033438
+     1 string m_Localized = "よし、がんばろう！\nまずはキャリーちゃんにお願いして、テレポートかな？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033439
+     1 string m_Localized = "この山道を抜けた先に砂漠の入り口\nとなる街ダーバウィンがある。\nそこから、インペリシャークを目指すことになる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033440
+     1 string m_Localized = "シャークマン、いったいどんなヤツなんだろう？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033441
+     1 string m_Localized = "うん、行こう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033442
+     1 string m_Localized = "砂漠の地はここから東へ行った\nシャンダール岩稜を越えた先にある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033443
+     1 string m_Localized = "準備を整えたら、そちらへ向かうのが良いだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033444
+     1 string m_Localized = "同盟軍の方ですね。\nカシウス将軍から連絡が来ています。\nどうぞ、お通りください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033445
+     1 string m_Localized = "よーし、砂漠の地へ向けてゴーゴーだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033446
+     1 string m_Localized = "やっと抜けられたようだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033447
+     1 string m_Localized = "あぁ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033448
+     1 string m_Localized = "そしてこの先のダーバウィンから\nシャークマン達の居るインペリシャークへと\n渡る事になる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [189]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033449
+     1 string m_Localized = "岩山の次は砂漠かぁ……\n過酷すぎない？何かの罰ゲーム？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [190]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033450
+     1 string m_Localized = "インペリシャークへは歩きじゃないさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [191]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033451
+     1 string m_Localized = "じゃあ、何で行くんだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [192]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033452
+     1 string m_Localized = "ふふっ、そこは行ってのお楽しみだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [193]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2822033453
+     1 string m_Localized = "それで、これからどうするんだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [194]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227712
+     1 string m_Localized = "あぁ、港へ行く。\n街の東が船着き場になっている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [195]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227713
+     1 string m_Localized = "港？？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [196]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227714
+     1 string m_Localized = "あぁ、港さ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [197]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227715
+     1 string m_Localized = "ねぇねぇ、わたしたちの事をダマそうとしてない？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [198]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227716
+     1 string m_Localized = "え？あれって……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [199]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227717
+     1 string m_Localized = "な、なに、あれぇ？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [200]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227718
+     1 string m_Localized = "あれは、シャークシップだ。\nシャークマンたちが操る砂漠の船さ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [201]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227719
+     1 string m_Localized = "あれでシャークマンたちが暮らす\nインペリシャークへ行く。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [202]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227720
+     1 string m_Localized = "なんだかスゴいな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [203]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227721
+     1 string m_Localized = "世界にはいろいろな物があるんだ。\nリーンがあちこち行きたがるわけだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [204]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227722
+     1 string m_Localized = "よぉ、スカーレット。\nお客さんだ、インペリシャークまで行きたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [205]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227723
+     1 string m_Localized = "客ってのは、そっちの？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [206]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227724
+     1 string m_Localized = "ノアだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [207]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227725
+     1 string m_Localized = "何の用事か知らないが、あんたは当たりだ。\nわたしの船、エウロフィはここじゃ一番の速さの船だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [208]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227726
+     1 string m_Localized = "これ……船なんだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [209]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227727
+     1 string m_Localized = "？\n当たり前だろ、船が砂漠以外のどこを\n走るって言うんだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [210]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227728
+     1 string m_Localized = "わたしらシャークマンは砂漠で生まれ砂漠で育つ。\nその名誉の象徴が、このシャークシップさ。\n風よりも速く走る船だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [211]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227729
+     1 string m_Localized = "そ、そうか……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [212]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227730
+     1 string m_Localized = "相変わらずだな、名誉の戦士。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [213]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227731
+     1 string m_Localized = "あんたら砂漠の民が信義に生きるように\nわたしたちは名誉に生きる。\nそういうことさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [214]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227732
+     1 string m_Localized = "さて、すぐにでもインペリシャークへと向かうか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [215]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227733
+     1 string m_Localized = "あぁ、行こう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [216]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227734
+     1 string m_Localized = "少し街を見てみたい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [217]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227735
+     1 string m_Localized = "少しこの街を見てみたいかな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [218]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227736
+     1 string m_Localized = "そうかい、その気になったら話しかけてくれよ。\n風よりも速く運んでやるさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [219]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227737
+     1 string m_Localized = "あぁ、あんたか。\nインペリシャークへ向かうか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [220]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227738
+     1 string m_Localized = "あぁ、行こう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [221]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227739
+     1 string m_Localized = "ちょっと、待ってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [222]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227740
+     1 string m_Localized = "ちょっと待ってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [223]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227741
+     1 string m_Localized = "そうかい、急ぎなよ。\n風が変わってしまう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [224]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227742
+     1 string m_Localized = "そうか、この村で珍しいものでも見つけたか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [225]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227743
+     1 string m_Localized = "急ぎなよ。\nグズグズしてる男は嫌われるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [226]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227744
+     1 string m_Localized = "あぁ、行こう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [227]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227745
+     1 string m_Localized = "わーい、ゴーゴー！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [228]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227746
+     1 string m_Localized = "よーし、お前ら行くよ！！\n帆を上げな！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [229]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227747
+     1 string m_Localized = "はははっ、これはすごいな"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [230]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227748
+     1 string m_Localized = "はやい、はやーーい！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [231]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227749
+     1 string m_Localized = "どうだい、このエウロフィは？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [232]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227750
+     1 string m_Localized = "すごいな、本当に飛ぶように進んでいる。\n船って水の上だけだと思ってたよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [233]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227751
+     1 string m_Localized = "水の上？\nははは、冗談じゃない。\n水の上なんか怖くていけないさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [234]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227752
+     1 string m_Localized = "そういうものなのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [235]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227753
+     1 string m_Localized = "シャークマンはかつて、\n大きな水たまりの中にいたって迷信もあるがね\nそんなわけ、あるわけないさ。ははは。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [236]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227754
+     1 string m_Localized = "背びれが濡れるなんて、我慢できないよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [237]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227755
+     1 string m_Localized = "へ、へぇ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227756
+     1 string m_Localized = "そういうもんなんだ、ノア。\n陸には陸の、砂漠には砂漠の生き方がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227757
+     1 string m_Localized = "さーて、お前らお客さんがお気に入りのようだ。\nもっとスピードを出すよ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227758
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>へい！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227759
+     1 string m_Localized = "ま、まだ早くなるのか？\nちょっと酔って……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [242]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2826227760
+     1 string m_Localized = "さぁ、着いたぜ。お客さん。\n楽しかったかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [243]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422016
+     1 string m_Localized = "あぁ、ありがとう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [244]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422017
+     1 string m_Localized = "それじゃ、ここの長に会いに行くぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [245]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422018
+     1 string m_Localized = "群れ長に会いに行くのかい？\nそれなら、村の一番奥の建物さ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [246]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422019
+     1 string m_Localized = "なんだい、ダーバウィンに戻りたいのかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [247]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422020
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [248]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422021
+     1 string m_Localized = "まだ、良い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [249]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422022
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [250]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422023
+     1 string m_Localized = "任せときな。\nさぁ、気を付けて乗ってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [251]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422024
+     1 string m_Localized = "さぁ、着いた。\nあんたに幸運を。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [252]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422025
+     1 string m_Localized = "まだ、良いよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [253]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422026
+     1 string m_Localized = "そうかい、帰りたくなったら\n話しかけておくれよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [254]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422027
+     1 string m_Localized = "よぉ、インペリシャークへ向かうかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422028
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422029
+     1 string m_Localized = "まだ、良い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422030
+     1 string m_Localized = "あぁ、また頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422031
+     1 string m_Localized = "さぁさぁ、乗りな。\nこの辺じゃ、一番の船で運んでやるさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422032
+     1 string m_Localized = "インペリシャークに到着だ。\nあんたに幸運を。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422033
+     1 string m_Localized = "まだ、良いよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422034
+     1 string m_Localized = "そうかい、インペリシャークへ向かう気になったら\n話しかけておくれよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422035
+     1 string m_Localized = "やあ、ダーバウィンに戻りたいのかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422036
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422037
+     1 string m_Localized = "まだ、良い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422038
+     1 string m_Localized = "あぁ、頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422039
+     1 string m_Localized = "はは、任せときな。\nさぁさぁ、乗ってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422040
+     1 string m_Localized = "さぁ、ダーバウィンだ。\nキミに幸運を。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422041
+     1 string m_Localized = "まだ、良いよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422042
+     1 string m_Localized = "そうかい、ダーバウィンに戻る気になったら\nまた話しかけてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422043
+     1 string m_Localized = "やぁ、インペリシャークへ行くのかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422044
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422045
+     1 string m_Localized = "まだ、良い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422046
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422047
+     1 string m_Localized = "よし、行こうじゃない。\nわれらがインペリシャークへ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422048
+     1 string m_Localized = "さぁ、インペリシャークに着いたよ。\nキミに幸運を。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422049
+     1 string m_Localized = "まだ、良いよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422050
+     1 string m_Localized = "そうかい、インペリシャークに行く気になったら\nまた話しかけてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422051
+     1 string m_Localized = "うーん、やっぱり一人じゃキビしそうねぇ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422052
+     1 string m_Localized = "ん？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422053
+     1 string m_Localized = "やぁ、君。\nどうかな、良い話があるんだけど？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422054
+     1 string m_Localized = "えっ？話って？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2830422055
+     1 string m_Localized = "あ、いや……うーん……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616320
+     1 string m_Localized = "ダメだな。\n今度の獲物は大物だからな。\nもうちょっと強くないと……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616321
+     1 string m_Localized = "すまんね、君。忘れてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616322
+     1 string m_Localized = "いったい、なんだったんだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [286]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616323
+     1 string m_Localized = "さあな。\nそれよりも、群れ長の所へ行くべきだ。\nそれが、あんたの仕事だろう？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [287]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616324
+     1 string m_Localized = "さぁさぁ聞いてくれ、\nいよいよシャークシップレースが開かれる！\n飛び入り歓迎、勇気のあるヤツは飛び込んで来な！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [288]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616325
+     1 string m_Localized = "今なら、稽古をつけてやるぜ！\n勇気を示せ！気合いを入れろ！背びれを立てろ！！\nここにこそ、我らの誉れあり！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [289]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616326
+     1 string m_Localized = "あれは？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [290]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616327
+     1 string m_Localized = "シャークシップレースをやるようだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [291]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616328
+     1 string m_Localized = "ここに来るまでに乗ったあの船で\n速度を競う荒っぽいレースさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [292]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616329
+     1 string m_Localized = "なんだか、面白そう！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [293]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616330
+     1 string m_Localized = "ここにシャークマンを率いる群れ長の\nスキッドがいるはずだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [294]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616331
+     1 string m_Localized = "シャークマンたちは俺たちと同じく\n傭兵を請け負っている。\n一応は知った仲だからな、話は聞いてくれるだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [295]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616332
+     1 string m_Localized = "ただ、奴らは俺たちとは戦いに対する考えに\n違いがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [296]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616333
+     1 string m_Localized = "違い？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [297]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616334
+     1 string m_Localized = "あぁ。命を奪い合う、その戦いにどう向き合うか。\nそいつには、多くの答えがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [298]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616335
+     1 string m_Localized = "俺たちにとっては戦いは、生活の糧さ。\n他に生き方を知らない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [299]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616336
+     1 string m_Localized = "だが、連中にとっては……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [300]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616337
+     1 string m_Localized = "どういう捉え方を？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [301]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616338
+     1 string m_Localized = "それは……会ってみるのが早いな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [302]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616339
+     1 string m_Localized = "さぁ、入るぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [303]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616340
+     1 string m_Localized = "戦いにどう向き合うか……か"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [304]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616341
+     1 string m_Localized = "つまり、帝国との戦いに我々の力を貸せということか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [305]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616342
+     1 string m_Localized = "そうだ。\n帝国のオルドリック公爵は、野心のために\n無用な戦いを起こし諸国連合を飲み込もうとしている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [306]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616343
+     1 string m_Localized = "それと対抗するために、力を集めなきゃならない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [307]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616344
+     1 string m_Localized = "ほう、そいつは大きな戦いになりそうだ。\n我ら全ての命を賭けることにもなる戦いに、\nちがうか、バルナール？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [308]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616345
+     1 string m_Localized = "あぁ、そうなるだろう。\nだが、俺たち傭兵稼業にとっては\nそんなに珍しい事じゃない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [309]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616346
+     1 string m_Localized = "サワド家はすでに、ユークリスと契約を結んだ。\n信義を守ることは、戦場での死よりも重い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [310]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616347
+     1 string m_Localized = "ふうむ…………"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [311]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616348
+     1 string m_Localized = "うーん、難しいのかな……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [312]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616349
+     1 string m_Localized = "えっ？えぇぇっ？？<autosubmit=1>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [313]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616350
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>素晴らしい、そんな誉れある戦いに招いてくれるとは\nこんな幸運！こんな興奮！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [314]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616351
+     1 string m_Localized = "じゃあ、力を貸してくれると？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [315]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616352
+     1 string m_Localized = "あぁ、だが一つだけ条件がある。\n誉れある戦いは誉れあるリーダーに\n率いられねばならない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [316]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616353
+     1 string m_Localized = "同盟軍を率いるのがノア、お前ならば\nお前が誉れある戦士だという事を示してくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [317]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616354
+     1 string m_Localized = "どうだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [318]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616355
+     1 string m_Localized = "あぁ、いいだろう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [319]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2834616356
+     1 string m_Localized = "でも、どうやって？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [320]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810624
+     1 string m_Localized = "あぁ、いいだろう！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [321]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810625
+     1 string m_Localized = "ははっ、思い切りがいいな、ノア。\nそういうタイプじゃないと思っていたぜ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [322]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810626
+     1 string m_Localized = "それで、いったいどうやって\nそれを示せばいい、スキッド？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [323]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810627
+     1 string m_Localized = "わかった。でも、どうやって誉れを示せばいい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [324]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810628
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>シャークシップレースだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [325]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810629
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>シャークシップレースだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [326]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810630
+     1 string m_Localized = "シャークシップレースってさっきの？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [327]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810631
+     1 string m_Localized = "シャークシップレース？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [328]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810632
+     1 string m_Localized = "つまり、シャークシップのレースで勝てば\n良いって事か？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [329]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810633
+     1 string m_Localized = "スキッドも優勝とは言わなかったからな。\n納得させられる結果を残せれば良いだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [330]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810634
+     1 string m_Localized = "面白そう！やろう、やろう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [331]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810635
+     1 string m_Localized = "じゃあ、さっきの広場のところへ行ってみよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [332]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810636
+     1 string m_Localized = "広場で、レースの参加を受け付けてるって言ってたな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [333]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810637
+     1 string m_Localized = "さぁさぁ聞いてくれ、\nいよいよシャークシップレースが開かれる！\n飛び入り歓迎、勇気のあるヤツは飛び込んで来な！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [334]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810638
+     1 string m_Localized = "今なら、稽古をつけてやるぜ！\n勇気を示せ！気合いを入れろ！背びれを立てろ！！\nここにこそ、我らの誉れあり！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [335]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810639
+     1 string m_Localized = "アレみたいだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [336]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810640
+     1 string m_Localized = "あぁ。そうだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [337]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810641
+     1 string m_Localized = "シャークシップレースは\n砂漠を突っ切る荒っぽいレースさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [338]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810642
+     1 string m_Localized = "よしよし行こう！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [339]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810643
+     1 string m_Localized = "さぁさぁ、他に参加したいってのは？\n勇気を示したいってヤツは？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [340]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810644
+     1 string m_Localized = "よし、アレだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [341]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810645
+     1 string m_Localized = "やぁ、あんた。\nん？その顔は！！レースに参加したいってんだな！！\nこりゃ珍しい！！！でも最高だ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [342]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810646
+     1 string m_Localized = "え、えっと……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [343]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810647
+     1 string m_Localized = "おれが直々に立派なシャークシップ乗りに\n鍛えてやろう！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [344]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810648
+     1 string m_Localized = "俺の名前はユーフェリウス！\nユーフェリウスⅦ世だ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [345]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810649
+     1 string m_Localized = "だが、今はコーチと呼べ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [346]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810650
+     1 string m_Localized = "さぁさぁ、行くぞ！！\n遅れるなよ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [347]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810651
+     1 string m_Localized = "ちょ、ちょっと待って！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [348]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810652
+     1 string m_Localized = "おぉ、そうか。\n<ruby=むれちょう>群れ長</ruby>の肝いりだったのか！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [349]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810653
+     1 string m_Localized = "それなら、なおさら気合いを入れないとな！！\nえっと……名前は？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [350]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810654
+     1 string m_Localized = "ノアだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [351]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810655
+     1 string m_Localized = "よーし、良い返事だ、ノア！！\n特訓開始だ、準備はいいな！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [352]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810656
+     1 string m_Localized = "あぁ、もちろん！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [353]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810657
+     1 string m_Localized = "ちょ、ちょっと待って！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [354]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810658
+     1 string m_Localized = "ちょ、ちょっと待って！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [355]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810659
+     1 string m_Localized = "ん？なんだ？\nトイレか？\n仕方ないな、早く行ってこい！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [356]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810660
+     1 string m_Localized = "そうじゃないけど。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [357]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810661
+     1 string m_Localized = "駆け足でゴーだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [358]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810662
+     1 string m_Localized = "よーし、今度こそ準備はいいな！\nノア！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [359]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810663
+     1 string m_Localized = "バッチリだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [360]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810664
+     1 string m_Localized = "あ、まだ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [361]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810665
+     1 string m_Localized = "あ、まだ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [362]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810666
+     1 string m_Localized = "急げよ、駆け足！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [363]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810667
+     1 string m_Localized = "あぁ、もちろん！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [364]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810668
+     1 string m_Localized = "バッチリだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [365]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810669
+     1 string m_Localized = "よし、行くぞノア！！\n特訓スタートだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [366]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810670
+     1 string m_Localized = "あぁ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [367]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810671
+     1 string m_Localized = "なんだか……ペースに巻き込まれているな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [368]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810672
+     1 string m_Localized = "よーし、特訓は以上だ！！\nよくやったぞ、ノア！！\n実に感動的だった！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [369]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2838810673
+     1 string m_Localized = "はい、コーチ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [370]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004928
+     1 string m_Localized = "それじゃ、レースに備えて\n宿でゆっくり身体を休めるんだ。\nわかったな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [371]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004929
+     1 string m_Localized = "はい！気合いです！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [372]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004930
+     1 string m_Localized = "なんだか、変な影響を受けてないか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [373]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004931
+     1 string m_Localized = "ははっ、レースの前につぶれないでくれよ。\n宿は……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [374]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004932
+     1 string m_Localized = "さざ波亭だ。ゆっくり休めよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [375]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004933
+     1 string m_Localized = "さて、身体をゆっくり休めてくれよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [376]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004934
+     1 string m_Localized = "レースが楽しみすぎて、\n眠れないなんて事はないようにな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [377]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004935
+     1 string m_Localized = "あぁ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [378]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004936
+     1 string m_Localized = "だが、なんだか闘志が燃え上がるというか\nレースが楽しみなのは確かだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [379]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004937
+     1 string m_Localized = "ははっ、ほどほどにな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [380]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004938
+     1 string m_Localized = "さぁ、皆聞いてくれ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [381]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004939
+     1 string m_Localized = "次のレースは特別だ！！！\n尻尾の先まで興奮するぞ！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [382]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004940
+     1 string m_Localized = "特別なレース参加者だ、\n先のハイシャーンでの戦いで見事\n帝国軍を打ち破った英雄！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [383]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004941
+     1 string m_Localized = "同盟軍のリーダー、ノアだ！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [384]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004942
+     1 string m_Localized = "よぉ、応えてやりなよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [385]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004943
+     1 string m_Localized = "ノアは、これからも帝国を相手に戦っていく！！\nそのために、我々に力を貸して欲しいと申し出た！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [386]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004944
+     1 string m_Localized = "そして、自らが誉れある戦士であると、\nこのレースでその勇気と誉れを示すと！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [387]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004945
+     1 string m_Localized = "ノアが本当に牙あるヤツか、背びれ野郎か\nそれがこのレースで決まる！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [388]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004946
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>さぁ、レースの始まりだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [389]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004947
+     1 string m_Localized = "さぁ、本番だ！\nここまでの辛く厳しい練習に耐えてきたお前だ！\n絶対に勝てるぞ、ノア！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [390]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004948
+     1 string m_Localized = "はい、コーチ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [391]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004949
+     1 string m_Localized = "あまり緊張しすぎるなよ、\nある程度の順位、そうだな２位ぐらいなら\nスキッドのヤツも認めるだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [392]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004950
+     1 string m_Localized = "あぁ、わかった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [393]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004951
+     1 string m_Localized = "準備に抜かりはないな！\nヒレの手入れはバッチリか！\nさぁ、行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [394]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004952
+     1 string m_Localized = "あぁ、バッチリだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [395]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004953
+     1 string m_Localized = "ちょっとだけ、待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [396]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004954
+     1 string m_Localized = "ちょっとだけ待ってくれ、コーチ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [397]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004955
+     1 string m_Localized = "あぁ、準備は怠りなく、\n忘れ物はなし、だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [398]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004956
+     1 string m_Localized = "よしよし、今度こそバッチリだな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [399]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004957
+     1 string m_Localized = "あぁ、バッチリだ、コーチ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [400]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004958
+     1 string m_Localized = "よし、行くぞ！！\n気合いを入れるぞ！！ヒレを広げろ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [401]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004959
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>おぉっ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [402]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004960
+     1 string m_Localized = "くっ……ダメだったか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [403]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004961
+     1 string m_Localized = "もう少しだったのにぃ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [404]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004962
+     1 string m_Localized = "しかし、これじゃあ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [405]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004963
+     1 string m_Localized = "すまない、みんな。\nここまで来て。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [406]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004964
+     1 string m_Localized = "気を落とすな、ノア！！\n誉れは結果じゃない、その心に宿るのだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [407]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004965
+     1 string m_Localized = "ほ、本当に……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [408]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004966
+     1 string m_Localized = "そうだ！\nなぁ、群れ長！！そうだろう！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [409]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004967
+     1 string m_Localized = "そうだ！！負けても背びれを見せて逃げたりせず\n前を向き続ければ名誉は失われない！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [410]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004968
+     1 string m_Localized = "じゃあ！！再挑戦を？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [411]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004969
+     1 string m_Localized = "そうだ！！良いだろう、皆！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [412]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004970
+     1 string m_Localized = "新たなレースだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [413]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004971
+     1 string m_Localized = "ほら、顔をあげろノア！！\n行くぞ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [414]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004972
+     1 string m_Localized = "はい、コーチ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [415]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004973
+     1 string m_Localized = "ちょっとだけ待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [416]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004974
+     1 string m_Localized = "ちょっとだけ待ってくれ、コーチ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [417]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004975
+     1 string m_Localized = "よし、急げ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [418]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004976
+     1 string m_Localized = "よし、今度こそいいな！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [419]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004977
+     1 string m_Localized = "はい、コーチ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [420]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2843004978
+     1 string m_Localized = "よし、良い返事だ！！\n背びれを立てろ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [421]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199232
+     1 string m_Localized = "はい！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [422]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199233
+     1 string m_Localized = "…………うーむ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [423]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199234
+     1 string m_Localized = "そんな……まさか……また……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [424]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199235
+     1 string m_Localized = "そんなぁ……わたしたちには無理なのぉ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [425]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199236
+     1 string m_Localized = "しかし、これは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [426]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199237
+     1 string m_Localized = "すまない、みんな。\n再挑戦のチャンスまで……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [427]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199238
+     1 string m_Localized = "何を言っている、ノア！！\n言っただろう！！\n心が負けなければ、それは負けではない！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [428]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199239
+     1 string m_Localized = "で、でも……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [429]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199240
+     1 string m_Localized = "なぁ、群れ長！！そうだろう！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [430]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199241
+     1 string m_Localized = "その通りだ！！！\n我らシャークマンは背びれが折れるまで戦う！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [431]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199242
+     1 string m_Localized = "その覚悟を受け止められるリーダーか\nそれを見せてみろ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [432]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199243
+     1 string m_Localized = "じゃあ！！もう一回チャンスを？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [433]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199244
+     1 string m_Localized = "その通り！！その通り！！！良いだろう、皆！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [434]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199245
+     1 string m_Localized = "新たなレースだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [435]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199246
+     1 string m_Localized = "ほら、今度こそお前の勇気を示せ、ノア！！\n行くぞ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [436]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199247
+     1 string m_Localized = "はい、コーチ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [437]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199248
+     1 string m_Localized = "ちょっとだけ待って。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [438]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199249
+     1 string m_Localized = "ちょっとだけ待ってくれ、コーチ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [439]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199250
+     1 string m_Localized = "わかった、急げよ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [440]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199251
+     1 string m_Localized = "よし、今度こそいいな！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [441]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199252
+     1 string m_Localized = "はい、コーチ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [442]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199253
+     1 string m_Localized = "よし、良い返事だ！！\n背びれを立てろ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [443]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199254
+     1 string m_Localized = "はい！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [444]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199255
+     1 string m_Localized = "そ、そんなぁ……ま、またしても……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [445]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199256
+     1 string m_Localized = "ノア……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [446]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199257
+     1 string m_Localized = "ノアよ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [447]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199258
+     1 string m_Localized = "いや、まだだ！！\nまだおれの背びれは折れていない！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [448]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199259
+     1 string m_Localized = "もう一度！もう一度だ！！\nもう一度チャンスをくれ！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [449]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199260
+     1 string m_Localized = "素晴らしい！！素晴らしい！！！\nヒューマンでありながら、その素晴らしいスピリット！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [450]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199261
+     1 string m_Localized = "まさに名誉ある不屈の戦士だ！！\nその心をたたえることにしよう！！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [451]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199262
+     1 string m_Localized = "レースの腕は……まぁ、これから頑張ってもらうとして"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [452]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199263
+     1 string m_Localized = "我らはその誉れをたたえるぞ！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [453]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199264
+     1 string m_Localized = "よ、よし、やった！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [454]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199265
+     1 string m_Localized = "やったーー！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [455]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199266
+     1 string m_Localized = "やったな、ノア！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [456]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199267
+     1 string m_Localized = "あぁ、立派なもんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [457]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199268
+     1 string m_Localized = "素晴らしいぞ、ノア！！\n素晴らしい！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [458]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199269
+     1 string m_Localized = "素晴らしい！素晴らしいファイト！\n素晴らしいスピリットだった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [459]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199270
+     1 string m_Localized = "俺にも、ノアの立派な背ビレが見えたぞ。\n皆、ノアに祝福を！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [460]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199271
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>やったーー！！！一位だ！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [461]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199272
+     1 string m_Localized = "やったよ、一位だ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [462]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199273
+     1 string m_Localized = "すごいな、ノア！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [463]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199274
+     1 string m_Localized = "あぁ、立派なもんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [464]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199275
+     1 string m_Localized = "すごいぞ、ノア！！\nよくぞここまで、長く辛い訓練を耐え抜いた！！\n感動的なレースだったぞ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [465]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199276
+     1 string m_Localized = "このわたしのエウロフィに勝つとはね。\n驚いたよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [466]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199277
+     1 string m_Localized = "素晴らしい！素晴らしいファイト！\n素晴らしいスピリットだった！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [467]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199278
+     1 string m_Localized = "俺にも、見えたぞ！\nノアは黄金のヒレを持つ最高の戦士だ！\n皆、ノアに祝福を！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [468]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199279
+     1 string m_Localized = "ノア、お前のレースは素晴らしかった。\nまさに誉れを見せたと言っていい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [469]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2847199280
+     1 string m_Localized = "ノア、お前のスピリットは見せてもらった。\nへこたれない精神は、それもまた一つの誉れだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [470]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393536
+     1 string m_Localized = "それじゃあ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [471]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393537
+     1 string m_Localized = "あぁ、われらシャークマンは\n同盟軍に参加させてもらう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [472]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393538
+     1 string m_Localized = "群れ一団となって、帝国という巨大な敵を\n食い破って見せよう！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [473]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393539
+     1 string m_Localized = "ありがとう、感謝するよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [474]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393540
+     1 string m_Localized = "やったな、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [475]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393541
+     1 string m_Localized = "よし、やったぁ！！サメ大好き！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [476]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393542
+     1 string m_Localized = "それから、これは我々からの贈り物だ。\n誉れあるレースには賞品が必要だからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [477]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393543
+     1 string m_Localized = "それともう一つ、我々から最大の贈り物だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [478]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393544
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>ノア！！最高のレースだったな！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [479]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393545
+     1 string m_Localized = "お前はおれの命を預けるのに値する男だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [480]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393546
+     1 string m_Localized = "コーチ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [481]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393547
+     1 string m_Localized = "いや、これからはコーチじゃない。\nユーフェリウスで良い！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [482]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393548
+     1 string m_Localized = "我々は必要ならいつでも戦いに赴く。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [483]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393549
+     1 string m_Localized = "そして、我らの中でも一番の戦士、\nこのインペリシャークの防衛隊長でもある\nユーフェリウスⅦ世を同盟軍へと預けよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [484]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393550
+     1 string m_Localized = "このユーフェリウスⅦ世、お前の鱗の一枚となろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [485]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393551
+     1 string m_Localized = "ありがとう、スキッド、ユーフェリウス！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [486]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393552
+     1 string m_Localized = "よし、これからよろしくな、ノア！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [487]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393553
+     1 string m_Localized = "あぁ、頼りにしてるよ、コーチ……\nじゃなくてユーフェリウス。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [488]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393554
+     1 string m_Localized = "よし、まずは同盟軍の城に向かうんだな。\n場所は……そうか、あっちだな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [489]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393555
+     1 string m_Localized = "うぉぉぉぉぉぉ、気合いだぁーーーー！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [490]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393556
+     1 string m_Localized = "えっと……大丈夫かな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [491]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393557
+     1 string m_Localized = "アレなら、砂漠も一人で越えてしまいそうだな。\nさぁ、俺たちも戻ることにしよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [492]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393558
+     1 string m_Localized = "やぁ、良いレースだったよ、ノア。\nなんだったら、今度はわたしと\nサシのレース勝負をするかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [493]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393559
+     1 string m_Localized = "勝ったら、わたしもあんたの仲間になってやるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [494]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393560
+     1 string m_Localized = "まさか、あんたに負けるとはね、ノア。\n素晴らしいレースだった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [495]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393561
+     1 string m_Localized = "それでどうだい、わたしともう一勝負しないかい？\nもし今度も勝てたら、\nわたしもあんたの仲間になってやるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [496]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393562
+     1 string m_Localized = "なんだい、ダーバウィンに戻りたいのかい？\nそれとも、レース勝負に乗るかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [497]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2851393563
+     1 string m_Localized = "ダーバウィンへ頼むよ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [498]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587840
+     1 string m_Localized = "レース勝負をしよう"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [499]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587841
+     1 string m_Localized = "まだ、街に用事がある"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [500]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587842
+     1 string m_Localized = "ダーバウィンへ頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [501]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587843
+     1 string m_Localized = "任せときな。\nさぁ、気を付けて乗ってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [502]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587844
+     1 string m_Localized = "さぁ、着いた。\nあんたに幸運を。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [503]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587845
+     1 string m_Localized = "そうこなくっちゃな、さっそく勝負だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [504]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587846
+     1 string m_Localized = "まだ、街に用事がある"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [505]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587847
+     1 string m_Localized = "そうかい、楽しんできなよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [506]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587848
+     1 string m_Localized = "よぉ、インペリシャークへ向かうかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [507]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587849
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [508]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587850
+     1 string m_Localized = "まだ、良い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [509]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587851
+     1 string m_Localized = "頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [510]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587852
+     1 string m_Localized = "さぁさぁ、乗りな。\nこの辺じゃ、一番の船で運んでやるさ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [511]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587853
+     1 string m_Localized = "さぁ、着いたよ、ノア。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [512]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587854
+     1 string m_Localized = "それにしてもあの時のレースは良いレースだったよ。\nなんだったら、今度はわたしと\nサシのレース勝負をするかい？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [513]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587855
+     1 string m_Localized = "勝ったら、わたしもあんたの仲間になってやるよ。\nその気になったら話しかけてくれよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [514]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587856
+     1 string m_Localized = "まさか、あんたに負けるとはね、ノア。\n素晴らしいレースだった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [515]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587857
+     1 string m_Localized = "それでどうだい、わたしともう一勝負しないかい？\nもし今度も勝てたら、\nわたしもあんたの仲間になってやるよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [516]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587858
+     1 string m_Localized = "それじゃ、その気になったら話しかけてくれよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [517]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587859
+     1 string m_Localized = "ここがインペリシャークさ。\nあんたに幸運を。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [518]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587860
+     1 string m_Localized = "ユーフェリウスⅦ世だ、インペリシャークの防衛隊長で\nこれからは、一緒に戦わせてもらう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [519]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587861
+     1 string m_Localized = "あぁ、頼むよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [520]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587862
+     1 string m_Localized = "これで、一仕事終わったな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [521]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587863
+     1 string m_Localized = "えぇ、首尾よくシャークマンの力を\n借りることができました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [522]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587864
+     1 string m_Localized = "あとはセイたちの方ね。\nそちらはどうなってるの？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [523]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587865
+     1 string m_Localized = "はい、まだ作戦は遂行中です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [524]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587866
+     1 string m_Localized = "わたしもこれから帝国へ戻り、\nセイ中尉の状況を確認したいと思いますが\nよろしいですか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [525]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587867
+     1 string m_Localized = "お願いするよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [526]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587868
+     1 string m_Localized = "いや、少し待ってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [527]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2855587869
+     1 string m_Localized = "お願いするよ、ヒルディさん。\nセイの事だから大丈夫だと思うけど。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [528]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2859782144
+     1 string m_Localized = "えぇ、そうですね。\nそれでは早速出発します。\n吉報をお待ちください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [529]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2859782145
+     1 string m_Localized = "いや、少し待ってくれるかい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [530]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2859782146
+     1 string m_Localized = "わかりました。\nセイ中尉の事が確認したくなりましたら、\nわたしにいつでも言ってください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [531]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2859782147
+     1 string m_Localized = "そうかい？\nまた、用があったら話しかけてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [532]
+    0 TableEntryData data
+     0 SInt64 m_Id = 23881367776321536
+     1 string m_Localized = "おれたちゃシャークマン！\n砂漠生まれのシャークマン！！\nハンマー片手に育ったシャークマン！シャークマン！<autosubmit=7.85>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [533]
+    0 TableEntryData data
+     0 SInt64 m_Id = 23881367822458880
+     1 string m_Localized = "誉れあるシャークマン！\n背びれを立てろシャークマン！！<autosubmit=4.7>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [534]
+    0 TableEntryData data
+     0 SInt64 m_Id = 23881367822458881
+     1 string m_Localized = "恐れを知らぬ戦士シャークマン！シャークマン！\nシャークマン！シャークマン！ヘイ！<autosubmit=5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [535]
+    0 TableEntryData data
+     0 SInt64 m_Id = 23881367822458882
+     1 string m_Localized = "シャークマン！シャークマン！シャークマン、ヘイ！\nシャークマン！シャークマン！シャークマン、ヘイ！<autosubmit=5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

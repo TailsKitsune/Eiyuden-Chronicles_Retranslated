@@ -1,0 +1,186 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "PlayBook02_ch_00530_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 8409236925810151368
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (20 items)
+   0 int size = 20
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111269957632
+     1 string m_Localized = "始まりは、美しき橋の上だった。\n水面を見つめる麗しき瞳の少女、それを見かけた青年\n二人は一目で恋に落ちた。\n\n青年の名はモンタギュー家のロミオ\n少女の名はキャピュレット家のジュリエット。\n\nしかし、両家は古くから代々争いが絶えず\nお互いに憎悪し合う関係であった"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540544
+     1 string m_Localized = "あぁ、ロミオ……なぜ、あなたがロミオなの？\nあなたがモンタギュー家の名を捨ててくださるのなら\n\nわたしもキャピュレットの名を捨てましょう"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540545
+     1 string m_Localized = "あぁ、ジュリエット、君に真実の愛を誓おう。\n\n薔薇が名を変えても薔薇であるように\nジュリエット、君がどのような名であろうとも\n君に変わらない"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540546
+     1 string m_Localized = "愛しているわ……ロミオ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540547
+     1 string m_Localized = "あぁ、永遠に……たとえ死が二人を分かとうとも……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540548
+     1 string m_Localized = "嫌よ、ロミオ……\n\nあなたとはずっと一緒に生きて、\n末永く共に暮らしたい"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540549
+     1 string m_Localized = "しかし、運命は二人の仲を引き裂く。\nとある事件により、両家は更に激しく\nお互いを憎む事になった。\n\n二人の境遇を見かねた修道士ロレンスは\nジュリエットに一つの提案をする"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540550
+     1 string m_Localized = "ロレンス様、このままでは私は\n意に沿わぬ相手と結婚させられてしまいます。\n\n逃れる方法は……\nロミオと一緒になる<ruby=すべ>術</ruby>はないのですか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540551
+     1 string m_Localized = "ジュリエット。\nこの薬は42時間の間だけ\n死人（しびと）のようになることができる。\n\nこれで死んだとされたあなたは\n覚醒した後に、ロミオと再び会うことが\n可能だろう"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540552
+     1 string m_Localized = "わかりました、たとえ命の危機があろうと\nロミオとともにいられるなら、\n何を恐れる事があるでしょうか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540553
+     1 string m_Localized = "しかし、この企みをロミオへ知らせるべき手紙を\n従者バルサザールはその途中で失ってしまう。\n\nそして、ジュリエットの永久の眠りを知らされたロミオは\nジュリエットが眠る霊廟へ忍びこみ、\nそこで悲嘆にくれる"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540554
+     1 string m_Localized = "あぁ、ジュリエット……君がこんな事に……\nまるで生きているようなのに\n\n君のその美しい瞳が僕を見つめることは\nもうないのだろうね"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540555
+     1 string m_Localized = "これが最後の口づけだ。\n君とともに、争いのない世界へ行こう……\n\n愛しいジュリエット"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540556
+     1 string m_Localized = "悲嘆にくれたロミオは毒をあおって\n自ら永久の眠りを選んでしまう。\n\nそして、やがてジュリエットは目を覚ます"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540557
+     1 string m_Localized = "そんな、あなたなの？ロミオ……\n\nどうして、どうして……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540558
+     1 string m_Localized = "ロミオ、あなたの唇がわたしの名を呼ぶことは\nもうないのね……\n\nでも、やっと一緒になれる……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540559
+     1 string m_Localized = "二人の若き恋人たちの死は\nやがて憎しみあっていた両家の知るところになった。\n\n醜い争いは終焉を告げたが\n二人が還ることはなかった"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540560
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540561
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111282540562
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

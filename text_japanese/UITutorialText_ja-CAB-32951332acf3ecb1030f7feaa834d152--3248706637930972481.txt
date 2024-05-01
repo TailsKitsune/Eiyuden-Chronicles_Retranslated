@@ -1,0 +1,1538 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "UITutorialText_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -3277972436919380170
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (189 items)
+   0 int size = 189
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3669282816
+     1 string m_Localized = "基本操作"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3677671424
+     1 string m_Localized = "バトル"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3677671425
+     1 string m_Localized = "施設"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3677671426
+     1 string m_Localized = "ミニゲーム"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3677671427
+     1 string m_Localized = "その他"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865734
+     1 string m_Localized = "？？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865735
+     1 string m_Localized = "シャークシップレース"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865736
+     1 string m_Localized = "レースの遊び方"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865737
+     1 string m_Localized = "レースごとに設定された目標タイムよりも早いゴールを目指しましょう。\nコース中に浮いているソウルを一定個数集めると、ダッシュができます。\n使いどころを見極めて、最短ルートを見つけましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865738
+     1 string m_Localized = "コースのギミック"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865739
+     1 string m_Localized = "ゲート：通過しなくてもゴールできますが、ペナルティとしてタイムに3秒加算されます。\nジャンプ台・ダッシュプレート：乗るとダッシュができますので積極的に使いましょう。\n竜巻：触れると弾き飛ばされます。避けて走りましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865740
+     1 string m_Localized = "目標タイムより速く！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3681865741
+     1 string m_Localized = "シャークシップレース\n目標タイムより速く！の説明がここに入る\n文字数確認"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805810151424
+     1 string m_Localized = "釣り"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677376
+     1 string m_Localized = "釣りの基本"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677377
+     1 string m_Localized = "釣り場で魚釣りができるようになりました。\n釣り糸を垂らしてタイミングよく竿を引き上げて魚を釣ってみましょう。\n魚を釣ると同時に食材も手に入ります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677378
+     1 string m_Localized = "釣り場について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677379
+     1 string m_Localized = "釣り場は色々な場所にあり、その場その場にあわせた魚が生息しています。\n隅々まで冒険してすべての釣り場を発見し、珍しい魚を釣り上げましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677380
+     1 string m_Localized = "ベーゴマバトル"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677381
+     1 string m_Localized = "バトルの流れ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677382
+     1 string m_Localized = "通常のベーゴマバトルは、バトル前に使用するコマを3個編成し、\n1コマずつバトルを行っていきます。\n相手のコマの回転力がゼロになるか場外に飛ばすと勝利になります。\n3戦中2戦勝ったほうがベーゴマバトルの勝者です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677383
+     1 string m_Localized = "ブーストスキル"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805864677384
+     1 string m_Localized = "バトル中は、ブーストゲージが自動で溜まっていきます。\n満タンになったら<input=a>を押すことで、コマが持つスキルを発動できます。\n強いスキルほど発動する確率が下がるので、使いどころを見極めましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871680
+     1 string m_Localized = "ベーゴマ収集"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871681
+     1 string m_Localized = "ベーゴマは一部の敵を倒した後に、まれに手に入れることができます。\nどの敵から手に入るかは、敵の情報に詳しい仲間がいればわかるかもしれません。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871682
+     1 string m_Localized = "カードバトル"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871683
+     1 string m_Localized = "バトルの流れ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871684
+     1 string m_Localized = "3つの戦場のうち好きな場所にお互いカードを1枚ずつ出します。\nカードに書かれた数値と、カードが持つスキルによって、戦場の戦力が増えていきます。\n戦場ごとにお互い3枚ずつカードを置き、戦力の大きい方が勝ちになります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871685
+     1 string m_Localized = "スキルと役"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871686
+     1 string m_Localized = "カードのスキルは、条件を満たすことで発動します。\n戦力がプラスになるスキルや、戦場のポイントが増えるスキルなどもあります。\n役は、戦場に置いた3枚のカードによって発動します。\n同数、連番、同色、同色連番の4種類があり、それぞれボーナスが異なります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871687
+     1 string m_Localized = "ポイントと勝利条件"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871688
+     1 string m_Localized = "戦場の勝者には、その戦場に設定されたエリアポイント（AP）と、\n自分で溜めたフィールドポイント（FP）の合計が勝利ポイント（VP）として手に入り、\n最終的にこのVPの多い方が、カードバトルの勝者になります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871689
+     1 string m_Localized = "初めてのエッグフット"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871690
+     1 string m_Localized = "初めてのエッグフット"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871691
+     1 string m_Localized = "エッグフットレースができるようになりました！\n最初のエッグフットをプレゼントします。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871692
+     1 string m_Localized = "育成"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871693
+     1 string m_Localized = "レースを選んで、出走させましょう。\n出走後にエサをあげることができ、各能力を伸ばすことができます。\nまた、エサやり回数と出走回数は限られているので注意しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871694
+     1 string m_Localized = "交配"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871695
+     1 string m_Localized = "育成したエッグフット同士で交配することで、\nより強いエッグフットが生まれます。\n育成と交配を繰り返して、\n最強のエッグフットへと育て上げましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871696
+     1 string m_Localized = "着せ替え"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871697
+     1 string m_Localized = "レースの報酬で、見た目を変更できるエッセンスを手に入れることができます。\nお気に入りの見た目の組み合わせを見つけましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871698
+     1 string m_Localized = "トップオーナーへの道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2677805868871699
+     1 string m_Localized = "レースにはグレードがあり、各グレードで1位を獲ることで\n次のグレードへ挑戦することができます。\n最高グレードまで到達し、全てのレースで1位を獲ることを目指しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2680744641523712
+     1 string m_Localized = "エッグフットレース"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137823982247936
+     1 string m_Localized = "バトルの基本"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219456
+     1 string m_Localized = "バトルの基本1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219457
+     1 string m_Localized = "フィールドやダンジョンで敵に遭遇すると「バトル」に突入します。\nバトルはターン制のコマンドバトルです。「戦う」を選んで\n仲間のコマンドを決定したらターン開始です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219458
+     1 string m_Localized = "バトルの基本2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219459
+     1 string m_Localized = "画面の右には仲間の状態、左上には敵の状態が表示されています。\n仲間のHPが0になると「戦闘不能」になり行動できなくなります。\n全ての敵のHPを0にすると勝利、仲間全員のHPが０になると敗北です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219460
+     1 string m_Localized = "バトルの基本3"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219461
+     1 string m_Localized = "画面の上には仲間と敵の「行動順」が表示されています。\nターンが始まると左から順に行動します。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219462
+     1 string m_Localized = "バトルの基本4"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219463
+     1 string m_Localized = "敵が行動する前にHPを0にできればバトルを有利に進められます。\n仲間のHPが少なくなったら、敵の行動順より先にHPを回復したほうが\nより安全に戦うことができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219464
+     1 string m_Localized = "魔導レンズについて1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219465
+     1 string m_Localized = "「魔導レンズ」は仲間の「魔法」や「技」を使用するコマンドです。\n「魔法」はMP、「技」はSPを消費します。「魔法」や「技」には\n威力の高い攻撃や範囲攻撃、HP回復など様々な効果があります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219466
+     1 string m_Localized = "魔導レンズについて2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219467
+     1 string m_Localized = "SPは毎ターン少しずつ回復し、\nMPはアイテムや宿屋等で回復できます。\nダンジョンの奥深くまで探索するときは残りMP量に注意しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219468
+     1 string m_Localized = "かばうについて"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219469
+     1 string m_Localized = "残りHPの少ない仲間が攻撃を受けそうになると、他の仲間が\n身を挺してかばって、ダメージを肩代わりしてくれることがあります。\nかばった仲間が戦闘不能になることはありません。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219470
+     1 string m_Localized = "英雄コンボについて1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219471
+     1 string m_Localized = "「英雄コンボ」を使用できるようになりました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219472
+     1 string m_Localized = "英雄コンボについて2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219473
+     1 string m_Localized = "関係性のある仲間がパーティにいて行動可能な場合に\n強力な「英雄コンボ」を使用することができます。\n「英雄コンボ」は対象となる仲間全員のSPを消費します。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219474
+     1 string m_Localized = "ギミックについて1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219475
+     1 string m_Localized = "ボス戦など特殊なバトルでは「ギミック」が出現することがあります。\nギミックのあるバトルは画面の左上に使用可能なギミックが現れます。\nバトルを有利に進めるために積極的に使っていきましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219476
+     1 string m_Localized = "ギミックについて2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219477
+     1 string m_Localized = "例えば、このバトルのギミックの「瓦礫に隠れる」を使用した仲間は、\nそのターンの間、瓦礫に隠れてすべての攻撃を防ぐことができます。\nボスの行動をよく見て、隠れるタイミングを見極めましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219478
+     1 string m_Localized = "属性について1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219479
+     1 string m_Localized = "バトル中の攻撃は「斬」「突」「打」「格」「飛」の5つの物理属性と\n「火」「水」「風」「土」「光輝」「冥闇」の6つの魔法属性が\n付いていて、敵も仲間も各属性に対する「耐性」を持っています。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219480
+     1 string m_Localized = "属性について2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219481
+     1 string m_Localized = "物理防御力の低い敵には物理属性、魔法防御力の低い敵には魔法属性の\n攻撃が有効ですが、各属性の耐性が高いとダメージを与え難くなり、\n耐性が低ければ大ダメージを与えることができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219482
+     1 string m_Localized = "特殊な物理属性の効果について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824003219483
+     1 string m_Localized = "「打」属性の攻撃は、「装甲値」にダメージを与えられます。\n「格」属性の攻撃は、「装甲値」を貫通してダメージを与えられます。\n「飛」属性の攻撃は、空を飛ぶ敵に大ダメージを与えられます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413760
+     1 string m_Localized = "装甲値について1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413761
+     1 string m_Localized = "「装甲値」は物理属性のダメージを減らす効果があります。\n画面左上の敵の名前に盾のマークの付いている敵は\n「装甲値」を持っているため、攻撃時には注意しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413762
+     1 string m_Localized = "装甲値について2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413763
+     1 string m_Localized = "装甲値には「S＞A＞B＞C＞D＞なし」の順で強さがあり、\n装甲値が高いほど物理属性のダメージを与え難くなります。\n仲間の装備にも「盾」などに装甲値を持った装備もあります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413764
+     1 string m_Localized = "装甲値について3"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413765
+     1 string m_Localized = "「装甲値」は「打」属性の攻撃など、一部の攻撃で\nダメージを与えることができます。バトル中に装甲値が\n無くなった場合はバトルが終了するまで回復することはありません。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413766
+     1 string m_Localized = "装甲値について4"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413767
+     1 string m_Localized = "「装甲値」の高い敵に遭遇したら、積極的に装甲値にダメージを与えて\n装甲値を減らすか、魔法属性で攻撃して直接ダメージを与えましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413768
+     1 string m_Localized = "作戦について～初級編"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413769
+     1 string m_Localized = "メインメニューの「作戦」からバトルで「おまかせ」を選んだときの\nパーティ全体の行動を設定することができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413774
+     1 string m_Localized = "街の発展"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413775
+     1 string m_Localized = "建築設計室について1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413776
+     1 string m_Localized = "「建築設計室」では、本拠街に新たな施設を建設したり、\n「本拠街資金」や収穫できる「資源」を増やすことができます。\n「本拠街レベル」を上げれば街はさらに発展していきます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413777
+     1 string m_Localized = "建築設計室について2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413778
+     1 string m_Localized = "街を発展させるには「本拠街資金」と「資源」を消費して、\n「発展パネル」を開く必要があります。\nパネルを１つ開くと線で結ばれたパネルを開けるようになります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413779
+     1 string m_Localized = "派遣ギルドについて1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413780
+     1 string m_Localized = "「派遣ギルド」では、街で待機している仲間たちで\n4人1組の派遣パーティを組み、様々な「タスク」を任せて\n街の発展を手伝ってもらうことができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413781
+     1 string m_Localized = "派遣ギルドについて2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413782
+     1 string m_Localized = "さっそく派遣パーティを組んでタスクを任せてみましょう。\n仲間ごとに得手不得手があり、タスクの成果にも影響します。\n街を発展させると派遣パーティの数を増やせるようになります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413783
+     1 string m_Localized = "派遣ギルドについて3"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12137824007413784
+     1 string m_Localized = "派遣した場所へ行くと派遣パーティの様子を見ることができます。\n派遣パーティはタスクから戻ると終了するまで再び同じタスクに\n出発します。1度のタスクの成果は「報告書」で確認しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12545306796220416
+     1 string m_Localized = "建築設計室について3"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 12545306817191936
+     1 string m_Localized = "パネルを開く条件には施設を運営する仲間が必要な場合や、\nある程度、物語を進めないと開けない場合もあります。\n資金や資源を増やして自分の街を発展させていきましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761662029824
+     1 string m_Localized = "魔導レンズ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138688
+     1 string m_Localized = "かばう"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138689
+     1 string m_Localized = "英雄コンボ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138690
+     1 string m_Localized = "ギミック"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138691
+     1 string m_Localized = "属性"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138692
+     1 string m_Localized = "装甲値"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138693
+     1 string m_Localized = "作戦・初級編"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138694
+     1 string m_Localized = "作戦・上級編"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138695
+     1 string m_Localized = "作戦について～上級編1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138696
+     1 string m_Localized = "「作戦」から「おまかせ」を選んだときの\n仲間の行動を個別に設定できるようになりました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138697
+     1 string m_Localized = "作戦について～上級編2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138698
+     1 string m_Localized = "仲間ごとに特定の行動を制限する「行動制限」や\n優先すべき行動を4つまで設定できる「優先行動」、\n攻撃対象を決める「攻撃対象設定」を変更することができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138699
+     1 string m_Localized = "戦争"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138700
+     1 string m_Localized = "戦争とは"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761729138701
+     1 string m_Localized = "仲間たちと組んだ軍団で、帝国軍と戦争します。\n仲間は部隊を率いて軍団に参戦します。\n仲間を集めれば集めるほど強い軍団となります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332992
+     1 string m_Localized = "軍団の移動と交戦"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332993
+     1 string m_Localized = "軍団の移動先を操作し、「戦闘開始」を選択することでターンが進みます。\n敵軍と同じエリアに移動すると交戦し、一定ダメージを受けた方が\nエリアから一時撤退、全滅すると戦場から撤退します。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332994
+     1 string m_Localized = "移動の優先度"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332995
+     1 string m_Localized = "攻めて来る敵軍を足止めできない場合は移動がキャンセルされます。\nまた、敵軍とお互いのエリアに移動し合う場合は、\n軍団の多い勢力の移動が優先されます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332996
+     1 string m_Localized = "軍団編成"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332997
+     1 string m_Localized = "軍団編成について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332998
+     1 string m_Localized = "軍団長と副官セット、部隊長セットごとに配属を変更できます。\nカギ付きの軍団長と副官セット、部隊長セットは\nこの戦争では変更できません。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733332999
+     1 string m_Localized = "パッシブスキルとは"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333000
+     1 string m_Localized = "仲間が持っているスキルで、軍団や部隊を強化できます。\n仲間を軍団に編成することで、所属軍団に効果が発生します。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333001
+     1 string m_Localized = "オートスキルとは"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333002
+     1 string m_Localized = "交戦中に条件を満たすことで発動する部隊長が持つスキルです。\n強化、弱化、スタン、攻撃、回復、の効果があります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333003
+     1 string m_Localized = "軍団コマンド"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333004
+     1 string m_Localized = "軍団コマンドとは"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333005
+     1 string m_Localized = "軍団長と副官が持つコマンドスキルです。\n「戦闘開始」選択する前の移動操作時に発動することができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333006
+     1 string m_Localized = "ゲージ消費コマンドとは"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333007
+     1 string m_Localized = "味方がダメージを受けると溜まる赤い怒りゲージと\n敵にダメージを与えると溜まる黄色い高揚ゲージがあります。\n溜まると発動でき、1ターンの間、怒りモードコマンドは攻撃力を上昇させ、\n高揚モードは敵軍の撤退を許さなくなります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333008
+     1 string m_Localized = "派遣ギルド"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333009
+     1 string m_Localized = "流れの行商人"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333010
+     1 string m_Localized = "行商人とは"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333011
+     1 string m_Localized = "他のプレイヤーの街へと交易品を仕入れて\n一定時間で戻ってくる流れの交易商です。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333012
+     1 string m_Localized = "利用の開始"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333013
+     1 string m_Localized = "名前を登録することで利用開始ができます。\n30分ごとに交易品を仕入れてきてくれます。\n※入力した名前は公開されるのでご注意ください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333014
+     1 string m_Localized = "料理対決"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333015
+     1 string m_Localized = "コース内容選択"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333016
+     1 string m_Localized = "ぜんさい・メイン・デザートの組み合わせを最初に選択します。\n料理は、クルツにレシピを渡すことで増やすことができるので、\nより沢山の料理を作れるようにしておくのがポイントです。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333017
+     1 string m_Localized = "料理の完成度"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333018
+     1 string m_Localized = "画面左上には、料理の完成度ゲージが表示されます。\n<input=a>を押すとノアがお手伝いをして、ゲージをアップさせることができるので、\n完成度100％を目指しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333019
+     1 string m_Localized = "審査員の好み"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19715761733333020
+     1 string m_Localized = "審査員となった仲間にはそれぞれ好みがあります。\n料理を食べた後の反応をよく見て、好みを把握しておきましょう。\n審査員の好みに合わせた料理を出すことで、\n評価点をより高くすることができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19722166049665024
+     1 string m_Localized = "移動・はなす・調べる"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19722166049665025
+     1 string m_Localized = "人と話す、建物に入る、ものを調べるなどは、\n対象に近づいてカーソルが表示されている時に<input=a>を押します。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19722166049665026
+     1 string m_Localized = "メインメニュー"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19722166049665027
+     1 string m_Localized = "<input=y>を押すとメインメニューが開き、\nアイテムや魔法の使用、装備変更、ステータス確認など\n様々なメニューを使用することができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19722166049665028
+     1 string m_Localized = "マップメニュー"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19722166049665029
+     1 string m_Localized = "<input=x>を押すとマップメニューが開き、\n今いる場所の「詳細マップ」と、全体的な「マップ」が確認できます。\n「マップ」では今まで訪れたことがある場所が登録されていきます。\n「ストーリー」では今までの冒険のあらすじが確認できます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 19722243606540288
+     1 string m_Localized = "冒険の基本1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48282796390051840
+     1 string m_Localized = "冒険の基本2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48282796448772096
+     1 string m_Localized = "カメラ操作"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48282796448772097
+     1 string m_Localized = "フィールドを移動している時は<input=rs>でカメラの視点を操作できます。\n操作方向の設定は「オプション」で変更できます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48282796448772098
+     1 string m_Localized = "素材採取"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48282796448772099
+     1 string m_Localized = "素材採取"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48282796448772100
+     1 string m_Localized = "素材は主にダンジョンや建物内にあります。\n対象の近くで素材袋アイコンが表示されているときに調べることで、\n様々な素材を採取できます。\n採取後は、一定時間経過すると再び採取できるようになります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406574112768
+     1 string m_Localized = "冒険の基本3"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406611861504
+     1 string m_Localized = "アイテム・素材"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406611861505
+     1 string m_Localized = "フィールドやバトルで使うことができるものは「カバン」に\n料理や建設などで消費するものは「素材袋」に入ります。\nそれぞれ持てる数に限界があるので注意しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055808
+     1 string m_Localized = "だいじなもの"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055809
+     1 string m_Localized = "「だいじなもの」には消費されない貴重なものが入ります。\n誰かに渡すことで消えるものもあります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055810
+     1 string m_Localized = "セーブ・オートセーブ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055811
+     1 string m_Localized = "セーブ・オートセーブ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055812
+     1 string m_Localized = "セーブは宿屋か、セーブポイントで行えます。\nまめにセーブを心がけましょう。\nオートセーブは、街や村、ダンジョン等からフィールドへ出た時に行われます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055813
+     1 string m_Localized = "パーティ編成"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055814
+     1 string m_Localized = "パーティ編成1"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406616055815
+     1 string m_Localized = "パーティには前衛、後衛、サポート、同行者の4種類があります。\n前衛と後衛はバトルに参加します。\nサポートは一部の仲間のみ配置でき、バトルをサポートします。\n同行者は編成必須の仲間のみ配置できます。バトルには参加しません。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444416
+     1 string m_Localized = "占い部屋"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444417
+     1 string m_Localized = "占いについて"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444418
+     1 string m_Localized = "バババの占いで以下を調べてもらうことができます。\n居場所を視る：仲間になってくれそうな人が居る場所\n素性を視る：仲間の過去や交友関係などの詳しい情報"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444419
+     1 string m_Localized = "レストランの料理について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444420
+     1 string m_Localized = "クルツにレシピを渡すことで、その料理を作れるようになります。\n料理には様々な効果があり、バトル中に使うことができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444421
+     1 string m_Localized = "図書室について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444422
+     1 string m_Localized = "図書室では以下について読むことができます。\nエネミー図鑑：今まで倒した敵の詳しい情報\nおさかな図鑑：今まで釣った魚の詳しい情報\n古びた本：「古びた本」をマリエットに渡すことで、本の内容が読めるようになります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444423
+     1 string m_Localized = "工房について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444424
+     1 string m_Localized = "工房では素材を消費して様々なオブジェを作成・配置することができます。\n芸術品を作る：街や自室に配置できるオブジェを制作します。\n街の模様替え：制作したオブジェを街に配置します。\nまたノアの部屋では自室のカスタマイズができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444425
+     1 string m_Localized = "演劇について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444426
+     1 string m_Localized = "各演目の配役を仲間から決めて、\nそれぞれの性格に応じたセリフまわしを楽しむことができます。\n色々な組み合わせを試してみましょう。\n結果が良い場合は報酬が貰えることもあります。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444427
+     1 string m_Localized = "温泉について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444428
+     1 string m_Localized = "温泉に入ることで、パーティメンバーに温泉効果が\n一定時間付与されて、バトル中にHPが回復します。\nまた、温泉に入ったときのパーティ編成によっては、\n特別な会話を楽しむことができます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444429
+     1 string m_Localized = "英雄の試練場について"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53021406624444430
+     1 string m_Localized = "強敵と連続で戦いながら、より高い階層を目指す腕試しバトルができます。\n仲間を増やして、強化し、十分な準備をして挑戦しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055105531904
+     1 string m_Localized = "パーティ編成2"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055164252160
+     1 string m_Localized = "前衛と後衛には仲間の攻撃レンジに合わせた編成をしましょう。\nS：前衛のときのみ、敵の一列目に攻撃が届きます。\nM：前衛だと敵の二列目まで、後衛だと敵の一列目に攻撃が届きます。\nL：前衛後衛どちらでも、敵の二列目まで攻撃が届きます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055189417984
+     1 string m_Localized = "レストラン"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055189417985
+     1 string m_Localized = "図書室"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055189417986
+     1 string m_Localized = "工房"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055189417987
+     1 string m_Localized = "劇場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055189417988
+     1 string m_Localized = "温泉"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055189417989
+     1 string m_Localized = "英雄の試練場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055197806592
+     1 string m_Localized = "ベーゴマトレーナー"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62972055197806593
+     1 string m_Localized = "世界中にベーゴマバトルを挑戦できるトレーナーが居ます。\n全てのトレーナーを倒して、最強のベーゴマトレーナーを目指しましょう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

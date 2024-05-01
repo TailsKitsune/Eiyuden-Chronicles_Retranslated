@@ -1,0 +1,610 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00670_01_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 2888468278409322547
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (73 items)
+   0 int size = 73
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3308572672
+     1 string m_Localized = "ふむふむ、これは素晴らしい……！\nおぉ、こちらも時代を表す焼き色や塗りが\n良いじゃないか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155584
+     1 string m_Localized = "おや、君も興味あるのかね？\n私はヨルハン。\nそうだな……骨董品が好きな道楽人さ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155585
+     1 string m_Localized = "さて、君はこのズラリと並ぶ壺や絵画をどう思う？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155586
+     1 string m_Localized = "どれも高いな……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155587
+     1 string m_Localized = "そう！　まさにその通りだとも！\nいい眼を持っているじゃないか、君ぃ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155588
+     1 string m_Localized = "お、俺の名前はノアだ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155589
+     1 string m_Localized = "失礼した、ノア殿。\n以後、お見知りおきを。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155590
+     1 string m_Localized = "話を戻そう。\nそう、ここにあるものも確かにモノがいい。\nそれは認めよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155591
+     1 string m_Localized = "だが、何かが足りない……情熱！\nそして気品だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155592
+     1 string m_Localized = "そ、そうなのか……？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155593
+     1 string m_Localized = "思いを込めてこの世に生を受けた作品が、\n貴族たちの一時の名誉欲のため買われ、\n飽きたらこうして値札を貼られ、"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155594
+     1 string m_Localized = "埃に塗れ、棚で過ごすだけとは哀しいじゃないか……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155595
+     1 string m_Localized = "あぁ、どうして貴族たちは\n『ノーブル・オブリゲーション』……\nこの心を忘れてしまったのか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155596
+     1 string m_Localized = "あぁ、私は本物の…魂を表した作品に出会いたい"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349888
+     1 string m_Localized = "ふぅん……随分と久しぶりじゃない、ギャブレット卿？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349889
+     1 string m_Localized = "グリュム伯！？　あぁ、久しいじゃないか。\n君がどうしてノア殿と？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349890
+     1 string m_Localized = "ちょっと、いろいろとワケあってね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349891
+     1 string m_Localized = "二人は知り合いか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349892
+     1 string m_Localized = "まぁ、ちょっとした昔からの知り合いかしら。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349893
+     1 string m_Localized = "先代の父君の時から世話になっていてね。\nグリュム伯が小さい頃からの知己の仲だよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349894
+     1 string m_Localized = "あぁ～もう！\n今は私のことはどうだっていいでしょ！？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349895
+     1 string m_Localized = "それで、ギャブレット卿は\nセンスの良い骨董品を探して……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349896
+     1 string m_Localized = "『ノーブル・オブリゲーション』だ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349897
+     1 string m_Localized = "うん……失礼したわ。\n『ノーブル・オブリゲーション』が\n籠った骨董品を探しているのね？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349898
+     1 string m_Localized = "あぁ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349899
+     1 string m_Localized = "そうねぇ、ユンカースから聞いたことがあるわね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349900
+     1 string m_Localized = "東の砂漠近くにいるスカラベというモンスターは\n珍しい骨董品を守っていることがあると。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349901
+     1 string m_Localized = "そういう、いわくアリの骨董品なら\nお眼鏡にかなうんじゃないかしら？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349902
+     1 string m_Localized = "東の砂漠近くにいる、スカラベ。\nよし、行ってみよう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349903
+     1 string m_Localized = "いいわね、\nまさに『ノーブル・オブリゲーション』よ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349904
+     1 string m_Localized = "その財力や知識を私欲にかまけず、\n困った皆々に尽くすこと。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349905
+     1 string m_Localized = "そういうわけだから、少しお待ちになっててくださいね？\nギャブレット卿。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349906
+     1 string m_Localized = "あぁ、楽しみに待っているよ！\n二人とも。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349907
+     1 string m_Localized = "『ノーブル・オブリゲーション』が何か分からないけど\nとりあえず、骨董品を探しに行ってみるよ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349908
+     1 string m_Localized = "あぁ、ありがとう！\n楽しみに待っているよ、ノア殿"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349909
+     1 string m_Localized = "ノア殿、如何かな？\nなにか目新しいものは見つかりましたか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349910
+     1 string m_Localized = "いや、まだ探している途中だ……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349911
+     1 string m_Localized = "私は本物の…魂を表した作品に出会いたいからね。\n楽しみに待っているよ、ノア殿"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349912
+     1 string m_Localized = "私の心を震わせるような作品は……\nまだ見つけられないようだね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349913
+     1 string m_Localized = "ふぅ、グリュム伯であれば、その審美眼に間違いは\nなかったのに……彼女にもなかなか会えてはいない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349914
+     1 string m_Localized = "私の心を震わせるような作品は……\nまだ見つけられないようだね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349915
+     1 string m_Localized = "たしかグリュム伯が言っていたのは……\n東の砂漠近くにいるスカラベと……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349916
+     1 string m_Localized = "頼むよ、ノア殿。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349917
+     1 string m_Localized = "ぺリエール、\n『ノーブル・オブリゲーション』な骨董品って\n分かるか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349918
+     1 string m_Localized = "いきなりどうしたの、ノア？\nなにか困りごと？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349919
+     1 string m_Localized = "じつは……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349920
+     1 string m_Localized = "なるほど、面白そうな方ね。\nいまだにそんな考えをもっている貴族も\n中々珍しいじゃない。わかったわ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349921
+     1 string m_Localized = "ユンカース！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349922
+     1 string m_Localized = "はい、お嬢さま。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349923
+     1 string m_Localized = "誰に渡しても恥ずかしくない骨董品を\n探しているのだけれども、なにか知っているかしら？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544192
+     1 string m_Localized = "それでしたら、スカラベが稀に落とす\n黄バラの香炉などはいかがでしょう？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544193
+     1 string m_Localized = "あぁ、確かにアレなら珍しいし丁度いいかもね。\nそういえば……お父様のコレクションにも\nあった気がするわ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544194
+     1 string m_Localized = "えぇっと、そのモンスターって\nどのあたりに出没するのかしら？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544195
+     1 string m_Localized = "はい、スカラベは\n東の砂漠近くに居たと記憶しております。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544196
+     1 string m_Localized = "わかった、行ってみるよ。\n色々とありがとう、ぺリエール！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544197
+     1 string m_Localized = "あら、あなたが最初に言ったじゃない？\n『ノーブル・オブリゲーション』……\n『貴族たるものの義務』よ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544198
+     1 string m_Localized = "その財力や知識を私欲にかまけず、\n困った皆々に尽くすってことよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544199
+     1 string m_Localized = "ノア殿、如何かな？\nなにか目新しいものは見つかりましたか？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544200
+     1 string m_Localized = "これでどうだ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544201
+     1 string m_Localized = "こ、これは！？　どうしてこれを君が？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544202
+     1 string m_Localized = "知り合いに相談したら\n『ノーブル・オブリゲーション』でしょ？\nって、言われて探してきたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544203
+     1 string m_Localized = "この香炉の職人は生涯現役を貫き、\n他人と慣れあう時間も削って\n作品に魂を込め貫いた……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544204
+     1 string m_Localized = "正に作品に職人が憑依しているも同然のモノ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544205
+     1 string m_Localized = "えっと……つまり合格、ということ？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544206
+     1 string m_Localized = "……そういえば彼女の亡き父の\nコレクションでもあったな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544207
+     1 string m_Localized = "え？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544208
+     1 string m_Localized = "あぁ、いや失礼した。こちらの話でね。\n話を戻そう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544209
+     1 string m_Localized = "骨董品の件はモチロン合格だとも！\n君は仲間に恵まれているよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544210
+     1 string m_Localized = "しかし、そうか……\n君の旅に彼女が関わっているようだな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544211
+     1 string m_Localized = "それに黄バラとは……\nなかなか意味が通っているじゃないか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544212
+     1 string m_Localized = "いやはや、いい加減素性を隠すのは止めよう。\n私はヨルハン・ギャブレット。独立領の領主だ。\nそして、ノーブル・オブリゲーション！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544213
+     1 string m_Localized = "君の旅と共に、私も歩もう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544214
+     1 string m_Localized = "では、ノア殿。\n一足先に拠点の城で待ってるよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

@@ -1,0 +1,626 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "HometownVillage_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 7689340994662981032
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (75 items)
+   0 int size = 75
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2993999872
+     1 string m_Localized = "Hey, welcome home, Nowa!\nYou've brought a lot of friends, too!\nWelcome to Kyshiri Village, everyone!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582784
+     1 string m_Localized = "Guess what I just heard, Nowa! You didn't just bring\nfriends, you brought a special friend!\nWay to go!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582785
+     1 string m_Localized = "Welcome home, Nowa.\nWell, not much of one, since we're still\nrebuilding. They really got us."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582786
+     1 string m_Localized = "Ah, young Nowa.\nCare to see my house?\nIt's my pride and joy. Hoho!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582787
+     1 string m_Localized = "Well caught, Nowa, my boy!\nThe day I hooked my old lady was\none of the proudest of my life."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582788
+     1 string m_Localized = "My... My house..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582789
+     1 string m_Localized = "My house, my treasure...burned to the ground...\nWhat do I do..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582790
+     1 string m_Localized = "Oh, dear, that's all you talk about.\nWelcome home, Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582791
+     1 string m_Localized = "Oh, you. Stop it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582792
+     1 string m_Localized = "Come on! We have to hurry!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582793
+     1 string m_Localized = "It's okay, honey. We'll build a new one.\nA bigger, better one."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582794
+     1 string m_Localized = "Welcome back, Nowa.\nYou look so much like your dad!\nMartha'll be thrilled to see you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582795
+     1 string m_Localized = "You've found yourself a good woman, Nowa.\nAs for me, Martha would... No, forget it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582796
+     1 string m_Localized = "N-Nowa! You have to get out!\nMe? I'll make sure Martha's safe first! Don't worry!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582797
+     1 string m_Localized = "It's all gone... but we can't just dwell on it.\nMartha's doing her best. I've gotta do mine."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582798
+     1 string m_Localized = "Welcome home, Nowa. You look like a real man."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582799
+     1 string m_Localized = "If it's too hard in the Watch, come back any time, okay?\nNever forget, this is your home."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3006582800
+     1 string m_Localized = "She and you are an item now?\nI suppose I don't have to worry about you two.\nDon't let her go, hear?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777088
+     1 string m_Localized = "*Sigh* Reconstruction is hard work. But we need\nsomewhere safe for the children, sooner than later."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777089
+     1 string m_Localized = "Oh, Nowa! Welcome back.\nWas Leene at home?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777090
+     1 string m_Localized = "You turn your back for a second and she's off.\nYou never know if she's there or not."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777091
+     1 string m_Localized = "Children grow up before you know it.\nWho will be the man for Leene? Perhaps my boy... You think he's her type? Hahaha!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777092
+     1 string m_Localized = "Let's get to work! This village won't rebuild itself!\nWe don't have time to sit around moping!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777093
+     1 string m_Localized = "When did you up and turn into such a player?\nNow bring me a grandchild! Right away!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777094
+     1 string m_Localized = "Nowa! What are you still doing in here?\nGet moving! I'll be fine!\nI'll help everyone else!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777095
+     1 string m_Localized = "Hey, Nowa. Welcome back. Have you been well?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777096
+     1 string m_Localized = "Your dad worked so hard so we could live in peace, outside the shadow of war. Seeing you grow up so strong makes me as proud as he would have been."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777097
+     1 string m_Localized = "Wow, Nowa, you've got a potential bride all lined up? You're not wasting any time!\n\nIf you have kids, bring 'em here to be friends with ours."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777098
+     1 string m_Localized = "It's a real boost to see all this hasn't stopped our kids thriving.\nOkay, back to work."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777099
+     1 string m_Localized = "Whoa, it's Nowa! Welcome back!\nWhat do you want to play? Oh, you're busy?\nOkay, come back another time!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777100
+     1 string m_Localized = "Nowa, they're saying you've got a girlfriend?\nCongrats!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777101
+     1 string m_Localized = "What should we play today?\nHide and seek? Tag?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777102
+     1 string m_Localized = "Hi, Nowa! Welcome home!\nTaking it easy today?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777103
+     1 string m_Localized = "Nowa! Congratulations on your girlfriend!\nToo bad, though. I'd have gone for it if you were still free."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777104
+     1 string m_Localized = "Oh, hey, Nowa!\nLet's play something!\nI want to play house."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777105
+     1 string m_Localized = "Nowa! Welcome back!\nPlay with me!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777106
+     1 string m_Localized = "Nowa! Everyone's really happy for you!\nI don't know what, but congratulations!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777107
+     1 string m_Localized = "We'll play whatever you want, Nowa!\nCome on, let's do something!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777108
+     1 string m_Localized = "Meow."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777109
+     1 string m_Localized = "Merroow."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777110
+     1 string m_Localized = "Wuff!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777111
+     1 string m_Localized = "Don't you have any?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777112
+     1 string m_Localized = "Hey! You've got beigoma!\nWe should battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777113
+     1 string m_Localized = "C'mon, I'm just a kid.\nYou should go easy on me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777114
+     1 string m_Localized = "I won! I won!\nLet's play again!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777115
+     1 string m_Localized = "Let's do it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3010777116
+     1 string m_Localized = "Maybe later."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057166282752
+     1 string m_Localized = "Well, if it isn't young Nowa!\nThe strawberries aren't in yet. Sorry 'bout that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837184
+     1 string m_Localized = "I'm sure they'll be in soon, so come back and see!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837185
+     1 string m_Localized = "Ho there, Nowa! How long's it been since you had some strawberry milk?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837186
+     1 string m_Localized = "Hah hah hah! You still put it away like a champ!\nYou've been away from the village more and more,"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837187
+     1 string m_Localized = "so why don't you take this with you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837188
+     1 string m_Localized = "Now you can enjoy the taste of home anywhere!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837189
+     1 string m_Localized = "Hey! You drinkin' your strawberry milk?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837190
+     1 string m_Localized = "Oh, Nowa!\nI was going to make you your usual sandwich,"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837191
+     1 string m_Localized = "but I'm just out of ingredients.\nSorry, dear. Come again soon!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837192
+     1 string m_Localized = "My goodness, it's Nowa!\nI made you a sandwich! Eat up!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837193
+     1 string m_Localized = "I remember how I'd always\nmake you these to pack."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057199837194
+     1 string m_Localized = "But you're all grown up now,\nso make them yourself for your lady!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057204031488
+     1 string m_Localized = "Nowa, are you making sandwiches\nfor your lovely lady?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057204031489
+     1 string m_Localized = "Oh, Nowa, you're back.\nWelcome home, dear."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057204031490
+     1 string m_Localized = "You want to know what's in this book?\nWhy don't you take it with you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057204031491
+     1 string m_Localized = "Here you are."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057204031492
+     1 string m_Localized = "I dug it up cleaning out my husband's study.\nI don't need it for anything."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2409057204031493
+     1 string m_Localized = "Oh, Nowa, you're back.\nWelcome home, dear."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 13195256446406656
+     1 string m_Localized = "Nowa! How've you been?\nWhen I grow up, I wanna leave the village\nlike you! And go to Carles! <i>Not</i> like you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 13236295274156032
+     1 string m_Localized = "Meoww."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 13602719922475008
+     1 string m_Localized = "Wroww."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 25204896318083072
+     1 string m_Localized = "One moment he’s just a little boy scraping his\nknee, and the next he’s bringing home <i>girls</i>!\nOh, I’m over the moon!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 25204896360026112
+     1 string m_Localized = "Way to go, Nowa!\nTook ya long enough!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 25204896360026113
+     1 string m_Localized = "She seems like such a nice young lady.\nYou’ll make a great couple!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 25204896360026114
+     1 string m_Localized = "Way to go, Nowa!\nShe's gorgeous!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 68339729825718272
+     1 string m_Localized = "Carles University is home to Ad Astra,\nthe largest observatory in the world!\nI'd do anything to gaze at the stars from there!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 69327187568680960
+     1 string m_Localized = "Heya, Nowa.\nHeard you've done something amazing.\nI'm proud of you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 69327187589652480
+     1 string m_Localized = "So you were a hero afterall."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

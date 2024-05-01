@@ -1,0 +1,1922 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "CuisineText_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 6333645837508082325
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (237 items)
+   0 int size = 237
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3136606208
+     1 string m_Localized = "沸騰した鍋にお酢と生卵を入れ、散らないようにやさしく茹で上げた逸品。\n[クルツの料理メモ]\nお湯に酢を入れるのがコツだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994816
+     1 string m_Localized = "温めたお湯の中で少しずつ味噌を溶かし、そこに切った野菜などの食材を\n煮込んだ逸品。\n[クルツの料理メモ]\n東方の国では古くから一日の始まりに食すのだとか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994817
+     1 string m_Localized = "溶き卵に白だしを加え、ふかふかな仕上がりになるよう空気を入れながら\n丁寧に焼き上げた逸品。\n[クルツの料理メモ]\n地方によって好まれる味が違うようだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994818
+     1 string m_Localized = "焼いたパイ生地の土台にほうれん草やベーコンを入れ、オーブンで\nこんがりと焼き上げた逸品。\n[クルツの料理メモ]\n前菜だけでなく、朝食や昼食にもぴったりだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994819
+     1 string m_Localized = "取れたてのリンゴをお酢につけ、2週間漬け込んで作ったリンゴ酢に\nソーダを入れた逸品。\n[クルツの料理メモ]\nすっきりとした味わい。暑い日にぴったりの飲み物だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994820
+     1 string m_Localized = "南国地方で取れるヤシの果実の果汁をそのまま味わうことができる逸品。\n[クルツの料理メモ]\nとても甘くさわやかな味、産地によって風味や甘さが変わるらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994821
+     1 string m_Localized = "海老やタコなどの様々な魚介類とパプリカや生バジルを甘酸っぱい\nドレッシングで漬け込んだ逸品。\n[クルツの料理メモ]\n魚介類は火を通してからマリネするのがコツだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994822
+     1 string m_Localized = "溶き卵に牛乳を入れてフライパンに注ぎ、空気を入れながら\nフワフワ、トロトロに焼き上げた逸品。\n[クルツの料理メモ]\n口に含んだ時の卵の舌触りと幸福感がたまらない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994823
+     1 string m_Localized = "香ばしいトーストにチキンとスクランブルエッグ、みずみずしいレタスや\nトマトを挟んだ逸品。\n[クルツの料理メモ]\n手を使い、頬張るように食べてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994824
+     1 string m_Localized = "絶妙な配分のひき肉に、タマネギやパン粉を混ぜて形を作り、\n肉汁たっぷりジューシーに焼いた逸品。\n[クルツの料理メモ]\n個人的には上に目玉焼きをのせて食べるのが好み。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3144994825
+     1 string m_Localized = "脂ののったサーモンを焼き、グレイビーソースとパセリバターを乗せて\n仕上げた逸品。\n[クルツの料理メモ]\n肉厚で脂ののったサーモンが最高だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189120
+     1 string m_Localized = "しいたけ、にんじんで作った具を巻き、全体がきつね色になるまでパリッと\n油で揚げれば完成の逸品。\n[クルツの料理メモ]\nよく食べる爺さんがいる。酒もよく飲む。心配だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189121
+     1 string m_Localized = "こんがり焼き目を付けた野菜、ソーセージを時間をかけて\nコトコト煮込むことでできあがる逸品。\n[クルツの料理メモ]\n粒入りマスタードをつけると美味しいぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189122
+     1 string m_Localized = "トルティーヤ生地に煮豆のペーストを塗り、肉、野菜を乗せてこんがりと\n焼き上げた逸品。\n[クルツの料理メモ]\n青唐辛子のピクルスやアボカドを一緒に食べてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189123
+     1 string m_Localized = "焼いたウサギ肉や玉ねぎ、にんじんをトロトロになるまで\nじっくり煮込んだ逸品。\n[クルツの料理メモ]\nジビエ料理は臭みをどう生かすかが肝心なんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189124
+     1 string m_Localized = "濃厚スープに特性の麺をさっと茹でてどんぶりへ。最後にゆで卵と\nチャーシューを添えた逸品。\n[クルツの料理メモ]\n具を少し残して…替え玉するのが俺の流儀！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189125
+     1 string m_Localized = "パクチー、キュウリ、青唐辛子を食べやすい大きさに切って\n混ぜ合わせた逸品。\n[クルツの料理メモ]\n独特な香りと食感を楽しめる前菜料理だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189126
+     1 string m_Localized = "冷えたパスタにトマトや大葉などの野菜を絡め、特製ソースで\n混ぜ合わせた逸品。\n[クルツの料理メモ]\n暑い日にぴったりのパスタ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189127
+     1 string m_Localized = "ホタテやにんじん、コーンをバターとしょう油で炒めて、ご飯の上に\n敷き詰めた逸品。\n[クルツの料理メモ]\nダンジョンの持ち込み人気ランキング１位！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189128
+     1 string m_Localized = "もやしやキュウリに蒸した鶏肉を乗せて、ゴマでつくったピリ辛のソースを\nかけた逸品。\n[クルツの料理メモ]\n濃厚で風味豊かなゴマが食欲をかきたてる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189129
+     1 string m_Localized = "もちもちの麺に冷やしたスープを注いでキムチやゆで卵を添えた逸品。\n[クルツの料理メモ]\nキンキンに冷えたスープに麺を絡めて召し上がれ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189130
+     1 string m_Localized = "角切りにしたトマトやキュウリなどの野菜にピリ辛のスパイスを加えて\n混ぜ合わせた逸品。\n[クルツの料理メモ]\nさっぱりとした味わいとスパイスの辛みが絶妙にマッチしている！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189131
+     1 string m_Localized = "色んな種類の野菜とオリーブオイルを用いて冷製のスープにした逸品。\n[クルツの料理メモ]\n野菜がたくさん取れる。冷たいスープだから暑い日にもよし！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189132
+     1 string m_Localized = "コーンで作った薄い生地を揚げ、その上に新鮮な魚介のマリネを乗せて\n食べる逸品。\n[クルツの料理メモ]\n魚介のさっぱりとした味と揚げた生地の食感が楽しめる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189133
+     1 string m_Localized = "小魚を油でカラッと素揚げして甘酢と一緒にじっくり漬け込んだ逸品。\n[クルツの料理メモ]\nサッパリしていて、いくらでも食べられるぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189134
+     1 string m_Localized = "紅茶を練りこんだ生地で葉形を作り、クッキーがザクザクになるように\nオーブンで焼き上げた逸品。\n[クルツの料理メモ]\n目でも楽しめるように紅茶の葉形にしてみたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189135
+     1 string m_Localized = "ふわっふわになる絶妙な火加減で生地を焼き、これまたふわっふわクリームを\nたっぷり乗せた逸品。\n[クルツの料理メモ]\nふわっふわに焼くんだ......ふわっふわに。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189136
+     1 string m_Localized = "ゼリーを作り、鍋に入れて粉砂糖でコーティングした後、蜜蝋で表面を\n固めてつやを出した逸品。\n[クルツの料理メモ]\n色んな味、風味がある。小腹がすいた時に食べると満足感を味わせるぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189137
+     1 string m_Localized = "薄く切ったレモンを重ねてビンに詰め、たっぷりハチミツを入れて\n漬けた逸品。\n[クルツの料理メモ]\nレモンの香りとはちみつの甘さが癖になるぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189138
+     1 string m_Localized = "卵や砂糖、牛乳を加えて作った生地をカップに注ぎ、ふんわりと蒸し焼きに\nして仕上げた逸品。\n[クルツの料理メモ]\n卵をたっぷり使うと香りがいいんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189139
+     1 string m_Localized = "炊きつめた飴に鮮やかな色をつけ、クルクルと円を描くように形を作って\nできあがる楽しいお菓子。\n[クルツの料理メモ]\n先日こんなカラフルな防具を勧められたな......。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189140
+     1 string m_Localized = "ふわっと泡立てたメレンゲをベースにした生地をオーブンで焼き、上に\n生クリームとイチゴを乗せた逸品。\n[クルツの料理メモ]\nふわふわサクサクとした不思議な食感のケーキだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189141
+     1 string m_Localized = "食パンに溶かしたバターや砂糖をたっぷり振り、両面をこんがりと\n焼き上げた逸品。\n[クルツの料理メモ]\n疲れたときに食べる甘いものは格別だな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189142
+     1 string m_Localized = "コクのある生地を棒に塗り重ねながら、しっとりとした舌触りになるよう\n丁寧に焼き上げた逸品。\n[クルツの料理メモ]\nくるくるくるくるって......目が回りそうだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189143
+     1 string m_Localized = "アーモンドパウダーと卵白でできた生地の間にバタークリームを挟んで\n焼いた逸品。\n[クルツの料理メモ]\n外はサクッ、中はしっとりしていてとても甘～いお菓子だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189144
+     1 string m_Localized = "パンの生地を結ぶように形を作り、粗塩を振りかけて外側がパリパリに\nなるまでオーブンで焼いた逸品。\n[クルツの料理メモ]\n焼きたてをバターと一緒にどうぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189145
+     1 string m_Localized = "ほろ苦いカラメルと卵をふんだんに使ったプリン生地を型に流し、\n蒸し焼きにした逸品。\n[クルツの料理メモ]\n思わず口角があがってしまう美味しさだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189146
+     1 string m_Localized = "出来立てのハンバーグの上に激辛チーズを乗せて仕上げた逸品。\n[クルツの料理メモ]\n激辛チーズ1枚でここまで旨味が変わるとはな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189147
+     1 string m_Localized = "ピタパンに鶏肉、野菜、目玉焼きを挟み、ケチャップとマヨネーズを\n混ぜたチリソースをかけた逸品。\n[クルツの料理メモ]\nピリ辛の味と半熟卵のとろみが癖になる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189148
+     1 string m_Localized = "厚切りの食パンに新鮮なトマト、チーズ、生バジルを挟みこんだ\nジューシーな逸品。\n[クルツの料理メモ]\nパンの耳も無駄にしない、そう師匠に習ったからな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189149
+     1 string m_Localized = "ニンジンや玉ねぎを茹で、焼いたベーコンとコクの深い牛乳をたっぷり入れて\n煮込んだ逸品。\n[クルツの料理メモ]\nミルク好きにはたまらないぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189150
+     1 string m_Localized = "鶏肉の皮目がパリパリになるように焼き、彩り豊かな焼き野菜と共に皿に\n盛り付けられた逸品。\n[クルツの料理メモ]\n色鮮やかな見た目と食感を楽しんでくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189151
+     1 string m_Localized = "ご飯に刻み海苔やネギを散らし、梅干しを乗せた後に昆布茶をかけて\n風味豊かに仕上げた逸品。\n[クルツの料理メモ]\n和を感じる味だ......。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189152
+     1 string m_Localized = "その日の朝に収穫したばかりのフレッシュな野菜をすり潰して絞った、\n美容効果も期待できる逸品。\n[クルツの料理メモ]\n肌のツヤが気になるのなら試してみるがいい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189153
+     1 string m_Localized = "クチナシの青い色素をカレーに混ぜ合わせることでできた逸品。\n[クルツの料理メモ]\nチュレルのゲテモノレシピだ……あ、味はいいんだが。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189154
+     1 string m_Localized = "海老味噌をベースに野菜や海老を煮込み、香辛料で調えて、酸味と\n辛みの効いたスープに仕上げた逸品。\n[クルツの料理メモ]\nスープをゴクゴクと......これも呪いの力なのか......?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189155
+     1 string m_Localized = "フレッシュな香草や塩、胡椒で下味をつけ、ハーブを纏った若鶏の肉を\n皮目から丁寧に焼いた逸品。\n[クルツの料理メモ]\nガーディアンの方々がよく食しているらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189156
+     1 string m_Localized = "肉、ご飯、揚げた野菜を鍋に詰め込み、それをお皿の上に、逆さまにして\n出して食べる逸品。\n[クルツの料理メモ]\nマクルーバは「逆さま」という意味らしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189157
+     1 string m_Localized = "バターライスに海老や野菜のクリームソースをかけ、チーズを振りかけて\nオーブンで焼き上げた逸品。\n[クルツの料理メモ]\n熱いから気をつけるんだぞ......言わんこっちゃない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189158
+     1 string m_Localized = "茹でたソーセージや芋、ピクルスを皿に盛り、溶かした熱々の\nラクレットチーズを流し入れた逸品。\n[クルツの料理メモ]\n圧倒的チーズ......まるでダーバウィンの滝のように！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189159
+     1 string m_Localized = "辛く炒めた細いビーフンに、厚揚げやゆで卵、もやしを乗せ、甘辛く\n酸味の強いスープをかけた逸品。\n[クルツの料理メモ]\n甘辛いスープが食欲をそそるぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189160
+     1 string m_Localized = "ニンニクの香りが効いた熱々のチーズソースに、野菜や焼いたベーコン、\nパンをたっぷり絡めた逸品。\n[クルツの料理メモ]\n二度づけは厳禁だ……冗談だよ、好きにしろ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189161
+     1 string m_Localized = "貴重な部位のみを切り取り、塩による下味をつけ、ジューシーな肉汁が\n出るまで焼き上げた逸品。\n[クルツの料理メモ]\nかぶりついた瞬間に口の中で溶ける体験を是非！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189162
+     1 string m_Localized = "新鮮な魚とチーズの巻き寿司に、薄切りのアボカドをミルフィーユ状に\n重ねて乗せた逸品。\n[クルツの料理メモ]\nこの美味しさは、森バターと呼ばれるだけはあるな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189163
+     1 string m_Localized = "茹でた豆をすり潰し、オリーブオイルやレモン汁を加えて何度かすり潰して\n作る逸品。\n[クルツの料理メモ]\nパンや肉にディップして食べるとおいしさを楽しめるぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189164
+     1 string m_Localized = "キュウリやレタス、茹でた海老を米で作った皮に乗せて巻いた逸品。\n[クルツの料理メモ]\nピリ辛のチリソースをつけて、食べてくれ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189165
+     1 string m_Localized = "新鮮な魚介の刺身を角切りにし、アボカドや玉ねぎなどの野菜と一緒に\nご飯に乗せて調味料をかけた逸品。\n[クルツの料理メモ]\n魚介と野菜の味をそのまま味わえるぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189166
+     1 string m_Localized = "米で作った麺にニンニクや生姜で作ったスープを入れて、鶏肉やパクチーを\nトッピングした逸品。\n[クルツの料理メモ]\n水にこだわることで爽やかな風味がグッと引き立つ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189167
+     1 string m_Localized = "濃厚なクリームチーズと爽やかでフルーティーなジャムをクラッカーに\n乗せた逸品。\n[クルツの料理メモ]\n軽くまろやかなチーズが口の中で溶けるぞ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189168
+     1 string m_Localized = "炒った豆を粉状にしたものと数種類の香り深いスパイスに水を入れて\n沸騰させた味わい深い逸品。\n[クルツの料理メモ]\n粉がコップの底に沈殿するまで、待ってくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3149189169
+     1 string m_Localized = "爽やかで清涼感のあるチョコミントアイスを皿に盛り、サクサクのコーンを\n添えた逸品。\n[クルツの料理メモ]\nこのアイスには女神が宿っている？？なにを......。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383424
+     1 string m_Localized = "ヨモギをふんだんに使った団子を笹の葉で包み、セイロで丁寧に蒸した逸品。\n[クルツの料理メモ]\n団子の中には餡子がたっぷりと詰めこまれているぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383425
+     1 string m_Localized = "ふかふかのスポンジ生地にバニラ香る生クリームを塗り、大粒の甘いイチゴを\n乗せたケーキ。\n[クルツの料理メモ]\n生地はふんわり、きめ細やかに仕上げたんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383426
+     1 string m_Localized = "細かく切った生ハーブをポットに入れ、お湯を注いだら蓋をして香りを\n閉じ込めた逸品。\n[クルツの料理メモ]\n劇場の支配人が好きだとか？今度差し入れに持って行ってみるか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383427
+     1 string m_Localized = "真っ赤に熟れたイチゴをすり潰し、砂糖、レモン果汁、牛乳を混ぜて\nまろやかにした逸品。\n[クルツの料理メモ]\n風呂上りに飲むいちご牛乳は最高だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383428
+     1 string m_Localized = "海老の美味しい身の部分は別の料理に使うとして…余った海老の殻だけを\nカラッと揚げます。\n[クルツの料理メモ]\nからをカラッと……フフッ……フフフフフ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383429
+     1 string m_Localized = "ネギとゴボウに出汁と鴨肉を加え、灰汁をとりながらじっくり煮込んだ逸品。\n[クルツの料理メモ]\n全ての食材を鴨が優しく包んで一つにしている！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383430
+     1 string m_Localized = "にんじんやタマネギを炒め、潰したトマト、ひき肉、豆、スパイスを加えて\n煮詰めた逸品。\n[クルツの料理メモ]\nトルティーヤでディップして食べてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383431
+     1 string m_Localized = "肉にじっくり火を通して柔らかくジューシーに焼き上げ、冷やすことで\n肉の旨味を閉じ込めた逸品。\n[クルツの料理メモ]\nファイ兄さんの火加減を再現するのは至難の業だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383432
+     1 string m_Localized = "鍋に切った野菜と肉を入れてじっくりと煮込み、特製のスパイスを加えて\nさらに煮詰めた逸品。\n[クルツの料理メモ]\nご飯やパンにつけて食べる。1日置くと美味しさが倍増するぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383433
+     1 string m_Localized = "下処理したサメのひれをじっくりと煮込んだスープに入れて煮詰めた逸品。\n[クルツの料理メモ]\nプチプチしたは歯ごたえが楽しい！味はあまりしない…？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383434
+     1 string m_Localized = "トトゥバの肉に甘辛いタレを漬け込み、色鮮やかな野菜と一緒に香り高く\n焼き上げた逸品。\n[クルツの料理メモ]\nトトゥバとにんにくの香りが食欲をそそる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383435
+     1 string m_Localized = "油でサッと揚げた豚肉や野菜に、甘酸っぱいソースとパイナップルを入れて\nフルーティーに仕上げた逸品。\n[クルツの料理メモ]\nフルーティでとても美味だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383436
+     1 string m_Localized = "肉！魚！そしてフルーツ！を超絶配合で合体！たっぷりの油を引いた鉄板で\n一気に焼き上げた逸品。\n[クルツの料理メモ]\n計算されつくした配合、恐るべしレシピだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383437
+     1 string m_Localized = "薄切りのパンにたっぷりとバターを塗り、その上に新鮮な魚介や野菜を\n乗せた逸品。\n[クルツの料理メモ]\n新鮮な魚介、野菜をそのまま楽しめる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383438
+     1 string m_Localized = "卵、チーズ、ベーコンをソバの種で挽いた粉と水、塩で作った生地で包んで\n焼き上げた逸品。\n[クルツの料理メモ]\n香ばしくカリッとした生地の中からとろとろのチーズがたっぷり！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383439
+     1 string m_Localized = "卵をしっかりと混ぜた卵液を作り、そこに生クリームと\nバニラエッセンスを入れて混ぜながら冷やし固めた逸品。\n[クルツの料理メモ]\nほんのり甘く、ひんやりとした口当たりで暑い日に食べたくなるな。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383440
+     1 string m_Localized = "コーンフレークと生クリームを敷き詰め、その上に新鮮なフルーツや\nお菓子を乗せた逸品。\n[クルツの料理メモ]\n生クリームとフルーツの甘さ、コーンフレークの食感がたまらないんだ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383441
+     1 string m_Localized = "パイ生地の土台に完熟のブルーべリーをふんだんに乗せてオーブンで\n焼き上げた逸品。\n[クルツの料理メモ]\nこのパイで素敵なティータイムを。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383442
+     1 string m_Localized = "生地に少し苦味のあるビターチョコレートを使い、しっとりとオーブンで\n焼き上げた逸品。\n[クルツの料理メモ]\n少しビターで大人な味わいだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383443
+     1 string m_Localized = "色んな種類の新鮮なフルーツをふんだんに盛り付けた逸品。\n[クルツの料理メモ]\n様々なフルーツをそのまま味わえる！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383444
+     1 string m_Localized = "豚の耳介を茹でて千切りにし、お酢と豆板醤を混ぜ合わせた逸品。\n[クルツの料理メモ]\nコリコリの食感とピリ辛のソースが癖になるぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383445
+     1 string m_Localized = "バターと砂糖、卵を混ぜ合わせ、型を取って冷やした後にブルーベリーを\nベースに作ったソースを上に塗り、最後に焼き上げた逸品。\n[クルツの料理メモ]\n彗星をイメージし、特大のクッキーに仕上げたぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383446
+     1 string m_Localized = "ブロック状に切った肉に塩を振り、下味をつけて炭火で焼き上げた逸品。\n[クルツの料理メモ]\n手軽に作れて食べやすい料理だ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383447
+     1 string m_Localized = "ピザ生地に肉と野菜を乗せてアツアツに焼き上げ、\nそこに豪快にひんやりとしたチョコアイスをドーン！\n[クルツの料理メモ]\n地水火風全ての力を扱うフィフスならではの料理だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383448
+     1 string m_Localized = "焼いたベーコンやニンニク、卵、チーズを茹で上げたパスタに風味豊かに\n絡めた逸品。\n[クルツの料理メモ]\n卵の黄身を混ぜ合わせ、熱いうちに召し上がれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383449
+     1 string m_Localized = "温かいご飯に焼いたドラゴンの肉を敷き詰め、ミートソースとチーズを\n上にかけて焼き上げた逸品。\n[クルツの料理メモ]\nトロットロで犯罪級の料理だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383450
+     1 string m_Localized = "ジューシーなドラゴン肉のパティを３枚！！さらに黄金に輝く目玉焼きを\n挟みこんだ究極の逸品。\n[クルツの料理メモ]\nトリオは憎いがこいつはうまい…うますぎる！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383451
+     1 string m_Localized = "骨付きのドラゴンの肉をそのまま火にかけ中までしっかり火が通るまで\n焼いた逸品。\n[クルツの料理メモ]\nそのままの肉をシンプルに焼いただけが一番うまい！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383452
+     1 string m_Localized = "イクラやウニなどの極上ネタを酢のきいたシャリ、風味のきいたワサビと\n一緒に美しく握った逸品。\n[クルツの料理メモ]\n握る手の温度から切り方まで洗練されている。さすが総帥のレシピだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383453
+     1 string m_Localized = "イクラの楽しい食感、ドラゴンの甘い肉、繊細でまろやかな卵。\nそれらを一つの箱に詰め込んだ逸品。\n[クルツの料理メモ]\n豪華けんらん！まさに、食の宝箱と言ってもいい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383454
+     1 string m_Localized = "パイの土台に甘く煮たチェリーを入れ、格子状の生地を乗せてオーブンで\n風味豊かに焼き上げた逸品。\n[クルツの料理メモ]\nジューシーな果肉感が口いっぱいに広がるんだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383455
+     1 string m_Localized = "たくさんのフルーツをスポンジケーキの間や外側に敷き詰め、冷やし\n固めた逸品。\n[クルツの料理メモ]\n夢と希望が詰まった最高級のケーキだ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383456
+     1 string m_Localized = "HP100回復"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383457
+     1 string m_Localized = "3ターン「攻撃」UP"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383458
+     1 string m_Localized = "その他４５６７８９０１２３４５６７８９０１２３４"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383459
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383460
+     1 string m_Localized = "味方1体のHPを10%回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383461
+     1 string m_Localized = "味方1体の魔法防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383462
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383463
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383464
+     1 string m_Localized = "味方1体の毒を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383465
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383466
+     1 string m_Localized = "味方1体の麻痺を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383467
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383468
+     1 string m_Localized = "味方1体のレンズ封じを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383469
+     1 string m_Localized = "味方1体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383470
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3153383471
+     1 string m_Localized = "味方全体の混乱を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577728
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577729
+     1 string m_Localized = "味方全体の暗闇を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577730
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577731
+     1 string m_Localized = "味方1体の眠りを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577732
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577733
+     1 string m_Localized = "味方1体の毒を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577734
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577735
+     1 string m_Localized = "味方1体の麻痺を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577736
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577737
+     1 string m_Localized = "味方1体のレンズ封じを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577738
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577739
+     1 string m_Localized = "味方1体の混乱を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577740
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577741
+     1 string m_Localized = "味方全体の暗闇を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577742
+     1 string m_Localized = "味方1体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577743
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577744
+     1 string m_Localized = "味方1体の眠りを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577745
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577746
+     1 string m_Localized = "味方1体の毒を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577747
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577748
+     1 string m_Localized = "味方1体の麻痺を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577749
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577750
+     1 string m_Localized = "味方全体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577751
+     1 string m_Localized = "味方全体のレンズ封じを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577752
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577753
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577754
+     1 string m_Localized = "味方全体の混乱を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577755
+     1 string m_Localized = "味方1体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577756
+     1 string m_Localized = "味方1体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577757
+     1 string m_Localized = "味方1体の暗闇を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577758
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577759
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577760
+     1 string m_Localized = "味方1体の眠りを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577761
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577762
+     1 string m_Localized = "味方1体の毒を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577763
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577764
+     1 string m_Localized = "味方1体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577765
+     1 string m_Localized = "味方1体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577766
+     1 string m_Localized = "味方1体の麻痺を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577767
+     1 string m_Localized = "味方1体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577768
+     1 string m_Localized = "味方1体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577769
+     1 string m_Localized = "味方1体のレンズ封じを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577770
+     1 string m_Localized = "味方1体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577771
+     1 string m_Localized = "味方1体の混乱を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577772
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577773
+     1 string m_Localized = "味方1体の暗闇を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577774
+     1 string m_Localized = "味方1体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577775
+     1 string m_Localized = "味方1体の眠りを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577776
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577777
+     1 string m_Localized = "味方全体の毒を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577778
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577779
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577780
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3157577781
+     1 string m_Localized = "味方1体の麻痺を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772032
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772033
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772034
+     1 string m_Localized = "味方1体のレンズ封じを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772035
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772036
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772037
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772038
+     1 string m_Localized = "味方1体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772039
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772040
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772041
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772042
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772043
+     1 string m_Localized = "味方全体の混乱を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772044
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772045
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772046
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772047
+     1 string m_Localized = "味方全体の暗闇を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772048
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772049
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772050
+     1 string m_Localized = "味方全体の眠りを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772051
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772052
+     1 string m_Localized = "味方全体の毒を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772053
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772054
+     1 string m_Localized = "味方1体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772055
+     1 string m_Localized = "味方1体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772056
+     1 string m_Localized = "味方1体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772057
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [189]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772058
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [190]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772059
+     1 string m_Localized = "味方1体の魔法防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [191]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772060
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [192]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772061
+     1 string m_Localized = "味方1体の麻痺を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [193]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772062
+     1 string m_Localized = "味方1体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [194]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772063
+     1 string m_Localized = "味方1体のレンズ封じを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [195]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772064
+     1 string m_Localized = "味方全体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [196]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772065
+     1 string m_Localized = "味方全体の混乱を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [197]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772066
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [198]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772067
+     1 string m_Localized = "味方全体のHPを60回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [199]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772068
+     1 string m_Localized = "味方全体の暗闇を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [200]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772069
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [201]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772070
+     1 string m_Localized = "味方1体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [202]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772071
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [203]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772072
+     1 string m_Localized = "味方全体のHPを10回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [204]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772073
+     1 string m_Localized = "味方全体の眠りを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [205]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772074
+     1 string m_Localized = "味方全体の装甲値が上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [206]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772075
+     1 string m_Localized = "味方全体の装甲値が上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [207]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772076
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [208]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772077
+     1 string m_Localized = "味方1体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [209]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772078
+     1 string m_Localized = "味方全体のHPを80回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [210]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772079
+     1 string m_Localized = "味方全体の毒を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [211]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772080
+     1 string m_Localized = "味方全体のHPを80回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [212]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3161772081
+     1 string m_Localized = "味方全体の麻痺を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [213]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966336
+     1 string m_Localized = "味方1体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [214]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966337
+     1 string m_Localized = "味方1体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [215]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966338
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [216]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966339
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [217]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966340
+     1 string m_Localized = "味方1体の行動速度が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [218]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966341
+     1 string m_Localized = "味方全体の装甲値が上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [219]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966342
+     1 string m_Localized = "味方全体のHPを100回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [220]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966343
+     1 string m_Localized = "味方全体のレンズ封じを回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [221]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966344
+     1 string m_Localized = "味方全体のHPを100回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [222]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966345
+     1 string m_Localized = "味方全体の混乱を回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [223]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966346
+     1 string m_Localized = "味方1体のHPを80%回復する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [224]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966347
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [225]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966348
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [226]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966349
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [227]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966350
+     1 string m_Localized = "味方全体の回避が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [228]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966351
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [229]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966352
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [230]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966353
+     1 string m_Localized = "味方全体の魔法攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [231]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3165966354
+     1 string m_Localized = "味方全体の物理攻撃力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [232]
+    0 TableEntryData data
+     0 SInt64 m_Id = 51405481705152512
+     1 string m_Localized = "味方全体の命中が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [233]
+    0 TableEntryData data
+     0 SInt64 m_Id = 51405481751289856
+     1 string m_Localized = "味方全体の魔法防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [234]
+    0 TableEntryData data
+     0 SInt64 m_Id = 51405481751289857
+     1 string m_Localized = "味方全体の物理防御力が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [235]
+    0 TableEntryData data
+     0 SInt64 m_Id = 51405481751289858
+     1 string m_Localized = "味方全体の行動速度が3ターン上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [236]
+    0 TableEntryData data
+     0 SInt64 m_Id = 51405481751289859
+     1 string m_Localized = "味方全体の装甲値が上がる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

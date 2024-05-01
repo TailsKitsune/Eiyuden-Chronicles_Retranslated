@@ -1,0 +1,130 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "FishermansHutTalkText_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -7182362418006796767
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (13 items)
+   0 int size = 13
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8276467712
+     1 string m_Localized = "釣り場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8305827840
+     1 string m_Localized = "今日はいい風が吹いているね。\n釣りをするには、とてもいい日和だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8305827842
+     1 string m_Localized = "ゆっくりしようじゃないか。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266077011968
+     1 string m_Localized = "図書室で詩の本を借りてきたんだ。\n詩はいいよね。心が安らぐよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955008
+     1 string m_Localized = "マールリッジさんとこの間、一緒に\n釣りをしてきたよ。\nいやぁ、なかなか楽しかった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955009
+     1 string m_Localized = "子どもたちに頼まれて草笛を\n作っていたんだ。\n上手く吹けると楽しいよね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955010
+     1 string m_Localized = "ラーラはお酒が強いよねぇ。\n一緒に飲んでいると、いつも俺の方が\n先に酔ってしまうんだよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955011
+     1 string m_Localized = "ほら、空を見てごらん。良い雲の動きをしてるね。\nあの雲は、どこに向かうんだろうねぇ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955012
+     1 string m_Localized = "君の風を止めてはいけないよ。\n君は台風ではないんだ。\nそよ風のように気持ちよくしてくれ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955013
+     1 string m_Localized = "大丈夫。明日は明日の風が吹くよ。\n全ては君次第さ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955014
+     1 string m_Localized = "俺には難しい事は分からないが、\n少なくとも、オルドリックを許しておく風潮ではないね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955015
+     1 string m_Localized = "良い風が吹いているよ。御覧、あの雲。\n君の行く末を示しているようだね。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45943266118955016
+     1 string m_Localized = "さて…。すべてが片付いたのかな。\nまだしばらくは、ここに留まるのもいいのかなぁ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

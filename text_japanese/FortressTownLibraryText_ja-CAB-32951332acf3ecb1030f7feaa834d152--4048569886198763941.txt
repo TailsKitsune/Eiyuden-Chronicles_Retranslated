@@ -1,0 +1,4978 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "FortressTownLibraryText_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 2663145128097955464
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (619 items)
+   0 int size = 619
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2557792256
+     1 string m_Localized = "本を読む"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569472
+     1 string m_Localized = "エネミー図鑑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569473
+     1 string m_Localized = "おさかな図鑑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569474
+     1 string m_Localized = "古びた本"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569475
+     1 string m_Localized = "エネミーリスト"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569476
+     1 string m_Localized = "ボスリスト"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569477
+     1 string m_Localized = "おさかなリスト"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569478
+     1 string m_Localized = "古びた本リスト"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569479
+     1 string m_Localized = "弱点属性"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569480
+     1 string m_Localized = "主な出現場所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569481
+     1 string m_Localized = "落とすアイテム"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569482
+     1 string m_Localized = "研究メモ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569483
+     1 string m_Localized = "レアリティ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569484
+     1 string m_Localized = "釣った総数"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569485
+     1 string m_Localized = "弱点なし"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569486
+     1 string m_Localized = "不明"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569487
+     1 string m_Localized = "？？？"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569488
+     1 string m_Localized = "詳細不明"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569489
+     1 string m_Localized = "未確認の古びた本"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569490
+     1 string m_Localized = "{0}を寄付した！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569491
+     1 string m_Localized = "古びた本を{0}冊寄付した！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2574569492
+     1 string m_Localized = "図書室"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763784
+     1 string m_Localized = "グリュム伯領 北"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763785
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763786
+     1 string m_Localized = "ユークリス領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763787
+     1 string m_Localized = "海辺の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763788
+     1 string m_Localized = "恵みの丘"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763789
+     1 string m_Localized = "海辺の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763790
+     1 string m_Localized = "ハイシャーン旧市街"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763791
+     1 string m_Localized = "ハイシャーン旧市街"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763792
+     1 string m_Localized = "海辺の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763793
+     1 string m_Localized = "砂漠の巣穴"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763794
+     1 string m_Localized = "ハイシャーン旧市街"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763795
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763796
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763797
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763798
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763799
+     1 string m_Localized = "アスラバート\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763800
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763801
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763802
+     1 string m_Localized = "アスラバート\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763803
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763804
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763805
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763806
+     1 string m_Localized = "アスラバート\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763807
+     1 string m_Localized = "魔導レンズ研究所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763808
+     1 string m_Localized = "北のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2578763809
+     1 string m_Localized = "北の森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958080
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958081
+     1 string m_Localized = "北のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958082
+     1 string m_Localized = "魔導レンズ研究所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958083
+     1 string m_Localized = "廃坑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958084
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958085
+     1 string m_Localized = "魔導レンズ研究所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958086
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958087
+     1 string m_Localized = "陽だまりの森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958088
+     1 string m_Localized = "本拠街周辺"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958089
+     1 string m_Localized = "帝国軍本陣"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958090
+     1 string m_Localized = "クシリ村周辺"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958091
+     1 string m_Localized = "グリュム伯領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958092
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958093
+     1 string m_Localized = "グリュム伯領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958094
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958095
+     1 string m_Localized = "故郷への山道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958096
+     1 string m_Localized = "故郷への山道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958097
+     1 string m_Localized = "恵みの丘"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958098
+     1 string m_Localized = "遺跡道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958099
+     1 string m_Localized = "恵みの丘"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958100
+     1 string m_Localized = "ガルドヘブン城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958101
+     1 string m_Localized = "遺跡道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958102
+     1 string m_Localized = "帝国軍本陣"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958103
+     1 string m_Localized = "大砂海"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958104
+     1 string m_Localized = "大岩亀ヴィルシュヌ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958105
+     1 string m_Localized = "封鎖街道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958106
+     1 string m_Localized = "ユークリス領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958107
+     1 string m_Localized = "シャンダール岩稜"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958108
+     1 string m_Localized = "砂漠の巣穴"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958109
+     1 string m_Localized = "赤歌峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958110
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958111
+     1 string m_Localized = "帝国軍本陣"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958112
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958113
+     1 string m_Localized = "北の森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958114
+     1 string m_Localized = "陽だまりの森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958115
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958116
+     1 string m_Localized = "ガルドヘブン城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958117
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958118
+     1 string m_Localized = "遺跡道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958119
+     1 string m_Localized = "大岩亀ヴィルシュヌ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2582958120
+     1 string m_Localized = "トゥーノーズ西"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152384
+     1 string m_Localized = "赤歌峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152385
+     1 string m_Localized = "陽だまりの森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152386
+     1 string m_Localized = "グリュム伯領 北"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152387
+     1 string m_Localized = "廃坑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152388
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152389
+     1 string m_Localized = "北の森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152390
+     1 string m_Localized = "廃坑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152391
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152392
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152393
+     1 string m_Localized = "遺跡道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152394
+     1 string m_Localized = "廃坑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152395
+     1 string m_Localized = "廃坑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152396
+     1 string m_Localized = "本拠街周辺"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152397
+     1 string m_Localized = "陽だまりの森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152398
+     1 string m_Localized = "砂漠の巣穴"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152399
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152400
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152401
+     1 string m_Localized = "大砂海"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152402
+     1 string m_Localized = "大樹林"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152403
+     1 string m_Localized = "ノールスター領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152404
+     1 string m_Localized = "廃坑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152405
+     1 string m_Localized = "ハイシャーン旧市街"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152406
+     1 string m_Localized = "本拠街周辺"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152407
+     1 string m_Localized = "恵みの丘"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152408
+     1 string m_Localized = "大砂海"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152409
+     1 string m_Localized = "大砂海"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152410
+     1 string m_Localized = "恵みの丘"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152411
+     1 string m_Localized = "シャンダール岩稜"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152412
+     1 string m_Localized = "砂漠の巣穴"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152413
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152414
+     1 string m_Localized = "東の砂漠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152415
+     1 string m_Localized = "シャンダール岩稜"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152416
+     1 string m_Localized = "ノールスター領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152417
+     1 string m_Localized = "氷の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152418
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152419
+     1 string m_Localized = "氷の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152420
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152421
+     1 string m_Localized = "大岩亀ヴィルシュヌ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152422
+     1 string m_Localized = "封鎖街道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152423
+     1 string m_Localized = "東の砂漠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152424
+     1 string m_Localized = "ノールスター領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152425
+     1 string m_Localized = "シャンダール岩稜"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152426
+     1 string m_Localized = "帝国軍本陣"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2587152427
+     1 string m_Localized = "ガルドヘブン城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346688
+     1 string m_Localized = "シャンダール岩稜"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346689
+     1 string m_Localized = "グリュム伯領"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346690
+     1 string m_Localized = "陽だまりの森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346691
+     1 string m_Localized = "大岩亀ヴィルシュヌ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346692
+     1 string m_Localized = "封鎖街道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346693
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346694
+     1 string m_Localized = "北のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346695
+     1 string m_Localized = "ガルドヘブン城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346696
+     1 string m_Localized = "魔導レンズ研究所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346697
+     1 string m_Localized = "ハイシャーン旧市街"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346698
+     1 string m_Localized = "氷の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346699
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346700
+     1 string m_Localized = "ハイシャーン旧市街"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346701
+     1 string m_Localized = "魔導レンズ研究所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346702
+     1 string m_Localized = "ガルドヘブン城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346703
+     1 string m_Localized = "遺跡道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346704
+     1 string m_Localized = "廃坑"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346705
+     1 string m_Localized = "恵みの丘"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346706
+     1 string m_Localized = "ノールスター周辺"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346707
+     1 string m_Localized = "シャンダール岩稜"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346708
+     1 string m_Localized = "陽だまりの森"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346709
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346710
+     1 string m_Localized = "魔導レンズ研究所"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346711
+     1 string m_Localized = "アスラバート"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346712
+     1 string m_Localized = "アスラバート"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346713
+     1 string m_Localized = "アスラバート"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346714
+     1 string m_Localized = "アスラバート"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346715
+     1 string m_Localized = "海辺の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346716
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346717
+     1 string m_Localized = "北のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346718
+     1 string m_Localized = "砂漠の巣穴"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346719
+     1 string m_Localized = "砂漠の巣穴"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346720
+     1 string m_Localized = "砂漠の巣穴"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346721
+     1 string m_Localized = "赤歌峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346722
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346723
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346724
+     1 string m_Localized = "遺跡道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346725
+     1 string m_Localized = "氷の洞窟"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346726
+     1 string m_Localized = "封鎖街道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346727
+     1 string m_Localized = "ハイシャーン旧市街"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346728
+     1 string m_Localized = "ガルドヘブン城屋上"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346729
+     1 string m_Localized = "ガルドヘブン城屋上"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346730
+     1 string m_Localized = "ダーバウィン"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346731
+     1 string m_Localized = "トゥーノーズ東"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346732
+     1 string m_Localized = "ハイシャーン"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2591346733
+     1 string m_Localized = "遺跡道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540992
+     1 string m_Localized = "廃城跡地"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540993
+     1 string m_Localized = "廃城跡地"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540994
+     1 string m_Localized = "廃城跡地"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540995
+     1 string m_Localized = "クシリ村"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540996
+     1 string m_Localized = "エルティスワイス"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540997
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540998
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595540999
+     1 string m_Localized = "ウォルム村"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541000
+     1 string m_Localized = "ウォルム村"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541001
+     1 string m_Localized = "ウォルム村"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [189]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541002
+     1 string m_Localized = "エルティスワイス"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [190]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541003
+     1 string m_Localized = "クシリ村"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [191]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541004
+     1 string m_Localized = "クシリ村"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [192]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541005
+     1 string m_Localized = "英雄の試練場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [193]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541006
+     1 string m_Localized = "草原や森に生息する植物系モンスター。普段は地面から頭部の双葉だけを出して隠れている。臆病で滅多にヒトを襲うことは無い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [194]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541007
+     1 string m_Localized = "アンデッドの城に生息する植物系モンスター。死者の眠る土中から頭部の双葉だけを出して隠れている。凶暴でヒトを好んで食べる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [195]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541008
+     1 string m_Localized = "水辺に生息する半魚半獣の水棲系モンスター。腕の筋肉が異常に発達して怪力。泳ぎは苦手なようだ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [196]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541009
+     1 string m_Localized = "ジメジメした水辺の洞窟に生息する甲殻系モンスター。岩場をカサカサと動いて苔や海藻を舐め回す。生理的に苦手なヒトは多い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [197]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541010
+     1 string m_Localized = "ジメジメした森の茂みに生息する甲殻系モンスター。カサカサと木に登り樹液や果実を舐め回す。生理的に苦手なヒトは多い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [198]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541011
+     1 string m_Localized = "海岸の岩場に生息する軟体系モンスター。普段は硬い貝の殻に身を隠している。口から墨を吐いて敵の目を晦ませる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [199]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541012
+     1 string m_Localized = "水辺に生息するリザードの亜種。獰猛で隙を見せると噛みついてくる。地中に潜っている時はダメージを与えることができない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [200]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541013
+     1 string m_Localized = "水辺を彷徨うスピリット系モンスター。呪詛を受けて命を落とすと同じ姿になってこの世を彷徨うと言われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [201]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541014
+     1 string m_Localized = "水辺に生息する甲殻系モンスター。巨大なハサミによる攻撃と堅い甲羅がやっかいだが、その身は美味で捕獲を試みる漁師は多い。 "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [202]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541015
+     1 string m_Localized = "砂漠に生息する甲殻系モンスター。巨大なハサミと堅い甲羅を持つ。その身は美味で食べている間、誰もが無言になってしまう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [203]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541016
+     1 string m_Localized = "水辺に生息する水棲系モンスター。高圧の水で獲物の動きを止めてから鋭い牙で噛みつく。真っ赤な身は鉄分が豊富で美味。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [204]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541017
+     1 string m_Localized = "城を守るために高位の魔法によって命を吹き込まれた石像。魔力が尽きると赤い目が色を失って、ただの石像に戻る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [205]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541018
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした下級騎士の死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [206]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541019
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした騎士の死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [207]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541020
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした重装兵の死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [208]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541021
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした重装兵の死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [209]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541022
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした近衛騎士の死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [210]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541023
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした魔法使いの死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [211]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541024
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした高位魔法使いの死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [212]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541025
+     1 string m_Localized = "ヒトの死体を養分にして突然変異した植物系モンスター。花粉で麻痺させてから獲物を捕食する。元は小さな食虫植物だったらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [213]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541026
+     1 string m_Localized = "かつては罪人の首を刈る処刑人だったアンデッド。仕えていた主に呪い殺された無念から、生者の首を刈り尽くさんと彷徨っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [214]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2595541027
+     1 string m_Localized = "廃墟や洞窟で見られるスピリット系モンスター。執着をもったまま死んだ命のなれの果てとも言われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [215]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735296
+     1 string m_Localized = "幾多の戦場を愛馬と共に駆け抜け、数々の武勲を上げた騎士のアンデッド。死に場所を求めて戦場を彷徨っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [216]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735297
+     1 string m_Localized = "魔導レンズ研究所で目撃されるルーンゴーレムの一種。小型で力は弱く、バランスを崩しながら突進してくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [217]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735298
+     1 string m_Localized = "北の遺跡で目撃されたルーンゴーレムの一種。小型で力は弱く、バランスを崩しながら突進してくる。苔が生えている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [218]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735299
+     1 string m_Localized = "湿気が多く草木の生えた場所に生息する甲殻系モンスター。群体で飛び掛かって獲物の血を吸う恐ろしい生物。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [219]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735300
+     1 string m_Localized = "ルーンの遺跡で目撃されるルーンゴーレムの一種。壊れたゴーレムと侵入者を掃除するために、強力な破壊光線を放つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [220]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735301
+     1 string m_Localized = "北の遺跡で目撃されたルーンゴーレムの一種。壊れたゴーレムと侵入者を掃除するために、強力な破壊光線を放つ。苔が生えている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [221]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735302
+     1 string m_Localized = "魔導レンズ研究所で目撃されたゴーレムクリーナーの強化版。壊れたゴーレムと侵入者を掃除するために、強力な破壊光線を放つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [222]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735303
+     1 string m_Localized = "坑道や洞窟に生息するスライム系モンスター。あらゆる生物を溶解して吸収してしまう。体を震わせて魔法耐性を上げることがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [223]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735304
+     1 string m_Localized = "極めて目撃例の少ないデーモン族の中でも最下級の種族。どこから来たのかは誰も知らない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [224]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735305
+     1 string m_Localized = "極めて目撃例の少ないポーンデーモンの亜種。デーモン族は上位種になるほど体が小さくなると言われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [225]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735306
+     1 string m_Localized = "森の奥深くに生息する植物系モンスター。二本の爪と大きな口と歯を持っていて大型の生物さえも捕食する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [226]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735307
+     1 string m_Localized = "森の奥深くに生息するエンシェントシードの亜種。二本の爪と大きな口と歯を持っていて大型の生物さえも捕食する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [227]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735308
+     1 string m_Localized = "草原や森に生息するエッグ系モンスター。ヒトの手で飼育されたエッグフットは競走用として取引される。ふつうのタマゴを落とす。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [228]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735309
+     1 string m_Localized = "草原や森に生息するエッグフットの亜種。野生で育ったエッグフットの中では最速。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [229]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735310
+     1 string m_Localized = "草原や森に生息するエッグフットの亜種。慌てて生まれてきたため殻が少し残ってしまったせっかちさん。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [230]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735311
+     1 string m_Localized = "草原や森に生息するエッグフットの亜種。本来、生まれて間もなく取れるはずの殻を付けたまま大人になってしまった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [231]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735312
+     1 string m_Localized = "雪山に生息するエッグフットの亜種。寒さから身を守るために大人になってもタマゴの殻が取れないようになった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [232]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735313
+     1 string m_Localized = "草原に生息する爬虫類系モンスター。獰猛で隙を見せると噛みついてくる。地中に潜っている時はダメージを与えることができない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [233]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735314
+     1 string m_Localized = "大樹林に生息するリザードの亜種。獰猛で隙を見せると噛みついてくる。地中に潜っている時はダメージを与えることができない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [234]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735315
+     1 string m_Localized = "山や森に生息する飛行系モンスター。まだ子供で上手に飛べない。ピンチになると親鳥を呼ぶことがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [235]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735316
+     1 string m_Localized = "山や森に生息する飛行系モンスター。まだ子供で上手に飛べない。なぜかバッカをたくさん持っているリッチな子。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [236]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735317
+     1 string m_Localized = "森に生息するコカトリスの亜種。まだ子供で上手に飛べない。ピンチになると親鳥のヒポグリフを呼ぶことがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [237]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735318
+     1 string m_Localized = "山や森に生息する飛行系モンスター。子供のピンチに現れて子供を泣かせた悪いヒトを石にする。繁殖期には単体で現れる時もある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735319
+     1 string m_Localized = "森に生息するコカトリスの亜種。子供のピンチに現れて子供を泣かせた悪いヒトを石にする。繁殖期には単体で現れる時もある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735320
+     1 string m_Localized = "オルドリック公爵の研究で生み出された、コカトリスに魔導レンズを融合させ、制御リングでの制御を可能にした量産実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735321
+     1 string m_Localized = "大樹林に生息する爬虫類系の大型モンスター。堅い甲羅に覆われていて半端な攻撃ではビクともしない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735322
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。タイラントトータスに魔導レンズを融合させ制御に成功した実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [242]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735323
+     1 string m_Localized = "砂漠に生息するモンスター。身は淡泊なためタレをつけて焼いて食べる。乾燥させたヒレは珍味として特産品になっている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [243]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735324
+     1 string m_Localized = "大岩亀ヴィルシュヌに生息する希少な獣系モンスター。強烈な頭突きと相手の動きを止める咆哮が武器。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [244]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735325
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。アステリオンに魔導レンズを融合させ制御を試みた実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [245]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735326
+     1 string m_Localized = "湿地や岩稜に生息する植物系モンスター。外敵から身を守るために毒のあるトゲを撒き散らす。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [246]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735327
+     1 string m_Localized = "砂漠や岩稜に生息する小型の獣系モンスター。\n動きが素早く鋭い爪で獲物を狩る。迂闊に手を出すと鋭い牙で返り討ちにされる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [247]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735328
+     1 string m_Localized = "巨大なハサミと毒のある尾による攻撃が強烈な甲殻系モンスター。相手にする時には常に死の危険があることを覚悟する必要がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [248]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735329
+     1 string m_Localized = "山に生息する獣系モンスター。雑食で畑を荒らすため自警団が組織され駆除されることも多い。正面に立つのは非常に危険。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [249]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735330
+     1 string m_Localized = "雪山に生息するワイルドボアの亜種。人里に下りて悪さをすることはないが、雪の中でも突進力は健在で正面に立つのは非常に危険。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [250]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735331
+     1 string m_Localized = "集団で行動する凶悪なオーガ族。ヒトを襲って奪った装備を身に着けている。ヒトの言葉は分からないはずだが……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [251]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735332
+     1 string m_Localized = "集団で行動するオーガの上位種。ヒトを襲って奪った装備を身に着けている。ヒトの言葉は分からないはずだが……"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [252]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735333
+     1 string m_Localized = "森に生息する植物系モンスター。糸でぶら下がり、頭上から奇襲攻撃をかけてくる。犠牲者は樹上へと連れさられてしまう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [253]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735334
+     1 string m_Localized = "森に生息するフォレストイーターの亜種。糸でぶら下がり、頭上から奇襲攻撃をかけてくる。犠牲者は樹上へと連れさられてしまう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [254]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735335
+     1 string m_Localized = "大樹林に生息する獣系モンスター。鋭い爪と牙で獲物を狩る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735336
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。ヘルハウンドに魔導レンズを融合させ制御を可能にした量産実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735337
+     1 string m_Localized = "大樹林や湿地に生息する植物系モンスター。毒の胞子で外敵から身を守る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735338
+     1 string m_Localized = "大樹林の奥地に生息するキラーファンギの亜種。毒の胞子で外敵から身を守る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735339
+     1 string m_Localized = "大岩亀ヴィルシュヌに生息する希少な陸型竜種。体内で雷を作り出して口から放射することができる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735340
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。アースドラゴンに魔導レンズを融合させ制御に成功した実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735341
+     1 string m_Localized = "赤歌峠に生息する飛行系モンスター。発達した脚で獲物を蹴りつける。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735342
+     1 string m_Localized = "フレスヴェルグの亜種。発達した脚で獲物を蹴りつける。ピカピカしたものを集める習性がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735343
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビット族は手先が器用で自分たちで色々な物を作ることができる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735344
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビットナイトの上位種で攻撃的。槍の扱いが得意。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735345
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビットナイトの最上位種で黒鋼の鎧に身を包んだみんなのヒーロー。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2599735346
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビットナイトの亜種で後方支援が得意な見習い魔法使い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929600
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビットウィザードの上位種でより強力な魔法を扱うベテラン魔法使い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929601
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビットウィザードの最上位種で魔法のほうきを乗りこなす上級魔法使い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929602
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビットナイトの亜種で熊を使役する見習い獣使い。笛で仲間を呼ぶことがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929603
+     1 string m_Localized = "大陸全土に生息するラビット族。ラビット＆ベアーの上位種で凶暴な熊を使役する獣使い。笛で仲間を呼ぶことがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929604
+     1 string m_Localized = "坑道に生息する軟体系モンスター。普段は硬い貝の殻に身を隠している。石つぶてを投げつけて外敵を威嚇する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929605
+     1 string m_Localized = "坑道に生息する爬虫類系モンスター。体の中で有毒ガスを作り出し全身から噴出させて外敵から身を守る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929606
+     1 string m_Localized = "草原に生息する爬虫類系モンスター。翼は退化して飛ぶことはできない。口から炎を吐き、翼を羽ばたかせて衝撃波を放つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929607
+     1 string m_Localized = "森に生息するワイバーンの亜種。翼は退化して飛ぶことはできない。口から炎を吐き、翼を羽ばたかせて衝撃波を放つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929608
+     1 string m_Localized = "砂漠に生息する巨人族。鉄や革を加工する独自の技術を持っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929609
+     1 string m_Localized = "雪山に生息するギガースの亜種。鉄や革を加工する独自の技術を持っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929610
+     1 string m_Localized = "大樹林に生息するサハギンの亜種。上空から飛行状態のまま襲いかかってくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929611
+     1 string m_Localized = "大砂海に生息するサハギンの亜種。上空から飛行状態のまま襲いかかってくる。音よりも早く飛べるという噂もある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929612
+     1 string m_Localized = "試練の儀式の場周辺に生息する獣系モンスター。角を飛ばして旅人を襲う習性がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929613
+     1 string m_Localized = "寒い地域に生息する獣系モンスター。光輝属性の魔法を使って旅人にいたずらをする習性がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929614
+     1 string m_Localized = "坑道に生息する軟体系モンスター。強力な消化液を吐き出してヒトやラビット族、サハギン種を捕食する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929615
+     1 string m_Localized = "水辺に生息するジャイアントスラッグの亜種。強力な消化液を吐き出してヒトやラビット族、サハギン種を捕食する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929616
+     1 string m_Localized = "草原や森に生息する甲殻系モンスター。顎の力が強く凶暴でヒトを襲う。雄同士は自慢の角で強さを競う習性がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929617
+     1 string m_Localized = "森の奥に生息するアーミービートルの亜種。希少価値が高く金色に輝くその姿に愛好家も多く、高値で取引される。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929618
+     1 string m_Localized = "大砂海で多くの漁師の命を奪ってきた凶暴なモンスター。丈夫な鱗は建材に使われている。身はパサパサして美味しくない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929619
+     1 string m_Localized = "大砂海に生息するエッグフットの変異種。空を飛ぶのは反則なのでエッグフットレースには出場できない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [286]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929620
+     1 string m_Localized = "フライングエッグの亜種。空を飛ぶのは反則なのでエッグフットレースには出場できない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [287]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929621
+     1 string m_Localized = "砂漠や岩稜に生息する軟体系モンスター。死肉に群がる習性があり、血の匂いがすると飛び掛かって噛みついてくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [288]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929622
+     1 string m_Localized = "砂漠や岩稜に生息するサンドワームの亜種。死肉に群がる習性があり、血の匂いがすると飛び掛かって噛みついてくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [289]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929623
+     1 string m_Localized = "遺跡に生息するエーテルスライムの亜種。あらゆる生物を溶解して吸収してしまう。体を震わせて魔法耐性を上げることがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [290]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929624
+     1 string m_Localized = "砂漠に生息するアーミービートルの亜種。サンドワームを捕食する。稀に角に骨董品が引っ掛かっていることがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [291]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929625
+     1 string m_Localized = "シャンダール岩稜に生息するリザードの亜種。獰猛で隙を見せると噛みついてくる。地中に潜っている時はダメージを与えることができない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [292]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929626
+     1 string m_Localized = "寒冷地に生息するヘルハウンドの亜種。鋭い爪と牙で獲物を狩る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [293]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929627
+     1 string m_Localized = "寒冷地に生息するエーテルスライムの亜種。あらゆる生物を溶解して吸収してしまう。体を凍らせて防御力を上げることがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [294]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929628
+     1 string m_Localized = "寒冷地に生息する獣系モンスター。雪山の捕食者で旅人に容赦なく襲い掛かる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [295]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929629
+     1 string m_Localized = "寒冷地に生息するモンスター。いつから存在するのか誰も知らない。雪原を当ても無く徘徊して動く物に襲い掛かってくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [296]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929630
+     1 string m_Localized = "極北に生息するスノーマン族の戦士。軽快なステップで距離を詰め急所を狙った鋭い拳を打ち込んでくる。右の大砲に気をつけろ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [297]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929631
+     1 string m_Localized = "大岩亀ヴィルシュヌに生息する希少な三つ首の竜種。大陸では「憤怒の殺戮者」の名で知られる邪龍。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [298]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929632
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。アズダハーグに魔導レンズを融合させ制御を試みた実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [299]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929633
+     1 string m_Localized = "砂漠に生息するダーティリキッドの亜種。体内で作った炎を吐き出して攻撃する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [300]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929634
+     1 string m_Localized = "水辺に生息するスライム系モンスター。体内で作った毒を吐き出して攻撃する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [301]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929635
+     1 string m_Localized = "体表面から高温を発する爬虫類系モンスター。ある種の鉱石を食料としており、その高温で鉱石を融解させて体に取り込む。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [302]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929636
+     1 string m_Localized = "草原に生息する爬虫類系モンスター。群れで行動して鋭い爪で獲物を狩る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [303]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929637
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。リッパーラプトルに魔導レンズを融合させ制御を可能にした量産実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [304]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929638
+     1 string m_Localized = "砂漠や岩稜に生息する甲殻系モンスター。この地の固有種で砂地に擬態して外敵から身を隠す。スルクカムイの毒に耐性がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [305]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929639
+     1 string m_Localized = "草原や坑道に生息する甲殻系モンスター。鋭いカマで獲物を捕食する。大量発生すると周囲の生物を食い尽くしてしまう害虫。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [306]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929640
+     1 string m_Localized = "森に生息するカーカスイーターの亜種。鋭いカマでヒトさえも捕食する。大量発生すると周囲の生物を食い尽くしてしまう害虫。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [307]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929641
+     1 string m_Localized = "大岩亀ヴィルシュヌに生息する希少な竜種。大陸では「日輪の挑戦者」の名で知られる古代竜。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [308]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929642
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。ニーズヘッグに魔導レンズを融合させ制御を試みた実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [309]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929643
+     1 string m_Localized = "ルーンの遺跡で目撃されるルーンゴーレムの一種。偵察用で力は弱い。遺跡内の侵入者を発見すると攻撃してくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [310]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929644
+     1 string m_Localized = "北の遺跡で目撃されたルーンゴーレムの一種。偵察用で力は弱い。遺跡内の侵入者を発見すると攻撃してくる。苔が生えている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [311]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929645
+     1 string m_Localized = "本来はルーンの遺跡で目撃されるルーンゴーレムの一種。侵入者を道連れに自爆する恐ろしいゴーレム。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [312]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929646
+     1 string m_Localized = "魔導レンズ研究所で目撃されるエレメント系モンスター。弱点属性以外の魔法耐性が異常に高い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [313]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929647
+     1 string m_Localized = "水辺で目撃されるエレメント系モンスター。弱点属性以外の魔法耐性が異常に高い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [314]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929648
+     1 string m_Localized = "寒冷地で目撃されるエレメント系モンスター。弱点属性以外の魔法耐性が異常に高い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [315]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929649
+     1 string m_Localized = "アンデッドの城で目撃されるエレメント系モンスター。弱点属性以外の魔法耐性が異常に高い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [316]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2603929650
+     1 string m_Localized = "水辺に現れるスピリット系モンスター。戦士の魂を有した亡霊。その一撃は強烈であり、石碑を真っ二つにする威力があるらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [317]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123904
+     1 string m_Localized = "極めて目撃例の少ないデーモン族。ポーンデーモンの上位種族。どこから来たのかは誰も知らない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [318]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123905
+     1 string m_Localized = "極めて目撃例の少ないレッサーデーモンの亜種。デーモン族は上位種になるほど体が小さくなると言われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [319]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123906
+     1 string m_Localized = "大樹林の奥地に生息する爬虫類系モンスター。飛びつきざまに噛みついて獲物を丸呑みにしようとする。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [320]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123907
+     1 string m_Localized = "坑道に生息する小型の飛行系モンスター。虫や小動物を食べる臆病な性格だが、ヒトを見ると怒って襲ってくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [321]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123908
+     1 string m_Localized = "森に生息するアングリーバットの亜種。熟した果実を好んで食べる森の美食家。ヒトに驚いて襲ってくることがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [322]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123909
+     1 string m_Localized = "寒冷地に生息するアングリーバットの亜種。\n凍った獲物を食べる大人しい性格。ヒトに驚いて襲ってくることがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [323]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123910
+     1 string m_Localized = "岩稜に生息する爬虫類系モンスター。シャンダール砂トカゲを捕食するこの地の固有種で強力な毒液を吐いて獲物を弱らせる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [324]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123911
+     1 string m_Localized = "森に生息する軟体系モンスター。回転しながら獲物に飛び付いて血を吸い尽くす。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [325]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123912
+     1 string m_Localized = "ルーンの遺跡で目撃されるルーンゴーレムの一種。その腕を叩きつけて侵入者を撲殺する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [326]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123913
+     1 string m_Localized = "魔導レンズ研究所で目撃された、ハードノッカーの強化版。その腕を叩きつけて侵入者を撲殺する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [327]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123914
+     1 string m_Localized = "東方では名の知れた剣豪だったアンデッド。神速の抜刀術で敵を両断する。古の抜刀術の開祖と言われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [328]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123915
+     1 string m_Localized = "かつては高名な踊り子だったアンデッド。頭髪を自在に操る魔導士の一族出身で複数の魔法を同時に詠唱出来る特技を持つ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [329]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123916
+     1 string m_Localized = "悲惨な死を遂げた子供の怨霊の宿った青いクマのぬいぐるみが呼び出した殺戮用の巨大ぬいぐるみ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [330]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123917
+     1 string m_Localized = "悲惨な死を遂げた子供の怨霊の宿った青いクマのぬいぐるみが呼び出した殺戮用の巨大ぬいぐるみが本性を現した姿。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [331]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123918
+     1 string m_Localized = "かつて、モモが実験に失敗して生み出してしまった突然変異モンスター。体内に強力なロウ・レンズを宿している。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [332]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123919
+     1 string m_Localized = "かつて人間だった頃のマーカスと親しかった女性のアンデッド。デェイラードの支配の中でもマーカスへ強い情念を抱いている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [333]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123920
+     1 string m_Localized = "北の遺跡で目撃された大型のルーンゴーレムの一種。巨大な腕を振り回す強烈な攻撃が特徴。魔導レンズからのエネルギーが動力源。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [334]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123921
+     1 string m_Localized = "砂漠の砂の中に生息する超巨大なモンスター。砂漠の漁師は見かけたら全力で逃げる。稀に見つかる骨は建材として使われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [335]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123922
+     1 string m_Localized = "砂漠の砂の中に生息する超巨大なモンスター。砂漠の漁師は見かけたら全力で逃げる。稀に見つかる骨は建材として使われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [336]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123923
+     1 string m_Localized = "砂漠の砂の中に生息する超巨大なモンスター。砂漠の漁師は見かけたら全力で逃げる。稀に見つかる骨は建材として使われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [337]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123924
+     1 string m_Localized = "赤歌峠に生息する獣系モンスター。穴から飛び出してヒトを襲い、奪ったものを巣に持ち込んでしまう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [338]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123925
+     1 string m_Localized = "試練の儀式の場に現れた謎のモンスター。遺跡を守るルーンゴーレムを操り侵入者に最後の試練を与える。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [339]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123926
+     1 string m_Localized = "試練の儀式の場を守るルーンゴーレムの一種。審判者アストライアに操られ巨大な剣で侵入者に襲い掛かる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [340]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123927
+     1 string m_Localized = "大樹林の奥深くに現れた竜種の子供。縄張りを荒らした侵入者に上空から強力な魔法攻撃を仕掛けてくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [341]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123928
+     1 string m_Localized = "氷の洞窟の奥に巣食う三つの首を持つ大型の獣系モンスター。全ての首が目覚めたときに強力な氷結ブレスを放ってくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [342]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123929
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。複数のモンスターと魔導レンズを融合させて制御を試みた強力な実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [343]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123930
+     1 string m_Localized = "水没した街に生息する大型の水棲系モンスター。家屋の残骸を背負って守りを固めながら獲物を捕食する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [344]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123931
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。希少な黒竜種に魔導レンズを融合して原初のレンズの力で制御を可能にした最高傑作。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [345]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123932
+     1 string m_Localized = "原初のレンズの支配から解き放たれ暴走した魔導レンズによって異常進化したアンシエント・ドラゴン。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [346]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123933
+     1 string m_Localized = "ダーバウィンの街でノアたちの力を試すため立ちはだかったレイナ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [347]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123934
+     1 string m_Localized = "ユウゴに認めてもらうためにノアに勝負を挑んできたアオイ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [348]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123935
+     1 string m_Localized = "ハイシャーンの街でノアの強さを認めて稽古をつけてくれたリューハン。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [349]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123936
+     1 string m_Localized = "魔導レンズが暴走してノアに襲いかかってきたシャンドラ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [350]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123937
+     1 string m_Localized = "オルトフェルデンの村を襲った盗賊としてノアたちに討伐を依頼されたコゲン一味のリーダー。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [351]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123938
+     1 string m_Localized = "オルトフェルデンの村を襲った盗賊としてノアたちに討伐を依頼されたコゲン一味の切り込み隊長。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [352]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123939
+     1 string m_Localized = "オルトフェルデンの村を襲った盗賊としてノアたちに討伐を依頼されたコゲン一味の参謀。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [353]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123940
+     1 string m_Localized = "オルドリック公爵の命で動く工作員。たびたびノアの前に立ちはだかる因縁の相手。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [354]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123941
+     1 string m_Localized = "オルドリック公爵の野望に心酔する帝国貴族。魔法の扱いに長けた将校。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [355]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123942
+     1 string m_Localized = "オルドリック公爵に力を貸す、魔導レンズの力で転移や召喚の魔法も操る謎の女性。黎明の協会と呼ばれる組織に属する獣面の者。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [356]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123943
+     1 string m_Localized = "オルドリック公爵に忠誠を誓う若き将校。制御リングの力で魔導レンズの力を抑え込んでいたが、最後には暴走させてしまう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [357]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123944
+     1 string m_Localized = "ガルディア帝国の正式な片手剣を装備した一般兵。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [358]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123945
+     1 string m_Localized = "ガルディア帝国の正式な槍を装備した槍兵。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [359]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123946
+     1 string m_Localized = "ガルディア帝国の正式な弓を装備した弓兵。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [360]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123947
+     1 string m_Localized = "ガルディア帝国の上級兵士。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [361]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123948
+     1 string m_Localized = "オールラーン大陸に蔓延る盗賊。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [362]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123949
+     1 string m_Localized = "オールラーン大陸に蔓延る盗賊。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [363]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2608123950
+     1 string m_Localized = "キーナーンのドラゴニュート兵。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [364]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318208
+     1 string m_Localized = "カレーアジ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [365]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318209
+     1 string m_Localized = "カブトフグ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [366]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318210
+     1 string m_Localized = "ブーストボラ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [367]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318211
+     1 string m_Localized = "シザースズキ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [368]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318212
+     1 string m_Localized = "ショックサンマ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [369]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318213
+     1 string m_Localized = "ブツブツオハギガニ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [370]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318214
+     1 string m_Localized = "ヨロイサバ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [371]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318215
+     1 string m_Localized = "カタナイカ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [372]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318216
+     1 string m_Localized = "ヤツメダコ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [373]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318217
+     1 string m_Localized = "ステルスオオコバンザメ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [374]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318218
+     1 string m_Localized = "サンゴハタ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [375]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318219
+     1 string m_Localized = "ブリリアントカワハギ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [376]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318220
+     1 string m_Localized = "ツインヘッドハモ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [377]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318221
+     1 string m_Localized = "ゲンロウインアジ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [378]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318222
+     1 string m_Localized = "シャリンメダイ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [379]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318223
+     1 string m_Localized = "ゲキカラウツボ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [380]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318224
+     1 string m_Localized = "ライオンクエ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [381]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318225
+     1 string m_Localized = "マグマグロ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [382]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318226
+     1 string m_Localized = "オウゴンオニカジキ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [383]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318227
+     1 string m_Localized = "アルマジロシャーク"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [384]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318228
+     1 string m_Localized = "コケタマジャクシ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [385]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318229
+     1 string m_Localized = "トラドジョウ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [386]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318230
+     1 string m_Localized = "アイアンフナ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [387]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318231
+     1 string m_Localized = "フルーツギル"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [388]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318232
+     1 string m_Localized = "ショベルザリガニ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [389]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318233
+     1 string m_Localized = "セオイカワ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [390]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318234
+     1 string m_Localized = "メロンアユ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [391]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318235
+     1 string m_Localized = "ハンマーヘッドバス"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [392]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318236
+     1 string m_Localized = "アミドリガメ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [393]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318237
+     1 string m_Localized = "ドリルスッポン"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [394]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318238
+     1 string m_Localized = "デスサイズサーモン"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [395]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318239
+     1 string m_Localized = "オオクチペリカンアカメ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [396]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318240
+     1 string m_Localized = "スナノリハゼ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [397]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318241
+     1 string m_Localized = "ネコナキホウボウ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [398]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318242
+     1 string m_Localized = "ウシヒラメ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [399]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318243
+     1 string m_Localized = "カバカレイ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [400]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318244
+     1 string m_Localized = "アンカーモドキエイ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [401]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318245
+     1 string m_Localized = "オオカミシーラカンス"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [402]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2612318246
+     1 string m_Localized = "リュウジンノツカイ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [403]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512512
+     1 string m_Localized = "フンスイメダカ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [404]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512513
+     1 string m_Localized = "チョウチンナマズ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [405]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512514
+     1 string m_Localized = "ナガレボシコイ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [406]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512515
+     1 string m_Localized = "ヒライギョ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [407]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512516
+     1 string m_Localized = "ノコギリガー"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [408]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512517
+     1 string m_Localized = "アリゲーターピラルク"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [409]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512518
+     1 string m_Localized = "シモヤケワカサギ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [410]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512519
+     1 string m_Localized = "ルーンクリオネ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [411]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512520
+     1 string m_Localized = "コオリイワナ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [412]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512521
+     1 string m_Localized = "ツララニジマス"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [413]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512522
+     1 string m_Localized = "ユキダルマイトウ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [414]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512523
+     1 string m_Localized = "カレーアジ・激辛"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [415]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512524
+     1 string m_Localized = "人面魚"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [416]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512525
+     1 string m_Localized = "身から骨までカレーの味がするアジ\nスパイスプランクトンを主食とし、個体によって食べた餌の量や種類の違いで見た目や身の味が変化する。稀に激辛のカレーアジがいるので注意。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [417]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512526
+     1 string m_Localized = "兜のような頭部に角を持つフグ\n興奮すると自身の身体を膨らませ、皮膚の表面や角の先から毒を放出する。\n水槽で飼うと自身の毒で死に至るケースもある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [418]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512527
+     1 string m_Localized = "圧縮した空気の噴射で空を飛ぶボラ\n「へそ」と呼ばれる部位が進化し、そこからため込んだ空気を勢いよく噴射して空中を移動する。野良猫の好物で陸へ飛んできたボラは取り合いになる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [419]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512528
+     1 string m_Localized = "ナイフのような切れ味のヒレや鱗を持つスズキ\n自分より体の大きい獲物でも体を擦りつけて切り裂き、一口サイズになるようにしてから食べる。\n一日の大半はやすり昆布に身体を擦りつけている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [420]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512529
+     1 string m_Localized = "猛烈な速度で泳ぐサンマ\n太陽光を体内で蓄えて動力に変換することができ、泳ぐ際にその力を利用して高速で移動する。\n一日の殆どは海から背を出して太陽光を浴びる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [421]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2616512530
+     1 string m_Localized = "オハギのような見た目をしたカニ\n甲羅から触れたものをくっつける粘膜が出ており、両腕を器用に使って石や岩を削り、甲羅に貼り付け擬態する。海藻や貝を好んで背中に貼る個体もいる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [422]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706816
+     1 string m_Localized = "鎧のような泥を身に纏ったサバ\n鱗の粘膜で海底の泥を身に纏わせることができる。\nより良い泥をより長く纏っていたサバほど、身が熟成されていて美味しい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [423]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706817
+     1 string m_Localized = "刀のような突起物を持つイカ\nメスの奪い合いの際はオスがメスと体をぶつけ合い、メスが認めたオスとのみ交配を行う。\n刃と呼ばれる部位は骨が進化したものらしい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [424]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706818
+     1 string m_Localized = "8つの足先に爪を持ち、体に8つの目を持つタコ\n爪に毒を持ち、爪先に返しがついているので危険。\n接敵した際は足を自切して逃げる。見た目に反して臆病な性格で普段は岩陰に隠れている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [425]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706819
+     1 string m_Localized = "体色を海と同化させる大きなコバンザメ\n頭上の小判に似た吸着板で魚を捕まえ、自身の肌の色を海と同化させて吸着板の魚に寄ってきた魚を捕食する。釣った際に別の魚が吸着板で釣れる事も。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [426]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706820
+     1 string m_Localized = "身体に複数のサンゴが生えているハタ\nサンゴハタが行く先々で美しいサンゴ礁ができる。\nこの群れが移動する様はまるでサンゴ礁の大移動のように見え、三大美景の一つとされている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [427]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706821
+     1 string m_Localized = "身体に宝石を宿すカワハギ\n海底の宝石を見つけては、その頑丈な歯で砕いて飲み込む習性を持ち、糞として角の取れた宝石を排出する。\n七色に光り輝く肝は上質な脂を多く含み、美味。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [428]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706822
+     1 string m_Localized = "２つの頭を持つハモ\n右と左の頭で性格が異なり、どちらか片方の頭がリードして片方の頭がアシスタントになり、補助する。\n食べ物で喧嘩になる事があるが胃袋は一つしかない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [429]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706823
+     1 string m_Localized = "仙人のようなりっぱな髭を持つアジ\n髭と呼ばれる触手で海底の貝やウニを見つけ、固い殻を噛み砕いて中の身を食べる。\n髭がより多い物程美味とされている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [430]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706824
+     1 string m_Localized = "車輪のような目を持つタイ\n目が車輪のような形状で全方向の景色を見ることが可能。複眼の一種とされている。\n縁起の良い魚として、祝いの場では重宝される。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [431]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706825
+     1 string m_Localized = "身を食べると、とても辛いウツボ\n回遊しているカレーアジを主食としており、その中でも特に辛い物を好んで食べる個体の身は真っ赤になる。\n激辛マニアに高値で取引されている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [432]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706826
+     1 string m_Localized = "身体にイソギンチャクを飼うライオンのようなクエ\n獲物が近くに来るまでイソギンチャクで顔を隠す。\n顔まわりのイソギンチャクは食べ残しを多く得られるので、より成長する傾向にある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [433]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706827
+     1 string m_Localized = "身体が焦げたように黒いマグロ\n海底火山周辺の温かい海を回遊し、海底の火山灰を被り身体が焦げたように黒くなった。体温が高く、釣れたなりは体表から湯気が出ている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [434]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706828
+     1 string m_Localized = "黄金の身体と2本の角を持つカジキ\n2本の角で獲物を突き刺して仕留める。\n角に刺さった獲物で前が見えなくなり、壁にぶつかってしまう事もある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [435]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706829
+     1 string m_Localized = "アルマジロのように身を丸めることのできるサメ\n背中の鱗が固く、外敵に襲われた際には身体を丸めて海底へと逃げる。\n身は筋肉質で筋が多いが煮物や汁物にすると美味。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [436]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706830
+     1 string m_Localized = "身体の日の当たる部分で苔を育てるオタマジャクシ\n日中は背中の苔を日にさらして育てる。\n苔の成長には個体差があり、良い苔を持つコケタマジャクシは一部のコレクターに高値で取引される。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [437]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706831
+     1 string m_Localized = "トラのような縞模様で気性の荒いドジョウ\n虎ばさみのような口が特徴。\n常に群れで行動し、血の匂いに敏感で一匹の小魚を集団で狙う習性がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [438]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706832
+     1 string m_Localized = "非常に硬い鱗を持つフナ\n川に落ちていた金属を身に着け、大型の魚から食べられないようにしている。\n身に纏った金属が邪魔で泳ぎにくい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [439]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706833
+     1 string m_Localized = "果物を主食とするギル\n川を流れてきた果物に虫食い穴を空けながら食べる。フルーツギルの中には身が甘いものと酸っぱいものがいて、食べた果物の味で身の味が変化する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [440]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706834
+     1 string m_Localized = "前面に大きく湾曲した両腕を持つザリガニ\n両腕を器用に使って自分の家を作り、獲物を捕まえた後で自分の家に獲物を持ち帰ってから食べる。\n自分の家が他の個体に奪われることもある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [441]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706835
+     1 string m_Localized = "背中に自分の巣を背負うオイカワ\n川に落ちてきたものや流れてきたものを巣にする。\n果物を巣にした時はフルーツギルに巣を食べられる。\n身は甘くほんのり果物の香りがする。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [442]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706836
+     1 string m_Localized = "メロンのような味がするアユ\n川の上流にあるメロンの群生地から流れてきたメロンを主に食べている。\n酒のツマミとして人気がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [443]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706837
+     1 string m_Localized = "ハンマーのような頭部を持つバス\nハンマーのような頭部で小魚を潰して捕食する。\n狩りをする際にも頭を振り回して小魚を気絶させて捕えるが、自分の頭が岩に挟まり動けなくなる個体も。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [444]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706838
+     1 string m_Localized = "手の一部が網状になっているミドリガメ\n両腕の網と呼ばれる部位で小魚を捕まえる。\n稀に大きな魚がかかる事があるが、アミドリガメの方が連れ去られてしまう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [445]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706839
+     1 string m_Localized = "頭部が回転しやすい形状へ進化したスッポン\n強靭な歯で獲物を噛み、頭を回転させて引きちぎる。通常時は首まわりの皮膚が垂れていて、雑巾を絞るように首の皮膚を巻き込みつつ頭を回転する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [446]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706840
+     1 string m_Localized = "鎌のような角を持つサーモン\n頭部に鎌のような大きな角を持ち、とても鋭く切れ味も良いことから加工してナイフとしても利用される。\n身には脂が非常に多く、美味だが食べすぎに注意。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [447]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706841
+     1 string m_Localized = "ペリカンのように大きな口を持つアカメ。\n小魚や亀を大きな口で丸のみする。\n自分の身体より大きいものでも動いているものは一度口に入れてから食べれるか判断する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [448]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706842
+     1 string m_Localized = "砂海を滑るように移動するハゼ。\n木や草を腹部の吸盤に着け、砂山を滑って移動する。他の大きな個体に出くわした際に、お気に入りの滑り板を盗られてしまう事が多い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [449]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706843
+     1 string m_Localized = "猫の耳のようなヒレと鳴き声が特徴のホウボウ\nヒレを器用に使って歩くように移動する事もある。\nペットとして飼う人もおり、野生のネコナキホウボウへの餌付けが禁止されている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [450]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706844
+     1 string m_Localized = "牛のような角と模様を持つヒラメ\n普段は温厚な性格で砂海の底で眠っていることが多い。\n身体の斑点模様は個体によって変化し、中にはハート型の斑点模様のあるウシヒラメも確認されている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [451]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706845
+     1 string m_Localized = "カバのような牙を持つカレイ\nとても獰猛で縄張りに入った他の魚に対して噛みつく。牙には毒があり、噛まれると致命傷になる。\n身は淡泊な白身で煮つけにすると美味しい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [452]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2620706846
+     1 string m_Localized = "舟のイカリのような形と重さのエイ\n釣りの時によく他の大型の魚と勘違いされる。\n通常の釣りで釣る分には問題無いが、針を身体に引っかけて釣る「引っかけ釣り」は禁止である。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [453]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901120
+     1 string m_Localized = "狼のように獰猛なシーラカンス\n少数の群れで行動し、仲間が足を引っ張るようなら切り捨ててでも種の生存を優先する。\n身に脂が乗っていて、よく焼き魚にして食べられている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [454]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901121
+     1 string m_Localized = "竜の鱗を持つリュウグウノツカイ\n「別名：砂のドラゴン」と呼ばれており、発見される事が殆どないため見ると幸運が訪れると言われている。\n味は食べた者のみぞ知る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [455]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901122
+     1 string m_Localized = "口から水の球を撃つメダカ\n空中や葉の上の虫に対して口から水の球を撃ち、水面に虫を落としてから捕食する。\n目が悪いので夜になるとホタルしか狙えない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [456]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901123
+     1 string m_Localized = "頭に提灯を持つナマズ\n泥の中に身体を潜ませて提灯と呼ばれる部位を虫に見立てて小魚をおびき寄せ、近づいてきた所を捕食する。\n泥臭く、食用に向かないが好んで食べるマニアもいる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [457]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901124
+     1 string m_Localized = "光る身体の模様を動かせるコイ\n身体の模様を動かして周りの背景に擬態化する。\n夜は模様が光る為、流れ星のように綺麗に見える。\n身は淡泊で焼いたり、揚げ物にして食べると美味。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [458]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901125
+     1 string m_Localized = "雷を集め、蓄える体質を持つライギョ\n雷の鳴る日は水面に尻尾を突き出して、雷が落ちるのを待つ。\n身体を発光させることで小魚をおびき寄せて捕食する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [459]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901126
+     1 string m_Localized = "ノコギリのように細かく鋭い鱗を持つガー\n頭部から腹部、尻尾にかけて小さい刃物のような鱗で覆われており、切れ味は抜群。\n危険を感じた際に鱗を振動させることで威嚇する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [460]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901127
+     1 string m_Localized = "ワニのような牙と四足の手足を持ったピラルク\n手足はあるが基本水中に生息する。水中から小動物を捕獲するために顔を出している事が多く、水を飲みに来た小動物を噛んで池へ引きずり込む。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [461]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901128
+     1 string m_Localized = "体温が極めて低いワカサギ\n体温が低く、素手で触るとしもやけになると言われる。寒冷地帯でよく釣れ、群れを作る習性を持つ。\n油で揚げることで骨まで美味しく食べられる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [462]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901129
+     1 string m_Localized = "ルーンに集まるクリオネ\n海底のルーンに反応して集まると言われている。\nルーンを体内に取り込んでエネルギーに変換する。\n身の味はあまりせず、食用には向かない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [463]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901130
+     1 string m_Localized = "全身の鱗に氷を纏うイワナ\n何度も水上へ跳ぶ事で鱗に付いた水を凍らせている。全身が凍っているので陸を滑って移動する事もでき、産卵期はよく陸で跳ねている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [464]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901131
+     1 string m_Localized = "全てのヒレにツララを持つニジマス\nヒレがとても冷たく、ヒレ付近の水を凍らせてできたツララを身に纏っている。\n天敵に襲われた際にツララだけを自切して逃げる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [465]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901132
+     1 string m_Localized = "雪を身に纏い、天敵から身を守るイトウ\n陸の上に跳んで身体を回転させることで雪を身に纏い、水辺に落として自分の巣を作る。\nこの巣の事をカマクラと呼ぶ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [466]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901133
+     1 string m_Localized = "カレーアジの突然変異体でとても希少。\nとても辛いことで有名で、何人もの挑戦者の舌を燃やしてきたが、人気は後を絶たない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [467]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2624901134
+     1 string m_Localized = "詳細不明。釣り人の間では伝説となっている幻魚。\n目撃例が数件あるのみで、その実態は未だに誰も知らない。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [468]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987008430080
+     1 string m_Localized = "ガルディア帝国の成立とその歴史"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [469]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401600
+     1 string m_Localized = "ユークリス王国の歴史"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [470]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401601
+     1 string m_Localized = "ノールスター国史"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [471]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401602
+     1 string m_Localized = "キーナーン国の研究"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [472]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401603
+     1 string m_Localized = "究極魔法の為の究極の身体作り"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [473]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401604
+     1 string m_Localized = "町長日記"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [474]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401605
+     1 string m_Localized = "シャークソング・マスターブック"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [475]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401606
+     1 string m_Localized = "果てしなき天下への道"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [476]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401607
+     1 string m_Localized = "あるエルフの恋物語"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [477]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401608
+     1 string m_Localized = "トゥーラリングについて"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [478]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401609
+     1 string m_Localized = "サラスディン公国の恋泥棒　一巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [479]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401610
+     1 string m_Localized = "サラスディン公国の恋泥棒　二巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [480]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401611
+     1 string m_Localized = "サラスディン公国の恋泥棒　三巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [481]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401612
+     1 string m_Localized = "サラスディン公国の恋泥棒最終巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [482]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401613
+     1 string m_Localized = "ガルディア帝国は古王国消滅による混乱から生まれた軍事国家である。\nトルセアン王国の王であったアルクセイ・ガルディアは複数の王国を\nその軍事力によって服従させ、太陽歴４７７年にガルディア帝国の建\n国を宣言した。\n建国後も他国を攻め落とすことにより領土を広げるも、アルクセイは\nその外征中に矢を受けて死亡する。\nその帝位は長男ジギゥ・ガルディアが継ぐもアルクセイの矢傷が背中\nにあった事により、暗殺だったのではないかという疑いが今も持たれ\nている。\n\n太陽歴５２６年に外戚であったラート・フリートランティスが帝位を\n継ぐ。\n彼の治世によりガルディア帝国は経済的、技術的発展を遂げ帝都がア\nルディラントに移されたのもこの時期である。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [483]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401614
+     1 string m_Localized = "また、この頃魔導レンズの積極的な技術開発も行われたがそれにより、\n太陽歴５３１年には帝国西方での大規模な反乱が起こる。\nそのきっかけはレンズの秘密を狙いエルフの小王国を攻め、その第二\n都市で行われた虐殺によるとされる。この報により、エルフ、ドワー\nフ、獣人といった各勢力が帝国に敵対し、カートランド反乱と呼ばれ\nる事になる。この反乱は数十年の時をかけて終結するも、帝国は多く\nの領地を失い帝国内やその地域において遺恨を残す事となった。\n\n太陽歴５６２年、帝国はその領土的な野心を南方へと向け、当時新興\n国家であったノールスター君主国に攻め込む。\n帝国側はキルエラーク卿、ノールスターは君主エスタルク王が熾烈な\n戦いを繰り広げるも帝国が軍を引く形で停戦となった。\n太陽歴５８２年、帝国とノールスター、キーナーン、ユークリスによ\nる諸国連合の間で第二次ガルディア南方戦争が起こった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [484]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401615
+     1 string m_Localized = "ユークリス王国の成立は太陽歴５６５年のダイアス・シャーリアス王\nによるものだと言われている。\nダイアスは豪商の血筋だと言われており、時に彼は王位を買い取った\nと揶揄される事もあるが、その実態は多くの小国、小勢力、種族を\nまとめあげた彼の手腕による所が大きい。\nユークリスは王国成立以前に存在したとされた古代の国の名前から付\nけられたものである。\nダイアス・シャーリアスは自らを王にし、各地の有力者を貴族院議員\nとする事で国の安定を図ったとされている。\n\nユークリスはその成立から周囲の領主との友好を重視し、また大きな\n軍を持つことが脅威とならぬように常備軍は数を抑えて、必要に応じ\nて傭兵を雇うという方針をとっているのは、当時から変わっていない。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [485]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401616
+     1 string m_Localized = "しかし、時に貴族院の力が大きくなりすぎる事も多く、第三代アルタ\n・シャーリアス王の時代には王の権力は弱まり、貴族院議員による政\n治的腐敗も目立つようになる。\n第五代サーシャ・シャーリアスが女王として即位すると、彼女は軍の\nトップであったロイ・ランドの力を借りる形で、貴族院の有力議員を\n失脚に追い込み王権を強化したと言われている。\n\n太陽歴６３８年、首都ハイシャーンを大規模な水害が襲った。ほぼ、\n水没状態となる壊滅的な被害を受けるも、ユール・シャーリアス王の\n指揮の下に水没した旧都は捨て、首都ハイシャーンを場所を移して再\n興する。\nこの時の見事な采配は、ハイシャーンの奇跡と呼ばれている。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [486]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401617
+     1 string m_Localized = "太陽歴５２７年、フレスティア・フューリーによってノールスター君\n主国は建国された。その歴史には多くの戦乱が関わっている。\n\n太陽歴５４５年にはドラゴニュートによるキーナーン国がその領地は\n古くからキーナーンの物であるという主張から端を発し、キーナーン\n・ノールスター戦争が発生する。\nこの戦いは当初、キーナーン側が優勢であったがノールスター国軍の\n一少尉にすぎなかったマックス・ケランが英雄的な働きで国軍主力を\n救い出し、その後異例の抜擢により将軍職につくとノールスター優勢\nとなり終戦する。彼の名はノールスターにおいては英雄として、今で\nもその名にちなんだ名を子供につける事も多い。\n\n太陽歴５６２年、ガルディア帝国によるノールスター領内への侵攻が\n行われるも、エスタルク王が軍を率いて抵抗を行い、これを撃退する。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [487]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401618
+     1 string m_Localized = "この戦争後、ガルディア帝国に脅威を感じたエスタルク王はユークリ\nス、そして仇敵であったキーナーンも説得し、この三大国を中心にし\nた諸国連合を結成する。\n\n太陽歴５８２年には二度目となるガルディア帝国の侵攻が行われるも、\n諸国連合側の戦意は高く、再びこれを退ける事に成功する。\nしかし、太陽歴５９０年にはノールスターとキーナーン間の領土紛争が\n再び起こり、キーナーンは一時、諸国連合を脱退する事になる。\n\n更に、太陽歴６１９年には三度目となる帝国の侵攻が行われる。こ\nの時、ガルディア帝国はノールスター、ユークリスを同時に侵攻し、\nノールスターを一時制圧、更に軍をキーナーンまで進める事となった。\nだが、この戦いは帝国内で起こった災害による食糧危機があり帝国は\n軍を引くこととなる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [488]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401619
+     1 string m_Localized = "ドラゴニュートによる国、キーナーンの成立は太陽歴３２０年前後だ\nと言われている。\n伝説ではエルダードラゴンの出現により太陽が奪われ、それを倒すために多くの戦士がセウロ王の下に集った。７０日の昼夜に及ぶ戦いでエルダードラゴンを討伐するも、セウロ王は命を落とした。\nセウロ王の親友であった戦士ヴァーンズはセウロの剣を持ち帰り、そ\nの死を嘆く戦士たちともにキーナーンの地に国を開いたとされている。\n\n歴史的にキーナーンが登場するのは、太陽歴５２０年のヴァールサス\nによる即位からである。当時、多くのドラゴニュート達は他の種族を\n角なき劣った者たちとして蔑んでいたが、ヴァールサスはそれを諫め、\n他の種族、他国との親交を図ることに努めた。\nこの後、キーナーン内では他国との共存派と、キーナーンの誇りある\n孤立を主張する孤立派が争う事となる。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [489]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401620
+     1 string m_Localized = "太陽歴５４５年にはヴィルモリアが長となると、新興国家ノールスタ\nーの地が元々キーナーンのものであり、その地を汚したとしてノール\nスターに対して戦争を仕掛けることとなった。\nだが、この戦いはキーナーン側の敗北として終わり、ヴィルモリアは\n両角を折られて追放されることとなった。\n\nヴィルモリアの後を継いだシュバッツィアーは王として即位し、その\n後に諸国連合に参加を決める。\nその後は、各国との経済的な繋がりが強くなったこともあり、次第に\n孤立派は少なくなったが、誇りある孤立という言葉はドラゴニュート\n達の間で廃れることはなかった。\n太陽歴５９０年には、キーナーンは諸国連合を離れるも、太陽歴６１\n９年に起こったガルディア帝国の南下によりキーナーンにも戦乱が及\nぶ事となった。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [490]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401621
+     1 string m_Localized = "今日の究極トレーニング１\n・スクワット……２０回\n・腕立て伏せ……２０回\n・腹筋を意識した上体起こし……２０回\n・背筋を意識した上体反らし……２０回\n・あらゆる場面を想定した詠唱トレーニング……１０回\n\nこれらを１ローテーションとし、朝晩（可能なら昼も）５セット行う。\n筋肉は熱いうちにこそ育てあげるべし！\n究極の魔法は究極の身体から作り上げられる！\n究極の身体はあらゆる厄災にも打ち勝つ！\n己を信じろ、その先に必ず結果が待っているぞ！\n継続すれば結果が出る！　明日も頑張っていくぞ。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [491]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401622
+     1 string m_Localized = "今日の究極トレーニング２\n・散歩などの軽い有酸素運動……最低６０分\n・腰回りを意識した上体ひねり……１０回\n・脇の下を伸ばす上体反らし……１０回\n・円滑な呪文詠唱のための喉と口周りを鍛える運動……最低２０分\n\n究極の身体作りにも休暇が必要となる。\n筋肉をより洗練されたものにするためのオフ日のメニュー。\nこれに加え食事には……蒸した鶏肉、生野菜のサラダにゆで卵、茹でた大豆にチーズを和えたもの、無糖ヨーグルト、ドリンクには牛乳にタンパク質補助剤を加えたもの。\n以上を摂取する。\n上質な筋肉は洗練されたマッスルポイントを作り、究極魔法に至る。\n継続すれば結果が出る！　明日も頑張っていくぞ。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [492]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401623
+     1 string m_Localized = "■最初の日記\n町長代理として日々を綴っていこうと思う。\n最近のニューネヴァーは忙しいことだらけだ。\n町外れにある遺跡が話題で、外から来る商人たちが溢れ始める。\nそこにＣＪというスカベンジャーが現れた。齢は同い年らしい。\n彼女も遺跡に行きたがっていたがいつものようにあしらってやった。\nだが、あの調子じゃスタンプを元気に集めてくるだろう……\n先日のガルーという傭兵には１０万バッカで許可証を発券したし、\nどちらにせよ町が潤うのならば構わないか。\nただし、私のことをガメツイと言った者には課税率を引き上げねばな！\n話を戻そう。町の境界でもなにやらザワついているので\n用心棒のユウゴ先生を雇ったのだが……\nゴクトーとかいう商人の顔役と肩を組む始末だ。\n父様、町長というのは大変ですね……\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [493]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401624
+     1 string m_Localized = "■頭の痛い一日\nCJとガルーの評判が町中で噂になっているようだ。\nそして、今し方私の元に来たのだが内容は税率でもスタンプでもなく\n「魔法使いを探している？」\n聞くとどうやら雪山の障害物を除去出来る者を探していたのだが\nメロールは見つからず、CJ達がゴクトーに相談したそうだ。\nゴクトーめ、余計なことをペラペラと……\n私の不安を他所に二人は別段気にする素振りは見られなかった。\nそして雪山に同伴し、障害物を容易く破壊するとそこには……\n確かに、そこには、あの日の姿のままの父様がいて……\n思わず私は大声で呼びかけるも、反応は無く去っていき……\n悲しみに暮れる私にCJとガルーが励ましをくれる。\n新たな目的を得た私は心を決め、二人の旅に加わります。\n父様、どうか……また昔のように私の名を呼んでください。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [494]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401626
+     1 string m_Localized = "～戦士の歌編～\nおれたちは、砂に生まれたシャークマン！！\n武器を片手に育ったシャークマン！！\n砂しぶき上げて襲いかかる！\nどんなに辛い戦いも、牙は見せるが背びれは見せない！！\nふるえよハンマー、誉れとともに！！\n\nこちらはインペリシャークに伝わる民謡並びに戦士の歌である。\nシャークマンはこの歌を戦いの前に歌い、各々を鼓舞する。\nまた只歌うだけではなく、歌詞に合わせ武器を振るったり、\n背びれを大きく震わせたりもしていた。\nこちらは簡易なバージョンとなっているが\nシャークマンの歌には様々なバリエーションがあるそうだ。\n次の頁からは更なる歌や内容を記載していこう。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [495]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401627
+     1 string m_Localized = "～勇気と賛美の歌編～\nおれたちは、砂に生まれたシャークマン！！\n大地の恵みに育ったシャークマン！！\nおぉ、戦士よ！　家族よ！その背びれを立たせ、見送ってくれ。\nおぉ、我が子よ！　愛する者よ！勇猛な牙を、その心に刻んでくれ。\n砂嵐にも負けず、歩みを進めよ！\n我らは約束を違えず、結束する！\nふるえよハンマー、誉れとともに！！\n\nこちらはインペリシャークに伝わる民謡並びに勇気と賛美の歌である。\n先の戦士の歌よりも重低音が効き、振り付けもない様子であった。\nこの歌は歴史もあるようで、本来はもっと歌詞が長かったようだが\n「あまりに長すぎて皆が覚えられず短くした」と群れ長は語った。\nシャークマンの歌には、どこか不思議と惹きつけられるものがある。\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [496]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401628
+     1 string m_Localized = "■将軍と巡回　天気、晴れ。\nコゲン将軍と僕は街へ繰り出します。\nザビィは「後から合流するぜ……」と言っていたので二人っきりです。\nさすがはコゲン将軍、街の色んな人から挨拶されています！\nもはや将軍のことを知らない人はいないのでは？\nおや……どうしましたか？\nな、なんと困っている街の人から相談がありました！\n「おう、わかった！　このコゲン様がとっちめてやるよ！」\n二つ返事で快諾しました、流石は将軍です！\n突然の依頼も拒まず、堂々と頷くその姿勢。\nそして、誰からも慕われる雰囲気を纏ったオーラ！\nやっぱりコゲン将軍はスッゴイや！！\n\nユーテッド記す\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [497]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401629
+     1 string m_Localized = "■将軍と狩り　天気、晴れ。\n僕たちは依頼のあった街の裏山へ来ました。\n「罠に掛かりゃしねぇな……ウヒヒ。」とザビィはいつもの調子です。\nその時です！　獰猛な大猪……今回のターゲットが現れました！\n「うわぁ！？」「ウヒィ！？」と驚く僕とザビィでしたが……\n「うおおりゃ～～！！」とコゲン将軍は果敢に立ち向かっていきます。\nだけど……「あでっ！？」とコケて、そのまま猪に頭突きをする将軍。\n（上記一文を削除　監修ザビィ）\n振り上げた拳で猪をぶっ飛ばすコゲン将軍。\n「どんなもんよ！　ユーテッドくん！」\n大きなモンスターに臆さず立ち向かうなんてカッコいい！\nこうして今日もコゲン将軍はスッゴイ活躍をしました！\n\nユーテッド記す\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [498]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401630
+     1 string m_Localized = "昔々、エルフの森にカサンドラという美しい娘が住んでいた。\nカサンドラは美しいが、恋をしたことのない少女だった。森のどんな\n凜々しい男に告白されても、彼女の心は動かなかった。\nだが、ある日、森に迷いこんだ人間の少年、ケイに彼女は恋に落ちて\nしまった。ケイもまたカサンドラに恋をして、２人は初めての恋を育\nみあった。ケイの傷が癒えるまでが、２人の蜜月であった。\nしかし、ケイは戦争に参加している軍人であった。戦に戻るため、森\nを出なければならないケイ。カサンドラは彼についていくことを決意\nし、森を後にした。\n森を出て、自らを追いかけてきたカサンドラにケイは最初驚いたが、\n彼女を受け入れることにした。そして第二の蜜月が始まった。\nカサンドラはケイに尽くし、彼が傷つけばその傷を癒やし、彼が疲れ\nたときには、そっとそばに寄り添った。\nケイもまた、カサンドラを大切にした。彼女を守るためにも彼はます"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [499]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401631
+     1 string m_Localized = "ます剣の道に打ち込み、彼女の助けを得た彼は軍で功績を挙げた。\nしかし、蜜月は長くは続かなかった。\nケイは危険な作戦に赴くことになった。それは彼の家を守るための戦\nいであり、彼の信念を貫き通すためにはどうしても必要な戦いであっ\nた。その戦いにカサンドラを連れていくことはできない。\nカサンドラは黙って、身を引くことにした。口づけ一つだけを残して\nカサンドラはケイの元を去ったのだった。\nそれから、数十年経って、カサンドラはまた戦場に立っていた。\nいつかまたケイと再会できることを願って、彼女はいくつもの戦場を\n転々としていた。そして、今、彼女の目の前には命の灯火が消えそう\nになっている老人がいた。彼こそがケイだった。\nカサンドラはケイの手を取った。ケイの唇がカサンドラの名を呟く。\n２人の唇は死の間際に重なった。\n恋は三度目の蜜月を迎え……そして、終わった。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [500]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401632
+     1 string m_Localized = "トゥーラリングとは、巨大な体と角を持つ頑健なヒトのことである。\n彼らは「エーオーン」と呼ばれる、およそ人間では近づくことのでき\nない集落に住んでいる。エーオーンは大陸北東に位置し、人間の住む\n領域から、１つの山肌を渡り、１つの湖を泳ぎ、３つの滝を越え、２\nつの洞窟を抜けた先にある。\n辺境の地ゆえ、何もない場所だと思われがちだが、一族が長い年月を掛けて持ち帰ってきた様々な手土産のおかげで、意外と娯楽も楽しめる環境になっている。\nトゥーラリングはその体の頑健さゆえに、様々な戦いに利用されてき\nた歴史があった。利用されることを嫌い、彼らは集落に引きこもるよ\nうになったが、その結果、反動で文化的なものを好むようになった。\n積極的に他種族との交流を持つことはしないが、旅の吟遊詩人や画家\nなどは、エーオーンではとても歓迎される。またカードゲームやベー\nゴマなどの新しい遊戯も好まれているようだ。この街を訪れることが"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [501]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401633
+     1 string m_Localized = "あれば、新しい遊戯や娯楽を持っていくと喜ばれるだろう。\nエーオーンでは小麦の栽培が盛んであり、小麦粉で作ったガレットが\nこの街では好んで食べられている。卵やベーコンを使った食事系から\n蜂蜜やチョコレートをかけた甘いものまで、幅広いガレットが街では\n食べられるだろう。\nこのエーオーンを統べるのは、マルナカ－ラという女性だ。\n穏やかなトゥーラリングたちの中にあって血気盛んな彼女は、かつて\n大陸中の強者たちと片っ端から闘ったことがあるという武芸者である。\n彼女は、武芸の旅の途中に知り合ったある女武術家から気功の技を学\nび、気によって自らの若さを保つ術を手に入れた。\nそんな彼女は周囲から「トゥーラリングの嵐姫」と呼ばれている。\n昔に比べ、いくぶん、カドがとれて丸くなったという話だが、自身の\n美貌に関する悪口はどれだけ離れていても聞こえるという。嵐に遭い\nたくなければ、滅多なことを言わない方がいいだろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [502]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401634
+     1 string m_Localized = "昔々、サラスディンという国に１人の泥棒がいました。\n泥棒の名はアールバ。\n凄腕の泥棒で彼に盗めないものはないと言われていました。\nアールバは悪い金持ちにしか盗みに入らず、盗んだものは貧しい人々に分け与えるため、人々からは称えられていました。\nそれが面白くないのは、この国の大臣ギリーノです。ギリーノは王が\n病に倒れているのをいいことに私服を肥やしていました。\nギリーノの部下たちも賄賂を受け取ったり、貧しい人たちからお金を\n巻き上げて、裕福な暮らしをしていたのですが、アールバは彼らから\n宝物をどんどん盗んでいったからです。\nギリーノはなんとかアールバを捕まえようとやっきになっていました。\nしかし、そんなことで捕まるアールバではありません。彼はギリーノのお宝を盗んでやろうと、ついに城に忍び込みました。\nところが、城の警備は厳重でアールバは追い詰められてしまいました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [503]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401635
+     1 string m_Localized = "追われて、塔の上に逃げ込んだアールバ。\nそこで、彼は１人のお姫様と出会ったのでした。\n鉄格子のある部屋に閉じ込められた彼女は王の一人娘で、長い金の髪\nに湖のような青い目をした美しい少女でした。\nアールバは一目で恋に落ちました。\n「あなたは誰？」\n「お、俺はアールバ。外国の王子なんだけど、道に迷っちゃって」\n「まあ、そうだったの。私はサリア。この国の姫よ」\nサリアが可憐な笑顔を見せました。\n「ねえ、アールバ。外国の王子なんだったら、外のことを教えてほし\nいわ。私はこの城の外に出たことがないの」\nそう言うサリアにアールバは自分の知っている街のことを一生懸命に\n話して聞かせました。それはとても楽しい時間でした。\nですが、追っ手の声が近づいてきてしまいます。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [504]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401636
+     1 string m_Localized = "このままでは捕まってしまいます。逃げなければいけません。\n「ごめん、そろそろ帰らないと」\n「王子様なら次のパーティーでまた会える？」\n「つ、次のパーティーだね。うん、きっと会おう。そのときにはまた\n話の続きを聞かせてあげるよ」\n嘘をついて、アールバは逃げ出しました。\nけれど、無事に家に帰りついても、考えるのはサリアのことばかりで\nす。自分が王子だと嘘をついてしまったばかりに、サリアは次のパー\nティーにアールバがいなかったらがっかりするでしょう。\n「そうだ、王子に変装してパーティーに潜り込もう」\nアールバはそう考えて、また悪い貴族の屋敷に忍び込むことにしました。そして変装用の服を手に入れて、まんまとパーティーに潜り込むことに成功したのです。パーティーはとても豪華なものでした。\n美しく着飾った人たちに、豪勢な食事。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [505]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401637
+     1 string m_Localized = "その中で、アールバはまっすぐにサリアを探しました。\nサリアはパーティーの中央で困ったように笑っていました。その傍ら\nにはギリーノがいます。\nアールバはサリアに手を差し出して、こう言いました。\n「一緒に踊っていただけませんか？」\n「はい、喜んで」\nサリアはその手を取って、一緒に踊ってくれました。それはまるで夢\nのような時間でした。アールバは思わずサリアにプロポーズします。\n「どうか、俺と結婚して欲しい」\nところが、サリアは悲しげにうつむきました。\n「そうできたら、どんなに嬉しいことでしょう。でも、私は……」\nそのとき、サリアの手をギリーノが掴み、さっと抱き抱えました。\nギリーノは高らかに宣言します。\n「皆の者、よく聞け！　サリア姫は私と結婚する！！」"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [506]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401638
+     1 string m_Localized = "アールバは驚きました。サリアが喜んでいるようにはとても見えませ\nん。こんな結婚は間違っていると思いました。\nアールバはこっそりサリアに囁きました。\n「俺が必ずあなたを助けてみせる」\n「待っています。……鍵はドラゴンの洞窟に。あなたなら、きっと盗\nみ出すことができるわ、大泥棒アールバ」\nサリアはそう答えてくれました。\n正体を知られていたことを知ったアールバはとても驚きましたが、サ\nリアがそう言うのならば、ドラゴンの洞窟にでもなんでも盗みに入っ\nてみせると覚悟を決めました。\nドラゴンの洞窟。\nそれはサラスディンの西の砂漠にある洞窟です。ドラゴンが様々な宝\nを溜め込んでいるという噂がありましたが、恐ろしいドラゴンを前に\n盗みに入ろうなどという愚か者はいませんでした。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [507]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401639
+     1 string m_Localized = "しかし、アールバは作戦を練って洞窟に忍び込みました。\n持っていくのは大量のお酒です。\nそして、ドラゴンに見つからないように、餌にたっぷりとお酒を振り\nかけました。しばらく様子を窺っていると、お酒入りの餌を食べてし\nまったドラゴンは酔っ払って、ぐうぐう眠ってしまいました。\nそうなれば、もうこっちのものです。\nアールバはドラゴンが眠っている隙に、サリアを助ける鍵を探しまし\nた。すると、ドラゴンの首に小さな鍵がぶら下がっているではありま\nせんか。アールバは、おそるおそるその鍵を外そうとしました。\nチャリン、鍵は無事にアールバの手の中に。\nしかし、その音でドラゴンが目を覚ましてしまいました。侵入者を見\nつけたドラゴンはその大きな牙でアールバを食い殺そうとします。\n驚いたアールバはとっさに近くにあった絨毯を盾にしようと抱えまし\nた。ところが、なんと絨毯はその瞬間ふわりと浮き上がりました。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [508]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401640
+     1 string m_Localized = "その絨毯は空飛ぶ絨毯だったのです。\nアールバは急いで絨毯を広げ、それに飛び乗ると、洞窟から一目散に\n逃げ出しました。ドラゴンは洞窟からは追いかけてきませんでした。\nさて、空飛ぶ絨毯を手に入れたアールバは、塔の上に閉じ込められた\nサリアの元へと行きました。サリアはアールバが来てくれたことを涙\nを流して喜びました。\n「ありがとう、あなたが来てくれるのを待っていました」\n「愛しい人、ここから共に逃げましょう」\nドラゴンの洞窟で手に入れた金色の鍵を使い、サリアの部屋の扉を開\nけました。そして、２人は空飛ぶ絨毯に乗って、塔を脱出したのです。\nところが、ギリーノがそれに気づいてしまいました。\n悪い魔法使いであったギリーノは、洞窟の見張りをさせていたドラゴ\nンを呼び出し、それに乗って、アールバたちを追いかけてきます。\n「おのれ、アールバ。サリアは連れていかせんぞ」"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [509]
+    0 TableEntryData data
+     0 SInt64 m_Id = 8542987029401641
+     1 string m_Localized = "ドラゴンの炎がアールバたちを襲います。\nアールバは絨毯に乗って、ひらりひらりと身をかわしながら、大きく\n開いたドラゴンの口に持っていたお酒の瓶を投げつけました。\nごくんとそれを飲み込むドラゴン。\n強いお酒にたちまちドラゴンは酔っ払ってしまい、墜落していきます。\nギリーノもドラゴンと一緒に墜落して、死んでしまいました。\n自由になったサリアとアールバは一度、お城に戻りました。\nギリーノが死んだおかげで、本当は病ではなく悪い魔法をかけられて\nいた王様はすっかり元気になり、サリアを救ってくれたアールバにと\nても感謝しました。\nそして、アールバとサリアは結婚することになったのです。\n「本当に、ただの泥棒の俺でいいの？」\n「もちろんです。だって、私の恋心はあなたに盗まれてしまったんだ\nもの。あなたは、私の恋泥棒ですわ」"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [510]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258549895168
+     1 string m_Localized = "オールラーン世界名所めぐり　一巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [511]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060992
+     1 string m_Localized = "オールラーン世界名所めぐり　二巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [512]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060993
+     1 string m_Localized = "オールラーン世界名所めぐり　三巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [513]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060994
+     1 string m_Localized = "オールラーン世界名所めぐり　四巻"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [514]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060995
+     1 string m_Localized = "オールラーン世界美食めぐり"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [515]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060996
+     1 string m_Localized = "■最後の日記\n父様、いろいろとあったのですね。\n遺跡のこと、オールドネヴァーのこと、そして私の身体のこと……\nでも、もう大丈夫です。\n町や遺跡は、ひと段落しました。\n仲間がいてくれたし、シバも働きかけてくれてます。\n身体のことは気にしないでください。\n『祝福』や『呪い』だなんて思いません。\nこのことは私がなんとかします。\n「宝ってのはね、探して得るものなんだよ！」と、\n大切な仲間が教えてくれました。父様、私は頑張ります。\n日記というには感情的になってしまいましたが、\n最後にこの言葉を贈ります。\n１日の始まりに陽が新たに昇るように、輝いた光を大切に……\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [516]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060997
+     1 string m_Localized = "＜ヴィレーニア＞\nドラゴニュートの街「ヴィレーニア」は太陽暦５３０年代にヴァールサス王の命で他国との国交を盛んにする目的でキーナーンとノールスターとの国境付近に作られた、古くから要衝として栄えてきた街である。\n息を呑むほどに美しい独特な建築様式はその目で確かめて欲しい。\n\n＜アド・アストラ＞\nカールス大学天文学部が所有する天文台「アド・アストラ」。\n多くの天文学者が夜空に瞬く星々を読み解くため日夜研究を続けている。中に入るには特別な許可が必要だが、あの巨大な天文台の姿は一見の価値がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [517]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060998
+     1 string m_Localized = "＜カインの城址＞\n遥か昔に栄えたカインの国が周辺にあったとされているが古い文献にも信ぴょう性のある記載は見当たらず、見つかった痕跡も少なすぎるため歴史家たちの間でも意見が分かれ未だ大きな謎となっている「カインの城址」。\nだが、かつてここに城があったことは紛れもない事実であろう。この地を訪ねたら栄華を誇った亡国の夢の跡に思いを馳せてみてはいかがだろうか。\n\n＜シアルーク砦＞\n今では諸国連合の領土となっている「シアルーク砦」は、かつては帝国領だったエルンサイド周辺の防衛拠点として築かれた砦である。争いの歴史の中で幾度も持ち主を変えてきた砦も今では交易が盛んに行われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [518]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575060999
+     1 string m_Localized = "＜イーグルリバー＞\nオールラーン大陸北部のガルディア帝国領にある山岳地帯を源流とする「イーグルリバー」は、姿を変えながらエルンサイド周辺からエルティスワイス西部を横切り、大樹林でいくつもの支流に分かれてユークリス領から海へと流れ込む。\n長い歴史の中で川の周囲には多くのヒトが集い、いくつもの村や街が形成されてきた。イーグルリバーはいわば母なる川といっても過言ではないだろう。\n\n＜レメネセス＞\nエルティスワイスの丘の南側に広がる「レメネセス平原」は、周囲を山に囲まれたこの地方特有の温暖な気候に恵まれた肥沃な平原である。訪れるなら一面に美しい野花が咲き乱れる季節が一番だろう。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [519]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575061000
+     1 string m_Localized = "＜双泉橋＞\nエルティスワイスの東門に架かる「双泉橋」は、戦の度に何度も落とされた過去を持つ。そのたびに建て直され、今の橋は３代目となる。\n夕暮れ時に川面に美しくきらめく夕陽はエルティスワイスを訪れたなら見ない手はない。恋人たちが愛を育むデートスポットとしても人気が高い。\n\n＜スカーレットムーン百貨店＞\nガルディア帝国の帝都に居を構える「スカーレットムーン百貨店」は、ここにくれば世界のあらゆる商品が手に入ると言われている巨大な商店である。国境を越えて世界各地に支店を構える流通網は「スカーレットムーンシンジケート」と言われている。\n是非、一度は帝都にある本店を目にして欲しい。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [520]
+    0 TableEntryData data
+     0 SInt64 m_Id = 14793258575061001
+     1 string m_Localized = "＜陳岩茶＞\nオールラーン大陸の東の辺境、東方にある「陳岩茶園」で作られているお茶。交易品として高値で取引されており、東方の権力者や王侯貴族が愛飲している。岩山に住む孤独な農夫と恋に落ちた黒龍が天に戻るときに零した涙で芽吹いた葉を煎じると蜜のような甘い香りのお茶になったと言い伝えられている。\n\n＜KF-Crispy's＞\n今、巷で人気のB級グルメ。帝国と諸国連合の合同作戦で両軍の遺跡探索チームのキャンプ地となったエルンサイドの村の新名物。グリュム伯ペリエール様も大絶賛のハーブチキンを秘伝の技でカリッカリに揚げている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [521]
+    0 TableEntryData data
+     0 SInt64 m_Id = 26562862530392064
+     1 string m_Localized = "不思議な石板"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [522]
+    0 TableEntryData data
+     0 SInt64 m_Id = 26562862589112320
+     1 string m_Localized = "「集めよ　されば蘇らん」\n\nと古代文字が書かれた石板。\n古代文明の遺跡の奥深くで発見され、とある富豪のコレクションとして保管されていたが、盤面に描かれた謎の絵を見たドクター・コキトがベーゴマの伝説を熱く語り始め半ば強引に譲り受けた。\n\nどうやら古代のベーゴマに関わる秘密が記されているようだが、未だ謎は解明できていない。\n\n　\n　\n　\n　\n　\n　"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [523]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052911443968
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [524]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052940804096
+     1 string m_Localized = "社"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [525]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052940804097
+     1 string m_Localized = "亜空間"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [526]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052940804098
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [527]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052949192704
+     1 string m_Localized = "ルーン遺跡を守護する大型のルーンゴーレム。巨大な剣にエネルギーを溜めて攻撃する。遺跡からのエネルギーが動力源。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [528]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052953387008
+     1 string m_Localized = "突如現れた転移ゲートの先で亜空間に封印されていた謎の剣士。東方に縁があるようだが……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [529]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052953387009
+     1 string m_Localized = "亜空間に鎮座するアンデッドの王。指で攻撃すると状態異常を付与してくる。様々な属性の魔法を使用できる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [530]
+    0 TableEntryData data
+     0 SInt64 m_Id = 59212052953387010
+     1 string m_Localized = "アンデッド軍の長。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [531]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571175424000
+     1 string m_Localized = "封印を守るために高位の魔法によって命を吹き込まれた石像。魔力が尽きると黄色い目が色を失って、ただの石像に戻る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [532]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571196395520
+     1 string m_Localized = "侵入者を排除するために高位の魔法によって命を吹き込まれた石像。魔力が尽きると青い目が色を失って、ただの石像に戻る。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [533]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571196395521
+     1 string m_Localized = "かつては王国を守る近衛兵だったアンデッド。無実の罪で処刑された無念から、生者の魂を求めて彷徨っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [534]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571196395522
+     1 string m_Localized = "廃墟や洞窟で見られるスピリット系モンスター。執着をもったまま死んだ命のなれの果てとも言われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [535]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571200589824
+     1 string m_Localized = "幾多の戦場を愛馬と共に駆け抜け、数々の武勲を上げた上級騎士のアンデッド。未だ王国を守るために戦場を彷徨っている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [536]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571200589825
+     1 string m_Localized = "森のルーン遺跡で目撃されたルーンゴーレムの一種。遺跡の建設や修復を行うために作られた作業用の小型ゴーレム。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [537]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571200589826
+     1 string m_Localized = "極めて目撃例の少ないポーンデーモンの亜種。上位種のデーモン族に匹敵する強さを持った突然変異体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [538]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571204784128
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。暴走事故により廃棄された個体をハッセル男爵が買い上げて再調整を施した。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [539]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571208978432
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。知能の高い巨人族を使った魔導レンズによる洗脳実験に成功した実験体。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [540]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571208978433
+     1 string m_Localized = "オルドリック公爵の研究で生み出された兵器。アイスゴーレムのコアである自我を持った魔力の塊を制御して作った人造ゴーレム。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [541]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172736
+     1 string m_Localized = "帝国博物館の地下で厳重に保管されていたエレメント系モンスター。弱点属性以外の魔法耐性が異常に高い。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [542]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172737
+     1 string m_Localized = "帝国博物館で目撃されたスピリット系モンスター。遺物に宿った剣士の亡霊。姿を見たものは生きては帰れないと言われている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [543]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172738
+     1 string m_Localized = "森のルーン遺跡周辺に生息するタツクチナワの亜種。飛びつきざまに噛みついて獲物を丸呑みにしようとする。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [544]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172739
+     1 string m_Localized = "森のルーン遺跡で目撃された、ハードノッカーの試作型。全てにおいてハードノッカーを上回る能力を有している。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [545]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172740
+     1 string m_Localized = "古王国時代に流行した巨大なクマのぬいぐるみがヒトへの復讐のために魂を宿した姿。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [546]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172741
+     1 string m_Localized = "古王国時代に流行した巨大なクマのぬいぐるみがヒトへの憎悪を募らせて凶暴化した姿。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [547]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172742
+     1 string m_Localized = "カラフルユニット、マルチキャットのクールな水属性担当。可愛い見た目に反してやっかいなモンスター。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [548]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571213172743
+     1 string m_Localized = "カラフルユニット、マルチキャットの熱い心の火属性担当。可愛い見た目に反してやっかいなモンスター。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [549]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367040
+     1 string m_Localized = "カラフルユニット、マルチキャットの爽やかな風属性担当。可愛い見た目に反してやっかいなモンスター。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [550]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367041
+     1 string m_Localized = "カラフルユニット、マルチキャットの揺るがぬ土属性担当。可愛い見た目に反してやっかいなモンスター。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [551]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367042
+     1 string m_Localized = "カラフルユニット、マルチキャットのニヒルな冥闇属性担当。可愛い見た目に反してやっかいなモンスター。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [552]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367043
+     1 string m_Localized = "カラフルユニット、マルチキャットの煌めく光輝属性担当。可愛い見た目に反してやっかいなモンスター。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [553]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367044
+     1 string m_Localized = "どこかのだれかに愛されずに捨てられたぬいぐるみが、遺跡に散らばる魔導レンズの欠片を取り込んで暴走した姿。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [554]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367045
+     1 string m_Localized = "別の世界から迷い込んだ獣型のモンスター。帰る家が見つからず気が立っている。非常に素早く触る者を手あたり次第に攻撃する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [555]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367046
+     1 string m_Localized = "非戦闘型のルーンゴーレムの一種。亡き主の命に従って未だに赤い液体を集め続けている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [556]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367047
+     1 string m_Localized = "高位の召喚術を扱うモンスター。ピンチになると冥界の扉を開いて恐ろしい魔女を召喚する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [557]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367048
+     1 string m_Localized = "遺跡の中を徘徊して宝物を集めるスピリット系モンスター。高価な骨董品を好んで収集する癖がある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [558]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367049
+     1 string m_Localized = "寒い地域に生息する植物系のモンスター。通常はふわふわと空中を漂っているだけだが、怒らせると水と風の魔法で攻撃してくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [559]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367050
+     1 string m_Localized = "遺跡を守るために作られた量産型ルーンゴーレム。目から強力な光線を放ち、最後には自爆して侵入者を抹殺する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [560]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367051
+     1 string m_Localized = "遺跡を守るために作られた試作型ルーンゴーレム。目から強力な光線を放ち、最後には自爆して侵入者を抹殺する。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [561]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367052
+     1 string m_Localized = "デーモン族の中でもかなり上位に属する種。高レベルの冥闇属性の魔法を使って獲物の命を吸い取る恐ろしいモンスター。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [562]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367053
+     1 string m_Localized = "別の時空から迷い込んだ二人組の人型のエネミー。遭遇した個体は全て同一の個体という噂もあるが果たして……。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [563]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367054
+     1 string m_Localized = "ゴブロマンサーによって冥界から召喚された、大鎌を携えて巨大な骸骨竜を駆る魔女。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [564]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367055
+     1 string m_Localized = "知性が高く群れで行動をする獣型のモンスター。大きなソリを操って、リーダーの号令で一斉に襲い掛かってくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [565]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367056
+     1 string m_Localized = "巨大な猫に跨って宝物を奪う盗賊。一味の特製フラスコボムで攻撃してくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [566]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367057
+     1 string m_Localized = "主の命に絶対服従のアンデッド系モンスター。戦場で命を落とした弓兵の死体から上位アンデッドによって生み出された。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [567]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367058
+     1 string m_Localized = "遺跡を守るために作られた後期型ルーンゴーレムの一種。ヒトを模して造られた両手から破壊光線や火属性の魔法を放ってくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [568]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367059
+     1 string m_Localized = "地面を掘って大好物の芋を食べるだけの不思議な生物。ときどきプラントビーノを掘り出してしまうことがある。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [569]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367060
+     1 string m_Localized = "ルーン遺跡から発掘された大型のルーンゴーレムを兵器に改良した個体。ハッセル男爵が買い上げて大事なものを守らせている。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [570]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571217367061
+     1 string m_Localized = "バーガンティア城の地下で召喚魔法陣から呼び出された三つの首を持つ大型の獣型モンスター。強力な火炎ブレスを放ってくる。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [571]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71881571221561344
+     1 string m_Localized = "黎明の協会と呼ばれる組織に属する獣面の者の一人。大地の魔法に長けた魔法の使い手。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [572]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330635608064
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [573]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330660773888
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [574]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330660773889
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [575]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330660773890
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [576]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330660773891
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [577]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330660773892
+     1 string m_Localized = "森のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [578]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330660773893
+     1 string m_Localized = "森のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [579]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330664968192
+     1 string m_Localized = "ハッセル男爵邸"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [580]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330669162496
+     1 string m_Localized = "ハッセル男爵邸"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [581]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330673356800
+     1 string m_Localized = "帝国博物館"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [582]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330677551104
+     1 string m_Localized = "帝国博物館"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [583]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330677551105
+     1 string m_Localized = "帝国博物館"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [584]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330677551106
+     1 string m_Localized = "大樹林 遺跡付近"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [585]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330677551107
+     1 string m_Localized = "森のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [586]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330677551108
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [587]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330677551109
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [588]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745408
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [589]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745409
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [590]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745410
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [591]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745411
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [592]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745412
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [593]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745413
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [594]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745414
+     1 string m_Localized = "試練の儀式の場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [595]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745415
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [596]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745416
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [597]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745417
+     1 string m_Localized = "大岩亀ヴィルシュヌ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [598]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745418
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [599]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745419
+     1 string m_Localized = "雪山峠"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [600]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745420
+     1 string m_Localized = "ルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [601]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745421
+     1 string m_Localized = "森のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [602]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745422
+     1 string m_Localized = "バーガンティア城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [603]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745423
+     1 string m_Localized = "英雄の試練場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [604]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745424
+     1 string m_Localized = "大岩亀ヴィルシュヌ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [605]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745425
+     1 string m_Localized = "英雄の試練場"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [606]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745426
+     1 string m_Localized = "大樹林 遺跡付近"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [607]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745427
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [608]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330681745428
+     1 string m_Localized = "森のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [609]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330685939712
+     1 string m_Localized = "クシリ村周辺"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [610]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330685939713
+     1 string m_Localized = "ハッセル男爵邸"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [611]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330685939714
+     1 string m_Localized = "旧城"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [612]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330690134016
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [613]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330690134017
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [614]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330690134018
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [615]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330694328320
+     1 string m_Localized = "森のルーン遺跡"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [616]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330774020096
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [617]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330774020097
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [618]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71902330778214400
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

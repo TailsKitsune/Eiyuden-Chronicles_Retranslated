@@ -1,0 +1,426 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Duel_Scenario_10_ja"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "ja"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 7038811031346111672
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (50 items)
+   0 int size = 50
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2348077056
+     1 string m_Localized = "お前は俺が止める……オルドリック！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465664
+     1 string m_Localized = "ならば、その力を示してみろ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465665
+     1 string m_Localized = "効かぬわ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465666
+     1 string m_Localized = "まだだ！わが大望を阻むなどと！！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465667
+     1 string m_Localized = "なぜだ、なぜお前なのだ！！\nわたしの道をなぜお前が阻む！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465668
+     1 string m_Localized = "あんたには、わからないんだろ！\nこの場に一人残った、あんたには！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465669
+     1 string m_Localized = "ぐ……名もなき小僧が、なにゆえに！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465670
+     1 string m_Localized = "わたしの邪魔をするな！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465671
+     1 string m_Localized = "行くぞ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465672
+     1 string m_Localized = "あんたが道を変えないように、\nおれもおれの道を進む！！！<autosubmit=0.2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465673
+     1 string m_Localized = "小僧が！！！！\n貴様の力などなぁぁぁぁ！！！！<autosubmit=0.2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465674
+     1 string m_Localized = "見よ！原初のレンズの力を！！\nこれぞ、純然たる力だ！！！<autosubmit=0.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465675
+     1 string m_Localized = "ノア！！！<autosubmit=0.01>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465676
+     1 string m_Localized = "ふん、ケースリングの小倅が！\n再び、我と戦おうというか！<autosubmit=0.2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465677
+     1 string m_Localized = "望む所！！<autosubmit=0.2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465678
+     1 string m_Localized = "なぜ裏切る、なにゆえに帝国を！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465679
+     1 string m_Localized = "裏切り者はお前だ！\n帝国の正義を裏切った！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465680
+     1 string m_Localized = "そして、レンズの力に魅了され、\n罪なき人々の命を奪うやり方……\nそこに正当さなどない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465681
+     1 string m_Localized = "まだ言うか、くだらぬ！\n貴様の言う正義など辟易する！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465682
+     1 string m_Localized = "正しき道か？それに<ruby=すが>縋</ruby>るのは弱き者だ！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465683
+     1 string m_Localized = "僕は正しくある事を逃げない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465684
+     1 string m_Localized = "くだらぬ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465685
+     1 string m_Localized = "大義のわからぬ小僧が！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465686
+     1 string m_Localized = "僕の力は……\nお前の……そして、魔導レンズの強大な力に\n敵わないかも知れない。<autosubmit=0.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465687
+     1 string m_Localized = "だけど、それでも“僕ら”の力は！！\nそれを超える！！！<autosubmit=0.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465688
+     1 string m_Localized = "ぬおおおお！！！<autosubmit=0.1>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465689
+     1 string m_Localized = "魔導レンズの力は世界の力だ！！！\nそれを超える事などありえぬ！！！！！<autosubmit=0.2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465690
+     1 string m_Localized = "わたしを、わたしの意志こそを\n世界が望んでいるのだ、\nそれが進むべき道だと！！！！！！<autosubmit=0.1>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465691
+     1 string m_Localized = "それが嘘だっていうのさ！<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465692
+     1 string m_Localized = "ガーディアン！！\n魔導レンズの力を無為に封じている\n愚か者どもが！！！<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465693
+     1 string m_Localized = "あんたのやってる事を\n見過ごすなんてできないのさ！！<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465694
+     1 string m_Localized = "ガーディアンとしても、\n人としても！！<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465695
+     1 string m_Localized = "原初のレンズを目覚めさせるために、\n多くの人の命を奪った。\nそれは許されることじゃないんだよ！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465696
+     1 string m_Localized = "いずれは必要だったことだ。\n私はそれを早めただけであろう！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465697
+     1 string m_Localized = "レンズの力を誰もが扱える、\nそれこそが技術であり、人の世の未来だ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465698
+     1 string m_Localized = "あんたの野望は透けてみえるのさ、\nあんたが願ったのは戦争の道具でしかない！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465699
+     1 string m_Localized = "それは過程でしかない！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465700
+     1 string m_Localized = "そうやって自らの行いに目を背ける。\nそういうの、嫌いなんだよ。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465701
+     1 string m_Localized = "くだらんぞ、ガーディアン！！貴様ごときに！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465702
+     1 string m_Localized = "なんにもわかってないんだね、あんた。"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465703
+     1 string m_Localized = "ププーー！！！！"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465704
+     1 string m_Localized = "世界が望んでいるだって？\n誰があんたのやってる事を望む？<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465705
+     1 string m_Localized = "魔導レンズのために争いを起こし、そして\nその命をレンズに捧げるだって？<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465706
+     1 string m_Localized = "そんなものを誰が望む！！！！\n人が望まない道が、正しき道だなんて\n嘘に決まっている！！！<autosubmit=0.2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2356465707
+     1 string m_Localized = "おのれ、おのれ、おのれぇぇぇぇ！！！\n原初のレンズよ！！<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2360659968
+     1 string m_Localized = "ノア！セイ！！<autosubmit=0.2>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2360659969
+     1 string m_Localized = "ノア……貴様ごときが……<autosubmit=0.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2360659970
+     1 string m_Localized = "お前を倒すのは、俺じゃない。\n心を共にした皆の、その想いだ！！！！<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2360659971
+     1 string m_Localized = "くだらぬ！！くだらぬぅ！！！！\n足りぬのだ！！！\nレンズよ！！力を！！もっと力を！！！！<autosubmit=0.3>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 2360659972
+     1 string m_Localized = "うぉぉぉぉぉぉぉぉぉぉぉぉぉぉ！！！！！！！<autosubmit=0.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

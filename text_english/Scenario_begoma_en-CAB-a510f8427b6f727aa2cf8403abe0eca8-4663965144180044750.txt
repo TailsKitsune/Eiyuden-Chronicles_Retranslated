@@ -1,0 +1,5458 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_begoma_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -2157362277994566369
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (679 items)
+   0 int size = 679
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5003071488
+     1 string m_Localized = "Bwa ha ha! That was pathetic! You thought you could beat me with that flimsy little toy? Duh-stroyed!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460096
+     1 string m_Localized = "No! My top!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460097
+     1 string m_Localized = "If you want revenge, then ya better git gud! Not that you’ll ever have the skills to outspin me. BWAAA HA HA HA!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460098
+     1 string m_Localized = "Man, I’m so pathetic... Rest in peace, Absolute Zero!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460099
+     1 string m_Localized = "What was that all about?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460100
+     1 string m_Localized = "I just got demolished at beigoma, that’s what."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460101
+     1 string m_Localized = "And worse still, that guy smashed my top to pieces!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460102
+     1 string m_Localized = "Poor Zero... The little guy was always there for me, through thick and thin..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460103
+     1 string m_Localized = "Hold on. What’s “beigoma”?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5011460104
+     1 string m_Localized = "......"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654400
+     1 string m_Localized = "Why? Are you lookin’ to spin with the rest of us?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654401
+     1 string m_Localized = "Uh, maybe?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654402
+     1 string m_Localized = "Can’t say that I am."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654403
+     1 string m_Localized = "Uh, maybe? I am a little curious."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654404
+     1 string m_Localized = "Then you should go see the Spin Doctor! His mansion’s up this way. Dr. Corque’ll teach ya <i>everything</i> there is to know about throwin’ down at beigoma."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654405
+     1 string m_Localized = "I’m heading there too, so I can avenge Zero. See ya around, maybe."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654406
+     1 string m_Localized = "Sorry. Can’t say that I am."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654407
+     1 string m_Localized = "Huh... And yet, I can’t shake the feeling we’ll meet again..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654408
+     1 string m_Localized = "Well, if you change your mind, you should pay the Spin Doctor a visit. His mansion’s up this way."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654409
+     1 string m_Localized = "Dr. Corque’ll teach ya <i>everything</i> there is to know about throwin’ down at beigoma."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654410
+     1 string m_Localized = "I’m heading there too. I can’t let Zero’s death go unavenged..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654411
+     1 string m_Localized = "Ah! If it isn’t our newly minted spinadier!\nI bid you welcome, Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654412
+     1 string m_Localized = "Newly minted what now?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654413
+     1 string m_Localized = "Spinadier, of course! Under my tutelage, you will challenge mighty foes and reveal the deeper truths of the beigoma top."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654414
+     1 string m_Localized = "Tops have...deeper truths?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654415
+     1 string m_Localized = "Oh, indeed!\nA beigoma duel is no less than a clash of human wills."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654416
+     1 string m_Localized = "When you spin a top, its inexplicable movements are a\nmanifestation of the spinadier’s own will. Essentially,\nthe top is expressing the very trajectory of life!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654417
+     1 string m_Localized = "Um..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654418
+     1 string m_Localized = "You really think these little tops have that kind of power?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654419
+     1 string m_Localized = "Let me put it this way: you are a man beset by all sorts of daily fears and worries, yes? A top can dispel those concerns. How, you ask?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654420
+     1 string m_Localized = "Because the top is an embodiment of your innermost will!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654421
+     1 string m_Localized = "My innermost will...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654422
+     1 string m_Localized = "Now, select your favorite top from those three varieties."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654423
+     1 string m_Localized = "Then, you will throw yourself into a beigoma duel—a clash of violent passions that will demonstrate your inner strength to all the world!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654424
+     1 string m_Localized = "Okay, got it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654425
+     1 string m_Localized = "Wait, what? You’re actually following this?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654426
+     1 string m_Localized = "As soon as I saw the tops, I could sense they contained a mysterious power."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654427
+     1 string m_Localized = "And that is why you are destined to walk the path of a spinadier!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654428
+     1 string m_Localized = "I present to you three choices: a fire top, a water top, and a wind top."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654429
+     1 string m_Localized = "Select your first partner!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654430
+     1 string m_Localized = "The fire top."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654431
+     1 string m_Localized = "The water top."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654432
+     1 string m_Localized = "The wind top."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654433
+     1 string m_Localized = "I choose the fire top!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654434
+     1 string m_Localized = "Ah! So it’s burning passion that drives you. An excellent choice!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654435
+     1 string m_Localized = "I choose the water top!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654436
+     1 string m_Localized = "Ah! Inexorable, like the rivers to the sea! You have chosen well, spinadier!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654437
+     1 string m_Localized = "I choose the wind top!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654438
+     1 string m_Localized = "Ah! Eager to bend your foes like a tempest. You have a keen eye. May it serve you well!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654439
+     1 string m_Localized = "So now what?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654440
+     1 string m_Localized = "First, you should give your new partner a name.\nA token of respect, if you will."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654441
+     1 string m_Localized = "A name, huh? Let’s go with...Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654442
+     1 string m_Localized = "Oh, very nice. Now, for your first duel! And as luck would have it..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654443
+     1 string m_Localized = "Ha, I knew you’d show up! You had “in to spin” written all over your face."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654444
+     1 string m_Localized = "Oh, it’s you again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654445
+     1 string m_Localized = "The name’s Reid—a fellow beigoma soul-searcher."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654446
+     1 string m_Localized = "And you’re just in time. Ready to test our nascent spinadier on the field of battle?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654447
+     1 string m_Localized = "My pleasure. You can’t truly know a top until you’ve seen it in action. How do you think yours is gonna spin?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5015654448
+     1 string m_Localized = "I have no idea."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848704
+     1 string m_Localized = "The way my heart tells it to!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848705
+     1 string m_Localized = "I have no idea."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848706
+     1 string m_Localized = "Well, I guess you did just pick it out."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848707
+     1 string m_Localized = "But I’m ready to give it a spin and see what my heart has to say!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848708
+     1 string m_Localized = "The way my heart tells it to!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848709
+     1 string m_Localized = "Heh. Big words from a guy who touched his first top 30 seconds ago. But you know, I respect that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848710
+     1 string m_Localized = "Thanks. But how ’bout we let our tops do the talking?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848711
+     1 string m_Localized = "That’s the spirit. Let’s do this!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848712
+     1 string m_Localized = "But just so you know, I’ve carefully calculated every angle of attack, how much cord to wind, you name it—and I am 100% gonna wipe the floor with you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848713
+     1 string m_Localized = "You wish! Nothing is certain until the tops have been spun!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848714
+     1 string m_Localized = "Then prepare to witness the strength of Neo Absolute Zero!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848715
+     1 string m_Localized = "Get ready, Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848716
+     1 string m_Localized = "It’s beigoma time. Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848717
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848718
+     1 string m_Localized = "No way... I lost?! My calculations must have been off!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848719
+     1 string m_Localized = "I’ll never avenge Zero at this rate!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848720
+     1 string m_Localized = "Reid, you’re still taking your first shaky steps as a spinadier. What you need is diligence and focus."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848721
+     1 string m_Localized = "I know that, Doc...but still! Just you wait, Nowa. I’m gonna redo the math and come back for a rematch!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848722
+     1 string m_Localized = "That was the last time you beat me, EVER!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848723
+     1 string m_Localized = "Reid isn’t the only spinadier you’ll face. Afficionados of the top can be found in every corner of the world."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848724
+     1 string m_Localized = "Find them. Duel them! Because the road to victory leads to beigoma’s greatest truth—not to mention spectacular treasure!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848725
+     1 string m_Localized = "I’ll give it my best, Doc!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848726
+     1 string m_Localized = "And that’s a match. Told ya my calculations were spot on."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848727
+     1 string m_Localized = "This beigoma stuff has a lot of depth to it..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848728
+     1 string m_Localized = "Oh, heck yeah. Can’t expect a newbie like you to win his very first duel. Still, you put up a good fight, and that shows you got talent."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848729
+     1 string m_Localized = "You ever want a rematch, just ask. I won’t say no!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848730
+     1 string m_Localized = "Back for a rematch? I’ll give you one any time, any place. But be warned: my calculations are as flawless as ever!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848731
+     1 string m_Localized = "Here we go... Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848732
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848733
+     1 string m_Localized = "Yisss! My Dragon Fang wins again!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848734
+     1 string m_Localized = "Aw, no fair... I’ll get you next time!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848735
+     1 string m_Localized = "Heh, you can try, kid! You can try!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848736
+     1 string m_Localized = "Um, excuse me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848737
+     1 string m_Localized = "Yeah? You another spinadier or something?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848738
+     1 string m_Localized = "Something like that. The name’s Nowa. I’m just starting down the path to beigoma mastery."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848739
+     1 string m_Localized = "Nowa, you beautiful nerd..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848740
+     1 string m_Localized = "Then you’ve come to the right place, brother! Let’s throw down!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848741
+     1 string m_Localized = "The name’s Taq. I’m pretty new myself, but I’m always lookin’ for new challengers!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848742
+     1 string m_Localized = "That’s what beigoma is, right? Takin’ on the strong so you can become stronger! I’m ready to spin if you are?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848743
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848744
+     1 string m_Localized = "You’re on."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848745
+     1 string m_Localized = "Can you give me a minute? I need a little time to prepare."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848746
+     1 string m_Localized = "All right, fine. But as soon as you’re ready, you let me know."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [102]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848747
+     1 string m_Localized = "You down for that beigoma duel? I’m ready to spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [103]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848748
+     1 string m_Localized = "You’re on, spinadier. I accept your challenge!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [104]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848749
+     1 string m_Localized = "That’s the spirit! Let’s see what you got! "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [105]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848750
+     1 string m_Localized = "My Dragon Fang is made for offense—also known as <i>the best defense!</i>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [106]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5019848751
+     1 string m_Localized = "I’m gonna blow you right off the playing field!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [107]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043008
+     1 string m_Localized = "Ha! My Whirled Peace won’t go down that easily! Not while it spins with my innermost will!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [108]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043009
+     1 string m_Localized = "Pfft, talk is cheap. Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [109]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043010
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [110]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043011
+     1 string m_Localized = "Dragon Fang! No! Was focusing on offense a mistake?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [111]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043012
+     1 string m_Localized = "Hey, don’t feel bad. Your top put up an impressive fight!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [112]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043013
+     1 string m_Localized = "Thanks. I may have lost, but I’m gonna learn from the defeat and grow stronger! And then, let’s duel again!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [113]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043014
+     1 string m_Localized = "You got it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [114]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043015
+     1 string m_Localized = "Yisss! You did it again, Dragon Fang!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [115]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043016
+     1 string m_Localized = "Sorry, Whirled Peace. I let you down..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [116]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043017
+     1 string m_Localized = "Nah, you fought hard. I don’t think I’ve faced anyone so tough!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [117]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043018
+     1 string m_Localized = "You wanna duel again? It’d be great practice for both of us!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [118]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043019
+     1 string m_Localized = "Okay—but next time, I will have my revenge!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [119]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043020
+     1 string m_Localized = "Back for another beigoma duel? Let’s get to it already!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [120]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043021
+     1 string m_Localized = "All right, let’s go!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [121]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043022
+     1 string m_Localized = "You ready for this, Dragon Fang? Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [122]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043023
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [123]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043024
+     1 string m_Localized = "Please be okay, Gigas... You just gotta be..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [124]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043025
+     1 string m_Localized = "Cheer up, lad! I’ve fixed your top up right as rain. Here you are."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [125]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043026
+     1 string m_Localized = "Gigas Fist! You’re okay! Oh, I missed ya, buddy!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [126]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043027
+     1 string m_Localized = "Cheer up, Fender. I’ve got your top right here, good as new."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [127]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043028
+     1 string m_Localized = "Gigas Fist! You’re okay! Oh, I missed ya like crazy, buddy! Welcome home."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [128]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043029
+     1 string m_Localized = "Doc! I didn’t know you did repairs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [129]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043030
+     1 string m_Localized = "Yes, well, there’s a terrifying new warrior on the scene who’s been utterly shredding his opponent’s tops."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [130]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043031
+     1 string m_Localized = "I won’t call him a spinadier, lest I cheapen the word."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [131]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043032
+     1 string m_Localized = "You should see what he did to my top! The guy’s a total monster!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [132]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043033
+     1 string m_Localized = "But...at least it’s all fixed up now. Thanks, Dr. Corque!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [133]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043034
+     1 string m_Localized = "He destroys his opponents’ tops? That’s way beyond the pale."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [134]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043035
+     1 string m_Localized = "Yeah, what a creep! How could he wreck something so special to you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [135]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043036
+     1 string m_Localized = "If you continue down this path, you’re certain to encounter him yourself. You must train hard and make ready for that day."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [136]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043037
+     1 string m_Localized = "Oh, I’ll be ready. He’s not gonna beat me!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [137]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043038
+     1 string m_Localized = "I don’t think you know who you’re dealing with. He’d destroy you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [138]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043039
+     1 string m_Localized = "He’s that good?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [139]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043040
+     1 string m_Localized = "He’s incredibly good. So you’re a spinadier, too?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [140]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043041
+     1 string m_Localized = "Yup. Beigoma has really got its hooks in me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [141]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043042
+     1 string m_Localized = "Right? It’s so much fun! Every spin is an expression of what you’re thinking and feeling!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [142]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043043
+     1 string m_Localized = "Yes, exactly!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [143]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043044
+     1 string m_Localized = "But this Crash guy—he doesn’t get it at all. I can’t believe that I lost to him."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [144]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043045
+     1 string m_Localized = "Hey, I know! Why don’t you and me throw the tops around? A duel with you is sure to make me stronger! What do you say?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [145]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043046
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [146]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043047
+     1 string m_Localized = "Absolutely!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [147]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043048
+     1 string m_Localized = "Give me a minute. I need some time to prepare."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [148]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043049
+     1 string m_Localized = "Yeah, sure, no problem. I’m just gonna hang out here and have a snack. Let me know when you’re ready!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [149]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043050
+     1 string m_Localized = "You ready for that beigoma duel? I’ve been itchin’ for a chance to take you on!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [150]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043051
+     1 string m_Localized = "Yesss, let’s do this! The name’s Fender, by the way, and this is my partner, Gigas Fist."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [151]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043052
+     1 string m_Localized = "I’m Nowa, and this is Whirled Peace."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [152]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043053
+     1 string m_Localized = "Ooh, that’s a nice top all right. But it’s got nothing on mine."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [153]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043054
+     1 string m_Localized = "This baby here is as hard as steel. You think you can crack through its defenses?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [154]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5024043055
+     1 string m_Localized = "Nothing is certain until the tops have been spun. But you’d better watch out, because me and Whirled Peace are of one mind and one soul!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [155]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237312
+     1 string m_Localized = "Oh, I’m getting real excited now. Come on, Gigas! Let’s do this!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [156]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237313
+     1 string m_Localized = "Get ready, Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [157]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237314
+     1 string m_Localized = "It’s time... Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [158]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237315
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [159]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237316
+     1 string m_Localized = "I did it! I won!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [160]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237317
+     1 string m_Localized = "Aww... I really thought I had ya."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [161]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237318
+     1 string m_Localized = "You almost did! Your top was a juggernaut! "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [162]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237319
+     1 string m_Localized = "Nah. You had the stronger top and the stronger heart. You’ve got the potential to be great at this one day."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [163]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237320
+     1 string m_Localized = "I hope so, because I’ll have to be if I want to beat that Crash guy."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [164]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237321
+     1 string m_Localized = "Well, when the duel’s over, snack time begins! Can’t fight on an empty stomach."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [165]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237322
+     1 string m_Localized = "Ha! Gotcha!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [166]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237323
+     1 string m_Localized = "Sorry, Whirled Peace. I let you down..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [167]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237324
+     1 string m_Localized = "Nah, you did great! We should duel again. My post-battle snack always tastes better after facing a worthy opponent."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [168]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237325
+     1 string m_Localized = "I’ll be right here, practicing, if you decide you’re up for it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [169]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237326
+     1 string m_Localized = "Hey, you’re back! You up for a beigoma duel?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [170]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237327
+     1 string m_Localized = "I’m up for a beigoma <i>victory</i>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [171]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237328
+     1 string m_Localized = "You heard the man, Gigas Fist. Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [172]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237329
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [173]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237330
+     1 string m_Localized = "Hi! Um... Are you just saying hello...or are you a fellow beigoma warrior?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [174]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237331
+     1 string m_Localized = "Guilty as charged. My name is Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [175]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237332
+     1 string m_Localized = "I knew it!\n...You’re not one of Crash’s minions, are ya?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [176]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237333
+     1 string m_Localized = "You mean the guy who’s going around destroying people’s tops?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [177]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237334
+     1 string m_Localized = "Yeah, him! He’s made <i>so</i> many kids miserable! That jerk’s gotta pay!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [178]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237335
+     1 string m_Localized = "Well, rest assured that I’m not with him. In fact, I’m hoping to defeat him myself."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [179]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237336
+     1 string m_Localized = "Good! Then it sounds like we’re on the same side. You wanna train together?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [180]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237337
+     1 string m_Localized = "Yeah, I’d like that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [181]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237338
+     1 string m_Localized = "Okay, then let’s throw down! Let’s see if you’ve got the beigoma bug as bad as I do."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [182]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237339
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [183]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237340
+     1 string m_Localized = "Ready when you are."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [184]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237341
+     1 string m_Localized = "Give me a minute. I need to mentally prepare."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [185]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237342
+     1 string m_Localized = "All right. A minute. But I’m holding you to it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [186]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237343
+     1 string m_Localized = "Beigoma duels are all about speed, and this girl does <i>not</i> like to be kept waiting!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [187]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237344
+     1 string m_Localized = "There you are! How long were you planning on making me sit here? I want my beigoma duel!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [188]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237345
+     1 string m_Localized = "Ready when you are. I’ve been hungry for a challenge!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [189]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237346
+     1 string m_Localized = "I’m starting to think beigoma is in Nowa’s blood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [190]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237347
+     1 string m_Localized = "I know the feeling! Once you start, it’s hard to stop!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [191]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237348
+     1 string m_Localized = "Half the time, I want to jump in there and spin with ’em!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [192]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237349
+     1 string m_Localized = "Heh! Anyway, my Cheetalita is the swiftest top out there."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [193]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237350
+     1 string m_Localized = "Which means your goose is already cooked, because speed is strength when it comes to beigoma!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [194]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237351
+     1 string m_Localized = "Nothing is certain until the tops have been spun! We’ll see if your Cheetalita can take down my Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [195]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237352
+     1 string m_Localized = "Wow! That’s an impressive top, all right. I can’t wait to take you on. This is gonna be <i>revolutionary!</i>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [196]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237353
+     1 string m_Localized = "Yeah yeah. Less talk, more game! Get ready, Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [197]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237354
+     1 string m_Localized = "On your mark, Cheetalita! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [198]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237355
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [199]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237356
+     1 string m_Localized = "Yes! Take that!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [200]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237357
+     1 string m_Localized = "Awww... I thought I was faster than everybody!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [201]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237358
+     1 string m_Localized = "You were <i>wicked</i> fast! I guess there’s lots of different ways to excel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [202]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5028237359
+     1 string m_Localized = "That’s true! A spinadier’s potential has no limits!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [203]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431616
+     1 string m_Localized = "This kid I dueled earlier was pretty tough, too..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [204]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431617
+     1 string m_Localized = "Looks like you’re getting better at this."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [205]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431618
+     1 string m_Localized = "Reid!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [206]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431619
+     1 string m_Localized = "Hey, that’s him! He’s the one who beat me!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [207]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431620
+     1 string m_Localized = "But you’re not the only one who’s been sharpening your skills."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [208]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431621
+     1 string m_Localized = "Nowa, I challenge you to a rematch! I’ll be waiting for you back at the Spin Doc’s mansion."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [209]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431622
+     1 string m_Localized = "Nowa! You didn’t tell me you had a <i>rival</i>! That is <i>amazing</i>! Good luck!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [210]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431623
+     1 string m_Localized = "Thanks. I’ll try not to let you down!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [211]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431624
+     1 string m_Localized = "Yes! I did it! I did it! I won!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [212]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431625
+     1 string m_Localized = "Sorry, Whirled Peace. I let you down..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [213]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431626
+     1 string m_Localized = "No way! You spun with strength and determination. Whew, did it feel good to win that one."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [214]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431627
+     1 string m_Localized = "If you want to, let’s duel again! This is where I play if you’re looking for me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [215]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431628
+     1 string m_Localized = "Aha! Back to extend my winning streak, Nowa? I’m gonna push the beigoma speed barrier!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [216]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431629
+     1 string m_Localized = "We’ll see who beats who!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [217]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431630
+     1 string m_Localized = "On your mark, Cheetalita! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [218]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431631
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [219]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431632
+     1 string m_Localized = "What a delight to see you again, Nowa! \nI have been very eager to talk to you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [220]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431633
+     1 string m_Localized = "Your tales of derring-do on the spinadier circuit have reached my ears. It sounds like your skills have been rapidly improving."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [221]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431634
+     1 string m_Localized = "Now, as you’ve most likely gathered, there is a man named Crash going around and wrecking other people’s tops."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [222]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431635
+     1 string m_Localized = "And only the worst kind of cad would mistake destruction for a core part of beigoma."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [223]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431636
+     1 string m_Localized = "Yeah. The more I hear about him, the more I realize he needs to be stopped."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [224]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431637
+     1 string m_Localized = "I’m glad to hear it. Unfortunately, however, there are others who agree with his twisted philosophy."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [225]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431638
+     1 string m_Localized = "Lamentable, simply lamentable..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [226]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431639
+     1 string m_Localized = "You’re kidding. He has followers?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [227]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431640
+     1 string m_Localized = "I’m afraid so—right here in our vicinity, even. We must exercise caution."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [228]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431641
+     1 string m_Localized = "With that in mind, might I suggest I relocate my operation to your headquarters?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [229]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431642
+     1 string m_Localized = "If I may be so bold, I wish to join your cause. Not only can I whip you into tip-top spinning shape—I can assist in other ways, too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [230]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431643
+     1 string m_Localized = "Works for me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [231]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431644
+     1 string m_Localized = "Could you hold off for now?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [232]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431645
+     1 string m_Localized = "Works for me. I’d be honored to count you among my companions."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [233]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431646
+     1 string m_Localized = "Wonderful! Then I will set up a beigoma research center at your headquarters immediately. You have my thanks, noble spinadier!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [234]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431647
+     1 string m_Localized = "Now, down to work...\nI must get word to Reid and\napprise him of my new whereabouts..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [235]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431648
+     1 string m_Localized = "As soon as you’re ready, let us reconvene at the new facility!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [236]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431649
+     1 string m_Localized = "Could you hold off for now? There’s things I need to do before you can set up a facility there."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [237]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431650
+     1 string m_Localized = "Very well. If you insist! Just give me the word when the operation is a go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431651
+     1 string m_Localized = "Are you ready for me to set up my beigoma research center?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431652
+     1 string m_Localized = "Everything is good to go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431653
+     1 string m_Localized = "Wonderful! Then I will set up a beigoma research center at your headquarters immediately. You have my thanks, noble spinadier!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431654
+     1 string m_Localized = "Now, down to work... I must get word to Reid and apprise him of my new whereabouts..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [242]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431655
+     1 string m_Localized = "As soon as you’re ready, let us reconvene at the new facility!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [243]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431656
+     1 string m_Localized = "Behold, my magnificent new research center! \nHere, I shall unlock beigoma’s deepest truths!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [244]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431657
+     1 string m_Localized = "Don’t worry. I’m gonna keep practicing up."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [245]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431658
+     1 string m_Localized = "Excellent. The more you duel, the stronger you’ll become, and the closer you’ll be to beigoma’s greatest secrets!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [246]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431659
+     1 string m_Localized = "I hope you experience a great many glorious duels!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [247]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431660
+     1 string m_Localized = "Are you two done talking yet? Let’s get to the good part!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [248]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431661
+     1 string m_Localized = "Ah, do forgive me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [249]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431662
+     1 string m_Localized = "I still can’t believe you just picked up and moved shop."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [250]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431663
+     1 string m_Localized = "Sounds you’ve been training for this moment."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [251]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431664
+     1 string m_Localized = "Yeah. I’ve been spinning up a storm, same as you. What sets us apart is that now, I’m unbeatable!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [252]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5032431665
+     1 string m_Localized = "I challenge you, Nowa! You’re gonna find out what me and Neo Absolute Zero are made of!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [253]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625920
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [254]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625921
+     1 string m_Localized = "You’re on, Reid!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625922
+     1 string m_Localized = "Give me a minute. A duel requires careful preparation."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625923
+     1 string m_Localized = "You’re not wrong about that! All right. I’ll wait. You just tell me when you’re ready to lose!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625924
+     1 string m_Localized = "You ready for that beigoma duel? Because I couldn’t <i>be</i> more ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625925
+     1 string m_Localized = "You’re on, Reid! Challenge accepted!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625926
+     1 string m_Localized = "Now we’re talkin’. After my last defeat, I redid all my calculations. They’ve never been more precise."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625927
+     1 string m_Localized = "And this time, you really are 100% done for."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625928
+     1 string m_Localized = "Nothing is certain until the tops have been spun. I have faith in Whirled Peace—and in myself!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625929
+     1 string m_Localized = "Okay, Mr. Confident, if you say so! I’m glad you’re gonna make this interesting!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625930
+     1 string m_Localized = "Get ready, Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625931
+     1 string m_Localized = "We’ll show him, Zero! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625932
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625933
+     1 string m_Localized = "And there ya have it. I knew my calculations were perfect."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625934
+     1 string m_Localized = "Sorry, Whirled Peace. I let you down..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625935
+     1 string m_Localized = "Hey, don’t get me wrong. You’ve improved a lot. And you’re fun to duel—not to mention good practice."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625936
+     1 string m_Localized = "Let’s go again, as often as you like. ’Course, the outcome’s gonna be exactly the same..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625937
+     1 string m_Localized = "A rematch? You got it—as long as you realize I’m in top form today. I’m talking 100% odds in my favor."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625938
+     1 string m_Localized = "But if you’re okay with losing, then okay. Come on, Zero! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625939
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625940
+     1 string m_Localized = "Yeah! How’s that?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625941
+     1 string m_Localized = "Ugh, I can’t believe I lost to the same opponent again!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625942
+     1 string m_Localized = "Cheer up, Reid. You’ve gotten stupidly good at this."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625943
+     1 string m_Localized = "Well, of course I have. I’m gonna be the strongest spinadier in the world one day!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625944
+     1 string m_Localized = "Ha! Not if I get there first."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625945
+     1 string m_Localized = "Then the rivalry continues... So be it! Until our next duel, Nowa!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625946
+     1 string m_Localized = "You and Reid are two peas in a pod—a pod full of tops!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625947
+     1 string m_Localized = "Incidentally, you might recall me mentioning Crash’s minions. Well, I’ve succeeded in locating one."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625948
+     1 string m_Localized = "Apparently he’s threatening the peace right here on our own turf! Will you bring this menace to beigoma justice?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625949
+     1 string m_Localized = "You got it. I’m not letting Crash and his minions continue their spree of destruction. Right here in town, huh? I’ll be on the lookout."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625950
+     1 string m_Localized = "Thank you, Nowa. I knew I saw something special in you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625951
+     1 string m_Localized = "So how we doin’? You been trashin’ those losers’ tops like I asked?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625952
+     1 string m_Localized = "Geh heh heh! Anyone foolish enough to tangle with my poison got turned into a corroded mess!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [286]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625953
+     1 string m_Localized = "Mwa ha ha ha! Good. Keep it up! There’s no place in the world for junk-tier wannabes."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [287]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625954
+     1 string m_Localized = "Don’t have to tell me twice. Now, who should I destroy next?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [288]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625955
+     1 string m_Localized = "Maybe I’ll go after that brat who thinks he’s some sort of beigoma prodigy. Reid, was it?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [289]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625956
+     1 string m_Localized = "It’s your call. Just get it done."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [290]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625957
+     1 string m_Localized = "Don’t worry, boss. This hunter always catches his prey."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [291]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625958
+     1 string m_Localized = "Hold it! You’re Crash, right? And you must be one of his thugs!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [292]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625959
+     1 string m_Localized = "What are you gonna do about it? Don’t mess with a spinadier, kid."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [293]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625960
+     1 string m_Localized = "I <i>am</i> a spinadier, and my name is Nowa!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [294]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625961
+     1 string m_Localized = "You hearin’ this, boss? You want a crack?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [295]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625962
+     1 string m_Localized = "Pfft. Against that guy? Ain’t worth my time. You handle it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [296]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625963
+     1 string m_Localized = "Yes, sir."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [297]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625964
+     1 string m_Localized = "Make sure you wreck this dork’s top, all right? I’m gonna have my hands full hunting down the Spintinels."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [298]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625965
+     1 string m_Localized = "Consider it done!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [299]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625966
+     1 string m_Localized = "Stop!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [300]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625967
+     1 string m_Localized = "You ain’t going nowhere, pal. It’s me you gotta worry about. Or you gonna turn tail and run?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [301]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5036625968
+     1 string m_Localized = "Like I’d run from you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [302]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820224
+     1 string m_Localized = "Yeah! Nowa is no coward!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [303]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820225
+     1 string m_Localized = "Heh. Ya got stones, kid. The name’s Venom, and this here is my partner, Snakebite!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [304]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820226
+     1 string m_Localized = "Just so ya know, he’s laced with poison. You so much as rub him the wrong way, and <i>whsssht</i>—corroded! "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [305]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820227
+     1 string m_Localized = "What? That’s cheating! It’s gonna take more than cheap tricks to defeat me and Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [306]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820228
+     1 string m_Localized = "Spare me the bravado, kid. There ain’t no antidote for Venom and his Snakebite!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [307]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820229
+     1 string m_Localized = "You’re gonna pay for the tops you ruined!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [308]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820230
+     1 string m_Localized = "Oh, I’m gonna enjoy this. My poison’s gonna KO your top <i>and</i> that goody-two-shoes attitude! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [309]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820231
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [310]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820232
+     1 string m_Localized = "Whirled Peace... No..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [311]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820233
+     1 string m_Localized = "Geh heh heh! Well, there’s no point in a rematch now, is there? Unless you want your precious top to get wasted even more."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [312]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820234
+     1 string m_Localized = "That’s what you think! Once I fix it up good as new, you’re gonna get a thrashing!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [313]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820235
+     1 string m_Localized = "You’re on, buttercup. But no matter how many times you try, you’re in for the same pain."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [314]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820236
+     1 string m_Localized = "Oh ho, what’s this? You want another taste of my poison? Ask and you shall receive, pinhead! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [315]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820237
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [316]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820238
+     1 string m_Localized = "No! I don’t believe it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [317]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820239
+     1 string m_Localized = "That’s what you get for messing with people’s tops!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [318]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820240
+     1 string m_Localized = "Snakebite has been corroded by its own poison?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [319]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820241
+     1 string m_Localized = "GAAAHHH! Irony is the deadliest toxin of them all!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [320]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820242
+     1 string m_Localized = "Now you know what your victims felt like!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [321]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820243
+     1 string m_Localized = "You cocky little— It doesn’t matter! You’re still no match for the boss! Just wait till he grinds you into sawdust!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [322]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820244
+     1 string m_Localized = "What a battle! Every time I blink, you get stronger, Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [323]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820245
+     1 string m_Localized = "Reid!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [324]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820246
+     1 string m_Localized = "You might have beat me to Venom, but <i>I’m</i> gonna beat <i>you</i> to the Four Spintinels."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [325]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820247
+     1 string m_Localized = "We’ll never defeat Crash if we don’t prove our might against them first."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [326]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820248
+     1 string m_Localized = "The Four Spintinels?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [327]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820249
+     1 string m_Localized = "Don’t tell me you seriously haven’t heard of them?\n...The Four Spintinels?\nMaster spinadiers who command the powers of earth, water, fire and wind?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [328]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820250
+     1 string m_Localized = "Any one of them is supposed to be as tough as Crash."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [329]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820251
+     1 string m_Localized = "So...pretty tough, then."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [330]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820252
+     1 string m_Localized = "The closest one from here is the Earth Spintinel, Thudd. He’s stationed in Arenside Village. I’m gonna go challenge him."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [331]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820253
+     1 string m_Localized = "You should, too, if you want any hope of defeating Crash. Not that you’ll topple a Spintinel before I do!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [332]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820254
+     1 string m_Localized = "I lost? But my calculations were spot on! They had to be!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [333]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820255
+     1 string m_Localized = "Thudd not care about puny numbers, ja? They cannot sway raw, earthy power of Thudd."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [334]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820256
+     1 string m_Localized = "That’s not true! There’s always a formula for victory, and I’m gonna find it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [335]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820257
+     1 string m_Localized = "Funny little loud boy. Thudd like. Come back for more fighty, okay?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [336]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820258
+     1 string m_Localized = "You’re on!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [337]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820259
+     1 string m_Localized = "Hey, Nowa! Did you decide to take a shot at him? Watch out, ’cause he’s as tough as he looks! I need to rethink my whole approach."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [338]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820260
+     1 string m_Localized = "Catch ya later!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [339]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820261
+     1 string m_Localized = "Hm? Are you friend of loud boy?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [340]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820262
+     1 string m_Localized = "You better believe it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [341]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820263
+     1 string m_Localized = "More like rivals."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [342]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820264
+     1 string m_Localized = "You better believe it. Beigoma brought us together."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [343]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820265
+     1 string m_Localized = "Then your friendship must be über rock solid, ja. Thudd approve."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [344]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820266
+     1 string m_Localized = "Eh, he’s more like my favorite rival."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [345]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820267
+     1 string m_Localized = "Rival good to have. Brings out best in you, ja? Thudd approve."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [346]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820268
+     1 string m_Localized = "Are you spinadier?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [347]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820269
+     1 string m_Localized = "Yeah. My name is Nowa, and this is my partner, Whirled Peace."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [348]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820270
+     1 string m_Localized = "Thudd’s partner called Earthsmack. Very hard and strong."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [349]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820271
+     1 string m_Localized = "I don’t suppose you know a man named Crash?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [350]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820272
+     1 string m_Localized = "Thudd know. Bad man. Breaks tops."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [351]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5040820273
+     1 string m_Localized = "Uh-huh. Well, I think he might be hunting the Four Spintinels."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [352]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014528
+     1 string m_Localized = "Hunting?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [353]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014529
+     1 string m_Localized = "If he hasn’t come for you yet, then you’d better watch your back."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [354]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014530
+     1 string m_Localized = "No need. Thudd not lose. Thudd’s top strong!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [355]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014531
+     1 string m_Localized = "I know! I admire your strength. If I was that strong, then maybe I’d have a chance against Crash."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [356]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014532
+     1 string m_Localized = "Only way to get strong is fight duel. Face Thudd in beigoma combat, ja? We go right now!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [357]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014533
+     1 string m_Localized = "Uh, just a sec..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [358]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014534
+     1 string m_Localized = "Bring it on!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [359]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014535
+     1 string m_Localized = "Uh, just a sec... Gotta make sure I’m prepared."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [360]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014536
+     1 string m_Localized = "Thudd understand. You take time. Preparing very important."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [361]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014537
+     1 string m_Localized = "Are you ready? Because Thudd always ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [362]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014538
+     1 string m_Localized = "Bring it on! It’s such an honor to face one of the Four Spintinels."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [363]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014539
+     1 string m_Localized = "You have grit. Thudd like grit almost as much as gravel and dirt."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [364]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014540
+     1 string m_Localized = "But you cannot topple an earthy force of nature like Thudd’s top, ja?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [365]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014541
+     1 string m_Localized = "We’ll see about that. I’ve got the will to do it, and Whirled Peace is the way!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [366]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014542
+     1 string m_Localized = "Then it begins. Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [367]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014543
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [368]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014544
+     1 string m_Localized = "Ta-daaa. Thudd win. Earth cannot be toppled."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [369]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014545
+     1 string m_Localized = "I just wasn’t strong enough..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [370]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014546
+     1 string m_Localized = "Strong, you were, and determined. There still hope, ja? Come challenge Thudd once you more rock solid. "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [371]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014547
+     1 string m_Localized = "You come back for more fighty? Thudd always ready to clash, ja?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [372]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014548
+     1 string m_Localized = "Thudd take that as yes. Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [373]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014549
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [374]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014550
+     1 string m_Localized = "I did it! I won!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [375]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014551
+     1 string m_Localized = "Thudd’s top has toppled?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [376]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014552
+     1 string m_Localized = "You are strong. Maybe strong enough to beat Crash, one day."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [377]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014553
+     1 string m_Localized = "But not yet, ja? You go find Wind Spintinel next. He rock you with different challenge."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [378]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014554
+     1 string m_Localized = "The Wind Spintinel, huh?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [379]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014555
+     1 string m_Localized = "He named Zeph. Stationed in Village of Tree Folks. Defeat all four of Spintinels, and you become strongest spinadier of all."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [380]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014556
+     1 string m_Localized = "And then Thudd give you big mighty pat on back."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [381]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014557
+     1 string m_Localized = "Thanks, Thudd. I’ll look for Zeph the next time I visit the Treefolk Village."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [382]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014558
+     1 string m_Localized = "Good luck. If anyone can do it, you can."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [383]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014559
+     1 string m_Localized = "You here to defeat Zeph? That makes two of us."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [384]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014560
+     1 string m_Localized = "Any luck?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [385]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014561
+     1 string m_Localized = "I’m still analyzing his duels in order to perfect my formula for victory."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [386]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014562
+     1 string m_Localized = "So...no."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [387]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014563
+     1 string m_Localized = "But full marks for the thorough research!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [388]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014564
+     1 string m_Localized = "I think I’m almost ready to challenge him, but I need just a little more data."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [389]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014565
+     1 string m_Localized = "So if you want, go ahead and take the first crack at him. I’ll hang back and observe."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [390]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014566
+     1 string m_Localized = "If you insist."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [391]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014567
+     1 string m_Localized = "No way!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [392]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014568
+     1 string m_Localized = "If you insist. Just means I’m gonna add one more Spintinel to my list of victories. "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [393]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014569
+     1 string m_Localized = "Go ahead. In fact, I wish you luck! Because I’ll always be one extremely short step behind you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [394]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014570
+     1 string m_Localized = "No way! What do you think I am, your lab rat?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [395]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014571
+     1 string m_Localized = "Aw, come on. I’m trying to get stronger here. Do it for science!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [396]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014572
+     1 string m_Localized = "All right, fine. But I don’t want to hear any grumbling if I win first."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [397]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5045014573
+     1 string m_Localized = "Puh-leeze. Anything you do first, I’ll just do better. That’s what rivals are for."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [398]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208832
+     1 string m_Localized = "I believe that settles that?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [399]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208833
+     1 string m_Localized = "Awww... I lost!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [400]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208834
+     1 string m_Localized = "Well, what did you expect? No top can withstand the mighty maelstroms of my Trinity Cyclone!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [401]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208835
+     1 string m_Localized = "You two were talking a good game back there, but I can’t picture you beating me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [402]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208836
+     1 string m_Localized = "Nothing is certain until the tops have been spun. But Whirled Peace and I are gonna put up a good fight!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [403]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208837
+     1 string m_Localized = "I do admire a spinadier with confidence. They’re so much more fun to duel!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [404]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208838
+     1 string m_Localized = "Ready to throw down?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [405]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208839
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [406]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208840
+     1 string m_Localized = "Since the day I was born."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [407]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208841
+     1 string m_Localized = "Give me a minute. I want to make sure I’m fully prepared."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [408]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208842
+     1 string m_Localized = "A wise choice. After all, preparation is half the battle."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [409]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208843
+     1 string m_Localized = "Come back when you’re ready to duel. I’ll be here."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [410]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208844
+     1 string m_Localized = "Are you ready to begin? I await our duel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [411]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208845
+     1 string m_Localized = "Since the day I was born. Whirled Peace and I are gonna show you what’s what!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [412]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208846
+     1 string m_Localized = "You have passion—I’ll give you that. But my top commands the very wind! Passion alone will not save you from the coming storm."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [413]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208847
+     1 string m_Localized = "My top spins to the rhythm of my soul!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [414]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208848
+     1 string m_Localized = "All right...non sequitur...but interesting! Let us see what story your top has to tell!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [415]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208849
+     1 string m_Localized = "As a fellow wind spinadier, I am most eager to “trade blows,” so to speak."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [416]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208850
+     1 string m_Localized = "We’ll show him, Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [417]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208851
+     1 string m_Localized = "Behold the mesmerizing dance of Trinity Cyclone! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [418]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208852
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [419]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208853
+     1 string m_Localized = "Man. For a second there, I thought I had him..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [420]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208854
+     1 string m_Localized = "Bravo! Your top spun up a storm! What an invigorating experience."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [421]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208855
+     1 string m_Localized = "Don’t hesitate to ask for a rematch. I’d grant one to a challenger of your talents anytime."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [422]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208856
+     1 string m_Localized = "Back to try again, are we? I admire your mettle. The question is: can you handle these galeforce winds?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [423]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208857
+     1 string m_Localized = "Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [424]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208858
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [425]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208859
+     1 string m_Localized = "Yes! Got him!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [426]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208860
+     1 string m_Localized = "Way to go, Nowa! I found that quite instructive."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [427]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208861
+     1 string m_Localized = "I hope so, because you’re up next."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [428]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208862
+     1 string m_Localized = "Oh, I know."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [429]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208863
+     1 string m_Localized = "I see my next challenger is already brimming with determination...but I won’t be beaten twice in a row!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [430]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208864
+     1 string m_Localized = "Sure you will. It’s called a losing streak."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [431]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208865
+     1 string m_Localized = "I’ll deal with you in a moment. But first...Nowa, was it?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [432]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208866
+     1 string m_Localized = "As you know, a man named Crash is traveling the land and destroying his opponents’ tops."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [433]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208867
+     1 string m_Localized = "Naturally, we Four Spintinels will stop him, but there is a chance he may come after you first."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [434]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208868
+     1 string m_Localized = "Let him. He’s the one who needs to be worried."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [435]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208869
+     1 string m_Localized = "I like your confidence. And after what I’ve seen today, I almost believe that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [436]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208870
+     1 string m_Localized = "You know what to do next. The other two Spintinels await your challenge."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [437]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208871
+     1 string m_Localized = "Oh, but hey—before that, I want to challenge you again. After I beat this guy, I’ll meet you at the Spin Doc’s place. Okay?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [438]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208872
+     1 string m_Localized = "You got it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [439]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208873
+     1 string m_Localized = "Oh, and come ready to lose!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [440]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208874
+     1 string m_Localized = "There you are! After we parted ways, I handed Zeph his second defeat."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [441]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208875
+     1 string m_Localized = "Congrats. He’s a tough opponent."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [442]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208876
+     1 string m_Localized = "Hey, I just followed the math to victory. But I guess it wouldn’t have been as accurate without your help, so...you know, thanks."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [443]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208877
+     1 string m_Localized = "That’s what friends are for."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [444]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208878
+     1 string m_Localized = "Friends... Yeah, I guess we are. Beigoma rivals—but friends too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [445]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5049208879
+     1 string m_Localized = "But you didn’t come all the way here just to tell me that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [446]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403136
+     1 string m_Localized = "Darn right. I’m here for that duel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [447]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403137
+     1 string m_Localized = "Good, ’cause I’ve been looking forward to this. I’ve battled plenty of tough opponents, but nobody gets me as pumped as you do."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [448]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403138
+     1 string m_Localized = "This is the day, Nowa! You ready? I’m gonna prove to you that my calculations are way more reliable than your “inner strength” or whatever!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [449]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403139
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [450]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403140
+     1 string m_Localized = "So prove it, then."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [451]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403141
+     1 string m_Localized = "Give me a minute. I want to be fully prepared for this."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [452]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403142
+     1 string m_Localized = "Yeah, all right. I appreciate how seriously you take these duels, but don’t make me wait long."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [453]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403143
+     1 string m_Localized = "You ready yet? I’m gonna prove there’s always a formula for victory."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [454]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403144
+     1 string m_Localized = "So prove it, then. You’re not the only one who’s been looking forward to this."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [455]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403145
+     1 string m_Localized = "All right! You’d better watch out, though, because my Absolute Zero has been tempered into an indestructible force. And I mean it’s <i>strong</i>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [456]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403146
+     1 string m_Localized = "Stronger than my Whirled Peace? With each new victory, I can feel us fusing more and more into a single being."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [457]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403147
+     1 string m_Localized = "Wait, what?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [458]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403148
+     1 string m_Localized = "Only a spinadier would understand."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [459]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403149
+     1 string m_Localized = "I get it too—the sensation that my top and I are becoming a united force."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [460]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403150
+     1 string m_Localized = "Sometimes I feel like the only reason I’m even dueling is to get more of that rush."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [461]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403151
+     1 string m_Localized = "Yep. But we’re not here to talk. We’re here to battle, and my calculations say I’m 100% guaranteed to win."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [462]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403152
+     1 string m_Localized = "Nothing is certain until the tops have been spun. And mine spins the way my heart wills it! "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [463]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403153
+     1 string m_Localized = "Get ready, Absolute Zero! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [464]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403154
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [465]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403155
+     1 string m_Localized = "Dang it! I was so close!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [466]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403156
+     1 string m_Localized = "You were outcalculated, Nowa, but you still put up a heckuva good fight."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [467]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403157
+     1 string m_Localized = "If you want a rematch, just say the word! I don’t think I’ll ever get tired of facing you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [468]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403158
+     1 string m_Localized = "I’ll take you up on that!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [469]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403159
+     1 string m_Localized = "Aha! I knew you wouldn’t give up that easily. Let’s duel again!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [470]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403160
+     1 string m_Localized = "I’ve already done the math, and victory is coming my way. Get ready, Absolute Zero! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [471]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403161
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [472]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403162
+     1 string m_Localized = "I did it! I won!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [473]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403163
+     1 string m_Localized = "Argh! My calculations were off again! You are just way too good at this, Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [474]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403164
+     1 string m_Localized = "Me? I can’t believe how far <i>you’ve</i> come. I couldn’t have asked for a better rival."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [475]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403165
+     1 string m_Localized = "You said it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [476]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403166
+     1 string m_Localized = "So, next on my list is to travel to Hishahn and challenge Flowe, the Water Spintinel. What about you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [477]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403167
+     1 string m_Localized = "I think I’ll do the same."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [478]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403168
+     1 string m_Localized = "Then let’s see which of us takes down Flowe first. By the way, it’ll be me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [479]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403169
+     1 string m_Localized = "That’s what you think!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [480]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403170
+     1 string m_Localized = "I’d better get going. Battle you again soon, Nowa!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [481]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403171
+     1 string m_Localized = "Noooo! Once again, my precious Snakebite has been ruined!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [482]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403172
+     1 string m_Localized = "Oh golly, I am sooo sorry about that. Sometimes my strength gets the better of me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [483]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403173
+     1 string m_Localized = "Damn you! I won’t forget this!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [484]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403174
+     1 string m_Localized = "Hee hee. Sorry y’all had to see that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [485]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403175
+     1 string m_Localized = "Wasn’t that Venom?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [486]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403176
+     1 string m_Localized = "Oh, y’all are acquainted then? I’m pretty sure he just skedaddled back to his master, Crash."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [487]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403177
+     1 string m_Localized = "That guy’s minions sure get around..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [488]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403178
+     1 string m_Localized = "I can’t wait to teach him a lesson."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [489]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403179
+     1 string m_Localized = "If that’s the worst he can throw at us, I ain’t worried."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [490]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403180
+     1 string m_Localized = "But at some point, we’re gonna have to take the fight to him."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [491]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403181
+     1 string m_Localized = "I could not agree more."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [492]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403182
+     1 string m_Localized = "You’re a spinadier, aren’t ya? And a strong one. I can see it in your eyes."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [493]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5053403183
+     1 string m_Localized = "My name is Nowa. And this is my battle partner, Whirled Peace."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [494]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597440
+     1 string m_Localized = "Oh, we’re doin’ introductions, then? I’m Flowe, the Water Spintinel. And this is Azure Dragon."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [495]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597441
+     1 string m_Localized = "I can tell from here that it’s no top to mess with."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [496]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597442
+     1 string m_Localized = "Meanin’ you’re here to challenge us? Well, I appreciate the straight shootin’ after that last fella’s underhanded tricks."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [497]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597443
+     1 string m_Localized = "That sparkle in your eyes tells me you’re gonna put up a good fight. I like that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [498]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597444
+     1 string m_Localized = "I’m pretty excited to take you on, too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [499]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597445
+     1 string m_Localized = "My Azure Dragon twists and turns like a vortex at sea. Think you’ll be able to break its spin?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [500]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597446
+     1 string m_Localized = "Nothing is certain until the tops have been spun. But Whirled Peace always spins the way my heart tells it to!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [501]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597447
+     1 string m_Localized = "That’s the spirit! Then let’s get this show on the road."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [502]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597448
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [503]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597449
+     1 string m_Localized = "Show me what you’ve got!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [504]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597450
+     1 string m_Localized = "Give me a minute. I need to get ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [505]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597451
+     1 string m_Localized = "Sure thing, hoss. Just let me know when you’re good to go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [506]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597452
+     1 string m_Localized = "You all set to duel or what? I don’t think I can take any more suspense."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [507]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597453
+     1 string m_Localized = "Show me what you’ve got! I’m ready for ya."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [508]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597454
+     1 string m_Localized = "That’s what they all say before they jump in. You’re about to get washed away in the currents—but that don’t mean we can’t have fun."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [509]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597455
+     1 string m_Localized = "What kind of watery wonders does <i>your</i> top have in store? I cannot wait to see!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [510]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597456
+     1 string m_Localized = "I’m gonna show you what it looks like when you spin with heart! Get ready, Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [511]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597457
+     1 string m_Localized = "You know what to do, Azure Dragon. Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [512]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597458
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [513]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597459
+     1 string m_Localized = "Sorry, Whirled Peace. I let you down..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [514]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597460
+     1 string m_Localized = "You’re a contender, all right—but you ain’t quite tough enough to wrangle these waters."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [515]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597461
+     1 string m_Localized = "Still, you’re fun to duel and I like a challenge, so let’s go again after you’ve put in some more training."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [516]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597462
+     1 string m_Localized = "Oh, I intend to."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [517]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597463
+     1 string m_Localized = "Oho! I see you’ve been puttin’ in the work. But are ya tough enough to beat me? ’Cause my Azure Dragon says “no way.”"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [518]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597464
+     1 string m_Localized = "Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [519]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597465
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [520]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597466
+     1 string m_Localized = "I did it! I won!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [521]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597467
+     1 string m_Localized = "Wowee! Now that was some spinnin’! I think we found ourselves a keeper."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [522]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597468
+     1 string m_Localized = "You might even have what it takes to put Crash in his place."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [523]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597469
+     1 string m_Localized = "No way. Crash is all mine! You might be winning these duels first, but I win ’em <i>better</i>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [524]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597470
+     1 string m_Localized = "Who’s this bundle of energy? Y’all are keepin’ me on my toes today! "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [525]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597471
+     1 string m_Localized = "I’m hot on your heels, Nowa. You’re not defeating Crash before I do!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [526]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597472
+     1 string m_Localized = "Look at you, actin’ like you already beat me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [527]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597473
+     1 string m_Localized = "Nowa, you’ll be lookin’ for Pyre next, I reckon?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [528]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597474
+     1 string m_Localized = "Pyre?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [529]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597475
+     1 string m_Localized = "Yeah, the Fire Spintinel. He’s stationed in Impershi’arc. If you can outspin him, then I’ll know you can outspin Crash."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [530]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597476
+     1 string m_Localized = "All right. Sounds like I’m going to the desert."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [531]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597477
+     1 string m_Localized = "Good luck! I’ll be rootin’ for ya."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [532]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597478
+     1 string m_Localized = "There’s my guy! Flowe and the others told me you’d be coming, Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [533]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597479
+     1 string m_Localized = "You must be on FIRE, hot shot, if you’ve outspun three of the Four Spintinels!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [534]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597480
+     1 string m_Localized = "What can I say? I love a good duel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [535]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597481
+     1 string m_Localized = "Good! Because when spinadiers throw down, love is the secret ingredient. "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [536]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597482
+     1 string m_Localized = "As long as you smother your top with love, it’ll always burn strong!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [537]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597483
+     1 string m_Localized = "I...don’t think that makes sense?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [538]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597484
+     1 string m_Localized = "That’s true."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [539]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597485
+     1 string m_Localized = "I...don’t think that makes sense? Maybe I’m not at your level yet..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [540]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597486
+     1 string m_Localized = "Nonsense, Nowa! Based on everything I’ve heard, you and your partner are a very passionate couple."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [541]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597487
+     1 string m_Localized = "Together, you blaze as one!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [542]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5057597488
+     1 string m_Localized = "Hm... I never thought about it that way before."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [543]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791744
+     1 string m_Localized = "That’s true.... I think I do harbor some unspoken feelings for it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [544]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791745
+     1 string m_Localized = "The harder we battle, the hotter we both get."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [545]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791746
+     1 string m_Localized = "Yes, yes, exactly! Nothing stokes the fires of passion like beigoma!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [546]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791747
+     1 string m_Localized = "Now, we could talk all day—but as spinadiers we have a better way to express ourselves, don’t we?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [547]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791748
+     1 string m_Localized = "Heck yeah."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [548]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791749
+     1 string m_Localized = "Let’s light things up with a duel! Are you ready?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [549]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791750
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [550]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791751
+     1 string m_Localized = "I’ve never been more ready!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [551]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791752
+     1 string m_Localized = "Can you give a minute? I don’t want to challenge you until I’m totally ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [552]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791753
+     1 string m_Localized = "Of course! We can’t get on with this lovefest until all parties are comfortable. Let me know when you’re all set."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [553]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791754
+     1 string m_Localized = "Are you good to go? Because my excitement levels just reached “white hot”!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [554]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791755
+     1 string m_Localized = "I’ve never been more ready!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [555]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791756
+     1 string m_Localized = "Excellent! This battle’s gonna flare so hard that people will blush three towns away!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [556]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791757
+     1 string m_Localized = "I just hope you know what you’re in for—’cause my partner, Galactic Flame, burns as intensely as I do!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [557]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791758
+     1 string m_Localized = "When it comes to passion, you won’t beat me and Whirled Peace. Trust me on that!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [558]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791759
+     1 string m_Localized = "Fellow fire spinadier, we’ll see who scorches more."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [559]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791760
+     1 string m_Localized = "Oh, man, we got ourselves a CONFLAGRATION! Don’t hold back on me, Nowa!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [560]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791761
+     1 string m_Localized = "I wouldn’t dream of it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [561]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791762
+     1 string m_Localized = "All right, Galactic Flame, it’s ignition time! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [562]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791763
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [563]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791764
+     1 string m_Localized = "Agh, I fizzled at the worst possible moment..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [564]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791765
+     1 string m_Localized = "But what passion! What ardor! I could do this a hundred times!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [565]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791766
+     1 string m_Localized = "Keep that torch brightly lit, and you’ll always be worthy of facing me! I will match you ember for ember!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [566]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791767
+     1 string m_Localized = "You got it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [567]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791768
+     1 string m_Localized = "There’s my fiery spinadier! Galactic Flame and I have been yearning for another blaze-off!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [568]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791769
+     1 string m_Localized = "This duel’s gonna burn so hot that the sun gets jealous! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [569]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791770
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [570]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791771
+     1 string m_Localized = "Yes! I win!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [571]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791772
+     1 string m_Localized = "Well fought! I went in confident, but your love and passion proved to be the greater force."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [572]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791773
+     1 string m_Localized = "Aw, come on, Nowa! You beat me to the punch AGAIN? Pyre, you’re dueling me next!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [573]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791774
+     1 string m_Localized = "Another challenger? The sparks are flying today!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [574]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791775
+     1 string m_Localized = "I have to get my revenge on Crash... Nobody is standing in my way!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [575]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791776
+     1 string m_Localized = "Well, if you’re that eager to find him, he’s gone to the Imperial city of Ardinale."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [576]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791777
+     1 string m_Localized = "But the Four Spintinels are already laying plans to bring him to justice. "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [577]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791778
+     1 string m_Localized = "What?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [578]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791779
+     1 string m_Localized = "Nowa, after I beat this bag of smoke, I’m going after Crash."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [579]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791780
+     1 string m_Localized = "I know you’ve probably got the same idea—but he’s mine. You got that?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [580]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791781
+     1 string m_Localized = "Maybe you should see if this “bag of smoke” doesn’t bake you to a crisp first."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [581]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791782
+     1 string m_Localized = "Oh, I’ve already done the math, and you’re about to get 100% doused."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [582]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791783
+     1 string m_Localized = "You burn with a different passion than your friend, but you know what? I like it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [583]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791784
+     1 string m_Localized = "Nowa, I won’t try to talk you out of facing Crash—but for the love of lava, be careful."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [584]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791785
+     1 string m_Localized = "Not that I’m too worried. A fiery couple like you and Whirled Peace can achieve just about anything together."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [585]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791786
+     1 string m_Localized = "Thanks, Pyre. I’ll do my best."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [586]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791787
+     1 string m_Localized = "Travel safe, and let’s duel again some day!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [587]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791788
+     1 string m_Localized = "Bwa ha ha ha! The Four Stinkinels and some whiz-kid dork, dropping like flies. What a bunch of losers!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [588]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791789
+     1 string m_Localized = "Thudd’s Earthsmack got smacked back?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [589]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791790
+     1 string m_Localized = "What is that top made of?! My galestorm winds didn’t even faze it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [590]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791791
+     1 string m_Localized = "My Azure Dragon’s torrent of attacks couldn’t hurt it either..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [591]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5061791792
+     1 string m_Localized = "Damn it, no! Come back to me, Galactic Flame! Don’t you dare let that heartless monster put our fire out!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [592]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986048
+     1 string m_Localized = "I couldn’t even scratch him! Am I just...incapable of beating this guy?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [593]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986049
+     1 string m_Localized = "Ha! Boo hoo. Listen to you weaklings whine. Your tops were garbage! You should be thanking me for sending ’em to the trash heap."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [594]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986050
+     1 string m_Localized = "The only weakling here is you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [595]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986051
+     1 string m_Localized = "Nowa!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [596]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986052
+     1 string m_Localized = "What’s this all about? You came all this way just to give my Devil of Destruction another top to chew up?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [597]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986053
+     1 string m_Localized = "I came here to defeat you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [598]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986054
+     1 string m_Localized = "BWAA HA HA HA! A chicken wuss like you...is gonna take down a champion like me?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [599]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986055
+     1 string m_Localized = "Nowa’s no joke, ja? He beat every Spintinel fair and square!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [600]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986056
+     1 string m_Localized = "And now he’s going to do what the rest of us couldn’t!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [601]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986057
+     1 string m_Localized = "Yeah! Kick that rogue’s butt, Nowa! Avenge us!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [602]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986058
+     1 string m_Localized = "Lick ’im good with the sizzling tongues of flame of your heart!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [603]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986059
+     1 string m_Localized = "It kills me to admit it, Nowa, but you’ve surpassed me. Our hopes rest with you now—so teach this chump a lesson he’ll never forget!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [604]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986060
+     1 string m_Localized = "Give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [605]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986061
+     1 string m_Localized = "Leave him to me!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [606]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986062
+     1 string m_Localized = "Okay, but give me juuust one minute. I can’t take him on until I know I’m ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [607]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986063
+     1 string m_Localized = "Bwa ha ha! You’re chickening out? Buck buck buck buck! I knew you were all talk."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [608]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986064
+     1 string m_Localized = "You got a lot of nerve pickin’ a fight with me, kid. But if you wanna get trashed that bad, bring it on."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [609]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986065
+     1 string m_Localized = "You wish! You’re the one who’s about to get dismantled!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [610]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986066
+     1 string m_Localized = "Leave him to me, guys! He’s the one who’s gonna get destroyed!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [611]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986067
+     1 string m_Localized = "By a little twerp like you? Dream on, kid. You’re in for a rude awakening."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [612]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986068
+     1 string m_Localized = "Let’s see how big you talk after I grind your precious little top into sawdust."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [613]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986069
+     1 string m_Localized = "That won’t happen! Whirled Peace spins for all of us now... Our hearts and tops are as one!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [614]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986070
+     1 string m_Localized = "Man, you just don’t know when to shut up. Time for a schooling. Let’s go, Devil of Destruction!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [615]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986071
+     1 string m_Localized = "Get ready, Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [616]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986072
+     1 string m_Localized = "Yeah, get ready to be obliterated! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [617]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986073
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [618]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986074
+     1 string m_Localized = "Noooo! My Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [619]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986075
+     1 string m_Localized = "BWAA HA HA HA! You ain’t got NOTHIN’!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [620]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986076
+     1 string m_Localized = "Don’t count me out yet! I’ll face you as many times as it takes!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [621]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986077
+     1 string m_Localized = "Maaan, do you not get it. Fine! Keep bringing me your trash tops, and I’ll keep composting ’em for ya!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [622]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986078
+     1 string m_Localized = "Bwa ha ha! You seriously came back for more punishment? Fortunately, punishment’s my best dish, and I got another helping for ya right here."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [623]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986079
+     1 string m_Localized = "Sic ’em, Devil of Destruction! Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [624]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986080
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [625]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986081
+     1 string m_Localized = "I won! ...I did it! I beat him!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [626]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986082
+     1 string m_Localized = "I lost...to <i>this</i> loser?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [627]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986083
+     1 string m_Localized = "I’m gonna get you for this! Just you wait!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [628]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986084
+     1 string m_Localized = "Good job, Nowa!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [629]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986085
+     1 string m_Localized = "Yeah! You cut Crash right down to size!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [630]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986086
+     1 string m_Localized = "Way to get ’er done, Nowa. I knew you could pull it off!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [631]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986087
+     1 string m_Localized = "YEEESSS! I always believed in yooouuu!!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [632]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986088
+     1 string m_Localized = "That was <i>so</i> epic, Nowa. I wish you could’ve seen it through my eyes. "
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [633]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986089
+     1 string m_Localized = "I never would’ve pulled it off if the rest of you hadn’t dueled with me and helped me become stronger. Especially you, Reid."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [634]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986090
+     1 string m_Localized = "Nowa...I know this is coming out of nowhere, but...can I join your cause?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [635]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986091
+     1 string m_Localized = "Really?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [636]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986092
+     1 string m_Localized = "Yeah, really! And I’m not taking no for an answer. I’m sticking with you, because there’s a whole ’nother stratosphere of beigoma that we’re gonna find together!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [637]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986093
+     1 string m_Localized = "Make me part of your team! C’mon, please?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [638]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986094
+     1 string m_Localized = "Of course! You and me are gonna have some grand adventures."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [639]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986095
+     1 string m_Localized = "Thanks, Nowa! Me and Zero won’t let you down!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [640]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986096
+     1 string m_Localized = "Oh, uh...!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [641]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5065986097
+     1 string m_Localized = "Ahem... We meet again, Nowa! I knew it was only a matter of time before you found my secret chamber."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [642]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180352
+     1 string m_Localized = "Nowa! I knew it was only a matter of time before a mighty spinadier like you found my secret chamber."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [643]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180353
+     1 string m_Localized = "Which is a chamber of...what exactly?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [644]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180354
+     1 string m_Localized = "Behold, my true laboratory! Here, I have been tinkering with new tops and rapping at the door of beigoma’s deepest truths."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [645]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180355
+     1 string m_Localized = "Uh, okay... And you built this when? How? What?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [646]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180356
+     1 string m_Localized = "Through careful observation of your duels, I believe I have made a breakthrough."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [647]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180357
+     1 string m_Localized = "Just as I hypothesized, there is something in each top that reacts to the will of the spinner!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [648]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180358
+     1 string m_Localized = "I could’ve told you that, Doc. There’s indescribable power packed into this little piece of wood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [649]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180359
+     1 string m_Localized = "Just so. And now, the time has come to verify my discoveries firsthand."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [650]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180360
+     1 string m_Localized = "Nowa, you are the world’s greatest spinadier. If I am to attain beigoma’s greatest secrets, it can only be through drawing metaphorical blood with you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [651]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180361
+     1 string m_Localized = "Okay, but give me a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [652]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180362
+     1 string m_Localized = "Let’s finish this."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [653]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180363
+     1 string m_Localized = "Okay, but give me a minute. You don’t want me to face you unprepared, right?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [654]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180364
+     1 string m_Localized = "Just so. This duel could change the course of beigoma history. I will wait until you are absolutely ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [655]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180365
+     1 string m_Localized = "IS IT TIME?! Did I just shout? Forgive me. This has been an unbearable wait!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [656]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180366
+     1 string m_Localized = "Let’s finish this, Doc. I’m as curious about beigoma’s secrets as you are."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [657]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180367
+     1 string m_Localized = "Very well. Then I challenge you with my partner, Infinity Force!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [658]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180368
+     1 string m_Localized = "Challenge me with any top you want. You’ll never be a match for me and Whirled Peace!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [659]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180369
+     1 string m_Localized = "That’s what I wanted to hear. Your determination is the secret sauce that will be poured on the truth that I’m about to learn."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [660]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180370
+     1 string m_Localized = "Could be. But as I’ve said before, nothing is certain until the tops have been spun!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [661]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180371
+     1 string m_Localized = "Then let’s dispense with the chatter. Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [662]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180372
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [663]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180373
+     1 string m_Localized = "Wow...I got wrecked."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [664]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180374
+     1 string m_Localized = "More, Nowa. Give me more! I’ll never unravel the beigoma enigma with a battle like that!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [665]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180375
+     1 string m_Localized = "Fight me again! Together, we can still reach the deeper truths we seek!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [666]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180376
+     1 string m_Localized = "Okay!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [667]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180377
+     1 string m_Localized = "That’s m’lad! Let’s dig right down to the marrow of what beigoma truly is!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [668]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180378
+     1 string m_Localized = "Stand by for battle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [669]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180379
+     1 string m_Localized = "Let’s spin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [670]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180380
+     1 string m_Localized = "My gosh."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [671]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180381
+     1 string m_Localized = "My gosh indeed. Did you feel that? We just got a glimpse of beigoma’s true face."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [672]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180382
+     1 string m_Localized = "I’ve got chills, Doc."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [673]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180383
+     1 string m_Localized = "With every spin of the top, we gaze upon the universe, and thereto gaze upon ourselves... Beigoma is life itself."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [674]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180384
+     1 string m_Localized = "It’s two pieces of wood mashing together!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [675]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180385
+     1 string m_Localized = "Yes! The radiance of the top is the radiance of life!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [676]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180386
+     1 string m_Localized = "And yet we’ve only scratched the surface. Nowa... will you continue this journey with me toward beigoma’s abyssal depths?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [677]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5070180387
+     1 string m_Localized = "Yes, Doc! Capital Y, yes!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [678]
+    0 TableEntryData data
+     0 SInt64 m_Id = 79279084610744320
+     1 string m_Localized = "Bring it on!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
