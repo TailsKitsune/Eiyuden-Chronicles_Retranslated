@@ -1,0 +1,113 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "AchievementTalkText_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 2570387553589199222
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (11 items)
+   0 int size = 11
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 5969600512
+     1 string m_Localized = "Noah, we have made a lot of orders and would be grateful for more friends."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 6015737857
+     1 string m_Localized = "Can I help you with anything else?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993001791488
+     1 string m_Localized = "How lucky I am ...... to award so many of you with medals!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993060511744
+     1 string m_Localized = "How are the medals made? It is every step of the way I do it manually...... No, Gohon! It is ...... an important secret, so I will keep it a secret."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993064706048
+     1 string m_Localized = "Have you ever heard of the most extraordinary medal? Yes, that's exactly what it is: ......! The 'First Prize'!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993064706049
+     1 string m_Localized = "This is a great accomplishment!　It's a medal of honor! I must pass it on to my soldiers!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993064706050
+     1 string m_Localized = "Losing is also history. Losing is also history, and it is losing that gives us the energy to win."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993064706051
+     1 string m_Localized = "What I can do is to tell your story to future generations. I will remember this war with my own eyes!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993064706052
+     1 string m_Localized = "No medal can be given to those who have gone. ...... Therefore, war is also a history of sorrow. ......"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993064706053
+     1 string m_Localized = "Noah!　Win the last battle and complete the history of this war!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45913993064706054
+     1 string m_Localized = "I'm going to start writing now. I'm going to get busy."      
+     0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
