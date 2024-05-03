@@ -1,0 +1,70 @@
+Latest Progress
+AccessoryShop Talk -- Done
+Main Scenario 01 -- Stopped at line 420. Check back earlier formatting and editting.
+
+Important things to note
+Track honorific usage among characters. Its usage might be important for characterization and relationships.
+
+
+Character Quirks and Notes
+
+Nowa
+AI TL translate his name as "Noah".
+From a village in the mountains. Has an Aunt Martha and a little sister Leene.
+Leene called him a "meddler".
+
+Lian
+AI TL translates her name as Ryang
+Very very hyper and genki girl. Also loves to show off.
+Uses the -neechan honorific for Mio. I added "Big Sis" during the intro lines to indicate this, but dropped it soon after to differentiate normal conversation outside of introduction.
+
+Mio
+From the East Reach.
+Has a speech quirk. She has alternate readings for Kanji peppered in her script. Instead of reading "術" (way/path) as "jutsu", she reads it as "sube". Instead of reading "風" (wind) as "kaze", she reads it as "fuu".
+The only way to catch this is to listen to her voice lines, because not all of her alternate readings have a <ruby> tag and not all of her lines have an alternate Kanji reading.
+
+Garr
+Sentences are very curt, short, and blunt. To the point of being rude.
+This causes some friction with Seign initially.
+I tried to cut his EN sentencers short as well, while still keeping it sounding natural.
+Appears to be mimicing the honorifics that Seign uses to address him back at Seign when they speak to each other. When Seign used -dono, Garr also used -dono. When Seign switched to -san, Gar also switched to -san. This may be a long-running theme of their relationship.
+
+Seign Kesling
+AI TL translates his name as Say
+Uses -san and -dono honorifics to indicate respectful distance. He does not address Hildi, someone he's close to, with any honorific.
+Generally uses polite language.
+
+Hildi
+Uses the same polite language as Seign. Reflect this in phrasing when possible.
+
+Perrielle Grum
+AI TL translates her name as Perrière
+From Norristar.
+Very brash and demanding for a young Noble woman.
+Has a butler named Janquis.
+
+Janquis
+Perrielle's butler.
+Uses very polite speech. Uses "-ojousama" for Perrielle.
+
+Aldric Dux (Duke??)
+His name, オルドリック公爵, is weird because Duke (公爵) appears to be both his title and his name.
+Characters seem to refer to him using Duke as a title, without any honorifics.
+I don't know if Dux is another needless localization or if Duke is actually both his name and his title.
+
+
+Terms and Plot Devices
+
+獣人 = Beastman = Beastyn = Beastkin
+EN TL uses Beastyn, a made up term.
+I translated it to Beastkin. It makes the "Lord Beastkin" name Seign uses for Garr at the beginning a little less awkward than "Lord Beastman". It also futureproofs agains any potential "Lady Beastman".
+
+魔導レンズ = Magic lens = Rune lens
+EN TL uses Rune instead of Magic. Callback to Suikoden Runes.
+
+原初の魔導レンズ = Primordial Magic lens = Primal lens
+EN TL shortens the name to just Primal lens.
+
+制御リング = Control Ring = Regule
+Called Regule in the EN script.
+I dropped the regule name after its first mention line 118, SInt64 m_Id = 3707031579, in favour of maintaining "control ring" for this plot device. Can be easily replaced later.
