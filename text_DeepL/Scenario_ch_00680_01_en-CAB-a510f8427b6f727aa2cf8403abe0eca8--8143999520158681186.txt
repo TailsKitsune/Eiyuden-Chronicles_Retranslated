@@ -1,0 +1,378 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00680_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -5967535252371173392
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (44 items)
+   0 int size = 44
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3472150528
+     1 string m_Localized = "What?　I'm rather busy right now. If you need something, make it quick."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539136
+     1 string m_Localized = "I'm looking for a healer to join us."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539137
+     1 string m_Localized = "Join you...?? Oh, you're from the Alliance.\nAnd I presume you need a healer?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539138
+     1 string m_Localized = "But, you're mistaken if you think you can just <i>talk</i> me into trusting you and joining up. I need a show of good faith before we can become comrades."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539139
+     1 string m_Localized = "Good faith?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539140
+     1 string m_Localized = "Bring me 15 'healing herbs'. Simple, right? If you can't even do that simple task, then you don't deserve to be my comrade."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539141
+     1 string m_Localized = "Is this enough 'healing herbs'?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539142
+     1 string m_Localized = "I can't do that right now."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539143
+     1 string m_Localized = "'Healing herbs', right? Is this enough?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539144
+     1 string m_Localized = "Oh, you're more empathetic than I thought. All right, give me minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3480539145
+     1 string m_Localized = "Make this into a tisane and get everyone to drink this. Prioritize the most serious cases."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733440
+     1 string m_Localized = "Whoa! So much 'healing herbs'!\nThis is enough to save everyone!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733441
+     1 string m_Localized = "How can we ever repay you, Dr. Falward?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733442
+     1 string m_Localized = "You’ve been taking care of us for so long... Truly, thank you so very much..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733443
+     1 string m_Localized = "Don't mention it. Just distribute the medicine. We can't afford to dwaddle here."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733444
+     1 string m_Localized = "Yes, Doctor!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733445
+     1 string m_Localized = "This village has been flooded with refugees. Some were wounded, others were sick. Disease and infection were starting to fester."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733446
+     1 string m_Localized = "But with this much healing herbs, I can give everyone adequate treatment. I accept your show of good faith, and I thank you for it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733447
+     1 string m_Localized = "Then you'll-??"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733448
+     1 string m_Localized = "Yeah, I promised, right? I'll join you and protect all of your lives as a healer."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733449
+     1 string m_Localized = "But don't get reckless just because you have me as as comrade.  I detest those who are careless with their lives."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733450
+     1 string m_Localized = "Besides, I can’t bring back the dead. As long as you don't go and get yourself killed, I'll use all of my knowledge to keep you alive. Because that's my job."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733451
+     1 string m_Localized = "Now, I'll be on my way."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733452
+     1 string m_Localized = "You saved us... thank you, Doctor..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733453
+     1 string m_Localized = "Hm-,hmph! If you have the energy to talk like that, direct it towards healing your body!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733454
+     1 string m_Localized = "Ha ha ha..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733455
+     1 string m_Localized = "Sorry, I can't do that right now."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733456
+     1 string m_Localized = "Sigh, then we have nothing more to discuss. Get out."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733457
+     1 string m_Localized = "Tsk, you don't have enough at all. You can't even look after yourself with this. I detest those who are careless with their lives."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733458
+     1 string m_Localized = "If you want to be comrades, bring me 15 'healing herbs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733459
+     1 string m_Localized = "In any case, I don't have time for idle chatter. I'm busy."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733460
+     1 string m_Localized = "What? Did you bring the 'healing herbs'? I don't have time for idle chatter."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733461
+     1 string m_Localized = "Bring me 20 'healing herbs'. Simple, right? If you can't even do that simple task, then you don't deserve to be my comrade."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733462
+     1 string m_Localized = "Tsk, you don't have enough at all. You can't even look after yourself with this. I detest those who are careless with their lives."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733463
+     1 string m_Localized = "If you want to be comrades, bring me 20 'healing herbs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733464
+     1 string m_Localized = "In any case, I don't have time for idle chatter. I'm busy."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733465
+     1 string m_Localized = "Bring me 30 'healing herbs'. Simple, right? If you can't even do that simple task, then you don't deserve to be my comrade."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733466
+     1 string m_Localized = "Tsk, you don't have enough at all. You can't even look after yourself with this. I detest those who are careless with their lives."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733467
+     1 string m_Localized = "If you want to be comrades, bring me 30 'healing herbs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733468
+     1 string m_Localized = "In any case, I don't have time for idle chatter. I'm busy."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733469
+     1 string m_Localized = "Bring me 'healing herbs' until I'm satisfied. Simple, right? If you can't even do that simple task, then you don't deserve to be my comrade."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733470
+     1 string m_Localized = "Tsk, you don't have enough at all. You can't even look after yourself with this. I detest those who are careless with their lives."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733471
+     1 string m_Localized = "If you want to be comrades, bring me 'healing herbs'.<i>Lots</i> of them."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3484733472
+     1 string m_Localized = "In any case, I don't have time for idle chatter. I'm busy."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
