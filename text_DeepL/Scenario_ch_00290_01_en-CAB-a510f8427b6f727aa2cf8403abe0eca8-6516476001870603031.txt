@@ -1,0 +1,578 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00290_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -3172870860186897662
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (69 items)
+   0 int size = 69
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4063547392
+     1 string m_Localized = "Excuse me, have you seen a girl around? Fourteen years old, long black hair? Her name is Marin."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4080324608
+     1 string m_Localized = "I’m sorry, I haven’t. Is something wrong?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4080324609
+     1 string m_Localized = "She’s my little sister. She usually stays at home, but she left a note saying she’d gone into the woods to look for herbs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4080324610
+     1 string m_Localized = "I expected her back by now, but there’s still no sign of her.\nI can’t help but worry that something bad’s happened..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4080324611
+     1 string m_Localized = "I’ll help you find her."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4080324612
+     1 string m_Localized = "Sorry. I’m really busy, so..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518912
+     1 string m_Localized = "Okay, I understand. I’ll help you find her."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518913
+     1 string m_Localized = "Huh? You will?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518914
+     1 string m_Localized = "Yeah. She could be in trouble, right?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518915
+     1 string m_Localized = "Thanks, I really appreciate that. Marin’s got a knack for finding herbs, pretty rocks, and such, so she’s probably near one of the forest’s foraging spots."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518916
+     1 string m_Localized = "I’ll show you the way. Follow me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518917
+     1 string m_Localized = "Sorry. I’m really busy right now, so..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518918
+     1 string m_Localized = "Oh, I see... Well, if you run into Marin, could you please let me know?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518919
+     1 string m_Localized = "I still can’t find Marin. Are you sure you haven’t seen her?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518920
+     1 string m_Localized = "I guess you’ve got other important things to get back to? Well, I’m gonna keep searching for Marin. If you see her, please let me know."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518921
+     1 string m_Localized = "I still can’t find Marin. I hate to ask, but would you be willing to help me search a little bit longer?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518922
+     1 string m_Localized = "She usually does her foraging around here, but I don’t see any sign of her."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518923
+     1 string m_Localized = "Where in the world did she go? I’ve told her over and over not to go deeper into the forest!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518924
+     1 string m_Localized = "Our parents have since passed on, so my sister is the only family I have left. I'm worried..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518925
+     1 string m_Localized = "I understand what you're going through."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518926
+     1 string m_Localized = "I have a little sister myself."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518927
+     1 string m_Localized = "I understand what you're going through. I lost my parents, too, and now my sister’s all I have left."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518928
+     1 string m_Localized = "Oh yeah? I guess we’re in the same boat..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518929
+     1 string m_Localized = "Yeah. My sister is rather reckless. I take my eyes off her for a second and she’s already run off somewhere."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518930
+     1 string m_Localized = "She’s obsessed with exploring the '<i>romance of the ancient times</i>'. It's such a hassle..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518931
+     1 string m_Localized = "Heheh, I see! Then I guess you really do know exactly how I feel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518932
+     1 string m_Localized = "I have a little sister myself. Sounds like she’s a very different person from your sister, though."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518933
+     1 string m_Localized = "Oh yeah? Is that why you agreed to help?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4084518934
+     1 string m_Localized = "What’s your sister like?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713216
+     1 string m_Localized = "Yeah, I guess. She’s a bit of an oddball, and rather reckless..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713217
+     1 string m_Localized = "She insists that she’s a '<i>lucky girl, bless by the RUNES</i>'.\nHaha, it's such a hassle..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713218
+     1 string m_Localized = "Wow, you don’t have it easy either, huh? I guess you really <i>do</i> know how I feel."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713219
+     1 string m_Localized = "Yeah, something tells me you and I will get along..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713220
+     1 string m_Localized = "But for now, we need to focus on finding Marin. Let’s go search somewhere else."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713221
+     1 string m_Localized = "Looks like she's not here either. She must have ventured further in...\nBut why?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713222
+     1 string m_Localized = "There are monsters in deeper into the woods. We should hurry."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713223
+     1 string m_Localized = "Yeah. Let's go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713224
+     1 string m_Localized = "KYAAAAAAHHHHHH!!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713225
+     1 string m_Localized = "Marin!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713226
+     1 string m_Localized = "Okay! Let's go!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713227
+     1 string m_Localized = "Marin! I’m so glad to see you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713228
+     1 string m_Localized = "Big brother, you're here! Thank you! I was so scared!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713229
+     1 string m_Localized = "Haven't I told you not to go deep into the woods alone?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713230
+     1 string m_Localized = "But, you got hurt yesterday, didn't you? The herbs that would make you feel better grow around here."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713231
+     1 string m_Localized = "You noticed that? I didn’t want to worry you..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713232
+     1 string m_Localized = "Oh come now, I've learned to recognize what it means when my big brother goes all quiet like that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713233
+     1 string m_Localized = "It’s Nowa, right? Thank you. Thank you so much for helping to rescue Marin. Is there any way I can repay you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713234
+     1 string m_Localized = "Well, actually..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713235
+     1 string m_Localized = "Is that so? I’d heard about the troubles brewing with the Empire. I'd assumed that was all happening someplace far away, but it sounds like it'll eventually be coming our way too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713236
+     1 string m_Localized = "If that happens, I don’t know if I could protect Marin by myself. Nowa, I will cooperate with your Alliance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713237
+     1 string m_Localized = "Thanks. I'm Wyler and I'm 100 percent accurate with a bow. I will be of great service to your Alliance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713238
+     1 string m_Localized = "Then I’m coming, too!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4088713239
+     1 string m_Localized = "Huh? Wait a minute, you-"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907520
+     1 string m_Localized = "You're going to need my herbs because you get keep getting injured."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907521
+     1 string m_Localized = "And I think I'll be able to help the others too. That's good, right, big brother?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907522
+     1 string m_Localized = "Huh? Umm, okay... as long as you stay out of danger..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907523
+     1 string m_Localized = "Thanks!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907524
+     1 string m_Localized = "My name’s Marin! I’m good at finding herbs and pretty stones. I'm looking forward to working with you alongside my big brother."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907525
+     1 string m_Localized = "I see... We're in these woods a lot, so if you change your mind just give us a shout."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907526
+     1 string m_Localized = "You ready to let me join up after all?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907527
+     1 string m_Localized = "I'm sure my brother can be of help to you. He's the best archer around."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907528
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907529
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907530
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907531
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907532
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907533
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907534
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4092907535
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
